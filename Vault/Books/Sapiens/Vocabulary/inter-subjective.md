@@ -1,0 +1,2 @@
+-  is something that exist between the inter communications and networks linking the subjective conscious of many individuals. If one mind changes their mind it is to little importance. But if many individuals change their minds, the idea disappear and ceases to exist. 
+- For example, CEOs of a company is inter-subjective. Everyone believes that mark Zuckerburg is the CEO of Facebook so he is. If no-one decided to believe that he was a CEO, he would not be a CEO anymore. 

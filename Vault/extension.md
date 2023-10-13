@@ -1,0 +1,1 @@
+Displacement of the end of an object that is being stretched

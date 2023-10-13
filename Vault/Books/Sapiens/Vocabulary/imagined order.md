@@ -1,0 +1,5 @@
+- The imagined order is an idea created by humans. Such as racism or human rights
+- These ideas only exist in the mind of humanity and is not a natural law. 
+- Imagined order is [[inter-subjective]].
+- They are only orders of the humans that believe them. If no one believed in the order, the order would cease to have power or exist. 
+- I think that money can also be seen as an imagined order. 

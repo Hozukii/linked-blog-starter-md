@@ -1,0 +1,1 @@
+acting or done quickly and without thought or care
