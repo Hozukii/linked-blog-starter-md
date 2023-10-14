@@ -49,3 +49,5 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 >[!note] equation
 >$E_k = \dfrac12$mv^2
 
+- Since, momentum, $mv$, is given the symbol $p$, kinetic energy can also be determined from $E_k = \dfrac{p^2}{2m}$
+- Objects which are vibrating or rotating also have kkinetic energy, but we need different equations to
