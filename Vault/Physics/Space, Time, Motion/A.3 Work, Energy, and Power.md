@@ -45,9 +45,15 @@ Total amount of energy in an isolated system remains constant because of [[The C
 # Calculating Mechanical Energies 
 >[!abstract] Equations
 >Kinetic Energy, $E_k = \dfrac12 mv^2$
+>Gravitational Potential Energy, $E_p = mg \Delta h$
+>Elastic Potential Energy, $E_H = \dfrac12 k \Delta x^2$
+
+
 >
 Work can be done on a macroscopic object to give it kinetic, gravitational potential, or elastic potential energy. 
 The symbol, $E$ can be used to represent energy(E is also used for electric field)
+
+
 ## Kinetic energy
 >[!note] equation
 >$E_k = \dfrac12mv^2$
@@ -65,3 +71,7 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - ![[Pasted image 20231014202259.png | 300]]
 - Equal to the area under force-extension graph.
 ## Conservation of mechanical energy
+- Applying the law of conservation of energy to mechanic systems:
+	- kinetic energy + gravitational potential energy + elastic potential energy = constant
+- This is true if there are no frictional forces acting. 
+- 
