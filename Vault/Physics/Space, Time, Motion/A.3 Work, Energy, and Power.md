@@ -31,3 +31,10 @@ Mechanical energy can come in one of three forms:
 - **Kinetic energy** - The energy of all moving masses whhich could do work on anything they collide with. 
 - Elastic potential energy
 - Gravitational potential energy
+All matter contains large amounts of energy inside it. 
+**Internal energy** - enormous amount of energy which exists within matter because of their motions and positions of the particles it contains.  
+###### Topics Covered in later chapters
+- Thermal energy
+- Electrical energy
+- Radiation energy
+
