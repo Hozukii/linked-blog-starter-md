@@ -15,3 +15,10 @@
 - Then, Work done = $F_avg \cdot s$
 - Work done is equal to the area under a force-distance graph
 # Energy
+- When work is done energy is transferred from a source to the object
+- **Energy** ability to do work
+## Different forms of energy
+- There are many types of **Potential energy**
+- **Potential energy** - store energy because of their position or arrangement, and the forces between different ports of the system
+- **Gravitational potential energy** - The energy stored due to the position of a mass in a gravitational field
+- **Electrical potential energy** - Energy stored due to position of a charge in an electron. 
