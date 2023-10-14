@@ -74,4 +74,3 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - Applying the law of conservation of energy to mechanic systems:
 	- kinetic energy + gravitational potential energy + elastic potential energy = constant
 - This is true if there are no frictional forces acting. 
-- 
