@@ -39,5 +39,5 @@ All matter contains large amounts of energy inside it.
 - Radiation energy 
 ## Energy Transfers
 Total amount of energy in an isolated system remains constant because of [[The Conservation of Energy]] 
-### Principles of conservation of energy
-
+### Dissipation of energy 
+- 
