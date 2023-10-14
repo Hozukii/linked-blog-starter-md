@@ -10,4 +10,8 @@
 
 
 - 1 **Joule** is defined to be the work done when a force of 1N moves through a distance of 1m
-- 
+## Work done by varying forces
+- We have to make an estimate of the *average* force
+- Then, Work done = $F_avg \cdot s$
+- Work done is equal to the area under a force-distance graph
+# Energy
