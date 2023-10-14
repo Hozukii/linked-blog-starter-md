@@ -43,4 +43,9 @@ Total amount of energy in an isolated system remains constant because of [[The C
 - Enengy that has spread into the surroundings and cannot be recovered to do useful work. 
 - All macroscopic processes dissipate energy into the surroundings. 
 # Calculating Mechanical Energies 
-Work can be odne on a macroscopic object to give it kinetic, gravitational potential, or elastic potential energy. 
+Work can be done on a macroscopic object to give it kinetic, gravitational potential, or elastic potential energy. 
+The symbol, $E$ can be used to represent energy(E is also used for electric field)
+## Kinetic energy
+>[!note] equation
+>$E_k = \dfrac12$mv^2
+
