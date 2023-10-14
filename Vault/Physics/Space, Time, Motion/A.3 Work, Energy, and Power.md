@@ -55,3 +55,7 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - The gravitational potential energy of a mass raised a heigh $\Delta h$, close to the Earth's surface can be calculated using $\Delta E_p = mg\Delta h$
 - A mass resting on a table, or on the ground, does not have zero gravitational energy. Se when we use the equation, we are calculating how much more, or less, gravitational potential energy the object has. 
 ## Elastic Potential Energy
+	![[Pasted image 20231014201523.png|300]]
+- the work done, W, when it is deformed a distance $\Delta x$ by a force $F_H$ is given by: $W = \text{average force} \cdot \text{distance} = \dfrac12 k \Delta x^2$
+- It is also $\dfrac12 F_H$ from [[A.2 Forces and Momentum#Elastic resorting forces]]
+- 
