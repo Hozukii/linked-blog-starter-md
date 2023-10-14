@@ -6,6 +6,8 @@
 - Work is done whhen any force moves an object. 
 > [!info] Work done
 > $W = Fs cos \theta$ 
-> Si unit: Joule, J, $kg m^2 s^{-2}
-> 
+> Si unit: Joule, J, $kg m^2 s^{-2}$ which is also Nm
 
+
+- 1 **Joule** is defined to be the work done when a force of 1N moves through a distance of 1m
+- 
