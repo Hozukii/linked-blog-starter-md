@@ -53,4 +53,5 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - Objects which are vibrating or rotating also have kinetic energy, but we need different equations to calculate their values. Will be covered later
 ## Gravitational Potential Energy 
 - The gravitational potential energy of a mass raised a heigh $\Delta h$, close to the Earth's surface can be calculated using $\Delta E_p = mg\Delta h$
-#
+- A mass resting on a table, or on the ground, does not have zero gravitational energy. Se when we use the equation, we are calculating how much more, or less, gravitational potential energy the object has. 
+## Elastic Potential Energy
