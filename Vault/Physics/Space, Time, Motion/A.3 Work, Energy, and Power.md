@@ -50,5 +50,7 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 >$E_k = \dfrac12$mv^2
 
 - Since, momentum, $mv$, is given the symbol $p$, kinetic energy can also be determined from $E_k = \dfrac{p^2}{2m}$
-- Objects which are vibrating or rotating also have kkinetic energy, but we need different equations to calculate their values. Will be covered later
-- 
+- Objects which are vibrating or rotating also have kinetic energy, but we need different equations to calculate their values. Will be covered later
+## Gravitational Potential Energy 
+- The gravitational potential energy of a mass raised a heigh $\Delta h$, close to the Earth's surface can be calculated using $\Delta E_p = mg\Delta h$
+#
