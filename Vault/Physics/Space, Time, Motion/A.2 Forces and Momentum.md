@@ -231,4 +231,8 @@ Comparing with $v = \dfrac{2 \pi r}{T}$, it should be clear that: $v = \omega r$
 ---
 - We know F = ma
 - Therefore: $F = \dfrac{mv^2}{r} = m\omega^2r$
-- 
+# Non-uniform Circular motion 
+### Vertical motion 
+- In vetical motion, the centripetal force is affected by the combination of, tension in the string, $F_T$ and gravity, $F_g$. 
+### Horizontal motion
+- In horzontal motion such as a turntable, then you must think about friction. So you must add up the Force needed to change angle and to cancel out friction.
