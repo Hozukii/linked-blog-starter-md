@@ -42,4 +42,5 @@ Total amount of energy in an isolated system remains constant because of [[The C
 #### Dissipation of energy 
 - Enengy that has spread into the surroundings and cannot be recovered to do useful work. 
 - All macroscopic processes dissipate energy into the surroundings. 
-
+# Calculating Mechanical Energies 
+Work can be odne on a macroscopic object to give it kinetic, gravitational potential, or elastic potential energy. 
