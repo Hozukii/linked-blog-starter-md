@@ -74,3 +74,35 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - Applying the law of conservation of energy to mechanic systems:
 	- kinetic energy + gravitational potential energy + elastic potential energy = constant
 - This is true if there are no frictional forces acting. 
+# Power
+- **Power** - rate of transferring energy.
+- If the same amount of useful work is done by two people, the one that does it faster is said to be more *powerful*.
+>[!abstract] Equations
+>Power = $\dfrac{\text{energy transferred}}{\text{time taken}}$
+> $P = \dfrac{E}{t}$ 
+> SI unit:  **Watt, W**
+> 
+> Alternatively: Power = $\frac{\text{work done}}{\text{time taken}}$,
+> $p = \dfrac{\Delta W}{\Delta t}$
+
+- $1W = 1Js^{-1}$
+## Power needed to maintain a constant speed
+- The forward force, F, is equal in magnitude as **Resistive force** but in the opposite direction
+- Power needed to maintain a constant speed; $P = \dfrac{\Delta W}{\Delta t} = \dfrac{F\Delta s}{\Delta t} = Fv$
+- $$P = Fv$$
+## Efficiency
+- The useful energy we get out of any energy transfer is *always* /ess than the total energy transferred. 
+- A precess that results in a greater useful energy output is described as being more efficient. 
+- In thermodynamics, **efficiency** is defined as:
+	- efficiency, $\eta = \dfrac{\text{useful energy output}}{\text{total energy input}} = \dfrac{E_{output}}{E_{input}}$
+- If we divide energy by time, we get
+	- efficiency, $\eta = \dfrac{\text{useful power output}}{\text{total power input}} = \dfrac{P_{output}}{P_{input}}$-
+- Efficiency has no units and is always less than 1
+## Energy Density
+- **Energy density** - the amount of energy that can be transferred from each cubit metre
+	- Si unit: $Jm^{-3}$
+- When discussing gaseous energy resources, it is more common to use **specific energy**, which is the amount of energy that can be transferred from each kilogram. 
+
+
+
+
