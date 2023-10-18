@@ -1,4 +1,4 @@
-# Binomial Expansion
+	# Binomial Expansion
 **Def**: if $n$ & $k$ are integers such that $k \le n$ then we define a **Binomial coefficient**
 ## $$\binom nk = \dfrac{n!}{k! \cdot (n-k)!}$$
 and we read $\binom nk$ as "n choose k"
