@@ -6,7 +6,7 @@
 [[Non-contact force]] - Forces that act "at a distance" across empty space. (magnetic forces and force of gravity 
 ## Weight
 - Mass is measured in kg
-- Mass does not change with location]
+- Mass does not change with location
 - The weight,$F_g$ , of a mass, m is the gravitational force that pulls it towards the center of the earth
 - g is the weight: mass ratio, **Gravitation field strength** which in numerically equal to the acceleration due to gravity
 # Contact forces
