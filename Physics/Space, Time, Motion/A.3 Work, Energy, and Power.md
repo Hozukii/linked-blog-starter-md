@@ -28,7 +28,7 @@
 ---
 **Mechanical Energy** - A macroscopic object that is able to do work. 
 Mechanical energy can come in one of three forms:
-- **Kinetic energy** - The energy of all moving masses whhich could do work on anything they collide with. 
+- **Kinetic energy** - The energy of all moving masses which could do work on anything they collide with. 
 - Elastic potential energy
 - Gravitational potential energy
 All matter contains large amounts of energy inside it. 
@@ -40,7 +40,7 @@ All matter contains large amounts of energy inside it.
 ## Energy Transfers
 Total amount of energy in an isolated system remains constant because of [[The Conservation of Energy]] 
 #### Dissipation of energy 
-- Enengy that has spread into the surroundings and cannot be recovered to do useful work. 
+- Energy that has spread into the surroundings and cannot be recovered to do useful work. 
 - All macroscopic processes dissipate energy into the surroundings. 
 # Calculating Mechanical Energies 
 >[!abstract] Equations
