@@ -91,15 +91,16 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - Power needed to maintain a constant speed; $P = \dfrac{\Delta W}{\Delta t} = \dfrac{F\Delta s}{\Delta t} = Fv$
 - $$P = Fv$$
 ## Efficiency
-- The useful energy we get out of any energy transfer is *always* /ess than the total energy transferred. 
+- The useful energy we get out of any energy transfer is *always* less than the total energy transferred. 
 - A precess that results in a greater useful energy output is described as being more efficient. 
 - In thermodynamics, **efficiency** is defined as:
 	- efficiency, $\eta = \dfrac{\text{useful energy output}}{\text{total energy input}} = \dfrac{E_{output}}{E_{input}}$
 - If we divide energy by time, we get
 	- efficiency, $\eta = \dfrac{\text{useful power output}}{\text{total power input}} = \dfrac{P_{output}}{P_{input}}$-
 - Efficiency has no units and is always less than 1
+**Remember the Sankey diagram**
 ## Energy Density
-- **Energy density** - the amount of energy that can be transferred from each cubit metre
+- **Energy density**, $E_D$ - the amount of energy that can be transferred from each cubit metre
 	- Si unit: $Jm^{-3}$
 - When discussing gaseous energy resources, it is more common to use **specific energy**, which is the amount of energy that can be transferred from each kilogram. 
 
