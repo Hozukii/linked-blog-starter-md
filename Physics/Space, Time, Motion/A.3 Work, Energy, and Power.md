@@ -40,7 +40,7 @@ All matter contains large amounts of energy inside it.
 ## Energy Transfers
 Total amount of energy in an isolated system remains constant because of [[The Conservation of Energy]] 
 #### Dissipation of energy 
-		- Energy that has spread into the surroundings and cannot be recovered to do useful work. 
+			- Energy that has spread into the surroundings and cannot be recovered to do useful work. 
 - All macroscopic processes dissipate energy into the surroundings. 
 # Calculating Mechanical Energies 
 >[!abstract] Equations
