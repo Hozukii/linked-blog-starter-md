@@ -1,5 +1,5 @@
 # Figurative Techniques
-- [[Metaphor]]
+- [[metaphor]]
 - Personification
 - [[Synecdoche]]
 - simile
