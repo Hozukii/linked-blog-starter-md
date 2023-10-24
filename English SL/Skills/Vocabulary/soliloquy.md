@@ -1,0 +1,3 @@
+- A speech that a character delivers while they are alone onstage or believe themselves to be alone
+- used to reveal the character's innermost thoughts and motivations.
+- Allows the audience to understand what the character is thinking, feeling, and planning, without sharing these thoughts with other characters in the play. 
