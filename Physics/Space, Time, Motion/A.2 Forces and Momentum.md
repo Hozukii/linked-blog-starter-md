@@ -7,7 +7,7 @@
 ## Weight
 - Mass is measured in kg
 - Mass does not change with location
-- The weight,$F_g$ , of a mass, m is the gravitational force that pulls it towards the center of the earth
+- The weight,$F_g$ , of a mass, m is the gravitational force that pulls it towards the centre of the earth origin/main
 - g is the weight: mass ratio, **Gravitation field strength** which in numerically equal to the acceleration due to gravity
 # Contact forces
 - **Tension** - pulling forces are acting tending to cause stretching

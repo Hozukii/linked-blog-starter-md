@@ -1,0 +1,1 @@
+A form of figurative language in which a word is replaced by something very close to the original meaning
