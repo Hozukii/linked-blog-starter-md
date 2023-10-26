@@ -66,5 +66,23 @@ Insert image...
 - **Angular displacement** - the total angle, $\theta$, through which a rigid body has rotated from a fixed refence point. Usually measured in radians(or degrees.)
 - Equation:
 $$\theta = \dfrac sr$$
+#### Angular velocity
+- vector quantity but direction will not be important here
+- **Angular velocity**, $\omega$, is defined as the change of angular displacement divided by the time taken
+- Equation:
+$$ \omega = \dfrac{\Delta \theta}{\Delta t}$$
+- SI unit: $rad s^{-1}$ radians(or degrees) per second
+- Angular velocities are ofter quoted in rotations per minute (rpm) 
+	- 1 rpm = $0.10 \space rads^{-1}$
+- The if velocity is the same, depending on the distance it will change in angular speed
+- Linear speed: $v = \omega r$
+#### Angular acceleration
+**Angular acceleration**, $\alpha$, - $\dfrac{\text{rate of change of angular velocity}}{time}$
+$$a = \dfrac{\Delta \omega}{\Delta t}$$
+- SI unit: $rads^{-2}$
+- There is a simple relationship between angular and linear acceleration
+- Since: $\Delta \omega = \dfrac{\Delta v}{r} \to \alpha = \dfrac{\Delta v}{\Delta tr}$
+$$\alpha  = \dfrac ar $$
+
 
 
