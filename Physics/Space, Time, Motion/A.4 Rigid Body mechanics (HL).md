@@ -49,4 +49,14 @@ Insert image ...
 #### couples
 - **Couples** - pair of equal-sized forces that have different line of action but which are parallel to each other and act in opposite directions, either side of the axis of rotation. 
 - A couple produces no resultant force, therefore no translational acceleration
-- 
+- Net resultant force is zero, however, net torque is not zero because they are not acting in the same **line of action**
+Insert image...
+
+#### Rotational equilibrium
+**equilibrium** - when object remain at rest or constant motion
+**Translational equilibrium** - When there is no *resultant force* acting on an object
+>[!note] Rotational equilibrium
+> **Rotational Equilibrium** -  when there is no resultant torque acting on an object, so it remains stationary or continues to rotate with a constant angular speed
+> If an object is in rotational equilibrium it means: Clockwise torque = anticlockwise torque
+
+
