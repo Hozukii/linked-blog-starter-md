@@ -59,4 +59,12 @@ Insert image...
 > **Rotational Equilibrium** -  when there is no resultant torque acting on an object, so it remains stationary or continues to rotate with a constant angular speed
 > If an object is in rotational equilibrium it means: Clockwise torque = anticlockwise torque
 
+## angular displacement, velocity, and acceleration
+
+#### Angular displacement
+- Any point on a rigid rotating body will be moving along a circular path 
+- **Angular displacement** - the total angle, $\theta$, through which a rigid body has rotated from a fixed refence point. Usually measured in radians(or degrees.)
+- Equation:
+$$\theta = \dfrac sr$$
+
 
