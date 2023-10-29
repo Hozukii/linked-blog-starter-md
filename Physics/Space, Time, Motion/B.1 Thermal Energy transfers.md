@@ -1,6 +1,7 @@
 # Thermal energy, internal energy and heat
-- **Internal Energy** - The sum of total kinetic energy and total potential energy of individual molecules and particles
-- **Thermal Energy** - the energy associated withhea and temperature. Thermal energy appears as a result of friction, air resistance, impacts, and other interactions between obects. 
+- **Internal Energy** of a substance is the sum of total random kinetic energies and total potential energies of all the particles inside it
+	- The word random means that the particles movement are disorder and unpredictable
+- **Thermal Energy** - the energy associated with heat and temperature. Thermal energy appears as a result of friction, air resistance, impacts, and other interactions between obects. 
 	- Thermal energy is a measurement of the random kinetic energy of vibrating particles in an object
 	- Variable $E_{int}$ Unit: $J$
 ## Kinetic theory of matter
@@ -36,4 +37,38 @@ Si unit: $kgm^{-3}$
 - **absolute zero** which is $-273.15 ^\circ C$ is experssed as $0K$
 - They go up the same way so:
 - $K = 273.15 +^\circ C$
-- 
+## Microscopic understanding of temperature 
+- Molecules that have lower average kinetic energy will collide with molecules that have higher average kinetic energy. Lower average kinetic energy will speed up, and higher average kinetic energy will slow down to become equivalent. 
+- Higher the temperature, higher the average particle speed of the same gas
+- Temperature(K) is proportional to the average random translational kinetic energy, $E_k$ of particles in a gas
+- Molecules have rotational kinetic energy, and **vibrational kinetic energy** 
+>[!abstract] Equations
+>Average random translational kinetic energy of a gas particle: 
+>$\overline E = \dfrac 32 k_b T$
+>$k_B$ is known as **boltzmann constant**. It has a value $1.38 \cdot 10^{-23}JK^{-1}$
+>Kelvin Temperature - $T$
+
+- A temperature rise is equivalent to the particles gaining kinetic energy
+## Internal energy 
+- All substances contain moving particles. 
+- moving particles have kinetic energy. 
+- There are three forms of kinetic energy:
+	- **Vibrational kinetic energy** - vibrating about fixe positions
+	- **translational kinetic energy in liquids and gases** - particles moving from place to place
+	- **rotational kinetic energy** - Molecules might be rotating 
+- Particles have potential energy as well as kinetic energy. 
+- In solids and liquids, the electrical forces keeps them from moving apart or moving closer together. 
+- If the average separation of the particles in a solid or liquid increases, so too does their potential energy(and the total internal energy of the substance)
+- In gasses however, forces between molecules are usually negligible.
+
+# Thermal energy 
+- Thermal energy is the transfer of energy because of a temperature difference
+- There are three principal ways in which thermal energy can be transferred:
+	- **Thermal conduction** - Kinetic energy is transferred between particles
+	- **Convection** - differences in densities of liquids and gases result in their movement
+	- **Thermal radiation** - electromagnetic radiation is emitted by surfaces 
+
+
+
+
+
