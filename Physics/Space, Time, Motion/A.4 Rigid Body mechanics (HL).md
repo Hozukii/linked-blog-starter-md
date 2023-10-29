@@ -85,4 +85,24 @@ $$a = \dfrac{\Delta \omega}{\Delta t}$$
 $$\alpha  = \dfrac ar $$
 
 
+# Equations of Motion for Angular Acceleration 
+
+We can compare with the suvat equation:
+
+| SUVAT                     | Equations for uniform angular acceleration          |
+| ------------------------- | --------------------------------------------------- |
+| $s = \dfrac{(u + v)}{2}t$ | $\Delta \theta = \dfrac{(\omega_f + \omega_i)}{2}t$ |
+| $v = u + at$              | $\omega_f  = \omega_i + at$                         |
+| $s = ut + \dfrac 12 at^2$ | $\Delta \theta = \omega_i t + \dfrac 12 at^2$       |
+| $v^2  = u^2 + 2as$        | $\omega_f^2 = \omega_i^2 + 2a\Delta \theta$         | 
+
+## Graphs of rational motion
+
+- Graphs for rotational motion can be interpreted in the same way as a graphs for linear motion
+insert image 
+
+- **Moment of inertia** - The resistance to a change of rotational motion of an object, which depends on the distribution of mass around the chosen axis of rotation
+
+- **Moment of inerti**, $I$, of a point mass, $m$, rotating at a distance $r$ from its axis is given by:
+$$I = mr^2$$
 
