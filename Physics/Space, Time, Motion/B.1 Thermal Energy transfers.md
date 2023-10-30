@@ -76,5 +76,20 @@ Si unit: $kgm^{-3}$
 - Solid are usually better thermal conductors because they of the closeness of the particles and the strength of forces between them. 
 - **Insulator** materials significantly reduces the flow of thermal energy. 
 ### Quantitative treatment of thermal conductivity
+>[!abstract] Rate of transfer of thermal energy by conduction:
+>$\dfrac{\Delta Q}{\Delta t} = kA\dfrac{\Delta T}{\Delta x}$
+>Q = Thermal energy 
+>t = time
+>x = thickness
+>$\Delta T = T_H - T_C$ = change in temperature
+>k = **thermal conductivity**  of the substance
+>A = area of contact
+
+insert image
+$\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is measured in Watts
+- Air is the best insulator but thermal energy can also be transferred by **convection currents**. Various kinds of foam consist mainly of air, but the foam limits the movement of that air. 
+- 
+
+
 
 
