@@ -85,7 +85,7 @@ Si unit: $kgm^{-3}$
 >k = **thermal conductivity**  of the substance
 >A = area of contact
 
-insert image
+![[Pasted image 20231030082441.png]]
 $\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is measured in Watts
 - Air is the best insulator but thermal energy can also be transferred by **convection currents**. Various kinds of foam consist mainly of air, but the foam limits the movement of that air. 
 - 
