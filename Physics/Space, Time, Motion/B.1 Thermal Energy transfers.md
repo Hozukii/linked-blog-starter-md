@@ -69,6 +69,12 @@ Si unit: $kgm^{-3}$
 	- **Thermal radiation** - electromagnetic radiation is emitted by surfaces 
 
 
-
+## Thermal conduction
+-  **Thermal conduction** - passage of thermal energy through a substance as energy is transferred from particle to particle 
+- Thermal conduction occurs because of the transfer of kinetic energy between particles
+- For solids, particles vibrate in fixed positions. Energy is transferred through the solid because of the forces / interactions between particles
+- Solid are usually better thermal conductors because they of the closeness of the particles and the strength of forces between them. 
+- **Insulator** materials significantly reduces the flow of thermal energy. 
+### Quantitative treatment of thermal conductivity
 
 
