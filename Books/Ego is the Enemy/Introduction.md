@@ -1,3 +1,4 @@
+
 #### Chapter summary 
 He talks about how Ego is limiting one from achieving success. Talent often comes with ego. You don't have to be egotistical to be affect by ego. Ryan Holiday will take us through examples and the process in which to beat or suppress our ego when it matters. 
 The book will be structured in three parts: Aspire. Success. Failure
