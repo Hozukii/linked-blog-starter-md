@@ -27,3 +27,18 @@ We must not let ego in our way of aspiring to our goals. We must assess ourselve
 
 
 
+# Talk, Talk, Talk
+#### Chapter summary
+This chapter talks about the harm that talking about your goals can do. It can help you to create accountability and a rigid goal but it can also give a false sense of accomplishment of just talking about what you are going to achieve without doing it. Anyone can keep talking about themselves but only a rare few can stay silent. 
+#### Terms
+- insidious - Proceeding in a gradual but harmful way
+- respite - Short period of rest or relief
+#### Important passages
+- Not everything that is hard or takes time to do is important
+- When we're overwhelmed or scared we do everything **but** focus on it
+- Even a child knows how to talk about themselves. What's rare and scarce? Silence
+- Listening to ourselves talk is like therapy. *I just spend hours talking about this. Doesn't that count for something?* the answer is no
+- They ignore the impulse tto seek recognition before they act
+- They doesn't talk much. Or mind the feeling that others are getting the better end of the deal. (They are not)
+#### hard to understand parts
+- Studies show that talking about what we want to achieve excessively can have negative effects. It tricks the mind into thinking that we did something when we have done anything and it feels easier to give up because it feels like we tried everything we are able to do. 
