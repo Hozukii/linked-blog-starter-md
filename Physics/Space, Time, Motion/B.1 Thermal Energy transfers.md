@@ -113,6 +113,9 @@ $\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is m
 ##### Black bodies
 - Perfect **Black body** - term used to describe an object that has a surface which absorbs all of the infrared and light. 
 
-
+	The total power, P, emitted from a perfect black body of surface area, A, can be calculate from the **stefan-Boltzmann law**: 
+	Power emitted from a block body, $P = \sigma AT^4$   
+	$\sigma$ is known as the **Stefan-Boltzmann constant**. It has the value of $5.67 \cdot 10^{-8} Wm^{-2} K^{-4}$
+- when referring to celestial objects, the emitted power is usually called **luminosity**.
 
 
