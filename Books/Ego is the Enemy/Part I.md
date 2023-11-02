@@ -3,7 +3,7 @@
 ## Terms
 
 **Chapters**
-# Aspire
+# ASPIRE
 #### Chapter summary
 We must not let ego in our way of aspiring to our goals. We must assess ourselves to be able to grow. The growth might be gradual and slow but that it better than no growth and it is better for you to be able to know what your capabilities are now without our ego getting in our way.
 #### Terms
@@ -27,7 +27,7 @@ We must not let ego in our way of aspiring to our goals. We must assess ourselve
 
 
 
-# Talk, Talk, Talk
+# TALK, TALK, TALK
 #### Chapter summary
 This chapter talks about the harm that talking about your goals can do. It can help you to create accountability and a rigid goal but it can also give a false sense of accomplishment of just talking about what you are going to achieve without doing it. Anyone can keep talking about themselves but only a rare few can stay silent. 
 #### Terms
@@ -42,3 +42,21 @@ This chapter talks about the harm that talking about your goals can do. It can h
 - They doesn't talk much. Or mind the feeling that others are getting the better end of the deal. (They are not)
 #### hard to understand parts
 - Studies show that talking about what we want to achieve excessively can have negative effects. It tricks the mind into thinking that we did something when we have done anything and it feels easier to give up because it feels like we tried everything we are able to do. 
+
+# TO BE OR TO DO
+#### Chapter summary
+- To be or to do?, which will you choose was a question asked by John Boyd. There will come a time where you will have to make a decision between. Will you be captured by the idea of being someone and ideal? or taking action and doing?. We often fall in love with the image of what success feels like but if you are fitting into that image, you are not accomplishing anything. Impressing people is utterly different from being impressive. Ego helps us in this deception
+#### Terms
+
+#### Important passages
+- To be or to do? Which way will you go?
+- We often fall in love with the image of what success looks like.
+- Boyd would write of the chalkboard, DUTY, HONOR, COUNTRY. Then he would cross those words out and replace them with, PRIDE, POWER, GREED
+- If your purpose is something larger than you - to accomplish something, to prove something to yourself - then suddenly everything becomes both easier and more difficult.
+	- Easier in the sense that there is no other choice, you will know what to do
+	- Harder in the sense that no matter how gratifying or rewarding, must be evaluated along strict guidelines
+		- Does this help me to do what I have set out to do?
+		- does this allow me to do what I need to ?
+		- Am I being selfish or selfless?
+- 
+#### Hard to understand parts
