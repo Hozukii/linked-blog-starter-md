@@ -46,8 +46,6 @@ This chapter talks about the harm that talking about your goals can do. It can h
 # TO BE OR TO DO
 #### Chapter summary
 - To be or to do?, which will you choose was a question asked by John Boyd. There will come a time where you will have to make a decision between. Will you be captured by the idea of being someone and ideal? or taking action and doing?. We often fall in love with the image of what success feels like but if you are fitting into that image, you are not accomplishing anything. Impressing people is utterly different from being impressive. Ego helps us in this deception
-#### Terms
-
 #### Important passages
 - To be or to do? Which way will you go?
 - We often fall in love with the image of what success looks like.
@@ -66,3 +64,17 @@ This chapter talks about the harm that talking about your goals can do. It can h
 #### Hard to understand parts
 - "In this formative period, the soul is unsoiled by warfare with the world. It lies, like a block of pure, uncut Parian marble, ready to be fashioned into - what?" - Orison Swett Marden
 	- Its possibilities are limitless.  You are the sculptor.  An unseen hand places in yours the mallet and the chisel, and a voice whispers:  “The marble waiteth.  What will you do with it?”
+# BECOME A STUDENT
+#### Chapter Summary
+However good you are, you will always be a student. There is always lessons you can learn. We can't let our ego get in the way of learning. We must have humility thinking you can always be better. Don't let ego tell you that you are good enough that you don't need to learn anymore. You can't learn if you think you already know 
+#### Terms
+- Ossify - 1. turn into bone or bony tissue 2. Become rigid or fixed in attitude or position; cease developing 
+- Exemplar - a person or thing serving as a typical example 
+#### Important passages
+- Kirk Hammett(a Metallica band member), after joining the band, he sought out a guitar teacher. He did not let be blinded by the fact that he joined his dream band but understood that he was not as good as he should be to be able to live up to the role
+- While teaching Kirk Hammett, Satriani was able to improve from teaching Kirk Hammett
+- Frank Shamrock has a system for his fighters: For every fighter to be great, they need one better to learn from, one worse to teach to, and one equal to that they can challenge themselves against
+- A true student is like a sponge. Absorbing what goes on around him and filtering it. 
+- "It is impossible to learn that which one think one already known" - Epictetus
+- To achieve what we want to achieve, might take patience and time. Humility is what keeps us there, concerned that we don't know enough and that we must continue to study. Ego rushes to the end, rationalizes that patience is for losers and ossifies 
+- Many don't even know they are teaching - they are simply exemplars or even whose lessons survive in books and essays. 
