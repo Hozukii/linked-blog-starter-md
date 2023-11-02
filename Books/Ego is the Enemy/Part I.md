@@ -78,3 +78,5 @@ However good you are, you will always be a student. There is always lessons you 
 - "It is impossible to learn that which one think one already known" - Epictetus
 - To achieve what we want to achieve, might take patience and time. Humility is what keeps us there, concerned that we don't know enough and that we must continue to study. Ego rushes to the end, rationalizes that patience is for losers and ossifies 
 - Many don't even know they are teaching - they are simply exemplars or even whose lessons survive in books and essays. 
+
+Link:[[Ego is the Enemy - Ryan Holiday]]

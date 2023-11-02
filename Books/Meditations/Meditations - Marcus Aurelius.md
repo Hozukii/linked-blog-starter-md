@@ -1,3 +1,4 @@
+#Stoicism #self-improvement #philosophy 
 ## introduction
 The book is series of notes written by Roman Emperor Marcus Aurelius. This book was never meant to be published to the world yet this is one of the most famous books when it comes to stoicism. It baffles me how many problems he had are so relatable even if it was written 2000 years ago by one of the most successful and powerful man in history. 
 

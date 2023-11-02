@@ -33,3 +33,5 @@ He assumes that ego is something we can manage. It can be directed
 -  He looks in history to determine if individuals could have done what they have done if their ego got in their way?
 - Robert Greene once said "we must take to like a spider in its web"
 	- If we appreciate  the things they have accomplished we must come to like the thing that helped them create. 
+
+Link:[[Ego is the Enemy - Ryan Holiday]]
