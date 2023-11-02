@@ -58,5 +58,11 @@ This chapter talks about the harm that talking about your goals can do. It can h
 		- Does this help me to do what I have set out to do?
 		- does this allow me to do what I need to ?
 		- Am I being selfish or selfless?
-- 
+- It's not "Who do I want to be in life?" but "What is it that I want to accomplish in life?"
+- Think about next time you face a choice: 
+	- Do I need this? Or is it really about ego?
+	- Are you ready to make the right decision? Or do the prizes still glitter of in the distance?
+	
 #### Hard to understand parts
+- "In this formative period, the soul is unsoiled by warfare with the world. It lies, like a block of pure, uncut Parian marble, ready to be fashioned into - what?" - Orison Swett Marden
+	- Its possibilities are limitless.  You are the sculptor.  An unseen hand places in yours the mallet and the chisel, and a voice whispers:  “The marble waiteth.  What will you do with it?”
