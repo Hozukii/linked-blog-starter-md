@@ -88,7 +88,30 @@ Si unit: $kgm^{-3}$
 ![[Pasted image 20231030082441.png]]
 $\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is measured in Watts
 - Air is the best insulator but thermal energy can also be transferred by **convection currents**. Various kinds of foam consist mainly of air, but the foam limits the movement of that air. 
-- 
+## Thermal Convection 
+- **Thermal convection** - The transfer of thermal energy because of the movement of a fulid due to changes in density 
+	- When a part o the fluid is heated, there will be localized dceares in density. Because of buoyancy, the warmer parts flow upwards. The movement of thermal energy in a fluid is thermal convection
+- Fun fact: this is why radiators are close to the floor and air conditioners are high up
+## Thermal radiation
+- **Thermal radiation** - Emission of electromagnetic waves because of the movement of charges particles in the atoms of all matter at all temperatures. Mostly commonly, infrared. 
+- **Infrared** - Electromagnetic radiation emitted by all objects with wavelengths longer than visible light. 
+
+- Although it is true to say that thermal radiation is emitted continuously by all matter al all temperature, we tend to only notice it coming from hot objects. 
+- The power of the emitted radiation from *any* surface depends on:
+	1. Surface temperature: the radiated power is proportional to the fourth power of the surface temperature. $T^4$
+	3. Surface area - Radiated power is proportional to the area, $A$
+	4. Nature of the surface
+	- *Note that emitted power is not dependent on the chemical nature of the material*
+#### Good absorbers and good emitters of thermal radiation
+- Dark surfaces, especially black is the best absorbers
+- White and shiny surfaces reflect and scatter radiation well. 
+
+>[!info] Thermal radiation
+>Any surface which is good absorber of radiation will also be a good emitter
+
+
+##### Black bodies
+- Perfect **Black body** - term used to describe an object that has a surface which absorbs all of the infrared and light. 
 
 
 
