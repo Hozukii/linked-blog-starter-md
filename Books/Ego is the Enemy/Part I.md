@@ -111,6 +111,22 @@ we must be a *anteambulo* "one that clears the path". Nowadays we feel entitled 
 	- You have an attitude that needs to be readjusted 
 	- A lot of what you think you know are out of date or wrong
 - A critical lesson in football politics: If he wanted to give his coach feedback or question a decision, he needed to do it in a private and self-effacing place
+- "Say little, do much"
+- *I will not be demeaned like this* : Once we fight this emotional and egoistical impulse, the canvas strategy is easy
+- The person who clears the path ultimately controls its direction, just as the canvas shapes the painting
+# RESTRAIN YOURSELF
+
+#### Chapter Summary
+Sometimes we must let things go in order to achieve what we want in the big picture. He uses the example of the first black MLB player, Jackie Robinson. It might be justifiable but if our goal is that important, we should ignore it like it didn't affect us
+#### Terms 
+- fracas - A noisy disturbance
+#### Important passages 
+- Why should he let anyone else treat him that way? No one should have to stand for that. Except sometimes they do. Are there not goals so important that we'd put up with anything to achieve them?
+- You need guts to not let their ego block them from seeing the bigger picture
+- It doesn't matter how talented you are. When you want to do something big and important, you will be subjected to treatment ranging from indifference to outright sabotage.
+- Those who have subdued their ego understand that it doesn't degrade me, it degrades them
+- Do not let the noise distract you from your goals
+- No matter how confident and famous Robinson become, he never spit on fans. He learned early that the tightrope he walked would tolerate only restrained and had no forgiveness for ego
 - 
 
 Link:[[Ego is the Enemy - Ryan Holiday]]
