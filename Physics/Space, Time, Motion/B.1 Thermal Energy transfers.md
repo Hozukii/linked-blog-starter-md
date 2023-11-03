@@ -118,4 +118,21 @@ $\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is m
 	$\sigma$ is known as the **Stefan-Boltzmann constant**. It has the value of $5.67 \cdot 10^{-8} Wm^{-2} K^{-4}$
 - when referring to celestial objects, the emitted power is usually called **luminosity**.
 
+##### Wien's displacement law
+There is a straightforward inverse relationship between surface temperature, T, and the wavelength at which the maximum power is received, 
+$$T \propto \dfrac 1\lambda_{max}$$
+$$\lambda_{max} T = 2.9 \cdot 10^{-3}mK$$
+#### Thermal Radiation and Stars
+**Luminosity** of a star, $L = \sigma AT^4$
+- There is no conduction or convection across the near-vacuum of space and the starts can be considered a perfect black body. 
+###### Apparent Brightness and intensity 
+- Luminosity is its actual brightness and is different from what e detect on earth which is called a star's **apparent brightness**.
+- **Apparent brightness** - a measure of **intensity** of the radiation from the star which reaches earth
+>[!abstract] Intensity
+>$$\text{intensity} = \dfrac{power}{area} \space I = \dfrac PA$$
+>SI unit: $Wm^{-2}$
+
+##### Determining astronomical distances
+$b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star if we measure its apparent brightness, b,, but only if we know its luminosity L.
+# Heating and cooling
 
