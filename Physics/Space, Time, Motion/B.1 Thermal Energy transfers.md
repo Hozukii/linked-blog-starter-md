@@ -135,4 +135,34 @@ $$\lambda_{max} T = 2.9 \cdot 10^{-3}mK$$
 ##### Determining astronomical distances
 $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star if we measure its apparent brightness, b,, but only if we know its luminosity L.
 # Heating and cooling
+- The blue line shows the change in temperature when heated at a constant rate with no thermal energy loss. The red line shows the change in temperature with thermal energy loss. At some point, it will reach constant temperature when the unput power and the rate of thermal energy loss to the surroundings are equal . 
 
+- The rate at which thermal energy is transferred away decreases with time since it depends on the difference of temperature. 
+## Specific heat capacity
+- **specific heat capacity** of a substance is the amount of energy needed to raise the temperature of 1kg of the substance by 1K. SI Unit:$Jkg^{-1}K^{-1}$
+>[!abstract] Equation
+>$$Q = mc\Delta T$$
+>$Q$ = thermal energy supplied
+>$m$ = mass
+>$c$ = specific heat capacity
+>$\Delta T$ = change in temperature
+
+- The higher the specific heat capacity the slower it heats up. 
+- It can be used to find how much thermal energy was transferred away when cooled down as well
+## Thermal Capacity
+- **Thermal capacity** - The amount of energy needed to raise the temperature of a particular object by 1 K (different than specific heat capacity since its not only of one substance)
+- Its the same equation
+## Exchanges of thermal energy 
+- If the system is insulated from its surroundings, the thermal energy given out by one object is equal to the thermal energy absorbed by the other object. 
+- **Calorimetry** - experiments that try to accurately measure the temperature changes produced by various physical or chemical processes. 
+	- calories is measured in Energy, J,
+	- 1000 calories is the amount of energy needed to heat 1kg of water by 1K. 
+	- 1cal = 4.184 J
+## Changes of phase
+- **Phase (of matter)** - a definite region of space in which all physical and chemical properties of the substance is the same. 
+	- E.g. a bottle containing oil and water has different(chemical) phase of matter. A bottle containing ice and water has two different physical phases of matter.
+- **states of matter** - Solid, Liquid, or gas(or plasma)
+
+![[Pasted image 20231103140314.png | 300]]
+![[Pasted image 20231103140404.png | 400]]
+### Boiling and Evaporation
