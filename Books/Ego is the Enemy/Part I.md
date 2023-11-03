@@ -79,4 +79,38 @@ However good you are, you will always be a student. There is always lessons you 
 - To achieve what we want to achieve, might take patience and time. Humility is what keeps us there, concerned that we don't know enough and that we must continue to study. Ego rushes to the end, rationalizes that patience is for losers and ossifies 
 - Many don't even know they are teaching - they are simply exemplars or even whose lessons survive in books and essays. 
 
+# DON'T BE PASSIONATE
+#### Chapter summary 
+Inspire the world with passion but what they fail to realise is that passion makes us weak. Passion blinds us of our weaknesses and makes us think that we could do whatever we want without limit. However, we must replace passion for reason and realism. We must be driven by purpose and reason. Why are we doing what we are? 
+#### Terms 
+- Evangelize - 1. To persuade or convert to Christianity 2. to talk about how good you think something is. 
+- Fervent - having or displaying a passionate intensity
+- Frenetic -  Fast and energetic in a rather wild and uncontrollable way 
+- Zealous - Showing great energy or enthusiasm
+#### Important Passages 
+- Your passion my be the very thing holding you back from power or influence or accomplishment
+- She had a purpose. She had direction. She wasn't driven by passion, but by reason
+- Opportunities usually does not require courage to take but they are instead obscured and blocked by various forms of resistance
+- When we proceed with passion, we often hear what we want to hear . What we feel like doing. 
+- Passion makes us weak. It is a poor substitutes for discipline, for mastery, for strength, and purpose and perseverance 
+- More that purpose we need realism. 
+	- Where do we start?
+	- What do we do first?
+	- What do we do right now?
+	- How ae sure that what we're doing is moving us forward
+	- What are we benchmarking against?
+# FOLLOW THE CANVAS STRATEGY
+#### Chapter summary 
+we must be a *anteambulo* "one that clears the path". Nowadays we feel entitled for a pay in internships when we are getting paid with information. The apprentice system is one of the best ways to learn. We must throw our ego away telling us that "we are too good for this". Often times, we're not. If we help and make path for the people above us, then the path will open for us as well. 
+#### Important Passages
+- We see it in an inability to meet anyone else on their terms. To take a step back in order to potentially take a few steps forward. *I will not let them get one over on me. I'd rather we both have nothing instead.*
+- Everyone from Michelangelo to Leonardo da Vinci has been forced to navigate such a system - but if you're going to be the big deal you think you are going to be, isn't this a rather trivial temporary position?
+- Clear the path for the people above you and you will eventually create a path for yourself. 
+- When you are just starting out we can be sure of a few things
+	- You're no nearly as important as you think
+	- You have an attitude that needs to be readjusted 
+	- A lot of what you think you know are out of date or wrong
+- A critical lesson in football politics: If he wanted to give his coach feedback or question a decision, he needed to do it in a private and self-effacing place
+- 
+
 Link:[[Ego is the Enemy - Ryan Holiday]]
