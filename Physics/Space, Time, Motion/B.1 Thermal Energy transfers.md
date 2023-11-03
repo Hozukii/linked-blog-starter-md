@@ -136,8 +136,9 @@ $$\lambda_{max} T = 2.9 \cdot 10^{-3}mK$$
 $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star if we measure its apparent brightness, b,, but only if we know its luminosity L.
 # Heating and cooling
 - The blue line shows the change in temperature when heated at a constant rate with no thermal energy loss. The red line shows the change in temperature with thermal energy loss. At some point, it will reach constant temperature when the unput power and the rate of thermal energy loss to the surroundings are equal . 
-
+![[Pasted image 20231103140615.png | 300]]
 - The rate at which thermal energy is transferred away decreases with time since it depends on the difference of temperature. 
+![[Pasted image 20231103140640.png |300]]
 ## Specific heat capacity
 - **specific heat capacity** of a substance is the amount of energy needed to raise the temperature of 1kg of the substance by 1K. SI Unit:$Jkg^{-1}K^{-1}$
 >[!abstract] Equation
