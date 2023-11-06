@@ -166,4 +166,7 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 
 ![[Pasted image 20231103140314.png | 300]]
 ![[Pasted image 20231103140404.png | 400]]
+- When there is a phase of matter, temperature stays constant. 
+**latent heat** - instead of the energy going to heat, the energy is going to changing the phase of matter. (in a more official term: the heat or energy that is absorbed or released during a phase change of a substance)
 ### Boiling and Evaporation
+
