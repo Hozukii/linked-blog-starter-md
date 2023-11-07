@@ -165,7 +165,6 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 - **states of matter** - Solid, Liquid, or gas(or plasma)
 
 ![[Pasted image 20231103140314.png | 300]]
-![[Pasted image 20231103140404.png | 400]]
 - When there is a phase of matter, temperature stays constant. 
 **latent heat** - instead of the energy going to heat, the energy is going to changing the phase of matter. (in a more official term: the heat or energy that is absorbed or released during a phase change of a substance)
 ### Boiling and Evaporation
@@ -182,3 +181,4 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 
 - Latent heat associated with freezing or melting is called **specific latent heat of fusion**, $L_f$ 
 - Latent heat associated with boiling or condensing is known as **specific latent heat of vaporization**, $L_v$
+![[Pasted image 20231103140404.png | 400]]
