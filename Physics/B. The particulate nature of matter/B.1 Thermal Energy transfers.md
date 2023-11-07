@@ -123,7 +123,7 @@ There is a straightforward inverse relationship between surface temperature, T, 
 $$T \propto \dfrac 1\lambda_{max}$$
 $$\lambda_{max} T = 2.9 \cdot 10^{-3}mK$$
 #### Thermal Radiation and Stars
-**Luminosity** of a star, $L = \sigma AT^4$
+**Luminosity** of a star, $L_{\odot} = \sigma AT^4$
 - There is no conduction or convection across the near-vacuum of space and the starts can be considered a perfect black body. 
 ###### Apparent Brightness and intensity 
 - Luminosity is its actual brightness and is different from what e detect on earth which is called a star's **apparent brightness**.
