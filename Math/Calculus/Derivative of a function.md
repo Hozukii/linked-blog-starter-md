@@ -11,8 +11,15 @@ it is to find the derivative from the first principle
 - If a function has a derivative at $x = a$, we say it is *differentiable* at $x=a$
 - if $f$ is a differentiable at $x = a  \implies \space f$ is continuous at $x = a$
 - if $f$ is a continuous at $x = a \centernot\implies \space f$ is differentiable at $x =a$
-### Simples rules for differentiation
+# Simples rules for differentiation
 1. $c' = 0$
 2. $[c \cdot f(x)]' = c \cdot f' (x)$
 3. $(f(x) \pm g(x)' = f'(x)\pm g'(x)$
-4. if $f(x) x^n,  n \in Q$ then $f'(x) = n \cdot x^{n-1}$  (the power rule) 
+### Power Rule
+$f(x) x^n,  n \in Q$ then $f'(x) = n \cdot x^{n-1}$  
+### Product Rule
+$$\dfrac d{dx} [f(x) \cdot g(x)] = f(x) \cdot g'(x) + g(x) \cdot f'(x)$$
+### Chain Rule
+$$f'(z) = f'(g(x)) \cdot g'(x), z = g(x) $$
+- Used for composite functions for example:
+$$\dfrac d{dx}[(f(x))^n] = n(f(x))^{n-1} \cdot f'(x)$$
