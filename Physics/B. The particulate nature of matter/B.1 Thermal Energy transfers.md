@@ -169,16 +169,18 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 **latent heat** - instead of the energy going to heat, the energy is going to changing the phase of matter. (in a more official term: the heat or energy that is absorbed or released during a phase change of a substance)
 ### Boiling and Evaporation
 - There will always be some molecules near the surface that have enough energy to overcome the attractive forces that hold 
-- **Evaporation** occurs from surface of a liquid over a range of temperatures. Boiling occurs throughout a liquid at a precise temperature. 
+- **Evaporation** occurs from surface of a liquid over a range of temperatures. Boiling occurs throughout a liquid at a precise temperature.  It can be changed according to pressure
 -  **boiling** occurs at a precise temperature - temperature which the molecules have enough energy to form bubbles inside the liquid. 
 - Evaporation leads to a decrease in average kinetic energy. That's why a fall temperatures always accompanies evaporation from a liquid. 
-#### Latent heat
+- 
+## Latent heat
 **Latent heat** - thermal energy that is transferred at constant temperature during any change of physical phase. 
 - The specific latent heat of a substance, $L$, is the amount of energy transferred when 1 kg of the substance changes phase at a constant temperature. 
 >[!abstract] Specific latent heat equation
 >$$Q = mL$$ 
 >SI units: $Jkg^{-1}$
 
+- :Since there are two phase changes, each substance has twa latent heats. 
 - Latent heat associated with freezing or melting is called **specific latent heat of fusion**, $L_f$ 
 - Latent heat associated with boiling or condensing is known as **specific latent heat of vaporization**, $L_v$
 ![[Pasted image 20231103140404.png | 400]]
