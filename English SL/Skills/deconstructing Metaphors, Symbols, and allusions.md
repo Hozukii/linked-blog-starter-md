@@ -13,6 +13,7 @@
 - collocation
 - Syntax & Parallelism
 - Irony
+- Ellipsis 
 ## Unpack the metaphor
 - Articulate/ clearly state what the metaphor. 
 - And make sure you state what two things they are comparing
