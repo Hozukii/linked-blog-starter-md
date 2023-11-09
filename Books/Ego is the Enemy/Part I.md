@@ -127,6 +127,18 @@ Sometimes we must let things go in order to achieve what we want in the big pict
 - Those who have subdued their ego understand that it doesn't degrade me, it degrades them
 - Do not let the noise distract you from your goals
 - No matter how confident and famous Robinson become, he never spit on fans. He learned early that the tightrope he walked would tolerate only restrained and had no forgiveness for ego
-- 
+# GET OUT FROM YOUR OWN HEAD
+#### Chapter summary 
+Stop living inside your head. Believing in what could happen. Know the difference between reality and fantasy. The build up in your head will stop you from acting because of what could happen. First and foremost we need to act. Without starting, there is no problems to solve that could arise in the first place. We are to anxious of starting because we are scared that we will be judged for our failure but in reality no one really cares. We feel that there is an imaginary audience. There's no one to perform for. There is just work to be done and lessons to be learned, in all that is around us.
+#### Important passages
+- John Fante had an enormous ego that got in his way of writing. Only when he was faced with an near death experience was he able to control his ego and start writing. 
+- Plato talked about people who are "feasting on their own thoughts" and "Instead of finding out how something they desire might actually come about, they pass that over, so as to avoid tiring deliberations about what's possible" They take pleasure in thinking through everything that they forget about reality. 
+- General George McClellan never got out his own head. He was too busy creating his plan for every possibility that he didn't actually. He let things build in his mind. He would think that the enemy's army was bigger when his army was actually 3 times bigger. 
+- When McClellan needed to act, ego robbed him of the ability to think that he even needed to act. 
+- Psychologist David Elkind has researched adolescence and a phenomenon known  as the "imaginary audience". They're convinced that their every move is being watched by the rest of the world. 
+- Imagining the success is much easier than the feeling of fear and doubt and seo we stay stuck in our heads instead of acting. 
+- General George C Marshall did not keep a war diary because he didn't want his reflective time to become a sort of performance and second guess his decisions for the sake of his reputation
+- **There's no one to preform for. There is just work to be done and lessons to be learned, in all that is around us.** 
+# THE DANGER OF EARLY PRIDE
 
 Link:[[Ego is the Enemy - Ryan Holiday]]
