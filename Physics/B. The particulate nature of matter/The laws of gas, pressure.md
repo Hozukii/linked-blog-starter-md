@@ -1,4 +1,4 @@
-## Boyle's law
+### Boyle's law
 - states that equal pressure is inversely proportional to volume (when temperature is constant)
 $$P_1 V_1 = P_2 V_2$$
 p = pressure of the gas
@@ -15,7 +15,7 @@ T - temperature of gas
 
 
 
-## Gay-Lussac's Law
+### Gay-Lussac's Law
 - States that pressure is proportional to temperature (When volume is constant). Must be Kelvin
 $$\dfrac{P_1}{T_1} = \dfrac{P_2}{T_2}$$
 p - pressure of gas
