@@ -23,3 +23,14 @@ T - temperature of gas
 
 ## Combined Gas law
 $$\dfrac{P_1 V_1}{T_1} = \dfrac{P_2 V_2}{T_2}$$
+# Pressure and a gas
+- Take any container and a any number gas molecules inside. Gas molecules are constantly changing in direction. Therefore it's always accelerating
+- The force comes from the sides of the container
+- The walls of the container experiences a force dependent on the number of times and velocity of a gas molecule that hits it. This is called "pressure"
+## Some issues with the idea
+- Gasses aren't really that consistent
+- Therefore, we make an approximation
+- For this... we have an **ideal gas**
+- **Ideal gas** - imaginary gas that is used to model real gases, and has the following properties
+	- identical perfect spheres
+	- 
