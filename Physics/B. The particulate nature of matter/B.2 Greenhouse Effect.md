@@ -16,4 +16,6 @@
 - **Solar constant**, S - intensity of the sun's radiation arriving perpendicularly on an area above the Earth's atmosphere
 ![[Pasted image 20231107213646.png | 350]]
 
-- 
+- The mean value of the radiative intensity directed at the surface of the planet is: $S \cdot (\dfrac{\pi r^2}{4\pi r^2}) = \dfrac{S}{4}$
+# Non-Black bodies: albedo and emissivity
+
