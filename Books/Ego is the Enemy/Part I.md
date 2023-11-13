@@ -140,5 +140,21 @@ Stop living inside your head. Believing in what could happen. Know the differenc
 - General George C Marshall did not keep a war diary because he didn't want his reflective time to become a sort of performance and second guess his decisions for the sake of his reputation
 - **There's no one to preform for. There is just work to be done and lessons to be learned, in all that is around us.** 
 # THE DANGER OF EARLY PRIDE
+#### Chapter Summary
+Pride makes the minor accomplishments look more important than they actually are. Pride convinces people that they are better than they actually are. Pride blunts our mind and take our ability to think the need we need to success. Don't count your chickens before they hatch. 
+This isn't about the fact that don't boast because you don't deserve it. Just don't boast. 
+### Important passages 
+- *a proud man is always looking down on things and people; and, of course, as long as you are looking down, you cannot see something that is above you* - C.S. Lewis
+-  Christians believe that pride is a sin because it convinces people in a lie that they are better than they actually are.
+- Pride takes away our most important instrument: the mind.
+- Pride make the minor accomplishments look major. 
+- If you are really doing major then, you wouldn't need pride to compensate
+- Pride blinds our ability to take criticism and the ability to asses the negative parts of ourselves
+- We often protect ourselves from criticism but we should also protect ourselves from praise. 
+- This isn't about the fact that don't boast because you don't deserve it. Just don't boast. 
+#### Terms
+- Encroach - intrude on
+- Myopic -  short sighted
+- Onanistic - relating or involving masturbation
 
 Link:[[Ego is the Enemy - Ryan Holiday]]
