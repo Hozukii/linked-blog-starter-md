@@ -32,3 +32,31 @@ $$\frac{V_1}{T_1} = \dfrac{V_2}{T_2}$$
 - States that pressure is proportional to temperature (When volume is constant). Must be Kelvin
 - For a fixed amount o gas at constant volume: $P \propto T$
 $$\dfrac{P_1}{T_1} = \dfrac{P_2}{T_2}$$
+### Combined Gas law
+- for a fixed amount of gas, $PV \propto T$
+$$\dfrac{P_1 V_1}{T_1} = \dfrac{P_2 V_2}{T_2}$$
+- So far, we have only discussed fixed amount of gas. we need to include *any* kind of gas
+- Pressure of a fixed volume of gas at constant temperature is $\propto$ the amount of gas
+- This leads us to $PV \propto nRT$
+### Ideal gas law
+Gasses aren't really that consistent
+- Therefore, we make an approximation
+- For this... we have an **ideal gas**
+- **Ideal gas** - imaginary gas that is used to model real gases, and has the following properties
+	- identical perfect spheres
+	- Perfectly elastic 
+	- no intermolecular forces - potential energy does not change
+	- so small that their volume is much smaller than the volume of their container
+>[!abstract] ideal gas law
+>PV = nRT
+>R  = **universal(molar) gas constant**. Has a value of $8.31JK^{-1} mol^{-1}$
+>
+
+- R is the macroscopic equivalent to the **Boltzmann constant, k**
+	- Discussed in: [[B.1 Thermal Energy transfers#Microscopic understanding of temperature]]
+- 
+	
+#### Pressure-volume diagrams 
+**PV diagram** - a graphical way of representing changes to the state of gas during a thermodynamic process
+- The state of a known amount of gas, as defined by values of its pressure, volume and teperature, can be identified as a point on a pressure.
+- 
