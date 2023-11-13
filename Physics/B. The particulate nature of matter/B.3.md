@@ -33,4 +33,13 @@ $$\dfrac{P_1 V_1}{T_1} = \dfrac{P_2 V_2}{T_2}$$
 - For this... we have an **ideal gas**
 - **Ideal gas** - imaginary gas that is used to model real gases, and has the following properties
 	- identical perfect spheres
-	- 
+	- Perfectly elastic 
+	- no intermolecular forces - potential energy does not change
+	- so small that their volume is much smaller than the volume of their container
+## Ideal gas law
+$$PV = n RT$$
+P = pressure - Pa
+V = volume - $m^3$ 
+n = amount of substance - number of moles
+R = ideal gas constant - 8.31, ($Jk^{-1}mol^{-1}$)
+T = temperature
