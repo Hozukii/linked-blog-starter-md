@@ -43,3 +43,30 @@ V = volume - $m^3$
 n = amount of substance - number of moles
 R = ideal gas constant - 8.31, ($Jk^{-1}mol^{-1}$)
 T = temperature
+
+# Introdcution to thermal nergy transfer
+- Thermal energy is the internal energy present in a system due to t e motion of its particles
+- Thermal energy can be transferred via three primary mechanisms
+	- conduction
+	- convection
+	- thermal radiation
+	
+## Conduction
+- Temperature is a measure of average kinetic energy
+- Substance with a high temperature is able to give some of that energy to the particles next to it and so on 
+- Only works in solid and thermal energy always moves from high energy to low energy 
+## Convection
+- Substance with a high temperature is able to give some of that energy to the particles next to it and so on.
+- This only works in a liquids and gases as the higher kinetic energy particles are further apart (potential) and thus are lower in density meaning they move upwards.
+## Radiation
+- This has no real temperature 
+- Radiation is the movement of electromagnetic waves through a vacuum
+- this only works in a vacuum and wavelengths, such as those in infra red, could add energy to a substance and heat it up. 
+## Thermal conduction
+$$\dfrac{\Delta Q}{\Delta t} = k \cdot A \cdot \dfrac{\Delta T}{\Delta x}$$
+- $\Delta Q / \Delta t$: Rate of heat transfer(energy per unit time)
+- k: thermal conductivity of the material(W/mk)
+- A: cross-sectional area through which heat is being transferred
+- $\Delta T$: Temperature difference across the material(in kelvin; K)
+- $\Delta x$: thickness of the material(in metres, m)
+- 
