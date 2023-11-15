@@ -69,4 +69,7 @@ $$\dfrac{\Delta Q}{\Delta t} = k \cdot A \cdot \dfrac{\Delta T}{\Delta x}$$
 - A: cross-sectional area through which heat is being transferred
 - $\Delta T$: Temperature difference across the material(in kelvin; K)
 - $\Delta x$: thickness of the material(in metres, m)
+## High k or a low k
+- Materials with a  high k value are good conductors of heat
+- heat energy moves rapidly through such materials
 - 
