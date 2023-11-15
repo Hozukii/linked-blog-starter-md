@@ -38,25 +38,55 @@ $$\dfrac{P_1 V_1}{T_1} = \dfrac{P_2 V_2}{T_2}$$
 - So far, we have only discussed fixed amount of gas. we need to include *any* kind of gas
 - Pressure of a fixed volume of gas at constant temperature is $\propto$ the amount of gas
 - This leads us to $PV \propto nRT$
-### Ideal gas law
+#### Pressure-volume diagrams 
+**PV diagram** - a graphical way of representing changes to the state of gas during a thermodynamic process
+- The state of a known amount of gas, as defined by values of its pressure, volume and teperature, can be identified as a point on a pressure.
+# Modelling gas behaviour: ideal gases 
 Gasses aren't really that consistent
 - Therefore, we make an approximation
 - For this... we have an **ideal gas**
 - **Ideal gas** - imaginary gas that is used to model real gases, and has the following properties
 	- identical perfect spheres
-	- Perfectly elastic 
+	- Perfectly elastic collisions
 	- no intermolecular forces - potential energy does not change
 	- so small that their volume is much smaller than the volume of their container
+	- There are no forces between the particles, except when they collide. 
 >[!abstract] ideal gas law
->PV = nRT
+>$$PV = nRT$$
 >R  = **universal(molar) gas constant**. Has a value of $8.31JK^{-1} mol^{-1}$
+>n = amount of substance(mole)
 >
 
 - R is the macroscopic equivalent to the **Boltzmann constant, k**
 	- Discussed in: [[B.1 Thermal Energy transfers#Microscopic understanding of temperature]]
-- 
-	
-#### Pressure-volume diagrams 
-**PV diagram** - a graphical way of representing changes to the state of gas during a thermodynamic process
-- The state of a known amount of gas, as defined by values of its pressure, volume and teperature, can be identified as a point on a pressure.
-- 
+## Mathematical model for gas behaviour
+- We will consider one particle in a 
+- Pressure of an ideal gas:
+$$ P = \dfrac 13 Nm \dfrac{v^2} V $$
+since $Nm$ is the total mass of the gas, $\dfrac {Nm} V$ is the density of the gas, $\rho$, leadig to an alternative expression:
+$$P = \dfrac 13 pv^2$$
+## Internal energy of an ideal gas
+- **internal energy of an ideal gas,** $U$, - the sum of the random translational kinetic energies of all molecules.
+- It can be calculated by multiplying the number of particles by their average random translational kinetic energy
+$$ U = N \cdot \dfrac12 mv^2$$
+- Comparing $PV = nRT$ with $PV = \dfrac 13 Nmv^2$ we see that: $nRT = \dfrac 13 Nmv^2$
+- rewritten as:
+$$nRT = \dfrac 23 U$$
+- Which is internal energy of an ideal gas
+- if we divide $U$ by number of particles, $N$ we get the *average random translational kinetic energy of a single atom of an ideal gas*, $\bar E_k$
+$$\bar E_k = \dfrac 32 \dfrac{nRT}{N}$$
+
+- Since $\dfrac nM$ = Avogadro constant, $N_A$, so that: $\bar E_k = \dfrac 32 \dfrac {RT}{N_A}$
+- Since $k_B = \dfrac RN_A$, Boltzmann constant, 
+- $\bar E_k = \dfrac 32 k_B T$ which is the average translational kinetic energy of a gas particle mentioned before,
+- [[B.1 Thermal Energy transfers#Microscopic understanding of temperature]]
+- At the same temperature, all gasses contain molecules with the same average random translational kinetic energy
+- Now we know that, Internal energy of an ideal monatomic gas: $U = \dfrac 32 N k_B T$
+- We can also re-write the ideal gas law as: $PV = N K_B T$
+## Real gases compared to ideal gases
+- Most **real gases** behave like ideal gases unless their pressure or density is very high, or the temperature is very low. 
+##### More info
+- This will not be true if there are significant differences from the stated assumptions of ideal gas such as:
+- at high densities, particles will be closer together than assumed. The forces between them may not be negligible
+- At low temperature, forces between particles will have greater effect because they are moving slower. Most real gases will also turn into liquids and so
+
