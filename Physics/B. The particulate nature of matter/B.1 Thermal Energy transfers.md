@@ -184,3 +184,10 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 - Latent heat associated with freezing or melting is called **specific latent heat of fusion**, $L_f$ 
 - Latent heat associated with boiling or condensing is known as **specific latent heat of vaporization**, $L_v$
 ![[Pasted image 20231103140404.png | 400]]
+
+| hello     | Hello       | bye  |
+| --------- | ----------- | ---- |
+| eueuthueu | etuheouheou | eueu |
+| eoueou    | ueoueo      | ueoueo     |
+
+
