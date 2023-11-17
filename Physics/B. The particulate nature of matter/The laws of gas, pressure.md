@@ -81,4 +81,6 @@ $\sigma$, The stefan-boltzman constant, approximately equal to $5.67 \cdot 10^{-
 A: the surface area of the emitting body
 T the absolute temperature of the body in Kelvin
 - It tells us that hotter objects will radiate more energy than cooler ones as indicated by the temperature being raised to the fourth power
+# Black body radiation
+- Depending on the colour of a solid you can determine what wavelenghts it cannot absorb 
 - 
