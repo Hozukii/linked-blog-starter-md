@@ -82,5 +82,15 @@ A: the surface area of the emitting body
 T the absolute temperature of the body in Kelvin
 - It tells us that hotter objects will radiate more energy than cooler ones as indicated by the temperature being raised to the fourth power
 # Black body radiation
-- Depending on the colour of a solid you can determine what wavelenghts it cannot absorb 
-- 
+- Depending on the colour of a solid you can determine what wave lengths it cannot absorb 
+- A black body absorbs all wavelenghts. As it heats up it emits all wavelenghts, caled black-body radiation
+- The nature of the emitted radiation depends on three emitter parameters:
+	- Absolute temperature, T
+	- Surface area, A
+	- Emissivity, e
+	- **Emissivity,e** - the ratio of the power per unit area radiated by the objcet to that of a black body at the same temperature
+	- **black body** - an object or system that absorbs all electromagnetic radiation incident on it and re-radiates energy that is characteristic only of itself, independent of the incident radiation.
+	- Solids can be heated to incandescence and different temperatures will have different visible radiation
+	- Two trends emerge:
+		- The higher the temperature the greater the intensity at all wavelengths
+		- The higher temperature of the smaller the wavelength of the maximum intensity.
