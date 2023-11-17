@@ -72,3 +72,13 @@ $$\dfrac{\Delta Q}{\Delta t} = k \cdot A \cdot \dfrac{\Delta T}{\Delta x}$$
 ## High k or a low k
 - Materials with a  high k value are good conductors of heat
 - heat energy moves rapidly through such materials
+
+
+# Stefan Boltzmann Law
+$$L = \sigma AT^4$$
+L: the total power radiated per unit area
+$\sigma$, The stefan-boltzman constant, approximately equal to $5.67 \cdot 10^{-8}W/m^2K^2$
+A: the surface area of the emitting body
+T the absolute temperature of the body in Kelvin
+- It tells us that hotter objects will radiate more energy than cooler ones as indicated by the temperature being raised to the fourth power
+- 
