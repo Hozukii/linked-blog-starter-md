@@ -95,8 +95,9 @@ T the absolute temperature of the body in Kelvin
 		- The higher the temperature the greater the intensity at all wavelengths
 		- The higher temperature of the smaller the wavelength of the maximum intensity.
 	-
-
-# wien's displacement law
+with emissivity, the Stefan Boltzmann law becomes: 
+$$L = \sigma \varepsilon AT^4$$
+# Wien's displacement law
 **Wien's displacement law** - tell us the wavelength of the maximum intensity $\lambda_{max}$ for black bodies at temperature T in Kelvin 
-$\lambda_{max} = 2.90 \cdot 10^{-3} / T$
-![[Pasted image 20231117135902.png]]
+$\lambda_{max} = \dfrac{2.90 \cdot 10^{-3}}T$
+![[Pasted image 20231120150836.png | 400]]
