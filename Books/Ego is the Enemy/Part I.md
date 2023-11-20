@@ -156,5 +156,20 @@ This isn't about the fact that don't boast because you don't deserve it. Just do
 - Encroach - intrude on
 - Myopic -  short sighted
 - Onanistic - relating or involving masturbation
+# WORK WORK WORK
+#### Chapter summary 
+#### Important passages
+- You can't build a reputation on what you are going to do
+- The idea doesn't build itself so after you have an idea, there is hard work 
+- work, work, work, forever. Is there ten thousand or twenty thousand hours of work? It doesn't matter just work. 
+- Our ego wants the planning and all the idea building to be the hard work. 
+- Ultimately, what you decide to put your energy into is what you will accomplish 
+- You can lie to yourself that you will do it tomorrow or later but eventually someone will show up and do it faster than you
+- Make it so you don't have to fake it.
+- There is work to be done. Work doesn't want to be good. It just is so
+#### Terms
+- dilettante - A person who develops an area of interest without prior knowledge
+# FOR EVERYTHING THAT COMES NEXT, EGO IS THE ENEMY
+To do not to be. No one at the end of their life has ever said that their big ego paid off. 
 
 Link:[[Ego is the Enemy - Ryan Holiday]]
