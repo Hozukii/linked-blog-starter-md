@@ -10,7 +10,7 @@
 - Using Wien's law we can determine that the temperate of the sun is **5780K**
 - We can find the luminosity, using Stephan Boltzmann's law  $L_{\odot} = \sigma AT^4$
 	- Also discussed on [[B.1 Thermal Energy transfers#Black bodies]]
-- $L_{\odot} = \sigma AT^4 = (5.67 \cdot 10^{-8}) \cdot (6.05 \cdot 10^18) \cdot 5780^4 = 3.83 \cdot 10^{26} W$
+- $L_{\odot} = \sigma AT^4 = (5.67 \cdot 10^{-8}) \cdot (6.05 \cdot 10^{18}) \cdot 5780^4 = 3.83 \cdot 10^{26} W$
 - We can also calculate the apparent brightness, b, of the sun just above the earth's atmosphere: $\text{intensity} = \dfrac{power}{area} \space I = \dfrac PA$
 - $b = \dfrac{L_{\odot}}{4 \pi d^2} = 1.35 \cdot 10^3 Wm^{-2}$
 - **Solar constant**, S - intensity of the sun's radiation arriving perpendicularly on an area above the Earth's atmosphere
