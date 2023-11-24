@@ -19,3 +19,5 @@
 - State A: 
 - State B:
 - State C:
+## Ideal gas vs real gas
+PV = nRT describes the behaviour of real gas only *Low pressures and large volumes*
