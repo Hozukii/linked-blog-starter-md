@@ -1,0 +1,17 @@
+- Work is force x distance
+- So in a gas, what is the force
+- Force when discussing an ideal gas is pressure (P) F/A
+- So then $W = \dfrac{F}{A \cdot d}$
+- d is the volume
+- **Isobaric** - pressure is remaining constant
+- The volume will change when force is applied because the gas will expand.
+- Therefore $W = P\Delta V$ 
+- $\Delta V$ - Change in volume
+- **Isovolumetric** - constant volume
+- **isothermal** - constant temperature
+#### Adiabatic
+- An adiabatic process in one in which no heat is transferred into or out of teh system
+- Work done on or by the system changes its internal energy, which can lead to changes in temperature eventually
+- In an adiabatic compression, the temperature rises
+- adiabatic expansion - the temperature falls, without any heat being exchanged with the environment
+- 
