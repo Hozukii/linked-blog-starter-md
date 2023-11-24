@@ -14,4 +14,8 @@
 - Work done on or by the system changes its internal energy, which can lead to changes in temperature eventually
 - In an adiabatic compression, the temperature rises
 - adiabatic expansion - the temperature falls, without any heat being exchanged with the environment
-- 
+## Thermodynamic cycles
+- A fixed quantity of a gas undergoes a cycle by changing between the following three states
+- State A: 
+- State B:
+- State C:
