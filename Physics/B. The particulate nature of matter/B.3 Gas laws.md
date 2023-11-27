@@ -59,7 +59,7 @@ Gasses aren't really that consistent
 >
 
 ####  Universal gas constant
-
+- How much energy(joule) of one mol's worth of gas increases by everytime temperature is increased by 1K
 - R is the macroscopic equivalent to the **Boltzmann constant, k**
 	- Discussed in: [[B.1 Thermal Energy transfers#Microscopic understanding of temperature]]
 ## Mathematical model for gas behaviour

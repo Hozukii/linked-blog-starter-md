@@ -49,6 +49,8 @@ Si unit: $kgm^{-3}$
 >Kelvin Temperature - $T$
 
 - A temperature rise is equivalent to the particles gaining kinetic energy
+#### Boltzmann's constant
+- How much energy(joule) of one gas molecule increases by every time temperature is increased by 1K
 - $k_B = \dfrac nN R = \dfrac 1N_A R$
 - $n$ - number of mole
 - $N$ - number of molecules
