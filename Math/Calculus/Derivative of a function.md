@@ -23,3 +23,18 @@ $$\dfrac d{dx} [f(x) \cdot g(x)] = f(x) \cdot g'(x) + g(x) \cdot f'(x)$$
 $$f'(z) = f'(g(x)) \cdot g'(x), z = g(x) $$
 - Used for composite functions for example:
 $$\dfrac d{dx}[(f(x))^n] = n(f(x))^{n-1} \cdot f'(x)$$
+### Quotient rule
+$$\left[
+\dfrac {f(x)}{g(x)}
+\right]' 
+= \dfrac {f'(x) \cdot g(x) - f(x) \cdot g'(x)}{[g(x)]^2}$$
+### Derivative of the Exponential  
+$$[a^{f(x)}]' = a^{f(x)} \cdot ln(a)\cdot f'(x)$$
+$$e^{f(x)} = e^{f(x)} \cdot f'(x)$$
+$b^x \cdot f'(0)$ : If we find base "b" such that $f'(x) = 1$ then the derivative of $f(x)$ would be the same as $f(x)$ itself. which is $e$ which is the Euler's number 
+
+$$e \approx 2.718$$
+### Derivative of the Logarithmic function
+ $$[ln(x)]' = \dfrac 1x$$
+ $$[log_a (x)]' = \dfrac 1{x \cdot lna}$$
+  
