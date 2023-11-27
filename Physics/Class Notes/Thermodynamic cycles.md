@@ -21,3 +21,14 @@
 - State C:
 ## Ideal gas vs real gas
 PV = nRT describes the behaviour of real gas only *Low pressures and large volumes*
+
+# Zeroth law of thermodynamics 
+- If two systems are each in thermal equilibrium with a third system, they are in thermal equilirium
+# First law of Thermodynamics
+$\Delta U = Q - W$ , where $\Delta U$ is the change in internal energy, Q is the heat added to the system and W is the work done by the system.
+$$Q = \Delta U + W$$
+# Second law of thermodynamics
+- The entropy of any isolated system always increases. Heat cannot spontaneously flow from a cooler location to a hotter location. 
+# Third law of Thermodynamics 
+- The entropy of a system approaches a constant value as the temperature approaches absolute zero
+- 
