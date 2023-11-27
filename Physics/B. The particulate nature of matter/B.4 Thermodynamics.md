@@ -8,4 +8,6 @@
 >[!abstract] Isobaric work
 >- Work done when a gas changes volume at constant pressure, $W = P\Delta V$
 
+- **State of a gas** - Specified by quoting the pressure, P, T, V, n
 
+# First law of Thermodynamics
