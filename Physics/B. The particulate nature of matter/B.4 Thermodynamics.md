@@ -22,3 +22,7 @@ $$U = \dfrac 32 Nk_B T = \dfrac 32 nRT $$
 So the change in internal energy, $\Delta U$ of an ideal monatomic gas can be calculated from:
 
 $$\Delta U = \dfrac 32 Nk_B \Delta T = \dfrac 32 nR\Delta T$$
+## Q, U and W 
+- Here $\Delta U$ is the change in internal energy U of the system
+- Q is the net heat transferred into the system - that is, Q is the sum of all heat transfer into and out of the system
+-  W is 
