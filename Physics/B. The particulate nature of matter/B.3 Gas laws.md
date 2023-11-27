@@ -58,6 +58,8 @@ Gasses aren't really that consistent
 >n = amount of substance(mole)
 >
 
+####  Universal gas constant
+
 - R is the macroscopic equivalent to the **Boltzmann constant, k**
 	- Discussed in: [[B.1 Thermal Energy transfers#Microscopic understanding of temperature]]
 ## Mathematical model for gas behaviour

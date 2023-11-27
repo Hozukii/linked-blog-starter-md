@@ -49,7 +49,11 @@ Si unit: $kgm^{-3}$
 >Kelvin Temperature - $T$
 
 - A temperature rise is equivalent to the particles gaining kinetic energy
-- 
+- $k_B = \dfrac nN R = \dfrac 1N_A R$
+- $n$ - number of mole
+- $N$ - number of molecules
+- R - [[B.3 Gas laws#Universal gas constant]]
+- $k_B$ is the microscopic equivalence of the [[B.3 Gas laws#Universal gas constant]] 
 ## Internal energy 
 - All substances contain moving particles. 
 - moving particles have kinetic energy. 
