@@ -2,7 +2,8 @@
 - **Internal Energy** of a substance is the sum of total random kinetic energies and total potential energies of all the particles inside it
 	- The word random means that the particles movement are disorder and unpredictable
 - **Thermal Energy** - the energy associated with heat and temperature. Thermal energy appears as a result of friction, air resistance, impacts, and other interactions between obects. 
-	- Thermal energy is a measurement of the random kinetic energy of vibrating particles in an [[B.1 Thermal Energy transfers]]object
+- Thermal energy refers to the energy contained within a system that is responsible for its temperature. Heat is the flow of thermal energy. A whole branch of physics, thermodynamics, deals with how heat is transferred between different systems and how work is done in the process
+	- Thermal energy is a measurement of the random kinetic energy of vibrating particles in an object
 	- Variable $E_{int}$ Unit: $J$
 ## Kinetic theory of matter
 - All matter is composed of a very large number of small particles that are in constant motion
@@ -48,6 +49,7 @@ Si unit: $kgm^{-3}$
 >Kelvin Temperature - $T$
 
 - A temperature rise is equivalent to the particles gaining kinetic energy
+- 
 ## Internal energy 
 - All substances contain moving particles. 
 - moving particles have kinetic energy. 
