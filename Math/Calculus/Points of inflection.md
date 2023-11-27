@@ -1,0 +1,6 @@
+- Points of inflection are points at which a given curve changes its concavity
+- Now given that there is  a point of inflection at x=a (which is differentiable) then:
+	- $f''(a) = 0$
+	- the sign of $f''(x)$ changes at x =a
+	- Also if both are satisfied and $f'(a) = a$ then we have a stationary inflection
+	- Otherwise the inflection point is non-stationary
