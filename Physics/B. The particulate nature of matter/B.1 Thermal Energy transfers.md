@@ -32,7 +32,6 @@ Si unit: $kgm^{-3}$
 - Being in **thermal contact** means energy can be transferred between them, by any means
 
 ### Kelvin scale of temperature
-
 - its widely used in science
 - **absolute zero** which is $-273.15 ^\circ C$ is experssed as $0K$
 - They go up the same way so:
@@ -60,7 +59,10 @@ Si unit: $kgm^{-3}$
 - In solids and liquids, the electrical forces keeps them from moving apart or moving closer together. 
 - If the average separation of the particles in a solid or liquid increases, so too does their potential energy(and the total internal energy of the substance)
 - In gasses however, forces between molecules are usually negligible.
-
+# Heat
+- **Heat** - energy that is transferred from one body to another as resulf of a difference in temperature
+- Energy transferred from a hot to a cold body by heating increases the internal energy of the cold body. 
+- Work done on the particles of a substance increases potential energy of the particles, and so increases internal energy
 # Thermal energy 
 - Thermal energy is the transfer of energy because of a temperature difference
 - There are three principal ways in which thermal energy can be transferred:
