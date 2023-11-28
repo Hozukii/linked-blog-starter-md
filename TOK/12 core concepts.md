@@ -1,0 +1,12 @@
+- Evidence
+- certainty
+- truth 
+- interpretation
+- power
+- justification
+- explanation
+- objectivity
+- perspective
+- culture 
+- values
+- responsibility
