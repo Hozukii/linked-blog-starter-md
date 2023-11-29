@@ -26,3 +26,8 @@
 - 550-3200km
 - Air so thin there is great visibility
 - satellites orbit here
+## Secondary energy source
+- **Secondary energy source** - an energy source, such as electricity or hydrogen, which has been transformed from a primary energy source before use by the consumers
+# Specific energy and energy density of fuel sources
+- **Specific energy**$E_{sp}$  - how much energy (J ) you can get per unit mass(kg) from a fuel. $Jkg^{-1}$
+- **Energy density** $E_{D}$ - is how much energy you can get per unit volume. $Jm^{-1}$
