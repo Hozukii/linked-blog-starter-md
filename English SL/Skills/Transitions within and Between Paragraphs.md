@@ -8,3 +8,7 @@
 | Cause/ Effect         | Accordingly, consequently, hence, so, therefore, thus                                                                                                        |
 | Conclusion            | Finally, in a word, in brief, in conclusion, in the end, in the final analysis, on the whole, thus, to conclude, to summarize, in sum, to sum up, in summary |
 
+![[Pasted image 20231130202806.png]]
+![[Pasted image 20231130202824.png]]![[Pasted image 20231130202924.png]]
+- The word finally, 
+- Preparing for upcoming violence is connected to pickup arms and defend
