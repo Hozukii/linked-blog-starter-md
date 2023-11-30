@@ -43,4 +43,27 @@ $$0 = \Delta U + W$$
 $$Q = \Delta U + W$$
 and $W = P\Delta V$
 - Any expansion or compression that occurs at constant pressure. 
+# Thermodynamic cycles and PV diagrams
+- **Thermodynamic cycles** - Series of thermodynamic processes that return a system to its original state
+- The essential process in a heat engine is the transfer of thermal energy to produce expansion and do useful mechanical work 
+![[Pasted image 20231130210119.png]]
+## Efficiency of heat engines
+- Efficiency is something previously discussed[[A.3 Work, Energy, and Power#Efficiency]]
+- Efficiency of a heat engine:
+$$\eta = \dfrac{\text{useful work}}{\text{input work}}$$
+- Heat engines need a flow of thermal energy, which always flows frmo a hotter to colder regien. Some of that energy, but never all of it, is transferred to do useful work
+![[Pasted image 20231130211009.png| 250]]
+- A temperature difference is need so that there is flow of thermal energy. 
+- Thermal energy $Q_h$ flows out of the hot reservoir and $Q_c$ flows into the cold reservoir. 
+- The difference in thermal energy is transferred to do useful mechanical work, $W$
+$$\eta = \dfrac{Q_h-Q_c}{Q_h}$$
+#### Carnot cycle
+- **Carnot cycle** - The thermodynamic cycle that produces the maximum theoretical efficiency
+![[Pasted image 20231130211320.png]]
+1. An isothermal expansion(AB)
+2. Adiabatic expansion(BC)
+3. Gas then returns to its original state by Isothermal(CD) and adiabatic compressions(DA)
+- Efficiency of a heat engine using the carnot cycle
+$$\eta_{carnot} = 1 - \dfrac{T_c}{T_h}$$
+- Explanation in the entropy section
 - 

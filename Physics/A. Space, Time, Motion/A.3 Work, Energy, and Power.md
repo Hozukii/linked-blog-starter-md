@@ -49,7 +49,7 @@ Total amount of energy in an isolated system remains constant because of [[The C
 >Elastic Potential Energy, $E_H = \dfrac12 k \Delta x^2$
 
 
->
+>[!info]
 Work can be done on a macroscopic object to give it kinetic, gravitational potential, or elastic potential energy. 
 The symbol, $E$ can be used to represent energy(E is also used for electric field)
 
