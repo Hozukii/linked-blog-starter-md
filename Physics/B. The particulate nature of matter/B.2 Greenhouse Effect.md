@@ -12,7 +12,7 @@
 	- Also discussed on [[B.1 Thermal Energy transfers#Black bodies]]
 - $L_{\odot} = \sigma AT^4 = (5.67 \cdot 10^{-8}) \cdot (6.05 \cdot 10^{18}) \cdot 5780^4 = 3.83 \cdot 10^{26} W$
 - We can also calculate the apparent brightness, b, of the sun just above the earth's atmosphere: $\text{intensity} = \dfrac{power}{area} \space I = \dfrac PA$
-- $b = \dfrac{L_{\odot}}{4 \pi d^2} = 1.35 \cdot 10^3 Wm^{-2}$
+- $b = \dfrac{L_{\odot}}{4 \pi d^2} = 1360Wm^{-2}$
 - **Solar constant**, S - intensity of the sun's radiation arriving perpendicularly on an area above the Earth's atmosphere
 ![[Pasted image 20231107213646.png | 350]]
 
