@@ -1,4 +1,4 @@
-- **Thermodynamics** - Branch of physics involving transfers of thermal energy to do useful work
+  - **Thermodynamics** - Branch of physics involving transfers of thermal energy to do useful work
 # Work done when Gas Expands
 - **Isobaric **- Occuring at constant pressure
 - Work done = force x distance
