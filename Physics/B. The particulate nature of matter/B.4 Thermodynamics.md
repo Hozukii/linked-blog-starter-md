@@ -66,4 +66,40 @@ $$\eta = \dfrac{Q_h-Q_c}{Q_h}$$
 - Efficiency of a heat engine using the carnot cycle
 $$\eta_{carnot} = 1 - \dfrac{T_c}{T_h}$$
 - Explanation in the entropy section
-- 
+## Reversible and Irreversible Changes 
+- **Irreversible process** - A process which cannot be reversed, and in which entropy always increases. All real macroscopic processes are irreversible 
+	- Such as the required flow of some thermal energy into a cold reservoir. 
+- **Reversible process** - A process that can be reversed so that the system and all of its surroundings return to their original state and there is no change in entropy. Impossible in macroscopic level
+- Without outside interference, in any processes, ordered energy of particles will be irreversibly transferred to disordered energy. 
+## Entropy 
+**Entropy**, S - A measure of the disorder of a thermodynamic system of particles
+## Second law of thermodynamics
+- The overall entropy of the universe is always increasing. This implies that energy cannot spontaneously transfer from a place at low temperature to a place at high temperature. 
+### Disorder and entropy in macroscopic systems 
+- Gas in a large volume is more disordered / has greater entropy than the same gas at the same temperature in a smaller volume 
+- Gas at higher temperature is more disorder / has greater entropy than the same gas in the same volume at a lower temperature 
+- A liquid is more disordered / has greater entropy than a solid of the same material at the same temperature 
+### Representing entropy mathematically
+- To express entropy of a system of particles numerically, we need to countthe number of ways that the system can be arranged. 
+- **microstates** - the numerous possible combinations of microscopic properties of a thermodynamic system
+	- The greater the number of possible microstates of a system, the greater its disorder and the greate its entropy. 
+- The symbol $\Omega$ is used to represent the number of possibele microstates of a system / its multiplicity. 
+- $\Omega$ is a large number, $ln\Omega$ is more manageable 
+>[!abstract] Etropy of a system of microscopic particles
+>$$ S = k_B \cdot ln\Omega$$
+>SI unit:$JK^{-1}$
+
+>[!note]  Change of entropy of a macroscopic situation
+>$\Delta S = \dfrac{\Delta Q}{T}$
+>SI Unit: $JK^{-1}$
+>$\Delta S$ - Change in entropy
+>$\Delta Q$ - Thermal energy supplied or removed. 
+>$T$ - Constant temperature
+
+### Entropy in the Carnot Cycle
+![[Pasted image 20231203214047.png | 400]]
+- The theoretical Carnot cycle is a reversible process , so that there is no overall change of entropy at the end of each cycle. 
+- During the isothermal expansion, AB, thermal energy is supplied, but the entropy rises and the volume rises. 
+- During the adiabatic expansion, BC, the pressure and temperature decrease, but the entropy remains the same. 
+- During the isothermal compression, CD, thermal energy is removed, the temperature remains constant the entropy falls as the volume decreases. 
+- During the adiabatic compression, DA, the pressure and the temperature increase, but the entropy remains the same. 
