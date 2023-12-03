@@ -29,3 +29,21 @@ Make sure you know what is most important to you in life or else you might lose 
 - Life requires trade-offs, but ego can't allow it. So why do you do what you do?
 #### Terms 
 Abhor - regard with hatred and disgust 
+# ENTITLEMENT, CONTROL, AND PARANOIA
+#### Chapter summary
+Once we succeed, we begin to overestimate our power. We think "We're he because we're bigger, stronger, and smarter." We must regularly remind ourselves of our power and limits. Not everything is in our control. 
+#### Important passages
+#### Terms
+- **anthropomorphize** - attribute human characteristics or behaviour to
+# MANAGING YOURSELF
+If we can't manage ourselves. We wouldn't be able to manage others. We would start to hyper fixate on other people because of our own incompetence. Urgent and important are not synonyms
+# BEWARE THE DISEASE OF ME
+Beginning to think that we're better, that we're special, that our problems and experiences are so incredibly different from others that they wouldn't possibly be able to understand is dangerous. 
+We never ear the right to be greedy or to pursue our interests at the expense of others
+Cheryl Strayed said: "You're becoming who you are going to be and so you might as well not be an asshole"
+#### Terms
+- **Magnanimous** - being generous or forgiving, especially to a rival or less powerful person 
+# MEDITATE ON THE IMMENSITY 
+Remind yourself how much came before you and how many will live after. Remind yourself how pointless it is to get mad. When we lack a connection to anything larger or bigger than us, it's like a piece of our soul is gone. 
+#### Terms
+**sympatheia** - A connectedness with the cosmos. A sense of belonging to something larger, of realizing that "human things are an infinitesimal point in the immensity"
