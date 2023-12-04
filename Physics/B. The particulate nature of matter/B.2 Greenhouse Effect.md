@@ -17,5 +17,54 @@
 ![[Pasted image 20231107213646.png | 350]]
 
 - The mean value of the radiative intensity directed at the surface of the planet is: $S \cdot (\dfrac{\pi r^2}{4\pi r^2}) = \dfrac{S}{4}$
+- For Earth that would be $340Wm^{-1}$
 # Non-Black bodies: albedo and emissivity
+## Albedo
+ - **Albedo** - The total scattered or reflected power/ total incident power. Albedo depends on the nature of the surface and inclination of the radiation to the surface
+	 - $albedo = \dfrac{P_{scattereded}}{P_{ncident}}$ No units
+- **Incident wave, or ray** - Wave arriving at an object or a boundary
+- **Scattering** - Irregular reflections of waves or particles from their original path by interactions with matter
+- A perfect black body would have an albedo of 0 : all incident themal energy would be absorbed. A perfect mirror would have albedo of 1. 
+- Albedo of earth is about 0.315
+## Emissivity
+- **Emissivity** - compares the power of the thermal radiation emitted by a surface to that of a black body at the same temperature. Surface with a greater emissivity emits thermal energy with more power.
+- $Emissivity = \dfrac{\text{power radiated per unit area}}{\sigma T^4}$
+- The symbol $e$ or ($\varepsilon$)is sometimes used for emissivity.
+# Modelling a planet's energy balance 
+- To calculate the earth's temperature, we have the following relevant data:
+	- Solar constant = $1.46 \cdot 10^3 Wm^{-2}$
+	- Radius of the  Earth = $6.4 \cdot 10^6m$
+	- Average emissivity of the Earth = $0.61$
+	- Average albedo of the Earth = $0.315$
+- As explained before radiant energy received = radiant thermal energy emitted
+- Solar constant  x cross-sectional area of planet x (1-albedo) = emissivity x $\sigma$ x surface area of planet x $T^4$
+## Effect on the Earth's atmosphere: Greenhouse effect
+- So far, we have modelled the Earth's energy balance by treating the planet and the atmosphere as one system. We now need to consider transfers of energy within that system
 
+#### Comparing the radiation emitted by the Sun to the radiation emitted by Earth
+![[Pasted image 20231204201824.png | 400]]
+- The horizontal scale is not linear and the relative height for the Earth' spectrum has bee *greatly* exaggerated for clarity
+- Compared to radiation from the Sun, the thermal radiation from the earth is at a much lower power, with much longer wavelengths
+ - A smaller proportion of the infrared from the Earth' s surface is able to pass back out through the same atmosphere. However, over time, the temperature will adjust so that:
+- Total thermal power received = total thermal power radiated
+#### Energy flow through the Earth's atmosphere
+- The mean intensity of thermal radiation arriving at the earth form the sun is $340Wm^{-2}$
+	- [[#Luminosity and apparent brightness of the sun the solar constant]]
+- albedo of the Earth and its atmosphere is 0.315 meaning that only 68.5% of that 340 is absorbed in the atmosphere or the Earth's surface.
+![[Pasted image 20231204202928.png|550]]
+
+## Greenhouse gases
+- The air in the atmosphere approximately (by volume) contains 78% nitrogen, 21% oxygen and 0.9% argon
+- There are also naturally occuring traces of many other gases, including carbon dioxide and water vapour. 
+- Some of these trace gases are called **greenhouse gases**
+- **Greenhouse gases**  - Gases in the Earth's atmosphere that absorb and re-emit infrared radiation, thereby affecting the temperature of the Earth. The principal greenhouse gases are water vapour, carbon dioxide, methane, and nitrous oxide. 
+- Molecules of the greenhouse gases  absorb some of the thermal radiation emitted by the Earth's surface. Without these gases, the radiation would continue to travel away from the planet. The molecules will re-radiate the same energy but in random directions. 
+### Explanation of absorption of infrared by using Carbon dioxide
+- Molecules of greenhous e gases absorb infrared radiation because the atoms within their molecule are not at rest
+	- See [[C.1 Simple harmonic motion]]
+![[Pasted image 20231204203750.png|150]]
+- IF the atoms in a molecule vibrate at the same frequency as the infrared radiation passing through the greenhouse gas, then energy can be absorbed
+	- Effect known as the resonance 
+	- See:  [[C.4 Standing waves and resonance]]
+- It raises the molecule to a higher energy level which is quickly released again as the molecule returns to its lower energy level, but the energy is radiated in random directions.
+# Enhanced greenhouse effect: Global warming 
