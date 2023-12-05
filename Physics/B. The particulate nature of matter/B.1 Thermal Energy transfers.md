@@ -21,7 +21,7 @@
 $$density = \dfrac{mass}{volume}, \rho = \dfrac mV si $$
 Si unit: $kgm^{-3}$
 
-- When solids and liquids are heated to a higher temperature, they will usually **expand** s/ightly in size. 
+- When solids and liquids are heated to a higher temperature, they will usually **expand** slightly in size. 
 - Gas will expanded only if they are in a container that will allow that to happen
 
 # Temperature
@@ -29,7 +29,7 @@ Si unit: $kgm^{-3}$
 
 - **Temperature** - describes how hot or cold an object is and determines the direction of heat flow between two bodies
 - The resultant flow o thermal energy is always from higher temperature to lower temperature
-- objects with no net transfer of thermal energy then the they are in  **thermal equilibrium*
+- objects with no net transfer of thermal energy then the they are in  **thermal equilibrium**
 - Being in **thermal contact** means energy can be transferred between them, by any means
 
 ### Kelvin scale of temperature
@@ -54,6 +54,7 @@ Si unit: $kgm^{-3}$
 - $k_B = \dfrac nN R = \dfrac 1N_A R$
 - $n$ - number of mole
 - $N$ - number of molecules
+- $N_A$ - Avogadro's constant
 - R - [[B.3 Gas laws#Universal gas constant]]
 - $k_B$ is the microscopic equivalence of the [[B.3 Gas laws#Universal gas constant]] 
 ## Internal energy 
