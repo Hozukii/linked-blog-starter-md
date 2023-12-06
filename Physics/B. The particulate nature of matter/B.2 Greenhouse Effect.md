@@ -67,4 +67,44 @@
 	- Effect known as the resonance 
 	- See:  [[C.4 Standing waves and resonance]]
 - It raises the molecule to a higher energy level which is quickly released again as the molecule returns to its lower energy level, but the energy is radiated in random directions.
-# Enhanced greenhouse effect: Global warming 
+# Enhanced greenhouse effect: global warming
+- For the last 300 years, we have been using vast store of chemical potential available from the combustion of coal, oil and natural gas. 
+- These energy sources are called **fossil fuels**
+- **Fuel** - A store of chemical or nuclear energy that can be used to do useful work
+- **Fossil fuels** - Naturally occurring fuels that have been produced by the effects of high pressure and temperature on dead organisms over a period of millions of years. 
+- The released of increased amounts of greenhouse gases into the atmosphere is responsible for **global warming**
+- Increased concentrations of greenhouse gases in the atmosphere results in more of the thermal energy that is radiated away from the Earth's surface being absorbed in the atmosphere, some of which is re-radiated randomly back to the surface, increasing its average temperature.
+- Fossil fuels are polluting and **non-renewable**
+- The burning of fossil fuels is almost certainly the greatest cause of the enhanced greenhouse effect. 
+![[Pasted image 20231205174748.png| 500]]
+![[Pasted image 20231205174802.png|500]]
+- These two graphs clearly shows the **correlation** between carbon dioxide levels and increase in temperature. 
+## Consequences of the enhanced greenhouse effect 
+- Increasing temperature of the oceans, land and atmosphere 
+- Climate change, melting snow and ice
+- More frequent extreme weather conditions
+- Rising sea levels with increased acid levels
+## What are the possible solutions to climate change 
+There is a wide range of actions that individuals and governments can take
+- Support government who will take appropriate and prompt action.
+- Accept higher taxation as a method of discouraging energy intense activities and the use of fossil fuels 
+- Invest in renewable energy sources for individual homes.
+- Use energy-efficient devices and use them less frequently
+- Improve home insulation against both hot and cold weather
+- reduce the temperatures of homes and hot water used in shows and washing machines(in cold countries)
+- Increase the temperature settings on air-conditioners(hotter countries)
+- Waste less, Re-use, and buy less
+- Reduce methane emissions
+- Eat less, especially less
+- Make public transport better 
+- Support sustainable businesses
+- Limit travel
+- Reforestation
+### World use of energy resources 
+- Renewable energy sources should reduce our dependence on fossil fuels. 
+![[Pasted image 20231205175500.png|600]]
+![[Pasted image 20231205175538.png]]
+- Demand for energy has increased
+- Covid pandemic had a temporary effect 
+- Most of the energy for this increased demand has come from fossil fuels
+- 
