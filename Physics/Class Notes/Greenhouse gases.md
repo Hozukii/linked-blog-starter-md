@@ -24,3 +24,14 @@
 - Earth absorbs solar energy and re-emits it
 - often in infrared radiation 
 - contributes to earth's thermal balance
+## Absorption of infrared radiation by greenhouse gases
+- Recall that solar radation strikes the earth at a rate of 1360
+- The energy is carried in the form of photons, which are quanta of light 
+- The atmosphere is made up of gas which are the first layer of matter that the sun's rays interact with. 
+- If a photon is at the precis energy for an electron to jump to a different energy level in an atom, it will be absorbed. 
+- The excited gas will eventually de-excite and release photons
+- The absorption and release of photons by the gases is called **scattering**
+- Scattering does not produce a net increase in heat energy in the atmosphere. 
+- Greenhause gases are all molecular in nature 
+For our purpose we will consider the triatomic molecule $CO_2$
+
