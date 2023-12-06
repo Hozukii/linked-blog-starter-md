@@ -35,3 +35,4 @@
 - Greenhause gases are all molecular in nature 
 For our purpose we will consider the triatomic molecule $CO_2$
 
+- 
