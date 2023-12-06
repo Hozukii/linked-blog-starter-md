@@ -16,4 +16,11 @@
 ## GWP(Global Warming potential)
 - For human induced climate change, the gases all contain various potential. 
 - **anthropogenic** - originating in human activity
-- 
+## Reflected intensity vs radiated intensity
+#### Reflected intensity
+- Directly bounces solar energy back to space 
+- does not contribute to Earth's heat
+#### Radiated Intensity
+- Earth absorbs solar energy and re-emits it
+- often in infrared radiation 
+- contributes to earth's thermal balance
