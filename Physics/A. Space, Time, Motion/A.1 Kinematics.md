@@ -1,4 +1,4 @@
-	Kinematics The study of moving objects
+Kinematics The study of moving objects
 In diagrams, all vectors are shown with straight arrows, pointing in a certain direction from the correct point of application
 # Distance and Displacement 
 - **Distance** - total length travelled, without consideration of directions

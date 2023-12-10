@@ -24,12 +24,16 @@
 	 - $albedo = \dfrac{P_{scattereded}}{P_{ncident}}$ No units
 - **Incident wave, or ray** - Wave arriving at an object or a boundary
 - **Scattering** - Irregular reflections of waves or particles from their original path by interactions with matter
-- A perfect black body would have an albedo of 0 : all incident themal energy would be absorbed. A perfect mirror would have albedo of 1. 
+- A perfect black body would have an albedo of 0 : all incident thermal energy would be absorbed. A perfect mirror would have albedo of 1. 
 - Albedo of earth is about 0.315
 ## Emissivity
 - **Emissivity** - compares the power of the thermal radiation emitted by a surface to that of a black body at the same temperature. Surface with a greater emissivity emits thermal energy with more power.
 - $Emissivity = \dfrac{\text{power radiated per unit area}}{\sigma T^4}$
+- $Emissivity = \dfrac{\text{thermal radiatn from an object surface}}{\text{radiaton from an ideal black body surface}}$
+- 
+	- [[B.1 Thermal Energy transfers#Black bodies]]
 - The symbol $e$ or ($\varepsilon$)is sometimes used for emissivity.
+- 
 # Modelling a planet's energy balance 
 - To calculate the earth's temperature, we have the following relevant data:
 	- Solar constant = $1.46 \cdot 10^3 Wm^{-2}$

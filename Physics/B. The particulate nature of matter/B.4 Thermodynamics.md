@@ -9,14 +9,18 @@
 >- Work done when a gas changes volume at constant pressure, $W = P\Delta V$
 
 - **State of a gas** - Specified by quoting the pressure, P, T, V, n
-
+# Zeroth law of Thermodynamics
+- Related to thermal equilibrium(no net heat flow)
+-  **zeroth law of thermodynamics** -If two systems are  in thermal equilibrium, with a *third system* then those two are in thermal equilibrium with each other. 
+![[Pasted image 20231205181428.png|300]]
+- Trivial but very important since it shows that if the two objects are at the same temperature before contact there will be no heat flow.
 # First law of Thermodynamics
 - Thermal energy supplied to a gas:
 $$Q = \Delta U + W$$
 	-  Here $\Delta U$ is the change in internal energy U of the system
 - $W$ - work done
 - Q is the net heat transferred into the system - that is, Q is the sum of all heat transfer into and out of the system
-- We can use the principle of conservatin of energy, the gas may gain internal energy, U, and / or the gas will expand and do work on the sorroundings, W
+- We can use the principle of conservation of energy, the gas may gain internal energy, U, and / or the gas will expand and do work on the surroundings, W
 ## Changes in internal energy of an ideal monatomic gas
 We've seen in [[B.3 Gas laws#Internal energy of an ideal gas]] that the internal energy of an ideal monatomic gas can be calculated from:
 $$U = \dfrac 32 Nk_B T = \dfrac 32 nRT $$
