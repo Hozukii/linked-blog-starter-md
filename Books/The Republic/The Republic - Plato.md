@@ -1,0 +1,1 @@
+- The republic is an constitution written by Plato after the death of his friend and teacher(?) Socrates. It critiques the Athenian government through an imaginary conversation that takes place between Socrates and young aspiring Athenians.
