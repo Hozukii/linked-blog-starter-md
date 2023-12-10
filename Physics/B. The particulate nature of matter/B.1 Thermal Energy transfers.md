@@ -61,7 +61,7 @@ Si unit: $kgm^{-3}$
 - All substances contain moving particles. 
 - moving particles have kinetic energy. 
 - There are three forms of kinetic energy:
-	- **Vibrational kinetic energy** - vibrating about fixe positions
+	- **Vibrational kinetic energy** - vibrating about in fixed positions
 	- **translational kinetic energy in liquids and gases** - particles moving from place to place
 	- **rotational kinetic energy** - Molecules might be rotating 
 - Particles have potential energy as well as kinetic energy. 
@@ -69,7 +69,7 @@ Si unit: $kgm^{-3}$
 - If the average separation of the particles in a solid or liquid increases, so too does their potential energy(and the total internal energy of the substance)
 - In gasses however, forces between molecules are usually negligible.
 # Heat
-- **Heat** - energy that is transferred from one body to another as resulf of a difference in temperature
+- **Heat** - energy that is transferred from one body to another as result of a difference in temperature
 - Energy transferred from a hot to a cold body by heating increases the internal energy of the cold body. 
 - Work done on the particles of a substance increases potential energy of the particles, and so increases internal energy
 # Thermal energy 
@@ -101,7 +101,7 @@ $\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is m
 - Air is the best insulator but thermal energy can also be transferred by **convection currents**. Various kinds of foam consist mainly of air, but the foam limits the movement of that air. 
 ## Thermal Convection 
 - **Thermal convection** - The transfer of thermal energy because of the movement of a fulid due to changes in density 
-	- When a part o the fluid is heated, there will be localized dceares in density. Because of buoyancy, the warmer parts flow upwards. The movement of thermal energy in a fluid is thermal convection
+	- When a part o the fluid is heated, there will be localized deceases in density. Because of buoyancy, the warmer parts flow upwards. The movement of thermal energy in a fluid is thermal convection
 - Fun fact: this is why radiators are close to the floor and air conditioners are high up
 ## Thermal radiation
 - **Thermal radiation** - Emission of electromagnetic waves because of the movement of charges particles in the atoms of all matter at all temperatures. Mostly commonly, infrared. 
