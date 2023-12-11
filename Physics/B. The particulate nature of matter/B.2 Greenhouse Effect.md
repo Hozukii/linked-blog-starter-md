@@ -1,5 +1,5 @@
 - **Green house effect** - The natural effect that a planet's atmosphere has on reducing the amount of radiation emitted into space, resulting in a planet warmer than it would be without an atmosphere. 
-- However  human activity has changed the atmopshere in ways that are making the Earth warmer known as the **enhanced greenhouse effect**
+- However  human activity has changed the atmosphere in ways that are making the Earth warmer known as the **enhanced greenhouse effect**
 # A planet's energy balance: an introduction
 - Since the only thermal energy which can travel across Space is radiation, for a planet at constant average temperature:
 	- the radiant thermal energy received is equal to the radiant thermal energy emitted in the same interval. 
