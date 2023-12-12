@@ -17,7 +17,7 @@
 # First law of Thermodynamics
 - Thermal energy supplied to a gas:
 $$Q = \Delta U + W$$
--  Here $\Delta U$ is the change in internal energy U of the system
+	-  Here $\Delta U$ is the change in internal energy U of the system
 - $W$ - work done
 - Q is the net heat transferred into the system - that is, Q is the sum of all heat transfer into and out of the system
 - We can use the principle of conservation of energy, the gas may gain internal energy, U, and / or the gas will expand and do work on the surroundings, W
