@@ -18,4 +18,9 @@ $u = v + 2n\pi$
 $u = (\pi - v) + 2n\pi$
 
 $cos(u) = cos(v)$
+$u = v + 2n\pi$ 
+$u = -v + 2n\pi$ 
+
+$tan(u) = tan(v)$ 
+$u = v  + 2n \pi$
 
