@@ -27,4 +27,21 @@
 	- DK 11A9
 		- The 11 is the chapter that the testimonia comes in 
 - we want to find out what it is about these thinkers that made Aristotle call "Those who first pursued philosophy(DK 11A12)
-- "
+# Thales
+- The first philosopher
+- Thales is an astronomer
+### science vs philosophy?
+- Back then, astronomy was part of philosophy in Socrates' terms
+- Milesians were engaged in many natural scientific discoveries
+- Aristotle called philosopher in virtue of their inquires into nature a physiologoi(naturalists)
+- That make the Milesians the first natural scientist in the western sense
+# Material principle 
+- The material that make every other object
+- Thales thought that water was the material principle
+- Anaximenes: Air
+- Anaximander thought that the world was made from "apeiron"
+	- Apeiron - unbounded, infinite 
+- We can see the *shared outlook in Milesian Natural Philosophy*
+	1. Seek to understand natural phenomena from the inside out
+		- They seek to understand the world by appeal to the inner workings of nature, not divine intervention like many myths at the time.
+	2. 
