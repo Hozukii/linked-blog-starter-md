@@ -5,7 +5,7 @@
 	- We call these charge *positive* and *negative* charge
 	- positive and negative charges are often described as **opposite charges**
 - Charges of opposite sign attract each other. Charges of same sign repel each other.
-- - Charge is generally given the symbol $q$ 
+-  Charge is generally given the symbol $q$ 
 - Charge is measured in **coulumbs**, C. 
 	- One coulomb is relatively large so we often use microcoulombs($1\micro C = 10^{-6}C$) and nanocoulombs($1nC = 10^{-9}$)
 	- One Coulomb of negative charge is the total charge of $6.28 \cdot 10^{18}$ electrons
@@ -24,7 +24,7 @@
 ![[Pasted image 20231212221619.png]]
 
 - When there is no electric current, free electrons normally move around randomly in metals at high speeds, somewhat like a molecules in a gas. 
-- When they form an electric current, am uch slower, "drift" speed in the direct of the current is added to the electrons' random movements. 
+- When they form an electric current, a much slower, "drift" speed in the direct of the current is added to the electrons' random movements. 
 >[!abstract] Electric current
 >We define the magnitude of an electric current as the amount of charge that passes a point in unit time:
 >Electric current, $I = \dfrac{\Delta q}{\Delta t}$
@@ -34,6 +34,17 @@
 - **Ampere**, A - Unit of electric current:
 	- $1A = \dfrac{1C}{1 \space second}$
 	- C - Coulomb 
-	
+## Electrical Circuits 
+- Circuit diagrams represent the arrangement of components in a circuit.
+- **Circuit** - A complete conducting path that enables an electric current to continuously transfer energy from a voltage source to various electrical components
+- **Electric cell** - Device that transfers chemical energy to the energy carried by an electric current
+	- **Battery** - One or more electric cells
+- **Electrical terminals** - points at which connecting wires are joined to electrical components
+- Electric current is *always* shown flowing from positive to negative around any circuit
+	- Although electrons move in the opposite way
+	- This is called **conventional current**
 
-$$$$
+![[Pasted image 20231216190027.png | 400]]
+
+---
+![[Pasted image 20231216190201.png]]
