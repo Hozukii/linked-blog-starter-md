@@ -36,6 +36,8 @@
 - Aristotle called philosopher in virtue of their inquires into nature a physiologoi(naturalists)
 - That make the Milesians the first natural scientist in the western sense
 # Material principle 
+- Everything thought made made from earth, fire, water, air
+- But they thought that there would be one that is more important than the others, the material principle
 - The material that make every other object
 - Thales thought that water was the material principle
 - Anaximenes: Air
@@ -44,4 +46,12 @@
 - We can see the *shared outlook in Milesian Natural Philosophy*
 	1. Seek to understand natural phenomena from the inside out
 		- They seek to understand the world by appeal to the inner workings of nature, not divine intervention like many myths at the time.
-	2. 
+# God in Nature?
+- They gave natural explanations opposed to supernatural explanations
+- Milesians however, does not try to banish god from the explanations
+- They identified the material principle with god
+- Thales for example, said "all things are full of gods"
+- Anaximenes believe Air is god
+- This is a **Revisionist Theology**
+- Xenophanes says that we should be skeptical of any anthropormophic conception of god
+	- Since if an horse can write they would depict the god in a horse shaped way. 
