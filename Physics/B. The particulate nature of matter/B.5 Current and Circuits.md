@@ -86,3 +86,4 @@
 - Wires and ammeters, usually have negligible resistance
 - **Resistor** - A resistance made to have a specific value or range of values
 - **Variable resistors** - A resistor that can be used to control currents and/ or potential differences in in a circuit
+![[Resistor symbols.png]]
