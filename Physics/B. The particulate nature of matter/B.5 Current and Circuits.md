@@ -52,7 +52,6 @@
 - voltage of a battery , or other source of electrical energy, is a measure of how much energy it can supply to the charge carriers flowing through it. 
 - One **volt** means that one joule of energy is transferred by each coulomb of charge moving between two specified points
 - $1V = \dfrac{joule}{coulomb}$ , $JC^{-1}$
-- **voltage** has become widely used torm for the physical quantity that is measured by volts . However, the correct term is **potential difference**
+- **voltage** has become widely used term for the physical quantity that is measured by volts . However, the correct term is **potential difference**
 - **potential difference**, V - The energy transferred by unit positive charge moving between two points. 
 	- $V = \dfrac{W}{q}$
-	- 
