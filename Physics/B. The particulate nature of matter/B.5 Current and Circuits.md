@@ -75,5 +75,14 @@
 >SI unit: **ohm**$\Omega$ 
 >	1$\Omega = 1VA^{-1}$
 
+### Determining resistance values
+- **I-V characteristic** - Graph of current - potential difference representing the basic behavior of an electrical current
+- **Ohm's law** - The current in a conductor is proportional to the potential difference across it, provided temperature is constant $I \propto V$ 
+	- Any component that behaves like this is described as being **ohmic**: 
+![[Pasted image 20231220182416.png | 600]]
 
-
+- **diode** - An electrical component that only allows current to flow in one direction
+### Resistors
+- Wires and ammeters, usually have negligible resistance
+- **Resistor** - A resistance made to have a specific value or range of values
+- **Variable resistors** - A resistor that can be used to control currents and/ or potential differences in in a circuit
