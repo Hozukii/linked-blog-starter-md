@@ -55,3 +55,25 @@
 - **voltage** has become widely used term for the physical quantity that is measured by volts . However, the correct term is **potential difference**
 - **potential difference**, V - The energy transferred by unit positive charge moving between two points. 
 	- $V = \dfrac{W}{q}$
+
+- A charge will move because of a *difference in electrical potential* if it is free to do so.
+- Like gravitational potential energy discussed in [[D.1]] and [[D.2]]
+## Electrical resistance
+- **Electrical conductor** - A material through which an electric current can flow because it contains significant numbers of mobile charges
+- **Electrical resistance** - Ratio of potential difference across a conductor to the current
+- **Electrical Insulator** - A non-conductor 
+- If currents are relatively large, the components are described as good **electrical conductors** with low **electrical resistance**
+- If the currents are small, or negligible, the material is described as good **electrical insulator**, with a high electrical resistance
+- **Semiconductors** - Material with a resistivity between that of conductors and insulators. (essential to modern electronics.)
+	- Most notably silicon and germanium
+- The greater the number of mobile charge carriers in a given volume of material, the lower we would expect the resistance to be. 
+- When the  free electrons move through the conductor they will collide / interact with vibrating metal ions and this is the cause of electrical resistance. 
+- We know that particle vibrations in a solid decrease at lower temperatures, so resistance can be reduced by cooling. 
+>[!abstract] Elecrical Resistance
+>Electrical resistance, R:
+>$$\text{electrical resistance} = \dfrac{\text{potential difference}}{current} \space R = \dfrac VI$$
+>SI unit: **ohm**$\Omega$ 
+>	1$\Omega = 1VA^{-1}$
+
+
+
