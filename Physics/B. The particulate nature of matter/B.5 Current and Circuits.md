@@ -87,3 +87,51 @@
 - **Resistor** - A resistance made to have a specific value or range of values
 - **Variable resistors** - A resistor that can be used to control currents and/ or potential differences in in a circuit
 ![[Resistor symbols.png]]
+### Electrical resistivity
+1. **Resistance of a uniform wire is proportional to its length,$l$**
+	![[Pasted image 20231221183030.png|400]]
+1. **The resistance of a uniform wire is inversly proportional to its cross-sectional area, $A$**
+	- ![[Pasted image 20231221183056.png|400]]
+- Combining the results, we get: 
+	- $R \propto \dfrac lA$
+	- $R = constant \cdot \dfrac lA$
+- The *constant* is **resistivity**
+>[!abstract] Resistivity
+>- **Resistivity, $\rho$** - Resistance of a specimen of a material that has a length of 1m and cross-sectional area of $1m^2$
+>- 
+>$$Resistivity,\rho = \dfrac {RA}{L}$$
+>si unit: $\Omega m$
+
+#### Variation of resistivity with temperature
+- The number of free electrons in metals will not increase significantly unless temperatures are exterem. 
+- However, it can be very different for semiconductors and insulators
+- The number of charge carriers in non-metals can increase significantly thus resistance can decrease considerably.
+# Connecting two or more components in the same circuit
+- Components can be connected in series, in parallel, or combination of the two. 
+![[Pasted image 20231221184133.png]]
+- This shows a **series connection**
+	- **Series connection** - Two or more electrical components connected such that there is only one path for the electrical current, which is the same through all the components
+- Currents in series: $I = I_1 = I_2 =...$
+- Potential differences in series: $V = V_1 + V_2 + ...$
+- Using $V = IR$ for teh individuals resistors, we get $IR_S = IR_1 + IR_3 + IR_3$, so that we can derive an equation for the single resistor, $R_S$ which has the same resistnace as the combination
+- The total resistance of resistors in series: $R_s = R_1 + R_2 +...$
+![[Pasted image 20231221184649.png]]
+- This shows **Parallel connection**
+	- Two or more electrical components connected between the same two points, so that they have the same potential difference across them. 
+- Potential differences in parallel: $V = V_1 = V_2 = ...$
+- Currents in parallel: $I = I_1 + I_2 + ...$
+- Applying $I = \dfrac VR$ throughout gives:
+	- $\dfrac VR_P = \dfrac VR_1 + \dfrac VR_2 + \dfrac VR_3$
+- The total resistors in parallel can be determined from: $\dfrac 1R_p = \dfrac 1R_1 + \dfrac 1R_2+...$ 
+## Emf and internal resistance
+- **Dynamo** - A type of electricity generator that produces direct current. Converts kinetic energy to electrical
+### Emf
+- **Electromotive force $\boldsymbol{\varepsilon}$** , - The total energy transferred in a source of electrical energy per unit charge passing through it
+- For example: a battery with an emf of 12V can transfer a total of 12J to every coulomb of charge that flows through it. 
+### Internal resistance
+- Cells, batteries and other source of electrical energy are made from materials which all have resistance, called the **internal resistance,$r$** of the source.
+	- Typically less than $1\Omega$ 
+- If the internal resistance of a battery is much less than the resistance of the rest of the circuit, its effect can usually be ignored. 
+- Internal resistances can vary with temperature and the age of the battery, but we will assume that they are constant
+![[Pasted image 20231221190706.png|300]]
+-  
