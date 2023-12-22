@@ -134,3 +134,17 @@
 - If the internal resistance of a battery is much less than the resistance of the rest of the circuit, its effect can usually be ignored. 
 - Internal resistances can vary with temperature and the age of the battery, but we will assume that they are constant
 ![[Pasted image 20231221190706.png|300]]
+- **Lost volt** - Term sometimes used to describe the voltage drop that cocurs when a source of electrical energy delivers a current to a circuit. Lost volts increase with larger currents
+- **Terminal potential difference** - The potential difference across the terminals of a bettry whin it is supplying a current to a circuit. 
+- Total energy transferred by the cell (per coulomb) = energy transferred to the circuit (per coulomb) + energy transferred inside the cell (per coulomb)
+- emf of cell = terminal p.d. across circuit + "lost volts" due to internal resistance of battery
+- $\varepsilon = V_t + V_r$
+- The current flows through both resistances, so that using $V = IR$ 
+- $\varepsilon = I(R+ r)$
+## Using variable resistors
+- **rheostat** - variable resistance used to control current
+	- ![[Pasted image 20231222103639.png|400]]
+- Many variable resistances have three terminals, one at each of the resistance and a third sliding contact between them. 
+### Potentiometers 
+- **potentiometer** - A three terminal variable resistor when its sliding contact is being used to produce a varying p.d.
+- 
