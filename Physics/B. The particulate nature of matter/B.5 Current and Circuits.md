@@ -147,4 +147,12 @@
 - Many variable resistances have three terminals, one at each of the resistance and a third sliding contact between them. 
 ### Potentiometers 
 - **potentiometer** - A three terminal variable resistor when its sliding contact is being used to produce a varying p.d.
+- ![[Pasted image 20231222105850.png |300]]
+![[Pasted image 20231222110010.png]]
+- A potentiometer provides the best way of varying the p.d. across a component in order to investigate its $I-V$ characteristics
+## Potential-dividing circuits
+- **potential-dividing circuit** - Two resistors used in series with constant potential difference across them. When one resistance is changed, the potential difference across each resistor will change, and this can be used for controlling another part of the circuit
+- **LDR** - Light dependent resistors
+- Sensors are connected in **potential-dividing circuits** as shown 
+- ![[Pasted image 20231222110536.png]]
 - 
