@@ -134,4 +134,3 @@
 - If the internal resistance of a battery is much less than the resistance of the rest of the circuit, its effect can usually be ignored. 
 - Internal resistances can vary with temperature and the age of the battery, but we will assume that they are constant
 ![[Pasted image 20231221190706.png|300]]
--  
