@@ -162,6 +162,13 @@
 $$\dfrac {\text{Energy transferred}}{time} = \dfrac {\text{charge flowing trough resistor}}{time}\cdot \dfrac{\text{energy trasferred in resistor}}{\text{charge flowing through resistor}}$$
 - $Power = current \cdot \text{potential difference}$ 
 - $P = IV$
-- It can be rewritten as:
+- Using ohm's law it can be re-written as:
 - $P = I^2R = \dfrac{V^2}R$
+- To calculate the total energy transferred in a given time, we know that $energy = power \cdot time$ 
+	- Electrical energy = $VIt$
+## The heating effect of a current passing through a resistor 
+- whenever any current passes through any resistance, energy will be transferred to internal energy and then transferred as thermal energy.
+- From [[A.3 Work, Energy, and Power#Efficiency]]
+- efficiency is given by
+- $\eta = \dfrac{\text{useful power output}}{\text{total power input}} = \dfrac{P_{output}}{P_{input}}$
 - 
