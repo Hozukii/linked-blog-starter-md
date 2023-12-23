@@ -155,4 +155,13 @@
 - **LDR** - Light dependent resistors
 - Sensors are connected in **potential-dividing circuits** as shown 
 - ![[Pasted image 20231222110536.png]]
+- A potential-dividing circuit produces an output voltage which is a fraction of the supply, dependent on the ratio of the values of the resistors it contains
+- **thermostat** - Component that is used with a heater or cooler to maintain a constant temperature
+# Electrical Power
+- **Electrical Power** - The rate of dissipation of energy in a resistance
+$$\dfrac {\text{Energy transferred}}{time} = \dfrac {\text{charge flowing trough resistor}}{time}\cdot \dfrac{\text{energy trasferred in resistor}}{\text{charge flowing through resistor}}$$
+- $Power = current \cdot \text{potential difference}$ 
+- $P = IV$
+- It can be rewritten as:
+- $P = I^2R = \dfrac{V^2}R$
 - 
