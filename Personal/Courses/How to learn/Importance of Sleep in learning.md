@@ -4,4 +4,3 @@
 - Simultaneously strengthens areas that you need or want to remember 
 - we must first prime our diffuse mode by first doing focused mode work
 - If you study something before going to sleep, you have an increased chance of dreaming about it
-# What do you do to learn something that is completely new?

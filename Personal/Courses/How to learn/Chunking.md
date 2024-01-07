@@ -1,0 +1,12 @@
+- Compact packages of information that our mind can easily access 
+# What is a chunk?
+- Chunking is the mental leap that helps unite bits of information together through meaning 
+	- The new understanding the in logical connection of information allows the brain to remember easier and easier to fit the chunks into the large picture of what you're learning
+- Just remembering the fact doesn't allow you to understand the concept. 
+	- There is no interlocking
+- Focusing on connecting ideas together is an important part of the [[focused mode]] of learning 
+- When you are stressed, it loses the ability to make some of those connections 
+- **Example** - The  letters P , O , P interlinks to make the word Pop much easier to remember because the letters are bound together through meaning
+- Chunks are basically a network of neurons that are used to firing together so you can think a thought or perform an action smoothly and effectively
+- Focused practice and repetition helps you to create chunks
+- 
