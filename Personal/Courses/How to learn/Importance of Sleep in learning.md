@@ -1,0 +1,7 @@
+- Just being awake creates toxic chemicals and sleeping is essential to get rid of these
+- During sleep the brain tidies up ideas and concepts you're thinking about and learning
+- It also erases the less important parts of memories 
+- Simultaneously strengthens areas that you need or want to remember 
+- we must first prime our diffuse mode by first doing focused mode work
+- If you study something before going to sleep, you have an increased chance of dreaming about it
+# What do you do to learn something that is completely new?
