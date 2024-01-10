@@ -112,8 +112,9 @@
 - This shows a **series connection**
 	- **Series connection** - Two or more electrical components connected such that there is only one path for the electrical current, which is the same through all the components
 - Currents in series: $I = I_1 = I_2 =...$
+	- This is true because current cannot pile up in the resistors. 
 - Potential differences in series: $V = V_1 + V_2 + ...$
-- Using $V = IR$ for teh individuals resistors, we get $IR_S = IR_1 + IR_3 + IR_3$, so that we can derive an equation for the single resistor, $R_S$ which has the same resistnace as the combination
+- Using $V = IR$ for the individuals resistors, we get $IR_S = IR_1 + IR_3 + IR_3$, so that we can derive an equation for the single resistor, $R_S$ which has the same resistnace as the combination
 - The total resistance of resistors in series: $R_s = R_1 + R_2 +...$
 ![[Pasted image 20231221184649.png]]
 - This shows **Parallel connection**
