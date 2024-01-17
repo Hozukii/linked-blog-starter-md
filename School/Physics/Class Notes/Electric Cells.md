@@ -1,0 +1,12 @@
+- Terminal potential
+- $\varepsilon = I (R + r)$
+## Chemical cell
+- To make a chemical cell, or a battery, you can begin with a container of weak acid, and two electrodes made of different materials
+- Different metals dissolve ain acids at different rates
+- When a metal dissolves ,it enters the acid as positive ion, leaving behind an electron. 
+- The weak acid is the **electrolyte**
+- least negative metal is the **positive terminal**
+- The most negative metal is the **negative terminal**
+- A primary cell can't be recharged
+- A secondary cell can be recharged by applying an external voltage, reversing the chemical reaction
+-  
