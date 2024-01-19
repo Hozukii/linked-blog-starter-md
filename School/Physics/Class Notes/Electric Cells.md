@@ -15,4 +15,4 @@
 - Since energy per unit charge is volts, emf is measured in volts
 - There is a difference between unloaded and loaded.
 - $P = I^2 r$
-- 
+- **terminal potential difference** - 
