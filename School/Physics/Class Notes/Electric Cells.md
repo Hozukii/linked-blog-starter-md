@@ -14,4 +14,5 @@
 - The **Electromotive force** $\varepsilon$ (emf) of a cell is the amount of chemical energy converted to electrical energy per unit charge
 - Since energy per unit charge is volts, emf is measured in volts
 - There is a difference between unloaded and loaded.
+- $P = I^2 r$
 - 
