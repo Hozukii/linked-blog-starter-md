@@ -8,8 +8,10 @@
 - In symbols:
 - $F_{electric} = k(\dfrac{q_1q_2}{r^2})$
 - $q_1$ and $q_2$ are the magnitudes of charges
-- $r$ is their seperation
+- $r$ is their separation
 - $k$ is a constant. It determines the force unit from the unit of charge during calculations, and $k$ also depends on the material between the objects. 
 - if that material is a vacuum :
 	- $8.99 \cdot 10^9 Nm^2C^{-2}$
-	- 
+- $k = \dfrac 1 {4\pi \varepsilon_0}$
+- permittivity - It characterizes the tendency of the atomic charge in an insulating material to distort in the presence of an electric field
+- 
