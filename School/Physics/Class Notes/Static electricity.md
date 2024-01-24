@@ -3,4 +3,13 @@
 - Electrical force is 1036x stronger than the gravitational force
 - Charge is measured by Coulomb 
 - 1 charge is $1.602 \cdot 10^{-19}$
-- 
+## Coulomb's law
+- **Coulomb's law** - the magnitude of the electrostatic force of attraction or repulsion betwee two point charges is directly proportional to the rpoduct of the magnitudes of charges and inversly proportional to the square of teh distance between them.
+- In symbols:
+- $F_{electric} = k(\dfrac{q_1q_2}{r^2})$
+- $q_1$ and $q_2$ are the magnitudes of charges
+- $r$ is their seperation
+- $k$ is a constant. It determines the force unit from the unit of charge during calculations, and $k$ also depends on the material between the objects. 
+- if that material is a vacuum :
+	- $8.99 \cdot 10^9 Nm^2C^{-2}$
+	- 
