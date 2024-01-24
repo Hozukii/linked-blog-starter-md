@@ -1,0 +1,6 @@
+- **Charge** - property of elementary particles that make up everything else 
+- Two charged objects produce an electrical force that depends on the product of their charges and, like gravity .the force diminishes as a function of the inverse square of their separation
+- Electrical force is 1036x stronger than the gravitational force
+- Charge is measured by Coulomb 
+- 1 charge is $1.602 \cdot 10^{-19}$
+- 
