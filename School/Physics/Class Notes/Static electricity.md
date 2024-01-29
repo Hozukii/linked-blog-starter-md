@@ -19,4 +19,6 @@ z - **Charge** - property of elementary particles that make up everything else
 - The direction of the electric field is defined as the direction that a positive test charge would over if placed in the field. 
 - Electric field lines begin on positive charges ad end on negative charges, with the density of lines representing the strength of the field 
 - Coulomb's law only applies to a pair of point charges . It cannot be used to directly to calculate the force between charges distributed through and on irregularly-shaped electrical conductors or insulators, or between parallel metal plates. 
-- 
+
+## Electric field equations
+$E = \dfrac Fq = \dfrac Vd$
