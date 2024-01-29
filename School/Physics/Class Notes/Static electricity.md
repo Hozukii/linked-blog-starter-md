@@ -14,4 +14,4 @@
 	- $8.99 \cdot 10^9 Nm^2C^{-2}$
 - $k = \dfrac 1 {4\pi \varepsilon_0}$
 - permittivity - It characterizes the tendency of the atomic charge in an insulating material to distort in the presence of an electric field
-- 
+-  
