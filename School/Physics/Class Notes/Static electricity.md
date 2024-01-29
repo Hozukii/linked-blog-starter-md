@@ -22,3 +22,5 @@ z - **Charge** - property of elementary particles that make up everything else
 
 ## Electric field equations
 $E = \dfrac Fq = \dfrac Vd$
+- **Electric field strength** - the magnitude of the force per unit charge on an infinitesimal positive test charge placed in the field.
+- 
