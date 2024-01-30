@@ -93,6 +93,10 @@ https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrels
 
 https://www.youtube.com/watch?v=4ITWlbH7EMA ^ZxXSawqR
 
+Talk about the cultural significance that the painting had after its inception ^pxR1OhLv
+
+Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings. ^t9PL3pbr
+
 
 # Embedded files
 80cdc1cfecb755853b6dc18fee7c567e81776028: [[Pasted Image 20240125125737_636.png]]
@@ -985,7 +989,7 @@ https://www.youtube.com/watch?v=4ITWlbH7EMA ^ZxXSawqR
 			"width": 766.80078125,
 			"height": 32.199999999999996,
 			"angle": 0,
-			"strokeColor": "#1e1e1e",
+			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
 			"fillStyle": "hachure",
 			"strokeWidth": 1,
@@ -996,11 +1000,11 @@ https://www.youtube.com/watch?v=4ITWlbH7EMA ^ZxXSawqR
 			"frameId": null,
 			"roundness": null,
 			"seed": 1364226317,
-			"version": 151,
-			"versionNonce": 744875523,
+			"version": 152,
+			"versionNonce": 13670509,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1706601513563,
+			"updated": 1706602944539,
 			"link": null,
 			"locked": false,
 			"text": "The difference in tone of the two sides (make a colour palette)",
@@ -1536,6 +1540,80 @@ https://www.youtube.com/watch?v=4ITWlbH7EMA ^ZxXSawqR
 			"lineHeight": 1.15
 		},
 		{
+			"id": "pxR1OhLv",
+			"type": "text",
+			"x": -2362.8272365883186,
+			"y": -1882.598417606543,
+			"width": 1166.73046875,
+			"height": 41.4,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1907656269,
+			"version": 146,
+			"versionNonce": 1475026115,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706602983951,
+			"link": null,
+			"locked": false,
+			"text": "Talk about the cultural significance that the painting had after its inception",
+			"rawText": "Talk about the cultural significance that the painting had after its inception",
+			"fontSize": 36,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 33,
+			"containerId": null,
+			"originalText": "Talk about the cultural significance that the painting had after its inception",
+			"lineHeight": 1.15
+		},
+		{
+			"id": "t9PL3pbr",
+			"type": "text",
+			"x": -689.591873122009,
+			"y": -1250.4386600747275,
+			"width": 1529.91015625,
+			"height": 32.199999999999996,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 95399341,
+			"version": 197,
+			"versionNonce": 1553403885,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706603034962,
+			"link": null,
+			"locked": false,
+			"text": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
+			"rawText": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
+			"fontSize": 28,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 25,
+			"containerId": null,
+			"originalText": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
+			"lineHeight": 1.15
+		},
+		{
 			"id": "uWMZfKiH",
 			"type": "text",
 			"x": -701.4278145429107,
@@ -1793,12 +1871,63 @@ https://www.youtube.com/watch?v=4ITWlbH7EMA ^ZxXSawqR
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.15
+		},
+		{
+			"id": "Wh4nE49tQXc7A8UPKyoRp",
+			"type": "arrow",
+			"x": 294.58795881255037,
+			"y": -1165.631928888533,
+			"width": 550.2087675878911,
+			"height": 1072.5606400320808,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 900538669,
+			"version": 51,
+			"versionNonce": 515017709,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1706602957906,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					550.2087675878911,
+					-1072.5606400320808
+				],
+				[
+					326.50933977769955,
+					-594.8294115018398
+				]
+			],
+			"lastCommittedPoint": [
+				326.50933977769955,
+				-594.8294115018398
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": "triangle"
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemStrokeColor": "#e03131",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -1810,10 +1939,10 @@ https://www.youtube.com/watch?v=4ITWlbH7EMA ^ZxXSawqR
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 550.4283455136592,
-		"scrollY": 1572.881762792913,
+		"scrollX": 5004.320272089953,
+		"scrollY": 3480.7021202516817,
 		"zoom": {
-			"value": 0.4535491669922337
+			"value": 0.1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
