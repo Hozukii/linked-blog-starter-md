@@ -1,0 +1,3 @@
+- Electric currents produce a magnetic field
+	- This extend to all charges
+- 
