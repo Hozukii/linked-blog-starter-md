@@ -16,6 +16,12 @@ Light ^c3LPdzM6
 https://www.artchive.com/artwork/philosopher-in-meditation-rembrandt-van-rijn-1632/
  ^fYFl1KfJ
 
+Baroque era painting. 
+Chiaroscuro, 
+Strong light source from the window, with diffusion.
+Smaller light source, from the campfire
+The  ^U3lx1uu6
+
 
 # Embedded files
 93e32375ca1d762eed65705054ce0576df165329: [[Pasted Image 20240201124509_375.png]]
@@ -522,6 +528,43 @@ ec39ae3c6b63d1f8c901871d9767ee567429ea4d: [[Pasted Image 20240201124725_063.png]
 			"endArrowhead": null
 		},
 		{
+			"id": "U3lx1uu6",
+			"type": "text",
+			"x": 870.998806935194,
+			"y": 87.5140459957041,
+			"width": 359,
+			"height": 92,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1760147059,
+			"version": 467,
+			"versionNonce": 719855421,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1706790729705,
+			"link": null,
+			"locked": false,
+			"text": "Baroque era painting. \nChiaroscuro, \nStrong light source from the window, with diffusion.\nSmaller light source, from the campfire\nThe ",
+			"rawText": "Baroque era painting. \nChiaroscuro, \nStrong light source from the window, with diffusion.\nSmaller light source, from the campfire\nThe ",
+			"fontSize": 16,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 88,
+			"containerId": null,
+			"originalText": "Baroque era painting. \nChiaroscuro, \nStrong light source from the window, with diffusion.\nSmaller light source, from the campfire\nThe ",
+			"lineHeight": 1.15
+		},
+		{
 			"id": "g4JqHfDY",
 			"type": "text",
 			"x": -762.4860158582458,
@@ -557,12 +600,49 @@ ec39ae3c6b63d1f8c901871d9767ee567429ea4d: [[Pasted Image 20240201124725_063.png]
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.15
+		},
+		{
+			"id": "9LztSixN",
+			"type": "text",
+			"x": 804.4843477657056,
+			"y": 73.48776512466098,
+			"width": 4.4453125,
+			"height": 18.4,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1018707965,
+			"version": 6,
+			"versionNonce": 1814317267,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1706790439552,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 15,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
 		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
+		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 1,
@@ -570,14 +650,14 @@ ec39ae3c6b63d1f8c901871d9767ee567429ea4d: [[Pasted Image 20240201124725_063.png]
 		"currentItemRoughness": 1,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 2,
-		"currentItemFontSize": 20,
+		"currentItemFontSize": 16,
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 957.9345720807642,
-		"scrollY": 302.7864999076106,
+		"scrollX": -575.614040129894,
+		"scrollY": 169.78550429639668,
 		"zoom": {
-			"value": 1.1603411900421048
+			"value": 1.1025168648130685
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
