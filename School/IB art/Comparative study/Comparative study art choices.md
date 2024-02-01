@@ -29,7 +29,7 @@ https://www.artchive.com/artwork/the-banjo-lesson-henry-ossawa-tanner-1893/
 ![[Pasted image 20240123083830.png |400]]
 Philosopher in meditation - Rembrandt (1632) (NL)
 
-Rembrandt van Rijn, *Philosopher in meditation*, 1632, Oil on Board
+Rembrandt van Rijn, Philosopher in meditation, 1632, Oil on Board
 34 x 28cm
 Louvre, Paris, France
 Baroque style
