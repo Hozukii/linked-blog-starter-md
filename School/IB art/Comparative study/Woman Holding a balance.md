@@ -24,8 +24,8 @@ Composition ^FC3XXMby
 
 The scale is in the middle of the vanishing point and the whole painting. -- that makes the balance the focal point of the painting ^SlCc1par
 
-The woman at splits the paniting of the last judgement. God is in the middle of the painting and her head splits the two 
-sides of humans. (the blessed and the damned) ^YxDPVLJS
+The woman at splits the painting of the last judgement. God is in the middle of the painting and her head splits the two 
+sides of humans. (the blessed and the damned)  ^YxDPVLJS
 
 
 # Embedded files
@@ -749,8 +749,8 @@ sides of humans. (the blessed and the damned) ^YxDPVLJS
 		},
 		{
 			"type": "text",
-			"version": 573,
-			"versionNonce": 1327229920,
+			"version": 580,
+			"versionNonce": 414961184,
 			"isDeleted": false,
 			"id": "YxDPVLJS",
 			"fillStyle": "hachure",
@@ -770,17 +770,17 @@ sides of humans. (the blessed and the damned) ^YxDPVLJS
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1706882183149,
+			"updated": 1706882592377,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 2,
-			"text": "The woman at splits the paniting of the last judgement. God is in the middle of the painting and her head splits the two \nsides of humans. (the blessed and the damned)",
-			"rawText": "The woman at splits the paniting of the last judgement. God is in the middle of the painting and her head splits the two \nsides of humans. (the blessed and the damned)",
+			"text": "The woman at splits the painting of the last judgement. God is in the middle of the painting and her head splits the two \nsides of humans. (the blessed and the damned) ",
+			"rawText": "The woman at splits the painting of the last judgement. God is in the middle of the painting and her head splits the two \nsides of humans. (the blessed and the damned) ",
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "The woman at splits the paniting of the last judgement. God is in the middle of the painting and her head splits the two \nsides of humans. (the blessed and the damned)",
+			"originalText": "The woman at splits the painting of the last judgement. God is in the middle of the painting and her head splits the two \nsides of humans. (the blessed and the damned) ",
 			"lineHeight": 1.15,
 			"baseline": 41
 		}
@@ -800,10 +800,10 @@ sides of humans. (the blessed and the damned) ^YxDPVLJS
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2334.506745163113,
-		"scrollY": 566.4822286784707,
+		"scrollX": 1977.6645635170812,
+		"scrollY": 5.886361220498894,
 		"zoom": {
-			"value": 0.451477660536766
+			"value": 0.6554577428117642
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
