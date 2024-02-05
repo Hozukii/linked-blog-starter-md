@@ -22,4 +22,13 @@ $\theta$ angle between the velocity vector of the charged particle and the magne
 - **This only works in conventional current**
 - For any given situation, if only one of these fields is non-zero, the formula simplifies. If ($E$) is non-zero and ($B$) is zero, the formula becomes ($E = qE$) and we have the simple eelectrostatic force. If ($E$) is zero and ($B$) is non-zero, the formula becomes ($F = qvBsin\theta$) , which is the formula for the magnetic force. This is why the Lorentz force is given by ... 
 $$F = qE + qvBsin\theta$$
+# BIL Law (alternate Lorentz law)
+$$F = BILsin\theta$$
+F - magnetic force acting on the conductor, measured in N
+B - magnetic flux density of the field, measured in Tesla
+I - Current flowing through the conductor, measured in meters
+$\theta$ - angle between the conductor and the magnetic field lines, measured in degrees. 
+- fundamental equation in electromagnetism 
+- Is the force equation on a current-carrying conductor in a magnetic field with magnetic flux density
+- The maximum force occurs when the conductor is perpendicular to the field
 - 
