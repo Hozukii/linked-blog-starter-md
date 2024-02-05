@@ -32,7 +32,7 @@ $\theta$ - angle between the conductor and the magnetic field lines, measured in
 - Is the force equation on a current-carrying conductor in a magnetic field with magnetic flux density
 - The maximum force occurs when the conductor is perpendicular to the field
 # II law
-$$\dfrac FL = \dfrac{\mu_0 I_1 L_2}{2\pi r}$$
+$$\dfrac FL = \dfrac{\mu_0 I_1 I_2}{2\pi r}$$
 f - force between the two conductors
 L - length of the conductor
 $\mu_0$ - permeability of free space
