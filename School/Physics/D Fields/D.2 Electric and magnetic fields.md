@@ -68,3 +68,16 @@ $$E = \dfrac Fq$$
 
 #### Millikan's experiment
 ![[Pasted image 20240206170209.png]]
+- Robert Millikan and Harvey Fletcher used this apparatus to determine the small quantities of charge on  oil drops 
+- The importance of this famous experiment lies in the fact that:
+- The charges of *all* drops were multiples of the same number($-1.60 \cdot 10^{-19}C$)
+- millikan's experiment confirms that electric charge is a quantized quantity 
+## Magnetic fields around permanent magnets 
+- **magnetic forces** - Fundamental forces that act across space between all moving charges, currents, and/ or permanent magnets
+- Magnetic fields are produced around all moving charges(currents)
+- Any stationary charge has an electric field around it but, if a charge moves, there is also a magnetic field around it. We frequently refer to the combinations as **electromagnetic fields**
+- **Ferromagnetic materials** - Materials from which permanent magnets are made
+- The magnetism is effectively concentrated at the ends of the bar and these are called **magnetic poles**
+- There are only two types of magnetic but they always occur in pairs
+	- Magnetic north(N) poles and magnetic south poles (S)
+- 
