@@ -80,4 +80,32 @@ $$E = \dfrac Fq$$
 - The magnetism is effectively concentrated at the ends of the bar and these are called **magnetic poles**
 - There are only two types of magnetic but they always occur in pairs
 	- Magnetic north(N) poles and magnetic south poles (S)
-- 
+### Magnetic field lines
+- Magnetic field lines are used to represent magnetic fields on paper or screen. As with gravitational and electric fields. 
+- Magnetic field lines always form closed loops. The direction of field lines is from a magnetic north pole to a magnetic south pole. 
+- Usually we do not show the field lines inside magnets but, when we do, their direction is from teh south to north.
+![[Pasted image 20240206173902.png]]
+### Forces between permanent magnets
+- Similar magnetic poles repel each other, opposite poles attract
+### Induced magnetism
+- **induced magnetism** - When ferromagnetic materials are located in magnetic fields, they tend to become magnetized to some extent. 
+### The Earth's magnetic field
+- The Earth behaves as a very large, weak bar magnet with a magnetic south pole near the geographic north pole. 
+### Detecting magnetic fields
+- Compass effectively detecs the Earth's magnetic field, and small "plotting compasses" are widely used to detect magnetic fields around magnets. 
+- In recent years, tiny magnetometers has become common. 
+# Magnetic fields around currents in wires 
+### Magnetic field around a steady current in a long straight wire
+- The magnetic field lines around a current in a long straigt wire ar circular 
+![[Pasted image 20240206174526.png]]
+- The direction of field can be predicted by using the **right-hand grip rule**
+![[Pasted image 20240206174558.png]]
+### Magnetic fields around steady currents in coils and solenoids
+- To produce a stronger field requires a stronger current in the wire, but there is a easier way: wind insulated wire into a coil or **solenoid**, then each extra turn of wire increases the field strength. 
+![[Pasted image 20240206175154.png]]
+![[Pasted image 20240206175200.png]]
+
+- The polarity of the magnetic field, depends on the direction of the current. 
+### Electromagnets
+- The strength of the magnetic field can be controlled by changing the magnitude of the current and using a soft iron core greatly increases the strength of the field. 
+### Magnetic field strength 
