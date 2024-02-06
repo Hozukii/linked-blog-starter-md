@@ -1,6 +1,6 @@
 # Electric Charge
 - **electric charge** - fundamental property of some subatomic particles that makes them experience electric forces when they interact with other charges. Charges can be *positive* or *negative*
-	- [[D.2]] 
+	- [[D.2 Electric and magnetic fields]] 
 - There are two kinds of force: attractive and repulsive
 	- We call these charge *positive* and *negative* charge
 	- positive and negative charges are often described as **opposite charges**
@@ -57,7 +57,7 @@
 	- $V = \dfrac{W}{q}$
 
 - A charge will move because of a *difference in electrical potential* if it is free to do so.
-- Like gravitational potential energy discussed in [[D.1]] and [[D.2]]
+- Like gravitational potential energy discussed in [[D.1]] and [[D.2 Electric and magnetic fields]]
 ## Electrical resistance
 - **Electrical conductor** - A material through which an electric current can flow because it contains significant numbers of mobile charges
 - **Electrical resistance** - Ratio of potential difference across a conductor to the current
