@@ -43,8 +43,31 @@ $\theta$ angle between the velocity vector of the charged particle and the magne
 - $r = \dfrac{mv}{qB}$
 - For any given situation, if only one of these fields is non-zero, the formula simplifies. If ($E$) is non-zero and ($B$) is zero, the formula becomes ($E = qE$) and we have the simple eelectrostatic force. If ($E$) is zero and ($B$) is non-zero, the formula becomes ($F = qvBsin\theta$) , which is the formula for the magnetic force. This is why the Lorentz force is given by ... 
 $$F = qE + qvBsin\theta$$
+
+# Motion of charged particles in both an electric field and a magnetic field
+- Any charged particle which is moving across both an electric and a magnetic field will experience two forces, one force parallel to the electric field and one froce perpendicular to the magnetic field.
+![[Pasted image 20240207182020.png|250]]
+- Example for a negative charged particle
+- if the electric force, $F_E$ = magnetic force, $F_B$: $Eq = Bqv$ so that:
+	- If the motion of a charged particle in unaffected by perpendicular electri and magnetic fields, then , its velocity: 
+	- $v = \dfrac EB$ 
+## Charge to mass ration particle, q/m
+- If neither the mass nor the charge of a particle is known, then the **charge / mass ratio**, q/m becomes all-important. 
+- All particles with the same velocity, $v$ and q/m ratio will follow the paths of the same radius, $r$ when they pass into some magnetic field, $B$ shown by:
+	- $r = \dfrac {mv}{Bq}$
+- We cannot determine the mass of an unknown particle without its charge, or we cannot determine the charge of an unknown particle without its mass
+- Rearranging the previous equation, we get:
+	- $\dfrac qm = \dfrac v {Br}$
+- To determine the speed of a particle, perpendicular electric and magnetic fields can be adjusted until the particles' motions are unaffected. then:
+	- $v = \dfrac EB$ 
+# Forces on current-carrying conductors 
+- Shows a wire carrying a current $I$ through a wire which is at an angle $\theta$ to a uniform magnetic field, $B$. 
+- The electrons have a average speed of $v$ through the wire, so that in time $t$ they travel an average distance $L = vt$
+- We can rewrite the equation($F = qvBsin\theta$):
+	- $F = (\dfrac qt)(vt)B sin\theta$ 
+	- to show that:
+### $$F = BILsin\theta$$
 #### BIL Law (alternate Lorentz law)
-$$F = BILsin\theta$$
 F - magnetic force acting on the conductor, measured in N
 B - magnetic flux density of the field, measured in Tesla
 I - Current flowing through the conductor, measured in meters
@@ -52,4 +75,28 @@ $\theta$ - angle between the conductor and the magnetic field lines, measured in
 - fundamental equation in electromagnetism 
 - Is the force equation on a current-carrying conductor in a magnetic field with magnetic flux density
 - The maximum force occurs when the conductor is perpendicular to the field
-# Motion of charged particles in both an electric field and a magnetic field
+---
+![[Pasted image 20240207184235.png|300]]
+- Sows a wire carrying an electric current across a magnetic field. The current is perpendicular to the magnetic field. 
+- The two fields are in the same plane, so it is easy to consider the combined field that they produce. 
+- Obve the wire , the fields act in opposite directions and they combine to produce a weaker field . 
+- Below the wire, the fields combine to give a stronger field. 
+## Simple dc motor
+- **Motor effect** - magnetic force on a current in a magnetic field, as used in electric motors
+![[Pasted image 20240207184551.png|300]]
+
+- Increasing the current, strength of the magnetic field, or the number of turns in a coil will all make the motor spin faster. Winding the coil on an iron coil will also increase the rate of rotation.
+## Parallel current-carrying wires 
+![[Pasted image 20240207184641.png| 300]]
+- If both are carrying a current , then each wire is in the magnetic field created by the current in the other. Both wires will experience a force, and suing the left-hand rule, the force will attract between the wires if the currents are in the same direction. 
+- The force are equal and opposite 
+![[Pasted image 20240207184811.png|600]]
+- The force on current $I_1$ Can be determined from determined from $F = BILsin\theta$ but in this case, the field is perpendicular to the wire so:
+	- Force on unit length of conductor carrying current, $I_1 = \dfrac FL = B_2 I_1$ 
+- We saw in:
+	- [[D.2 Electric and magnetic fields#Magnetic field strength around a current in a long straight wire]]
+	- $B = \dfrac{\mu_0 I}{2\pi r}$
+So that the force per unit between parallel currents: 
+- $\dfrac FL = \mu_0 \dfrac {I_1I_2}{2\pi r}$
+- 
+
