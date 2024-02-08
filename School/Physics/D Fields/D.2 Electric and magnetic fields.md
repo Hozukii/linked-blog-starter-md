@@ -109,3 +109,16 @@ $$E = \dfrac Fq$$
 ### Electromagnets
 - The strength of the magnetic field can be controlled by changing the magnitude of the current and using a soft iron core greatly increases the strength of the field. 
 ### Magnetic field strength 
+See:
+- [[D.3 Motion in Electromagnet Fields#Equation for the force on a charged particle moving across a magnetic field]]
+
+### Magnetic field strength around a current in a long straight wire
+- The magnetic field is created by the charges moving in the current and it spreads around the wire. 
+- The magnetic permeability of free space is given the symbol $\mu_0$ and has the value $4\pi \cdot 10^{-7}TmA^{-1}$
+- The magnetic field strength around a straight current depends on the:
+	- Magnitude of the current, $I$
+	- Perpendicular distance from the wire, $r$
+	- magnetic permeability of the air surrounding the wire
+- magnetic field strength at distance $r$ from a current $I$ in a long straigt wire in air:
+#### $$B = \dfrac{\mu_0 I}{2\pi r}$$
+# Electric potential energy (HL)

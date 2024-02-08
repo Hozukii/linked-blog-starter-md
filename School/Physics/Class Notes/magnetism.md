@@ -1,4 +1,4 @@
-- Electric currents produce a magnetic field
+q- Electric currents produce a magnetic field
 	- This extend to all charges
 - A moving magnetic field produces a current. 
 # D.3 Motion in electromagnetic field
