@@ -32,4 +32,4 @@ $$Q = \Delta U + W$$
 # Third law of Thermodynamics 
 - The entropy of a system approaches a constant value as the temperature approaches absolute zero
 
-$\epsilon \Epsilon$ 
+ 
