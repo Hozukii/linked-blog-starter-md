@@ -1079,10 +1079,10 @@ The  ^5n9qw2A2
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 966.9675183065226,
-		"scrollY": 788.0399946085703,
+		"scrollX": 2051.532064144881,
+		"scrollY": 899.2310120903364,
 		"zoom": {
-			"value": 0.3400791696175281
+			"value": 0.25
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
