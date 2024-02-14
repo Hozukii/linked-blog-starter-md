@@ -1,0 +1,1 @@
+Fergal Keane, a BBC war correspondent questions the brutalities of war driven by ideals of honour and pride through a personal but open letter to his new-born son along with the wider BBC audience using imagery, anecdotes, and polysyndeton 
