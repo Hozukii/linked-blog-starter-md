@@ -123,3 +123,36 @@ See:
 #### $$B = \dfrac{\mu_0 I}{2\pi r}$$
 # Electric potential energy (HL)
 - **Electric potential energy**, $E_p$ - the work done when bringing all the charges of a system to their present positions from infinity
+	- The zero of electric potential energy is chosen to be when the charges are separated by an infinite distance
+- Can be negative (attractive) or positive (repulsive). 
+## Calculating electric potential energies
+Electric potential energy of two point charges, 
+#### $$E_p = k\dfrac {q_1 q_2}r$$
+- $q_1, q_2$ - two point charges
+- $r$ - distance between their centres
+## Electric potential
+- **Electric potential**, $V_e$, - work done in moving a test charge of $+1C$ to a specified point from infinity
+	- used to describe points in the space around charges
+- Electrical potential can be considered as electric potential energy per charge. 
+- measured in $JC^{-1}$ which is $V$
+- TO derive the equation:
+	- $E_p = k\dfrac{Qq}r$ where the $Q$ is the bigger charge. then dividing the small charge, $q$ gives:
+- Electric potential around a point charge Q:
+#### $$V_e = \dfrac{kQ}r$$
+## Electric equipotential surfaces and lines
+- An equipotential surface connects places which have the same electric potential. Equipotential lines are always perpendicular to electric field lines. 
+![[Pasted image 20240215204901.png|200]]
+![[Pasted image 20240215204938.png|200]]
+
+- No overall work is done if a charge moves between different positions on the same equipotential line
+- A 3D representation would have spherical surfaces
+## Combining electric potentials
+- Electrical potential is a scalar quantity and potentials can be combined by simple addition
+- ![[Pasted image 20240215205312.png|400]]
+## Electric potential difference
+- **Potential difference**, p.d, $\Delta V_e$ - Difference in electric potential between two points, which equals the work done when a charge of 1C is moved between points. 
+#### $$\Delta V_e = \dfrac Wq$$ or $$W = q\Delta V_e$$
+- measured in $V$ ($JC^{-1}$)
+- Electric field strength, $E = -\dfrac {\Delta V_e}{\Delta r}$
+- where $\dfrac {\Delta V_e}{\Delta r}$ is called the electric *potential gradient*
+- The negative sign has been added to show that the direction of the vector quantity $E$ is opposite to the direction of increasing potential. 
