@@ -122,3 +122,4 @@ See:
 - magnetic field strength at distance $r$ from a current $I$ in a long straigt wire in air:
 #### $$B = \dfrac{\mu_0 I}{2\pi r}$$
 # Electric potential energy (HL)
+- **Electric potential energy**, $E_p$ - the work done when bringing all the charges of a system to their present positions from infinity
