@@ -15,4 +15,5 @@
 - The induced emf when a straight conductor moves perpendicularly across a uniform magnetic field:
 - $$\varepsilon = BvL$$
 ## Electromagnetic induction by moving a permanent magnetic field across a conductor
-
+- Moving a conductor through a permanent magnetic field has similar effect to keeping the conductor still and moving the field. 
+- 
