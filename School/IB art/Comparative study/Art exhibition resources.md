@@ -7,6 +7,11 @@ https://www.artnet.com/artists/lars-lerin/3
 Inka and niclas
 https://sixtysixmag.com/inka-and-niclas/
 
+Neil leifer
+https://amateurphotographer.com/technique/interviews/neil-leifer-iconic-sports-photography/
+
+
+find that one baskeball picture
 
 mediums
 - Photography 
