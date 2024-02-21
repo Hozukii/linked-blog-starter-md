@@ -16,4 +16,10 @@
 - $$\varepsilon = BvL$$
 ## Electromagnetic induction by moving a permanent magnetic field across a conductor
 - Moving a conductor through a permanent magnetic field has similar effect to keeping the conductor still and moving the field. 
-- 
+![[Pasted image 20240221141456.png| 300]]
+![[Pasted image 20240221141523.png|400]]
+- In the second figure, the effects can be increased greatly by winding the conductor into a solenoid. The direction of the induced current around the induced coil will be reversed if the magnet is reversed, or motion of the magnet is reversed
+## Electromagnetic induction without physical movement
+- Emfs can also be induced, by changes in the current in one circuit affecting another. 
+![[Pasted image 20240221142032.png|350]]
+- The sudden change 
