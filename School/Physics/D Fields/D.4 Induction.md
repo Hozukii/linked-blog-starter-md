@@ -44,4 +44,27 @@ $$\text{magnetic flux linkage} = N \Phi$$
 - It is negative because the induced emf acts to oppose any change in the magnetic flux
 ### Induction because of motion of a conductor across a uniform magnetic field
 ![[Pasted image 20240221152031.png|400]]
-The rod is able to move horizontally which is perpendicularly 
+- The rod is able to move horizontally which is perpendicularly
+- Because there is only one loop, 
+	- $\varepsilon = \dfrac {\Delta \Phi}{\Delta t} = \dfrac {\Delta (BA)}{\Delta t} = B \dfrac {\Delta A}{\Delta t}$
+	- for a uniform magnetic field
+- The rate of change of area $\dfrac {\Delta A}{\Delta t} = \dfrac {Lv\Delta t}{\Delta t} = vL$
+- Therefore:
+	- $\varepsilon = BvL$
+### Induction because of motion of a coil into and out of a uniform magnetic field
+![[Pasted image 20240221154823.png| 350]]
+- In this example:
+$\varepsilon = N\dfrac {\Delta \Phi}{\Delta t} = NA \cdot \dfrac {\Delta B}{\Delta t}$
+### Induction between materials 
+- **mutual induction** - Electromagnetic induction between separate circuits
+
+![[Pasted image 20240221155247.png|400]]
+- The changing magnetic flux passing through coil $B$ depends on the rate at which the current, $I$ is changing in coil A
+- For mutual induction in a fixed arrangement $\dfrac {\Delta \Phi}{\Delta t}$ and the induced emf, $\varepsilon$, are proportional to $\dfrac {\Delta I}{\Delta t}$
+## Energy transfers during electromagnetic induction
+- **Eddy currents** - Circulating currents induced in solid pieces of metal when changing magnetic fields pass through them
+- An induced electric current has had energy transferred to it from the process that induced it, for example from the kinetic energy of motion
+- Whenever the magnetic is moved in any way, a current will be induced and the magnetic field of that current will tend to stop the movement. This application of the law conservation of energy is known as **Len's law** and it is the reason for the negative sign in Faraday's law
+### Len's law 
+- **Lenz's law (of electromagnetic induction)** - The direction of an induced emf is such that it will oppose the change that produced it. 
+- 
