@@ -65,6 +65,23 @@ $\varepsilon = N\dfrac {\Delta \Phi}{\Delta t} = NA \cdot \dfrac {\Delta B}{\Del
 - **Eddy currents** - Circulating currents induced in solid pieces of metal when changing magnetic fields pass through them
 - An induced electric current has had energy transferred to it from the process that induced it, for example from the kinetic energy of motion
 - Whenever the magnetic is moved in any way, a current will be induced and the magnetic field of that current will tend to stop the movement. This application of the law conservation of energy is known as **Len's law** and it is the reason for the negative sign in Faraday's law
-### Len's law 
+### Lenz's law 
 - **Lenz's law (of electromagnetic induction)** - The direction of an induced emf is such that it will oppose the change that produced it. 
-- 
+## Electromagnetic induction in rotating coils
+![[Pasted image 20240221161927.png|400]]
+## Alternating current (ac) generators
+![[Pasted image 20240221161952.png| 400]]
+
+- If the coil is rotating, there will be a changing magnetic flux passing through it and a chainging emf will be induced. 
+- As WX moves upwards, the induced emf will make a current flow. 
+- The emfs induced is opposite sides of a coil rotating in a magnetic field act in series to drive a current around teh coil. 
+- The connection between the coil and the external circuit cannot be fixed and permanent because the wires would become twisted as the coil is rotated. Therefore, brushes are used with slip rings.
+- **Slip rigs and brushes** - In an ac generator these are used for connecting the rotating coil to the external circuit. 
+- **Turbine** - Device that transfers the energy from a moving fluid to do mechanical work and cause rotation. 
+- **Alternator** - ac electrical generator
+![[Pasted image 20240221163029.png]]
+# Self-induction
+- When a current in any circuit changes, the magnetic flux associated with that current also change. 
+- therefore, induction also occurs within the same circuit and then the induced emf opposes the change of current, so that it cats in the reverse direction to the original emf producing the current
+- **back-emf** - An induced potential difference that opposes a change of current in the same circuit. 
+- The magnitude of self-induction effects will change with the magnetic properties of different surrounding materials. This 
