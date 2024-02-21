@@ -1,1 +1,0 @@
-https://hitomimurakami.mystrikingly.com
