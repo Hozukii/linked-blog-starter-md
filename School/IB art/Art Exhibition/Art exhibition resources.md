@@ -22,4 +22,5 @@ mediums
 - Painting
 - Sculptures 
 - Blender
+- Paper cut outs
 - 
