@@ -23,4 +23,5 @@ mediums
 - Sculptures 
 - Blender
 - Paper cut outs
+- Ink - stippling 
 - 
