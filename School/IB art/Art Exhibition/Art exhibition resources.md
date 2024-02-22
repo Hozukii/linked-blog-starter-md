@@ -13,6 +13,8 @@ https://amateurphotographer.com/technique/interviews/neil-leifer-iconic-sports-p
 
 
 find that one baskeball picture
+Mori from climber 
+The person who draws like a dark flash picture
 
 Henri matisse 
 
