@@ -26,4 +26,6 @@ mediums
 - Blender
 - Paper cut outs
 - Ink - stippling 
-- 
+
+A man climbing a mountain, he is focused on the peak he sees nothing but the peak and nothing around him. 
+Drawing 
