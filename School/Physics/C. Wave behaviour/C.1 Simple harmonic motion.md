@@ -1,0 +1,48 @@
+# Oscillations 
+- **Oscillation** - Repetitive motion about a fixed point. 
+- **Simple Harmonic motion** - An idealized oscillation that maintains a constant amplitude and frequency. 
+- In a perfect SHM, the oscillations always take the same time (isochronous) and there are no resistive forces, so that they continue oscillating indefinitely with no loss of energy and constant amplitude. 
+- **Isochronous** - Describing events that take equal time. 
+## Terms used to describe oscillations and SHM
+- **Equilibrium position** - Position in which there is no resultant force acting on an object.
+![[Pasted image 20240305194056.png |400]]
+
+- If a mass is then displaced, oscillation may occur if there is always a resultant *restoring force* pulling, and /or pushing it back toward equilibrium position. 
+- The mass will gain kinetic energy as it moves back where it came from. 
+- Because of inertia , it will the n pass through the equilibrium. 
+- Kinetic energy is transferred to some form of potential energy in the system, and when the kinetic energy has reduced to zero, the mass will stop and then reverse its motion. 
+- The *displacement*, $x$, of an oscillator is its distance from the equilibrium position in a certain direction. 
+- The **amplitude**, $x_0$ - maximum displacement of an oscillation (or wave)
+- One *oscillation* is completed every time that an oscillating mass returns to a certain position, moving in the same direction often called a **cycle**
+- **Time period**, $T$ - Time taken for one complete oscillation. 
+- **Frequency**, $f$ - The number of oscillations per unit time:
+	- $1Hz$  = $\dfrac {\text{1 oscillation}}{1sec}$
+	- $T = \dfrac 1f$
+- The time period and frequency of most practical oscillations remain isochronous, even when the amplitude reduces because of energy dissipation. 
+## Connection between SHM and circular motion
+- Circular motion discussed in:
+	- [[A.2 Forces and Momentum#Circular Motion and Centripetal forces]]
+- Motion in a circle has exactly the same pattern of movement as a simple oscillation. 
+![[Pasted image 20240305195121.png|400]]
+
+- As the particle moves, the point P oscillates along the diameter with the same frequency as the particle's circular motion, and with an amplitude equal to the radius, $r$ , of the circule. 
+- The concept of angular velocity, $\omega$, was introduced in A.2.
+	- In the study of SHM, $\omega$ is angular frequency. 
+- **Angular frequency**, $\omega$ - Used to represent the frequency of an oscillation in $rads^{-1}$. 
+#### $$\omega = \dfrac {2\pi}T = 2\pi f$$
+## Two commonly investigated oscillators
+##### why mass-spring system and a simple pendulum are important
+Includes:
+- The proportional relationship between force and displacement are easily understood
+- Their periods of oscillation have a convenient time for measurement in a school lab
+- They are good approximations to simple harmonic motion
+- Energy is dissipated slowly
+- They act as starting points for understanding many similar, but more complex, oscillators
+## Mass-spring system
+![[Pasted image 20240305195839.png|570]]
+
+- The relationship for the SHM of a mass on a spring:
+	- Time period of a mass-spring system:
+#### $$T = 2\pi \sqrt {\dfrac mk}$$
+- Since $\omega = \dfrac {2\pi}T$,  this equation can also be written as: $\omega ^2 = \dfrac km$
+- 
