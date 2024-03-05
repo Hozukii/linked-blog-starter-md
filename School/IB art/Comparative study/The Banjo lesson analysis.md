@@ -100,6 +100,7 @@ Talk about the cultural context about American realism and the French artistic m
 
 # Embedded files
 80cdc1cfecb755853b6dc18fee7c567e81776028: [[Pasted Image 20240125125737_636.png]]
+9064b303aae49f9b35c6025df586622379ee74cf: [[Pasted Image 20240304210036_880.png]]
 
 %%
 # Drawing
@@ -1612,6 +1613,39 @@ Talk about the cultural context about American realism and the French artistic m
 			"originalText": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
 			"lineHeight": 1.15,
 			"baseline": 26
+		},
+		{
+			"id": "O5ujN4wtzNQroDY5e35lC",
+			"type": "image",
+			"x": 1184.8695897167872,
+			"y": 592.3153099681876,
+			"width": 411.99999999999994,
+			"height": 357,
+			"angle": 0,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1696792727,
+			"version": 30,
+			"versionNonce": 640075193,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1709582433061,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "9064b303aae49f9b35c6025df586622379ee74cf",
+			"scale": [
+				1,
+				1
+			]
 		}
 	],
 	"appState": {
@@ -1629,10 +1663,10 @@ Talk about the cultural context about American realism and the French artistic m
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 773.0907277435294,
-		"scrollY": 951.3384598730847,
+		"scrollX": 1059.1304102832128,
+		"scrollY": 1259.2293328889557,
 		"zoom": {
-			"value": 0.44999999999999996
+			"value": 0.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
