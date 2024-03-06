@@ -24,5 +24,14 @@
 - It has a period in seconds
 - It has a frequency in $Hz$ or $s^{-1}$
 #### $$T = 2\pi \sqrt{\dfrac lg}$$
-- $l$ - 
-- $g$ - 
+- $l$ - Length 
+- $g$ - Gravity
+
+## Oscillation 
+- Oscillating system has all:
+	- Max amplitude
+	- Min amplitude
+	- Equilibrium point
+	- Restoring force
+- 
+
