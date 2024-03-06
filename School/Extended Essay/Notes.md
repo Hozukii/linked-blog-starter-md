@@ -1,0 +1,5 @@
+- There are kinds of noise with fans:
+	- **Aerodynamic noise** - noise due to the interaction of the airflow with the impeller and the fixed components of the fan. 
+	- **Electromagnetic noise** - Noise of the electric motor that drives the fan. (mostly caused by the mechanical excitation of the stator by the magnetic field in the air gap between the rotor and the stator)
+	- **Mechanical noise** - noise of the bearings and transmission systems 
+- Electromagnetic and mechanical noise may become non-negligible at low rotation speed (below 500 to 1000rpm)
