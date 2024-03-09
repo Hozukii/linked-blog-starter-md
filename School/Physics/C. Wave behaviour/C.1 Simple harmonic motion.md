@@ -44,5 +44,8 @@ Includes:
 - The relationship for the SHM of a mass on a spring:
 	- Time period of a mass-spring system:
 #### $$T = 2\pi \sqrt {\dfrac mk}$$
+- $m$ - mass
+- $k$ - spring constant ($N/m$)
+- The period of a spring-mass system is proportional to the square root of the mass and inversely proportional to the square root of the spring constant.
 - Since $\omega = \dfrac {2\pi}T$,  this equation can also be written as: $\omega ^2 = \dfrac km$
 - 
