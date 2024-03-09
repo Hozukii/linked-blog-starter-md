@@ -53,7 +53,10 @@ Includes:
 - **Pendulum** - A weight, which is suspended below a pivot, which is able to swing from side to side. 
 	- Weight is sometimes called the **pendulum bob**
 	- **Simple pendulum** - point mass on the end of an inextensible string
-![[Pasted image 20240309162101.png|350]]
+
+| ![[Pasted image 20240309162101.png\|350]] | ![[Pasted image 20240309162636.png \|200]] |
+| ----------------------------------------- | ------------------------------------------ |
+
 
 - the weight, $mg$, of the pendulum is conveniently resolved into two components: 
 	- A force $mg \space sin \theta$ provides the restoring force
@@ -61,13 +64,10 @@ Includes:
 - For small amplitudes, the time period, $T$, depends only its length,$l$ (measured from its point of support to its centre of mass)
 - mass will not affect is because doubling the mass, for example, will also result in doubling the restoring force. 
 
-![[Pasted image 20240309162636.png |200]]
+
 
 - Relationship for the SHM of a simple pendulum:
 - time period of a simple pendulum:
 #### $$T = 2\pi \sqrt {\dfrac lg}$$
 - $l$ - length
 - $g$ - gravity
-
-
-|-| 
