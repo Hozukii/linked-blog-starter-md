@@ -29,6 +29,7 @@
 - The concept of angular velocity, $\omega$, was introduced in A.2.
 	- In the study of SHM, $\omega$ is angular frequency. 
 - **Angular frequency**, $\omega$ - Used to represent the frequency of an oscillation in $rads^{-1}$. 
+- $\omega = \dfrac {rad}{sec}$
 #### $$\omega = \dfrac {2\pi}T = 2\pi f$$
 ## Two commonly investigated oscillators
 ##### why mass-spring system and a simple pendulum are important
@@ -44,5 +45,29 @@ Includes:
 - The relationship for the SHM of a mass on a spring:
 	- Time period of a mass-spring system:
 #### $$T = 2\pi \sqrt {\dfrac mk}$$
+- $m$ - mass
+- $k$ - spring constant ($N/m$)
+- The period of a spring-mass system is proportional to the square root of the mass and inversely proportional to the square root of the spring constant.
 - Since $\omega = \dfrac {2\pi}T$,  this equation can also be written as: $\omega ^2 = \dfrac km$
-- 
+## Simple Pendulum 
+- **Pendulum** - A weight, which is suspended below a pivot, which is able to swing from side to side. 
+	- Weight is sometimes called the **pendulum bob**
+	- **Simple pendulum** - point mass on the end of an inextensible string
+
+| ![[Pasted image 20240309162101.png\|350]] | ![[Pasted image 20240309162636.png \|200]] |
+| ----------------------------------------- | ------------------------------------------ |
+
+
+- the weight, $mg$, of the pendulum is conveniently resolved into two components: 
+	- A force $mg \space sin \theta$ provides the restoring force
+	- $mg \space cos \theta$ keep s the rod/string in tension. 
+- For small amplitudes, the time period, $T$, depends only its length,$l$ (measured from its point of support to its centre of mass)
+- mass will not affect is because doubling the mass, for example, will also result in doubling the restoring force. 
+
+
+
+- Relationship for the SHM of a simple pendulum:
+- time period of a simple pendulum:
+#### $$T = 2\pi \sqrt {\dfrac lg}$$
+- $l$ - length
+- $g$ - gravity
