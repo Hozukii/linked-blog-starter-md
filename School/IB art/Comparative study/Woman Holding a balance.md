@@ -52,6 +52,8 @@ https://artsartistsartwork.com/history-of-the-colour-blue-in-art/#:~:text=The%20
 
 https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html ^MBYLHFa3
 
+https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html ^gLTou267
+
 
 # Embedded files
 23f7170746f9ef3e0b824f6d8fd012a8d1fb5b81: [[Pasted Image 20240202143104_938.jpg]]
@@ -1140,6 +1142,43 @@ https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html ^MB
 			"baseline": 18,
 			"containerId": null,
 			"originalText": "🌐https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html",
+			"lineHeight": 1.15
+		},
+		{
+			"id": "gLTou267",
+			"type": "text",
+			"x": -250.8623198886966,
+			"y": 1161.1022210755868,
+			"width": 744.4921875,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 668539757,
+			"version": 29,
+			"versionNonce": 331740931,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710181854538,
+			"link": "https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"locked": false,
+			"text": "🌐https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"rawText": "https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "🌐https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
 			"lineHeight": 1.15
 		},
 		{
