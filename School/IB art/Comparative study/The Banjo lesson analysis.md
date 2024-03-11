@@ -97,6 +97,8 @@ Talk about the cultural significance that the painting had after its inception ^
 
 Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings. ^t9PL3pbr
 
+https://www.jstor.org/stable/41304563 ^HgstCcxy
+
 
 # Embedded files
 80cdc1cfecb755853b6dc18fee7c567e81776028: [[Pasted Image 20240125125737_636.png]]
@@ -1646,6 +1648,43 @@ Talk about the cultural context about American realism and the French artistic m
 				1,
 				1
 			]
+		},
+		{
+			"id": "HgstCcxy",
+			"type": "text",
+			"x": -986.0986642514648,
+			"y": -2121.727960972614,
+			"width": 503.86328125,
+			"height": 32.199999999999996,
+			"angle": 0,
+			"strokeColor": "#e03131",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 104681549,
+			"version": 8,
+			"versionNonce": 1357718883,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1710183191925,
+			"link": "https://www.jstor.org/stable/41304563",
+			"locked": false,
+			"text": "🌐https://www.jstor.org/stable/41304563",
+			"rawText": "https://www.jstor.org/stable/41304563",
+			"fontSize": 28,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 26,
+			"containerId": null,
+			"originalText": "🌐https://www.jstor.org/stable/41304563",
+			"lineHeight": 1.15
 		}
 	],
 	"appState": {
@@ -1663,10 +1702,10 @@ Talk about the cultural context about American realism and the French artistic m
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 1736.098664251465,
-		"scrollY": 3069.540460972614,
+		"scrollX": 2257.884378537179,
+		"scrollY": 3382.1694292265825,
 		"zoom": {
-			"value": 0.44999999999999996
+			"value": 0.35
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
