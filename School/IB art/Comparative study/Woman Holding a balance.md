@@ -47,6 +47,13 @@ A blue fabric - there is a blue fabric in the left corner of the desk and it dra
 
 The  ^5n9qw2A2
 
+https://artsartistsartwork.com/history-of-the-colour-blue-in-art/#:~:text=The%20colour%20blue%20has%20long%20been%20used%20in%20art%20to,evoke%20a%20sense%20of%20wonder.
+ ^I4qwp8Lm
+
+https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html ^MBYLHFa3
+
+https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html ^gLTou267
+
 
 # Embedded files
 23f7170746f9ef3e0b824f6d8fd012a8d1fb5b81: [[Pasted Image 20240202143104_938.jpg]]
@@ -109,7 +116,7 @@ The  ^5n9qw2A2
 			"y": -337.0831640163427,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 326.361328125,
+			"width": 326.375,
 			"height": 32.199999999999996,
 			"seed": 44667424,
 			"groupIds": [],
@@ -128,7 +135,7 @@ The  ^5n9qw2A2
 			"containerId": null,
 			"originalText": "Woman holding a Balance",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "image",
@@ -179,7 +186,7 @@ The  ^5n9qw2A2
 			"y": 805.4296715175036,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 528.84765625,
+			"width": 528.857421875,
 			"height": 23,
 			"seed": 1794264032,
 			"groupIds": [],
@@ -253,7 +260,7 @@ The  ^5n9qw2A2
 			"y": 911.8486926935675,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 532.158203125,
+			"width": 532.177734375,
 			"height": 23,
 			"seed": 662878752,
 			"groupIds": [],
@@ -290,7 +297,7 @@ The  ^5n9qw2A2
 			"y": 980.2443489862756,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1410.99609375,
+			"width": 1411.015625,
 			"height": 23,
 			"seed": 527827936,
 			"groupIds": [],
@@ -672,7 +679,7 @@ The  ^5n9qw2A2
 			"y": -374.30359255202313,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 135.283203125,
+			"width": 135.29296875,
 			"height": 23,
 			"seed": 1003019232,
 			"groupIds": [],
@@ -839,7 +846,7 @@ The  ^5n9qw2A2
 			"containerId": null,
 			"originalText": "Objects/ elements in the image",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -1062,6 +1069,117 @@ The  ^5n9qw2A2
 			"originalText": "A blue fabric - there is a blue fabric in the left corner of the desk and it drapes down the desk covering a big portion of the desk\n\nThe ",
 			"lineHeight": 1.15,
 			"baseline": 64
+		},
+		{
+			"type": "text",
+			"version": 4,
+			"versionNonce": 1806323331,
+			"isDeleted": false,
+			"id": "I4qwp8Lm",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -234.140921425737,
+			"y": 1044.4236102246575,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 1717.353515625,
+			"height": 46,
+			"seed": 1945161133,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710181447310,
+			"link": "https://artsartistsartwork.com/history-of-the-colour-blue-in-art/#:~:text=The%20colour%20blue%20has%20long%20been%20used%20in%20art%20to,evoke%20a%20sense%20of%20wonder.",
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "🌐https://artsartistsartwork.com/history-of-the-colour-blue-in-art/#:~:text=The%20colour%20blue%20has%20long%20been%20used%20in%20art%20to,evoke%20a%20sense%20of%20wonder.\n",
+			"rawText": "https://artsartistsartwork.com/history-of-the-colour-blue-in-art/#:~:text=The%20colour%20blue%20has%20long%20been%20used%20in%20art%20to,evoke%20a%20sense%20of%20wonder.\n",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "🌐https://artsartistsartwork.com/history-of-the-colour-blue-in-art/#:~:text=The%20colour%20blue%20has%20long%20been%20used%20in%20art%20to,evoke%20a%20sense%20of%20wonder.\n",
+			"lineHeight": 1.15,
+			"baseline": 41
+		},
+		{
+			"type": "text",
+			"version": 43,
+			"versionNonce": 6550413,
+			"isDeleted": false,
+			"id": "MBYLHFa3",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -231.9436298991571,
+			"y": 1098.4340604852373,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 726.689453125,
+			"height": 23,
+			"seed": 87838787,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710181468225,
+			"link": "https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html",
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "🌐https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html",
+			"rawText": "https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "🌐https://www.nga.gov/audio-video/video/vermeer-masters-of-genre-painting.html",
+			"lineHeight": 1.15,
+			"baseline": 18
+		},
+		{
+			"type": "text",
+			"version": 29,
+			"versionNonce": 331740931,
+			"isDeleted": false,
+			"id": "gLTou267",
+			"fillStyle": "hachure",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"angle": 0,
+			"x": -250.8623198886966,
+			"y": 1161.1022210755868,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 744.4921875,
+			"height": 23,
+			"seed": 668539757,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1710181854538,
+			"link": "https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"locked": false,
+			"fontSize": 20,
+			"fontFamily": 2,
+			"text": "🌐https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"rawText": "https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "🌐https://www.nga.gov/collection/highlights/vermeer-woman-holding-a-balance.html",
+			"lineHeight": 1.15,
+			"baseline": 18
 		}
 	],
 	"appState": {
@@ -1079,10 +1197,10 @@ The  ^5n9qw2A2
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 2051.532064144881,
-		"scrollY": 899.2310120903364,
+		"scrollX": 2238.532064144881,
+		"scrollY": 982.2797546171093,
 		"zoom": {
-			"value": 0.25
+			"value": 0.35000000000000003
 		},
 		"currentItemRoundness": "sharp",
 		"gridSize": null,
