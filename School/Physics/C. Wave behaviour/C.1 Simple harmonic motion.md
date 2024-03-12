@@ -71,3 +71,14 @@ Includes:
 #### $$T = 2\pi \sqrt {\dfrac lg}$$
 - $l$ - length
 - $g$ - gravity
+## Conditions that Produce Simple Harmonic Motion
+- **Simple Harmonic Motion** will occur if the restoring force, $F$, is proportional to the displacement, $x$, but the force always acts back towards the equilibrium position (Hooke's Law)
+$$F \propto -x$$
+For a simple pendulum, the restoring force, $mg\space sin \theta$  is (almost) proportional to the displacement angle, $\theta$ if the angle is small 
+- **Simple harmonic motion** - Oscillations in which the acceleration, $a$, is proportional to the displacement, $x$, and in the opposite direction, directed back at the equilibrium position.
+$$a \propto -x$$
+- Therefore, amplitude does not affect time period
+	- Since if displacement(amplitude doubles) so will the acceleration
+- The constant must involve frequency because the magnitude of the acceleration is greater if the frequency is higher. 
+#### $$ a = -\omega^2 x$$
+### Graphs of SHM
