@@ -48,5 +48,8 @@ A particle travels with velocity:
 $$v = \dfrac 1t - 1$$
 Find the **distance** travelled by the particle between $t = 0.5$ second and $t = 2$ seconds
 
+Lola has made a cup of tea. The tea's temperature $T$ is initially $85\degree C$ and it cools according to diff eq:
+$$\dfrac {dT}{dt} = -0.1(T-20)$$
+Where $t$ is time in minutes. Given that Lola likes to drink her tea at a temperature between $40 \degree C$ and $65 \degree C$ how long will she have to wait?
 
 
