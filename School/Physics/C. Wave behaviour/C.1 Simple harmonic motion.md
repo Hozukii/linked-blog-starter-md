@@ -82,3 +82,19 @@ $$a \propto -x$$
 - The constant must involve frequency because the magnitude of the acceleration is greater if the frequency is higher. 
 #### $$ a = -\omega^2 x$$
 ### Graphs of SHM
+![[Pasted image 20240312200124.png |300]]
+![[Pasted image 20240312200141.png|500]]
+
+- The waveform seen is commonly described as being **sinusoidal** in shape
+- We can use the graph to calculate the velocity of the oscillating mass at any particular moment by determining the gradient of the displacement
+- Velocity,$v = \dfrac {\Delta x}{\Delta t}$
+- Similarly, acceleration, $a = \dfrac {\Delta v}{\Delta t}$
+- The velocity has its maximum value, $v_0$, when the displacement, $x$ is 0
+- Velocity is 0 when the displacement is at maximum $\pm x_0$
+- The acceleration has its maximum when the velocity is 0 and displacement is greatest
+- SHM graphs of displacement, velocity, and accelerations are all sinusoidal in shape, but their maximum values occur at different times. 
+- 
+![[Pasted image 20240312200303.png|500]]
+![[Pasted image 20240312200330.png |500]]
+![[Pasted image 20240312200414.png |500]]
+![[Pasted image 20240312200834.png]]
