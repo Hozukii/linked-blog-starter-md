@@ -25,3 +25,9 @@ Able to manipulate light
 - Childhood - playing with Legos 
 - Focused on something
 *Go look at the calendar*
+## Style 
+- I like bolder brushstrokes of henry O. Tanner
+- I like the colour palette of Johannes Vermeer
+	- Especially the grey background wall. 
+	- Also the cooler colours
+- 
