@@ -34,4 +34,3 @@
 	- Equilibrium point
 	- Restoring force
 - 
-
