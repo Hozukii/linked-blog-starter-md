@@ -24,6 +24,8 @@ $x^2 \cdot \dfrac{dy}{dx} + xy = \dfrac 2x$, $y(2) = 1$
 $\dfrac {dy}{dx} + tan(x)\cdot y = sec(x)$
 
 $(x-1)\cdot \dfrac {dy}{dx} + xy = (x-1)e^{-x}$
+$\dfrac {dy}{dx} = \dfrac yx +1$
+
 ## L'Hopital Rule 
 $$ \lim_{x\to 0} \dfrac {2^x -1}x $$
 $$\lim_{x\to 0} \left(\dfrac 1x - \dfrac 1{sin(x)}\right)$$
@@ -37,6 +39,7 @@ $$\lim_{x\to 0} \dfrac {cos^2(3x)-1}{x^2}$$
 $$\lim_{x\to 0} \dfrac {cos(7x)-1}{x \cdot sin(x)} \space ans: -\dfrac {49}2$$
 $$\lim_{x\to \infty} \left[x^2(arctan(x^2)-\dfrac \pi2)\right]$$
 $$\lim_{x\to 0} \dfrac {tan(x)-x}{2cos(x)-2sin(x)-cos(x)-1}$$
+$$\lim_{x\to \pi} \left( \dfrac {sin^2x - tan^2 x}{(x-\pi)^4} \right)$$
 ## Kinematics
 Exam Q, P1, 7marks
 A particle moves along a straight line in such a way that after $t$ seconds, it's displacement in metres, satisfies the equation:
@@ -52,4 +55,9 @@ Lola has made a cup of tea. The tea's temperature $T$ is initially $85\degree C$
 $$\dfrac {dT}{dt} = -0.1(T-20)$$
 Where $t$ is time in minutes. Given that Lola likes to drink her tea at a temperature between $40 \degree C$ and $65 \degree C$ how long will she have to wait?
 
-
+---
+A particle moves along a straight line so that its vertical velocity, $v$ after $t$ seconds is:
+$$v(t) = e^{sin(t)} + 4 \space sin(t), 0 \le t \le 6$$
+a) Find the value of $t$ for which the particle is at rest
+b) Find the acceleration of the particle when it changes direction
+c) Find the total distance travelled by the particle
