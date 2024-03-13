@@ -71,3 +71,30 @@ Includes:
 #### $$T = 2\pi \sqrt {\dfrac lg}$$
 - $l$ - length
 - $g$ - gravity
+## Conditions that Produce Simple Harmonic Motion
+- **Simple Harmonic Motion** will occur if the restoring force, $F$, is proportional to the displacement, $x$, but the force always acts back towards the equilibrium position (Hooke's Law)
+$$F \propto -x$$
+For a simple pendulum, the restoring force, $mg\space sin \theta$  is (almost) proportional to the displacement angle, $\theta$ if the angle is small 
+- **Simple harmonic motion** - Oscillations in which the acceleration, $a$, is proportional to the displacement, $x$, and in the opposite direction, directed back at the equilibrium position.
+$$a \propto -x$$
+- Therefore, amplitude does not affect time period
+	- Since if displacement(amplitude doubles) so will the acceleration
+- The constant must involve frequency because the magnitude of the acceleration is greater if the frequency is higher. 
+#### $$ a = -\omega^2 x$$
+### Graphs of SHM
+![[Pasted image 20240312200124 1 1.png|300]]
+![[Pasted image 20240312200141 1 1.png|500]]
+
+- The waveform seen is commonly described as being **sinusoidal** in shape
+- We can use the graph to calculate the velocity of the oscillating mass at any particular moment by determining the gradient of the displacement
+- Velocity,$v = \dfrac {\Delta x}{\Delta t}$
+- Similarly, acceleration, $a = \dfrac {\Delta v}{\Delta t}$
+- The velocity has its maximum value, $v_0$, when the displacement, $x$ is 0
+- Velocity is 0 when the displacement is at maximum $\pm x_0$
+- The acceleration has its maximum when the velocity is 0 and displacement is greatest
+- SHM graphs of displacement, velocity, and accelerations are all sinusoidal in shape, but their maximum values occur at different times. 
+- 
+![[Pasted image 20240312200303 1 1.png|500]]
+![[Pasted image 20240312200330 1 1.png|500]]
+![[Pasted image 20240312200414 1 1.png|500]]
+![[Pasted image 20240312200834 1 1.png]]
