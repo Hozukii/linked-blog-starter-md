@@ -48,6 +48,7 @@ $$\lim_{x\to \infty} \left[x^2(arctan(x^2)-\dfrac \pi2)\right]$$
 $$\lim_{x\to 0} \dfrac {tan(x)-x}{2cos(x)-2sin(x)-cos(x)-1}$$
 ans: $0$
 $$\lim_{x\to \pi} \left( \dfrac {sin^2x - tan^2 x}{(x-\pi)^4} \right)$$
+ans:$-1$
 
 ## Kinematics
 Exam Q, P1, 7marks
