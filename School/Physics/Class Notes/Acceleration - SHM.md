@@ -18,4 +18,6 @@
 - $x_0$ - amplitude
 - $\phi$ - phase constant, determines where in its cycle the motion begins if $\phi = 0$, the motion starts at $x= 0$ and moves in the positive direction
 - $\omega$ - angular frequency 
-- 
+-
+
+
