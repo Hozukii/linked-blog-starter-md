@@ -50,17 +50,15 @@ $$\lim_{x\to 0} \dfrac {cos(7x)-1}{x \cdot sin(x)}$$ $ans: -\dfrac {49}2$
 $$\lim_{x\to \infty} \left[x^2(arctan(x^2)-\dfrac \pi2)\right]$$
 
 $$\lim_{x\to 0} \dfrac {tan(x)-x}{2cos(x)-2sin(x)-cos(x)-1}$$
-<<<<<<< HEAD
 ans: $0$
 $$\lim_{x\to \pi} \left( \dfrac {sin^2x - tan^2 x}{(x-\pi)^4} \right)$$
 ans:$-1$
 
 ## Kinematics
-=======
 $$\lim_{x\to 0 }\left(\dfrac {e^{-3x^2} + 3 \space cos(2x)-4}{3x^2}\right)$$
 
 ## Kinematics / application
->>>>>>> origin/main
+-  origin/main
 Exam Q, P1, 7marks
 A particle moves along a straight line in such a way that after $t$ seconds, it's displacement in metres, satisfies the equation:
 $$s^2 + s -2t = 0$$
@@ -75,14 +73,14 @@ Lola has made a cup of tea. The tea's temperature $T$ is initially $85\degree C$
 $$\dfrac {dT}{dt} = -0.1(T-20)$$
 Where $t$ is time in minutes. Given that Lola likes to drink her tea at a temperature between $40 \degree C$ and $65 \degree C$ how long will she have to wait?
 
-<<<<<<< HEAD
+
 ---
 A particle moves along a straight line so that its vertical velocity, $v$ after $t$ seconds is:
 $$v(t) = e^{sin(t)} + 4 \space sin(t), 0 \le t \le 6$$
 a) Find the value of $t$ for which the particle is at rest
 b) Find the acceleration of the particle when it changes direction
 c) Find the total distance travelled by the particle
-=======
+
 
 1. A particle moves along a straight line with the velocity $v$ (in $m/s$ ) given by the equation:
 	$v (t) = 7 \space cos (t) - 5t^{cos(t)}$ , for $0 \le t \le 7$
@@ -92,7 +90,7 @@ c) Find the acceleration of the particle when it changes direction of motion, as
 ans: t = 0.864 sec & a = - 9.25
 
 --- 
-The volume of a melting snowball decreases at a rate proportional to its surface area. Initially, the snowball has volume $1000cm^2$ and it loses half of its volume after 5 minutes. I the shape of the snowball remains spherical during the entire melting period, estimate when it happens
+The volume of a melting snowball decreases at a rate proportional to its surface area. Initially, the snowball has volume $1000cm^2$ and it loses half of its volume after 5 minutes. I the shape of the snowball remains spherical during the entire melting period, estimate when it disappears.
 
 --- 
 The acceleration of a body moving through a liquid is given by:
@@ -108,5 +106,3 @@ $\dfrac {dy}{dx} - \dfrac 2x y = \dfrac 3{x^2}$ ,       $y (2) = 5$
 2. Draw the graph of he approximated solution curve, obtained with the step size of 0.2 for all $x \in (0,4)$. Based on that graph, explain whether your approximated solution will be an under- or overestimate of the actual value of y(3)
 3. Solve the IVP analytically and hence determine the actual value of y(3) correct to five decimal places
 4. Find the percentage error when y(3) is approximated by the final value found in part 1. Give our answer to two significant figures 
-5
->>>>>>> origin/main
