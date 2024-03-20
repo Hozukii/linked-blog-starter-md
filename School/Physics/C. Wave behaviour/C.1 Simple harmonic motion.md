@@ -105,3 +105,44 @@ $$a \propto -x$$
 - one quarter of an oscillation, $\dfrac T4 = \dfrac \pi 2$
 - $\dfrac T2 = \pi$
 ## Energy changes during SHM 
+- All mechanical oscillations involve a continuous exchange of energy between kinetic energy and some form of potential energy 
+- $E_p = mg\Delta h$
+- The total energy of a SHM is proportional to its amplitude squared
+![[Pasted image 20240320195257.png]]
+Considering $x_i$ is 0, then we get:
+#### $$E_p = \dfrac 12 kx^2$$
+Kinetic energy of a mass is: 
+$$E_k = \dfrac 12 mv^2$$
+
+![[Pasted image 20240320195443.png|500]]
+
+- In a more realistic situations, the energies of the system will decrease overtime. 
+- Energy dissipation from a oscillating system is called **dampening**
+	- **Dampening** - when resistive forces act on an oscillating system, dissipating energy and reducing amplitude. 
+![[Pasted image 20240320195906.png|400]]
+![[Pasted image 20240320195757.png|400]]
+
+# Calculating displacements and velocities during SHM 
+![[Pasted image 20240320200013.png]]
+
+- It could be represented by equation of the form $x = x_0 \space sin \theta$
+- angular frequency, $\omega = \dfrac {\Delta \theta}{\Delta  t}$
+- Then we can write $x_0 \space sin \theta = x_0 \space sin (\omega t)$
+- Then we need to add the phase angle:
+- **Phase angle** - The difference in angular displacement of an oscillation compared to an agreed reference point Expressed in terms of $\pi$ radians
+- Therefore
+#### $$ x = x_0 \space sin (\omega t + \phi)$$
+Now take the derivative with respect to time,
+#### $$ v = \omega x_0 \space cos (\omega t + \phi)$$
+The maximum velocity: 
+#### $$v_0 = \omega x_0$$
+## Calculating energy changes during SHM
+- We know that $E_p = \dfrac 12 kx^2$ , and $\omega^2 = \dfrac km$ 
+#### $$ \text{potential energy}, E_p = \dfrac 12 m\omega^2 x^2$$
+When the mass is at its maximum displacement, $x_0$ the $E_p  = E_T$  therefore:
+#### $$\text {total energy}, E_T = \dfrac 12 m \omega^2 x_0^2$$
+- Kinetic energy = total energy - potential energy, $E_k = \dfrac 12 m\omega^2 x_0^2 - \dfrac 12 m\omega^2 x^2$, therefore:
+
+#### $$ \text {kinetic energy}, E_k = \dfrac 12 m\omega^2 (x_0^2 - x^2)$$
+With the previous equation of $E_k = \dfrac 12 mv^2$
+#### $$v = \pm \sqrt{(x_0^2-x^2)}$$
