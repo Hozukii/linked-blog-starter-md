@@ -98,3 +98,10 @@ $$a \propto -x$$
 ![[Pasted image 20240312200330 1 1.png|500]]
 ![[Pasted image 20240312200414 1 1.png|500]]
 ![[Pasted image 20240312200834 1 1.png]]
+
+## Phase difference 
+- **Phase difference** - When oscillators that have the same frequency are out of phase with each other, the difference between them is defined by the angle  between the oscillations. Phase differences can be between $0$ and $2\pi$ radians
+### Examples 
+- one quarter of an oscillation, $\dfrac T4 = \dfrac \pi 2$
+- $\dfrac T2 = \pi$
+## Energy changes during SHM 
