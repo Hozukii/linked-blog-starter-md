@@ -33,5 +33,5 @@
 	- Min amplitude
 	- Equilibrium point
 	- Restoring force
-- 
+
 
