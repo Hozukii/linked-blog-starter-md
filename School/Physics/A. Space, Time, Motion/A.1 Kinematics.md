@@ -22,7 +22,7 @@ As they are often confused, it might be a good idea to define these two quantiti
 - A [[vector quantity]]
 
 # Acceleration
-- Any variation from moving at a constant speed in a straight line is descirbed as an acceleartion
+- Any variation from moving at a constant speed in a straight line is described as an acceleration
 - Acceleration, a, is defined as: $\dfrac{\text{change in velocity}}{\text{Change in time}}$ $$a = \dfrac{\Delta v}{t} si \space unit \space ms^{-2}$$
 - Negative acceleration is still acceleration
 

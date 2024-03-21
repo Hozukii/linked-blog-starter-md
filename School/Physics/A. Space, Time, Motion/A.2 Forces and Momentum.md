@@ -28,12 +28,10 @@
 - 1 Litre of water has a volume of 1000$cm^3$ and has a mass of 1kg
 - When a object is wholly or partially immersed in a fluid, it experiences buoyancy force, $F_b$ equal to the weight of the fluid displaced. Since weight = mg and density, $\rho = \dfrac{m}{v}$,  $$F_b = \rho V g$$
 - Archimedes' principle states that **a body immersed in a fluid is subjected to an upwards force equal to the weight of the displaced fluid**
-For example:
-```image-layout-a
-![[Pasted image 20231008102423.png]]
-![[Pasted image 20231008102432.png]]
+For example:=
+![[Pasted image 20231008102423.png|300]]
+![[Pasted image 20231008102432.png|300]]
 
-```
 - water has a density $1000kgm^{-3}$ 
 - Convert $34cm^3$ to $m^3$
 - $0.000034m^3$ = $34 \cdot 10^{-6} m^3$
