@@ -146,7 +146,7 @@ $$k = \dfrac{\Delta F}{\Delta x}$$
 >Linear momentum (Si unit: $kgms^[-1]$) = mass x velocity, **p = mv**
 
 - Momentum is a [[vector quantity]] and its direction is always important. 
-- Is an **isolated system** the change of momentum for one object is equal and opposite to the change in momentum of the other, since the time of interaction is same for both objects
+- In an **isolated system**, the change of momentum for one object is equal and opposite to the change in momentum of the other, since the time of interaction is same for both objects
 - It's also because of the Law of conservation of momentum
 	- Law of conservation of momentum - The Total momentum of any system is constant, provided there is no result, provided that there is no resultant external force acting on it
 - This law of physics is always true with no exceptions.
