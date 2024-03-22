@@ -10,3 +10,6 @@ $\gamma$ - Adiabatic constant
 $R$ - gas constant
 $M$ - molecular mass of gas
 $T$ - absolute temperature
+- Areoa that are compressed are compression
+- The are that have the least compression is called rarefaction
+- 
