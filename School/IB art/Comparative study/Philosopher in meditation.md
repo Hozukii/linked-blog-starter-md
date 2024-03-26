@@ -1072,10 +1072,10 @@ ec39ae3c6b63d1f8c901871d9767ee567429ea4d: [[Pasted Image 20240201124725_063.png]
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 1964.6376425105425,
-		"scrollY": 571.7029597948189,
+		"scrollX": 870.9574686518877,
+		"scrollY": 62.815136042404106,
 		"zoom": {
-			"value": 0.25136374220252033
+			"value": 0.4776289512217044
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
