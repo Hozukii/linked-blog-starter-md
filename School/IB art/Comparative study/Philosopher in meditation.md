@@ -50,6 +50,12 @@ Second volume of Corpus Rembrandt ^KlV6tZ1K
 p.639
  ^r6UoxG1D
 
+6th Volume of Corpus Rembrandt
+painting 86
+ ^GfwIYkRZ
+
+p.523 ^PCW1BP8K
+
 
 # Embedded files
 93e32375ca1d762eed65705054ce0576df165329: [[Pasted Image 20240201124509_375.png]]
@@ -1094,6 +1100,80 @@ ec39ae3c6b63d1f8c901871d9767ee567429ea4d: [[Pasted Image 20240201124725_063.png]
 			"baseline": 41,
 			"containerId": null,
 			"originalText": "p.639\n",
+			"lineHeight": 1.15
+		},
+		{
+			"id": "GfwIYkRZ",
+			"type": "text",
+			"x": 34.35836360549729,
+			"y": 789.4062448420694,
+			"width": 296.8359375,
+			"height": 69,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 827160843,
+			"version": 78,
+			"versionNonce": 536595045,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1711478195836,
+			"link": null,
+			"locked": false,
+			"text": "6th Volume of Corpus Rembrandt\npainting 86\n",
+			"rawText": "6th Volume of Corpus Rembrandt\npainting 86\n",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 64,
+			"containerId": null,
+			"originalText": "6th Volume of Corpus Rembrandt\npainting 86\n",
+			"lineHeight": 1.15
+		},
+		{
+			"id": "PCW1BP8K",
+			"type": "text",
+			"x": 65.127594374728,
+			"y": 858.6370140728387,
+			"width": 50.048828125,
+			"height": 23,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 42787499,
+			"version": 10,
+			"versionNonce": 659473381,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1711478185554,
+			"link": null,
+			"locked": false,
+			"text": "p.523",
+			"rawText": "p.523",
+			"fontSize": 20,
+			"fontFamily": 2,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 18,
+			"containerId": null,
+			"originalText": "p.523",
 			"lineHeight": 1.15
 		}
 	],
