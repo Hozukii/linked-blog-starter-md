@@ -189,6 +189,8 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 - The specific latent heat of a substance, $L$, is the amount of energy transferred when 1 kg of the substance changes phase at a constant temperature. 
 >[!abstract] Specific latent heat equation
 >$$Q = mL$$ 
+>$L$ - latent heat of a substance
+>$m$ - mass
 >SI units: $Jkg^{-1}$
 
 - :Since there are two phase changes, each substance has twa latent heats. 
