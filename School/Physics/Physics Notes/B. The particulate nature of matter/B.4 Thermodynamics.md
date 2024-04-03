@@ -1,6 +1,6 @@
   - **Thermodynamics** - Branch of physics involving transfers of thermal energy to do useful work
 # Work done when Gas Expands
-- **Isobaric **- Occuring at constant pressure
+- **Isobaric**- Occurring at constant pressure
 - Work done = force x distance
 - Work done by gas = force x distance moved in direction of force
 - Force = Pressure x area 
