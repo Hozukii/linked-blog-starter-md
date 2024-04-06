@@ -5,4 +5,4 @@
 
 # 2nd Law
 - around any closed loop in a circuit, the total emf is equal to the sum of all p.d. drops
-- 
+- ![[Pasted image 20240406202234.png]]
