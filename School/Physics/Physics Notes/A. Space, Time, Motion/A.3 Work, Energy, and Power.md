@@ -22,7 +22,7 @@
 # Energy
 - When work is done energy is transferred from a source to the object
 - **Energy** ability to do work
-- $W_net = \Delta E_k$ (work-energy theorem)
+- $W_{net} = \Delta E_k$ (work-energy theorem)
 	- When work is done on an object, there will be a change in Kinetic energy
 ## Different forms of energy
 - There are many types of **Potential energy**
