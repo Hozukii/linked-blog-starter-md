@@ -13,7 +13,7 @@ The complex number $w$ is such that $w = \dfrac 2{z-i}$. Given $|z| = 1$ show cl
 
 
 ---
-If $z_1 = 2 \left(cos(dfrac \pi {14}) + i \space sin (\dfrac \pi {15})\right)$ and $z_2 = 3 \left( cos (\dfrac {2\pi}{5})-i \space sin ({2\pi}5) \right)$
+If $z_1 = 2 \left(cos(\dfrac \pi {14}) + i \space sin (\dfrac \pi {15})\right)$ and $z_2 = 3 \left( cos (\dfrac {2\pi}{5})-i \space sin ({2\pi}5) \right)$
 then find $z_1 \cdot z_2$, expressing your answer in Cartesian form
 
 

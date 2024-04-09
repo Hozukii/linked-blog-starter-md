@@ -1,6 +1,6 @@
   - **Thermodynamics** - Branch of physics involving transfers of thermal energy to do useful work
 # Work done when Gas Expands
-- **Isobaric **- Occuring at constant pressure
+- **Isobaric**- Occurring at constant pressure
 - Work done = force x distance
 - Work done by gas = force x distance moved in direction of force
 - Force = Pressure x area 
@@ -84,7 +84,7 @@ $$\eta_{carnot} = 1 - \dfrac{T_c}{T_h}$$
 - Gas at higher temperature is more disorder / has greater entropy than the same gas in the same volume at a lower temperature 
 - A liquid is more disordered / has greater entropy than a solid of the same material at the same temperature 
 ### Representing entropy mathematically
-- To express entropy of a system of particles numerically, we need to countthe number of ways that the system can be arranged. 
+- To express entropy of a system of particles numerically, we need to count the number of ways that the system can be arranged. 
 - **microstates** - the numerous possible combinations of microscopic properties of a thermodynamic system
 	- The greater the number of possible microstates of a system, the greater its disorder and the greate its entropy. 
 - The symbol $\Omega$ is used to represent the number of possibele microstates of a system / its multiplicity. 

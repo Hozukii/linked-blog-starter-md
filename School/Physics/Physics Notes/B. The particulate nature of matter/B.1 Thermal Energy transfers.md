@@ -107,7 +107,7 @@ $\dfrac{\Delta Q}{\Delta t}$ is the flow of energy per second = power which is m
 - **Thermal radiation** - Emission of electromagnetic waves because of the movement of charges particles in the atoms of all matter at all temperatures. Mostly commonly, infrared. 
 - **Infrared** - Electromagnetic radiation emitted by all objects with wavelengths longer than visible light. 
 
-- Although it is true to say that thermal radiation is emitted continuously by all matter al all temperature, we tend to only notice it coming from hot objects. 
+- Although it is true to say that thermal radiation is emitted continuously by all matter at all temperature, we tend to only notice it coming from hot objects. 
 - The power of the emitted radiation from *any* surface depends on:
 	1. Surface temperature: the radiated power is proportional to the fourth power of the surface temperature. $T^4$
 	3. Surface area - Radiated power is proportional to the area, $A$
@@ -189,6 +189,8 @@ $b = \dfrac L{4\pi d^2}$ can be used to determine the distance, d, to any star i
 - The specific latent heat of a substance, $L$, is the amount of energy transferred when 1 kg of the substance changes phase at a constant temperature. 
 >[!abstract] Specific latent heat equation
 >$$Q = mL$$ 
+>$L$ - latent heat of a substance
+>$m$ - mass
 >SI units: $Jkg^{-1}$
 
 - :Since there are two phase changes, each substance has twa latent heats. 

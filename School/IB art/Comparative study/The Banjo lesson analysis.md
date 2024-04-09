@@ -180,7 +180,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "The subject",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -198,7 +198,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -510.86371389929684,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1036.123046875,
+			"width": 1036.150390625,
 			"height": 160.99999999999997,
 			"seed": 1419202655,
 			"groupIds": [],
@@ -222,7 +222,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "In the middle, there is a old man and a young boy. The old man is siting on\na wooden chair. The old man is supporting the banjo so the boy can hold it properly.\nThe man is bigger than the boy and the boy is sitting in his lap. \nHe is teaching the banjo to the boy. Neutral face with their eyes facing \ndownward into the banjo. They are fully focused and quiet.  ",
 			"lineHeight": 1.15,
-			"baseline": 154
+			"baseline": 155
 		},
 		{
 			"type": "image",
@@ -380,7 +380,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "light",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -398,7 +398,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -179.91212683574733,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 613.18359375,
+			"width": 613.197265625,
 			"height": 64.39999999999999,
 			"seed": 1097357617,
 			"groupIds": [],
@@ -454,7 +454,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "with its cool tone, the left light source might be a window",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -546,7 +546,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": 113.12482679434112,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 903.806640625,
+			"width": 903.8203125,
 			"height": 32.199999999999996,
 			"seed": 1736986719,
 			"groupIds": [],
@@ -565,7 +565,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "The two different light sources also create a divide in tone in the painting.",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -602,7 +602,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "From the left, much darker and cool tone surround the left and also the old man ",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -705,7 +705,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "Background",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -742,7 +742,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "Many kitchen tools like a pan and pots. ",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -779,7 +779,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "As well as a dining table with a jug and a tablecloth  with a plate. ",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -949,8 +949,8 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 		},
 		{
 			"type": "text",
-			"version": 105,
-			"versionNonce": 1723642989,
+			"version": 107,
+			"versionNonce": 142434109,
 			"isDeleted": false,
 			"id": "vIHeAxEV",
 			"fillStyle": "hachure",
@@ -970,7 +970,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710181934631,
+			"updated": 1712433003953,
 			"link": "https://artincontext.org/the-banjo-lesson-painting-henry-ossawa-tanner/",
 			"locked": false,
 			"fontSize": 28,
@@ -982,7 +982,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "🌐https://artincontext.org/the-banjo-lesson-painting-henry-ossawa-tanner/",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -1000,7 +1000,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": 416.6070286728148,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 766.80078125,
+			"width": 766.814453125,
 			"height": 32.199999999999996,
 			"seed": 1364226317,
 			"groupIds": [],
@@ -1019,7 +1019,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "The difference in tone of the two sides (make a colour palette)",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "arrow",
@@ -1122,7 +1122,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": 653.5859788339139,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1608.796875,
+			"width": 1608.810546875,
 			"height": 128.79999999999998,
 			"seed": 1283425955,
 			"groupIds": [],
@@ -1141,7 +1141,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "Born in 1859 (before the abolishment of slavery), he is an African-American artist and the first, \nAfrican-American artist to be internationally acclaimed. His mom was a former slave and his dad was a bishop.\nHe studied in Pennsylvania Academy of Fine Arts, and moved to Paris in 1891, studying at the Académie Julian. \nFrom these two culturally different backgrounds, he has been exposed to both American realism and French academic paintings.  ",
 			"lineHeight": 1.15,
-			"baseline": 122
+			"baseline": 123
 		},
 		{
 			"type": "text",
@@ -1196,7 +1196,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -1633.5480544950271,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1342.66015625,
+			"width": 1342.6875,
 			"height": 96.6,
 			"seed": 325691139,
 			"groupIds": [],
@@ -1233,7 +1233,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -1502.34581977971,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1445.36328125,
+			"width": 1445.376953125,
 			"height": 64.39999999999999,
 			"seed": 363393539,
 			"groupIds": [],
@@ -1294,12 +1294,12 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "Banjo - It was introduced into America through African slaves in the 17th century. In the 1800s, the Banjo was used in \nwhite culture in a satirical and derogatory way in the form of minstrel shows and blackface culture. After the minstrel era, \nthe African American culture mostly stopped utilising the banjo \n ",
 			"lineHeight": 1.15,
-			"baseline": 122
+			"baseline": 123
 		},
 		{
 			"type": "text",
-			"version": 83,
-			"versionNonce": 843465037,
+			"version": 85,
+			"versionNonce": 157627517,
 			"isDeleted": false,
 			"id": "G6NvxYUH",
 			"fillStyle": "hachure",
@@ -1312,14 +1312,14 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -1985.930867824558,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 761.66015625,
+			"width": 761.677734375,
 			"height": 41.4,
 			"seed": 531920973,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710181917701,
+			"updated": 1712432992475,
 			"link": "https://www.britannica.com/art/minstrel-show",
 			"locked": false,
 			"fontSize": 36,
@@ -1335,8 +1335,8 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 		},
 		{
 			"type": "text",
-			"version": 134,
-			"versionNonce": 655265901,
+			"version": 137,
+			"versionNonce": 1381663251,
 			"isDeleted": false,
 			"id": "PY3PTyye",
 			"fillStyle": "hachure",
@@ -1345,18 +1345,18 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": -1009.4555333828664,
-			"y": -1881.3942364227773,
+			"x": -1007.6373515646846,
+			"y": -1883.2124182409593,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 3700.58203125,
+			"width": 3700.6171875,
 			"height": 41.4,
 			"seed": 1366650189,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710181932208,
+			"updated": 1712432999184,
 			"link": "https://www.khanacademy.org/humanities/art-1010/american-art-to-wwii/symbolism-america/a/tanner-banjo-lesson#:~:text=The%20shows%20also%20depicted%20African,Americans%20propagated%20by%20minstrel%20shows.",
 			"locked": false,
 			"fontSize": 36,
@@ -1470,8 +1470,8 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 		},
 		{
 			"type": "text",
-			"version": 32,
-			"versionNonce": 500701165,
+			"version": 34,
+			"versionNonce": 439082835,
 			"isDeleted": false,
 			"id": "btLcpx9t",
 			"fillStyle": "hachure",
@@ -1484,14 +1484,14 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -2045.2064997705643,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 1412.578125,
+			"width": 1412.591796875,
 			"height": 32.199999999999996,
 			"seed": 855582979,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710181915936,
+			"updated": 1712432986946,
 			"link": "https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrelsy-the-banjos-troubled-history",
 			"locked": false,
 			"fontSize": 28,
@@ -1503,12 +1503,12 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "🌐https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrelsy-the-banjos-troubled-history",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
-			"version": 86,
-			"versionNonce": 995279437,
+			"version": 89,
+			"versionNonce": 2059506461,
 			"isDeleted": false,
 			"id": "ZxXSawqR",
 			"fillStyle": "hachure",
@@ -1518,17 +1518,17 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"opacity": 100,
 			"angle": 0,
 			"x": -997.1544736597335,
-			"y": -1925.6731527745874,
+			"y": -1927.4913345927691,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
-			"width": 661.69140625,
+			"width": 661.705078125,
 			"height": 32.199999999999996,
 			"seed": 1675431811,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710181930249,
+			"updated": 1712432996075,
 			"link": "https://www.youtube.com/watch?v=4ITWlbH7EMA",
 			"locked": false,
 			"fontSize": 28,
@@ -1540,7 +1540,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "🌐https://www.youtube.com/watch?v=4ITWlbH7EMA",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "text",
@@ -1614,7 +1614,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
 			"type": "image",
@@ -1651,8 +1651,8 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 		},
 		{
 			"type": "text",
-			"version": 8,
-			"versionNonce": 1357718883,
+			"version": 10,
+			"versionNonce": 1761675741,
 			"isDeleted": false,
 			"id": "HgstCcxy",
 			"fillStyle": "hachure",
@@ -1665,14 +1665,14 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"y": -2121.727960972614,
 			"strokeColor": "#e03131",
 			"backgroundColor": "transparent",
-			"width": 503.8359375,
+			"width": 503.86328125,
 			"height": 32.199999999999996,
 			"seed": 104681549,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1710183191925,
+			"updated": 1712432975304,
 			"link": "https://www.jstor.org/stable/41304563",
 			"locked": false,
 			"fontSize": 28,
@@ -1684,13 +1684,13 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"containerId": null,
 			"originalText": "🌐https://www.jstor.org/stable/41304563",
 			"lineHeight": 1.15,
-			"baseline": 25
+			"baseline": 26
 		},
 		{
-			"id": "tc0cw7pP",
+			"id": "GTlWOlQ7",
 			"type": "text",
-			"x": -422.5170360272591,
-			"y": -411.72715883554656,
+			"x": -572.8529932557944,
+			"y": -1823.0387118658493,
 			"width": 7.779296875,
 			"height": 32.199999999999996,
 			"angle": 0,
@@ -1704,12 +1704,12 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"groupIds": [],
 			"frameId": null,
 			"roundness": null,
-			"seed": 770662607,
+			"seed": 193059165,
 			"version": 2,
-			"versionNonce": 1345158017,
+			"versionNonce": 595288211,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1710832583864,
+			"updated": 1712433002416,
 			"link": null,
 			"locked": false,
 			"text": "",
@@ -1718,7 +1718,7 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 			"fontFamily": 2,
 			"textAlign": "left",
 			"verticalAlign": "top",
-			"baseline": 25,
+			"baseline": 26,
 			"containerId": null,
 			"originalText": "",
 			"lineHeight": 1.15
@@ -1739,10 +1739,10 @@ https://www.jstor.org/stable/41304563 ^HgstCcxy
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "triangle",
-		"scrollX": 891.5195764601334,
-		"scrollY": 406.69262719065654,
+		"scrollX": 1830.125720528522,
+		"scrollY": 3013.0671209567586,
 		"zoom": {
-			"value": 1.0143434051900388
+			"value": 0.5499999999999999
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,

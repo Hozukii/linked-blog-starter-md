@@ -1,22 +1,29 @@
 - **work** and **energy** together provide the "accounting system" for science, enabling explanations and useful predictions to be made. 
-# Work 
+	# Work 
 - **Work, W,** - The energy transfer that occurs when an object is moved with a force. 
 - Work done = force x displacement in the direction of the force
 ## Work done by constant forces
-- Work is done whhen any force moves an object. 
+- work is action done on an object that displaces the object
 > [!info] Work done
 > $W = Fs cos \theta$ 
-> Si unit: Joule, J, $kg m^2 s^{-2}$ which is also Nm
+> $s$ - displacement 
+> $F$ - Force 
+> $\theta$ - angle from the horizontal
+> Si unit: **Joule**, J, $kg m^2 s^{-2}$ which is also Nm
 
-
+- Only the component of the force *Parallel to the displacement* counts towards work. 
 - 1 **Joule** is defined to be the work done when a force of 1N moves through a distance of 1m
+- Work is positive if applied force is in the same direction displacement
+- Work is negative if applied force is in the opposite direction of displacement
 ## Work done by varying forces
 - We have to make an estimate of the *average* force
-- Then, Work done = $F_avg \cdot s$
+- Then, Work done = $F_{avg} \cdot s$
 - Work done is equal to the area under a force-distance graph
 # Energy
 - When work is done energy is transferred from a source to the object
 - **Energy** ability to do work
+- $W_{net} = \Delta E_k$ (work-energy theorem)
+	- When work is done on an object, there will be a change in Kinetic energy
 ## Different forms of energy
 - There are many types of **Potential energy**
 - **Potential energy** - store energy because of their position or arrangement, and the forces between different ports of the system
@@ -40,7 +47,7 @@ All matter contains large amounts of energy inside it.
 ## Energy Transfers
 Total amount of energy in an isolated system remains constant because of [[The Conservation of Energy]] 
 #### Dissipation of energy 
-			- Energy that has spread into the surroundings and cannot be recovered to do useful work. 
+- Energy that has spread into the surroundings and cannot be recovered to do useful work. 
 - All macroscopic processes dissipate energy into the surroundings. 
 # Calculating Mechanical Energies 
 >[!abstract] Equations

@@ -1,3 +1,4 @@
+Although not in the curriculum 
 # Electric Charge
 - **electric charge** - fundamental property of some subatomic particles that makes them experience electric forces when they interact with other charges. Charges can be *positive* or *negative*
 	- [[D.2 Electric and magnetic fields]] 

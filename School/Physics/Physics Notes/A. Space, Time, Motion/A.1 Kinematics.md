@@ -44,12 +44,10 @@ As they are often confused, it might be a good idea to define these two quantiti
 - The area under a speed-time graph is always equal to the distance travelled
 ## Acceleration-time graphs
 - Mostly concerned with constant acceleration
-```image-layout-masonry-3
+![[Pasted image 20231007221504.png|400]]
+![[Pasted image 20231007221504.png|400]]
+![[Pasted image 20231007221532.png|400]]
 
-![[Pasted image 20231007221504.png]]
-![[Pasted image 20231007221504.png]]
-![[Pasted image 20231007221532.png]]
-```
 ### Areas under acceleration-time graphs
 $a = \dfrac{\Delta v}{t}$
 - The area under an acceleration-time graph is equal to the change in velocity
