@@ -14,6 +14,7 @@
 ### Function and Interpretation
 - Connection to religion and philosophy
 - A moment in time / genre painting
+	- Preserving a memory of mine
 - Meditation
 - Just 
 - Contrasting ideas, life and death, past and future, blessed and sinned
