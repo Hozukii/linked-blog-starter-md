@@ -18,4 +18,5 @@
 - Meditation
 - Just 
 - Contrasting ideas, life and death, past and future, blessed and sinned
+- Painting seemingly ordinary people
 - 
