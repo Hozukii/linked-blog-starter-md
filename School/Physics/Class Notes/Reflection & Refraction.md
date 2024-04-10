@@ -1,0 +1,3 @@
+- Refraction - the bending of light or waves
+	- When a wave enters a different medium to the incident, refraction occurs
+- 
