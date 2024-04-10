@@ -3,3 +3,5 @@
 - From an optically less dense medium to an optically more dense medium, waves always refract towards the normal
 - From a more dense medium to a less dense medium ray refract away from the normal. 
 	- At some stage the ray will reach $90\degree$ to the normal: This is where **total internal reflection** occurs
+- **critical angle** - where angle of refraction is exactly $90 \degree$
+- 
