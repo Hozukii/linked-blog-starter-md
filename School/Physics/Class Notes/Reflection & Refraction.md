@@ -1,4 +1,5 @@
 - Refraction - the bending of light or waves
 	- When a wave enters a different medium to the incident, refraction occurs
 - From an optically less dense medium to an optically more dense medium, waves always refract towards the normal
-- 
+- From a more dense medium to a less dense medium ray refract away from the normal. 
+	- At some stage the ray will reach $90\degree$ to the normal: This is where **total internal reflection** occurs
