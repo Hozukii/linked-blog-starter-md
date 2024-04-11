@@ -30,4 +30,9 @@ Able to manipulate light
 - I like the colour palette of Johannes Vermeer
 	- Especially the grey background wall. 
 	- Also the cooler colours
+
+### What to include
+- The image 
+- The sketch 
+- The process of the painting
 - 
