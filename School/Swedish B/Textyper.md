@@ -1,0 +1,19 @@
+- Blogg
+- uppsats
+- intervju
+- Reportage 
+- tal
+- debattartikel
+- inlägg på sociala medier
+- recension
+- rapport
+- nyhetsartikel
+- instruktion
+- dagboksinlägg
+- förslag/motion
+- formellt brev
+- informellt brev
+- mejl
+- broschyr 
+- flyer
+
