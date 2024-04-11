@@ -20,7 +20,7 @@ Able to manipulate light
 - Water colour
 ## Inspiration 
 - Grandpa - meditation (rembrandt) - in action
-- Wroking
+- Working/ in action
 - Buddhism - religion - Johannes
 - Childhood - playing with Legos 
 - Focused on something
