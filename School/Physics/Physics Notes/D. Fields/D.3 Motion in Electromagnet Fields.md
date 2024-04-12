@@ -51,7 +51,7 @@ $$F = qE + qvBsin\theta$$
 - if the electric force, $F_E$ = magnetic force, $F_B$: $Eq = Bqv$ so that:
 	- If the motion of a charged particle in unaffected by perpendicular electri and magnetic fields, then , its velocity: 
 	- $v = \dfrac EB$ 
-## Charge to mass ration particle, q/m
+## Charge to mass ratio particle, q/m
 - If neither the mass nor the charge of a particle is known, then the **charge / mass ratio**, q/m becomes all-important. 
 - All particles with the same velocity, $v$ and q/m ratio will follow the paths of the same radius, $r$ when they pass into some magnetic field, $B$ shown by:
 	- $r = \dfrac {mv}{Bq}$
