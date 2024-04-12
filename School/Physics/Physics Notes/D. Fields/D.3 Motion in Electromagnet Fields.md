@@ -92,7 +92,7 @@ $\theta$ - angle between the conductor and the magnetic field lines, measured in
 - The force are equal and opposite 
 ![[Pasted image 20240207184811.png|600]]
 - The force on current $I_1$ Can be determined from determined from $F = BILsin\theta$ but in this case, the field is perpendicular to the wire so:
-	- Force on unit length of conductor carrying current, $I_1 = \dfrac FL = B_2 I_1$ 
+	- Force on unit length of conductor carrying current, $\dfrac FL = B_2 I_1$ 
 - We saw in:
 	- [[D.2 Electric and magnetic fields#Magnetic field strength around a current in a long straight wire]]
 	- $B = \dfrac{\mu_0 I}{2\pi r}$
