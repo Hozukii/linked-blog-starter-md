@@ -67,4 +67,4 @@ Examples:
 - **Electromagnetic spectrum** - Electromagnetic waves of all possible different frequencies displayed in order. 
 - All electromagnetic waves travel at the same speed in vacuum, $c$ 
 - They are all composed of oscilatting electric and magnetic fields
-- ![[Pasted image 20240413214106.png]]
+- ![[Pasted image 20240413214106.png]] 
