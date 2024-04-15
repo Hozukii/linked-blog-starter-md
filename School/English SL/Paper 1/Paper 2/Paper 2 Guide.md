@@ -3,11 +3,6 @@
 2. Show understanding of details and themes of the text
 3. Show understanding of authorial craft
 4. Compare and Contrast
-# Thesis
-- Have aspects of the guiding question in your thesis.
-	- The key concepts and words that they choose to use
-- Having comparative language can be important. 
-	- While, both, 
 # Structure
 ## Alternating Method
 - Introduction with a comparative thesis
@@ -31,4 +26,17 @@ Things to include:
 - Comparative language - This is a comparative paper so we need comparative language
 	- Similarly, Both, While, in contrast, much like, unlike, also, slightly different
 - Context - To show that we understand the time and space.
-
+# Introduction
+- Strong Hook
+	- Explore the topic of the question
+- Summary statement
+	- Introducing both works with relation to the question
+	- Not too much detail. About 2 sentences
+- Clear Comparative Thesis Statement
+- 
+## Thesis
+- Have aspects of the guiding question in your thesis.
+	- The key concepts and words that they choose to use
+- Having comparative language can be important. 
+	- While... Both...
+	- Because of the .... However, .... 
