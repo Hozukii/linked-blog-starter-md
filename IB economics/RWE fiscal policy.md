@@ -1,0 +1,2 @@
+- Sweden decreased the income tax for 2024 in order to stimulate the economy
+- 
