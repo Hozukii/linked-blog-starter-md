@@ -1,2 +1,2 @@
 - Sweden decreased the income tax for 2024 in order to stimulate the economy
-- 
+- China and the USA have used property taxes to slow down escalating house prices in certain cities and provinces. 
