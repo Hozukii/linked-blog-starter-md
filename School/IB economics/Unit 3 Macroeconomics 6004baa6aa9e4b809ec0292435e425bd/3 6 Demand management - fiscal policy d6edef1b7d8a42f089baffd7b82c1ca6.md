@@ -1,0 +1,131 @@
+# 3.6 Demand management - fiscal policy
+
+- **Fiscal policy -** involves the use of government spending and taxation to fulfill macroeconomic objectives by influencing AD. There are two types:
+    - Expansionary fiscal policy
+    - Contractionary fiscal policy
+
+# Fiscal Policy Tools
+
+- **Fiscal policy** can be used to promote long-term economic growth and reduce unemployment by:
+    - Government spending on physical capital goods
+    - Government spending on human capital formation
+    - Provision of incentives for firms to invest
+
+# Fiscal Policy Objectives
+
+- Fiscal policy has six main objectives:
+    - Low unemployment
+    - Promoting a stable economic environment for long-term growth
+    - Low and stable inflation
+    - Reducing business cycle fluctuations
+    - Achieving an equitable distribution of income
+    - Trade balance.
+
+## Taxation
+
+- **Direct taxes** are imposed on **income (rent, wages, interest rate, profit)**
+    - Income tax
+    - Corporation tax
+    - Capital gains tax
+- **Indirect taxes** are imposed on **expenditure**
+    - Sales tax
+    - Excise tax
+
+## Alternative Sources of Government Revenue
+
+- State-owned enterprises earn revenue through the sale of goods and services
+- Governments can sell state-owned enterprises to the private sector i.e. **privatization**
+
+## Revenues and expenditures
+
+- **Expenditure -** money spent by governments, either through government spending or transfer payments
+    - **transfer payments** - payments made by the government without goods or services being received in return
+- Government spending can be split into two types
+    - **Current expenditure ( short-term)**
+        - Wages for public sector employees
+        - Supplies for public sector businesses
+        - Interest payments for national debt
+        - The provision of subsidies and grants
+    - **Capital expenditures ( long-term)**
+        - Infrastructure
+- Government budget can be of three types:
+    - **Balanced:** expenditures = revenues
+    - **Surplus:**  expenditures < revenues
+    - **Deficit:** expenditures > revenues
+
+## Expansionary Fiscal Policy
+
+![Untitled](3%206%20Demand%20management%20-%20fiscal%20policy%20d6edef1b7d8a42f089baffd7b82c1ca6/Untitled.png)
+
+- Particularly important in Keynesian economics as economies may be stuck in a recessionary gap for long periods of time
+- Any government spending which improves the **quantity or quality of resources** will improve AD and AS
+- Examples:
+    - GS on R&D and physical capital goods
+    - GS on human capital development
+    - Provision of incentives for firms to invest through lower business taxes
+- As a result, productive capacity of economy increases, shifting AS curve outwards
+
+![Untitled](3%206%20Demand%20management%20-%20fiscal%20policy%20d6edef1b7d8a42f089baffd7b82c1ca6/Untitled%201.png)
+
+## Contractionary Fiscal Policy
+
+- **Contractionary fiscal policy** aims to reduce AD by
+    - Decreasing government expenditure
+    - Increasing direct and indirect taxes
+- This can slow economic grow to a healthy level to prevent the economy from overheating. High levels of economic growth can cause:
+    - Undesirably high levels of inflation
+    - Shortage in the labour markets
+
+# Evaluation of Fiscal Policy
+
+The strengths of fiscal policy include:
+
+- Ability to target specific economic sectors
+- Stimulates recovery from a deep recession
+
+Limitations:
+
+- Political pressures
+- Time lags
+- Sustainable debt
+- Crowding out (HL only )
+
+## Targeting of Specific Economic Sectors
+
+- Fiscal policy can be used to correct regional disparities in income and spending habits
+- Similarly, government spending can be targeted at he unemployed, retirees, those with disabilities or those with young children.
+
+## Recovering from a Deep Recession
+
+- Government spending provides a direct injection of money into the circular flow of income
+- Furthermore, Keynesian multiplier, the change in national output is greater than the initial injection
+- Expansionary fiscal policy can also holp increase confidence levels during a recession.
+
+## Political Pressure
+
+- Political constraints and political pressures mean that government spending and taxation policy decisions are often influenced by political rather than economic factors
+- Political pressures prevent the use of contractionary fiscal policy such as higher taxes and less government spending as this may be politically unfavourable.
+
+## Time lags
+
+- There are 3 types of time lags
+    - Recognition lag
+    - Administrative lag
+    - Effectiveness lag
+
+### Recognition lag
+
+- It takes time to tell whether an economy is in need for government intervention.
+- Furthermore, supply-side shocks can happen at any time, so it is difficult to plan and budget for shocks such as natural disasters and pandemics
+
+### Administrative lag
+
+- it will take time to implement fiscal policy
+    - Approval for tax changes
+    - changes to the government budget
+
+### Effectiveness lag
+
+- Time lag between the implementation of fiscal policies to seeing the actual effects to take place
+    - Small reduction in income tax will take  time to have significant impact
+    - The construction of a new school will take many years before graduates to enter the labour force
