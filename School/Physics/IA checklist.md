@@ -1,2 +1,3 @@
 - Ideas
-- 
+	- Change in different temperatures of a cable and its effect on resistivity 
+	- 
