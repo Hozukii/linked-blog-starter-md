@@ -10,3 +10,8 @@
 
 ![[Pasted image 20240425163721.png|400]]
 
+## Vectors in 2D 
+![[Pasted image 20240425165425.png]]
+
+$\overrightarrow {OA} = \begin{pmatrix} a_1 \\ a_2 \end{pmatrix}$
+$\overrightarrow {OB} =  \begin{pmatrix} b_1 \\ b_2 \end{pmatrix}$
