@@ -1,0 +1,3 @@
+- after the dot.com bust and 911 the was in the slump. Output was low and unemployment was high. 
+	- The fed boosted the money supply which lowered interest rate and the economy started growing again. 
+- In the late 1970, inflation was high at about 13% compared to 2-4%. The fed decreased the money supply which shot up the interest rate. It drove down inflation but also increased unemployment. 

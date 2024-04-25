@@ -1,0 +1,260 @@
+# 3.2 Variations in economics activity - aggregate demand and aggregate supply
+
+# Aggregate demand
+
+## Introduction
+
+- **aggregate demand -** refers to the total value of demand for all goods ad services in an economy by all stakeholders at different price levels over a time period.
+- AD has four components:
+    - Consumer expenditure
+    - Business investment
+    - Government spending
+    - Net exports
+
+## Components of aggregate demand
+
+- In microeconomics, demand depicts consumers’ willingness and ability to purchase goods and services in a single market at different prices
+- In macroeconomics, **aggregate demand** represents the sum of demand n an economy from households, business, the government, and foreign stakeholders, and their willingness to consume goods and services at different price levels
+- Ad = C + I + G + (X-M) = C + I + G + Nx
+
+## The aggregate demand curve
+
+- The AD curve shows the relationship between the general price level and real GDP of an economy
+- The general price level - the average price of all goods and services in an economy
+- remember, **Ceteris paribus,** everything else in the economy does not change, only general price level.
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled.png)
+
+## Justification of the downward slope
+
+### 1. wealth effect
+
+- A economic theory suggesting that consumers spend more when their wealth increases
+
+### 2. Savings/Interest rate effect
+
+- If savings increase, then the supply of money lent to the bank will be higher which means interest rates will go down and leading to more investments.
+
+### 3. Foreign Exchange
+
+- If prices go down, interest rates go down and people convert to other currencies in search for higher interest rates for their money
+- For example Us dollar and pounds. If people started exchanging US dollar to pounds, the US dollar will weaken relative to pounds.
+- Then goods and services will appear cheaper for foreign consumers and demand goes up leading to more exports
+
+### Real GDP vs Ad
+
+- Real GDP is specific point on the AD curve at a particular price level
+- AD shows the real GDP of an economy across different price levels
+- An increase in any components of Ad will lead to a outward shift in AD, ceteris paribus
+
+## Determinants of AD components
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%201.png)
+
+### Confidence
+
+- **Confidence -** refers to the degree of optimism and certainty surrounding the level of the future economic activity
+- Low confidence, consumers are concerned about potential unemployment. During such times, business refrain from expansion thus investments tend to fall
+
+### Interest rates
+
+- **Interest rates -** refers to the cost of borrowing and the reward for saving expressed as a percentage
+
+### Debts
+
+- **Debts -** refers to borrowed money
+- Higher level of indebtedness will reduce households’ prosperity to consume and firms’ prosperity to invest
+- With high indebtedness, households will engage in less discretionary expenditure and firms may delay projects.
+
+### Direct tax
+
+- **Direct tax -** taxes that households and firms pay to the government via income and profits
+- In increase in income will reduce households’ disposable income, leading to a fall in the levels
+
+### Wealth
+
+- **Wealth -** refers to the total value of valuable assets
+- As households become wealthier, they tend to
+- Wealthier households may consume goods and services of a higher value that make a greater contribution to real national output
+
+### Expectations
+
+- **Expectations -** anticipated future prices of goods and services.
+- If households expect the price levels to increase in the future, they may increase their current consumption to enjoy lower prices.
+- If households expect the price levels to fall in the future, they may delay current consumption to enjoy lower prices in the future
+
+### Priorities
+
+- Government spending will vary depending on the **priorities** of the government
+- Government may increase public sector spending.
+- Government may impose austerity measures to improve economic prudence by reducing public sector spending.
+
+### Income of trading partners
+
+- A fall in the income of trading partners leads to fewer export sales and therefore a fall in net exports.
+- A rise in the income of trading partners leads to greater export sales and therefore a rise in net exports.
+
+### Exchange rates
+
+- When the currency of an economy depreciates, its exports are relatively cheaper for ferign consumers. This improves a country’s international competitiveness and hence increases net exports.
+- Vice versa
+
+### Trade policies
+
+- Such as tariffs and quotas.
+- It will cause the price of imports to rise, reducing demand.
+
+# Full employment and the Natural rate of Unemployment
+
+- Full employment does not mean a complete absence of unemployment. Every economy will experience a **natural rate of unemployment (NRU)** which comprises of:
+    - Frictional unemployment - in between jobs
+    - Seasonal unemployment - demand for a specific kind of work changes with the seasons
+    - Structural unemployment - mismatch between skills available and required
+- At full employment there is a absence of cyclical unemployment.
+
+# Aggregate Supply
+
+- **Aggregate supply -** the total value of goods and services produced in an economy at different prices levels, over a time period
+- There are different *schools of thought* on the nature of the AS curve
+    - The New Classical / Monetarist Model
+    - The Keynesian Model
+
+## Monetarist Model
+
+- The **Monetarist model** is separated into:
+    - Short run aggregate supply (SRAS)
+    - Long run aggregate supply (LRAS)
+- The key assumption of the monetarist model is that resource prices are flexible in the long run and eventually adjusts according to changes in the general price level.
+
+# Short run aggregate supply
+
+- Shows the relationship between real GDP and the price level in the short run.
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%202.png)
+
+- As price levels rise, in the short run, there is a greater profit margin and incentive to produce output Hence, SRAS curve is upward sloping
+
+## Justification of the upward slope
+
+1. misperception theory 
+    1. If price levels rise, individuals might mistaken that their goods or services’ price levels are rising relative to others which will incentivise more productivity.
+2. Sticky wages / sticky cost / sticky price theory
+    1. Some industries / goods or service may change price levels in different speeds which will change the relativity of things
+3. Menu costs
+    1. There are many things one might have to do to change costs which will slow down the change in price  
+
+### Shifts of the SRAS curve
+
+- The determinants of SRAS include h
+    - Factors of production costs
+    - Indirect taxation
+- An increase in the costs of production or a rise in indirect taxes will reduce the willingness and ability of firms to produce goods and services and shifts inwards
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%203.png)
+
+## Determinants of SRAS curve
+
+### Costs of factors of production
+
+- Labour costs - A relatively small change in wage costs (as an increase in minimum wage) will tend to have larger impact on the overall production costs of firms.
+- Raw material costs - For example, oil crises
+- Exchange rate - cost of imports
+- Interest rates - Firms with existing borrowing will have fewer funds.
+    - Firms will also find it less affordable to take out new loans to finance their investment projects
+- Bureaucracy and administration - Strict legal procedures and policies mean that firms have to comply with rigorous and complicated bureaucratic and administrative matters.
+
+### Indirect taxes
+
+- Value Added Tax (VAT) or a Goods and Services Tax (GST) will inevitably increase the price paid by consumers.
+- It also includes environmental taxes
+- 
+
+## Long run aggregate supply
+
+- shows the relationship between real GDP and the price level in the long run
+- In the long run, resource prices change to match the general price level changes of goods and services. Therefore, there is no incentive to increase or decrease production with price level changes as profit margins remain constant.
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%204.png)
+
+# Keynesian Model
+
+- Keynesians believe that resources prices , especially wages, do not fall in the long run due to:
+    - Labour contracts
+    - Minimum wage leguslation
+    - Worket rand union resistance to wage cuts
+    - Some firms may prefer to cut workers rather than wages
+
+## Keynesian Model - Aggregate supply
+
+- In the Keynesian As model, there is no distinction between the short run and long run
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%205.png)
+
+## Shifts in Aggregate supply
+
+- LRAS or Keynesian AS may shifts outwards due to improvements in the quantity and/ or quality of the factors of production.
+
+# equilibrium
+
+## Monetarist Model - Short run
+
+- In the monetarist model, the short run macroeconomic equilbrium occurs when SRAS is equal to AD, resuting in the equilibrium price level.
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%206.png)
+
+## Shifts in the new classical model
+
+- Shifts in AD and SRAs may result in a new short run macroeconomic equilibrium with changes in the price lever and real GDP
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%207.png)
+
+## Monetarist model Long run
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%208.png)
+
+- occurs when AD = SRAS = LRAS at the full employment level of output (potential output)
+
+## Keynesian Model
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%209.png)
+
+# Inflationary and deflationary gaps
+
+- **Inflationary gap** - when actual real GDP is greater than the potential level of GDP at full employment level of output.
+- Usually caused by excess levels of AD
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2010.png)
+
+- **Deflationary/ recessionary gap** occurs when actual real GDP is less than the potential level of GDP at full employment level of output.
+- Usually caused by insufficient AD.
+    
+    ![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2011.png)
+    
+
+## Inflationary and deflationary gaps in the business cycle
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2012.png)
+
+# Automatic adjustment to full employment equilibrium
+
+- In the short run, there may be there may be inflationary or deflationary gaps in the New Classical Model, but these are always temporary.
+- Automatic adjustments of market forces will eventually restore the economy back to the long run equilibrium at the level of potential output.
+
+![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2013.png)
+
+# Keynesian vs Monetarist
+
+## Keynesian
+
+- Without government intervention and spending, recessions and depressions would be unnecessarily deep and prolonged.
+    - He advocated for the use of expansionary monetary policy
+    - Also deficit spending during recessions and depressions to reduce unemployment
+- Government intervention also lead to business confidence
+- Favorable positions can be set up with low interest rates but if business confidence is low, firms will be reluctant to invest.
+- Monetary policies can only go so low and that is why fiscal policies are sometimes needed.
+
+## Monetarist
+
+- Monetarists believe that firms are more influenced by interest rates rather than business confidence.
+- Small to minimal government intervention is preferable.
+-

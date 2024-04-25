@@ -51,7 +51,7 @@ $$F = qE + qvBsin\theta$$
 - if the electric force, $F_E$ = magnetic force, $F_B$: $Eq = Bqv$ so that:
 	- If the motion of a charged particle in unaffected by perpendicular electri and magnetic fields, then , its velocity: 
 	- $v = \dfrac EB$ 
-## Charge to mass ration particle, q/m
+## Charge to mass ratio particle, q/m
 - If neither the mass nor the charge of a particle is known, then the **charge / mass ratio**, q/m becomes all-important. 
 - All particles with the same velocity, $v$ and q/m ratio will follow the paths of the same radius, $r$ when they pass into some magnetic field, $B$ shown by:
 	- $r = \dfrac {mv}{Bq}$
@@ -92,7 +92,7 @@ $\theta$ - angle between the conductor and the magnetic field lines, measured in
 - The force are equal and opposite 
 ![[Pasted image 20240207184811.png|600]]
 - The force on current $I_1$ Can be determined from determined from $F = BILsin\theta$ but in this case, the field is perpendicular to the wire so:
-	- Force on unit length of conductor carrying current, $I_1 = \dfrac FL = B_2 I_1$ 
+	- Force on unit length of conductor carrying current, $\dfrac FL = B_2 I_1$ 
 - We saw in:
 	- [[D.2 Electric and magnetic fields#Magnetic field strength around a current in a long straight wire]]
 	- $B = \dfrac{\mu_0 I}{2\pi r}$

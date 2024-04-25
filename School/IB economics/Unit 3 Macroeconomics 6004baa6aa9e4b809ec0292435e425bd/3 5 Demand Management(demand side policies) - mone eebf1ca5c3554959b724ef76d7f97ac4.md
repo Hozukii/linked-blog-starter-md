@@ -1,0 +1,110 @@
+# 3.5 Demand Management(demand side policies) - monetary policy
+
+# Monetary policy
+
+- **Monetary policy -** carried out by the central bank and involves the control of money supply and interest rates to influence aggregate demand and subsequently fulfil macroeconomic objectives
+
+### Key terms
+
+- Central bank - the monetary authority responsible for an economy’s monetary policy and financial system regulation
+- **Interest rates -** The cost of borrowing and reward for saving money, expressed as a percentage
+- **Money supply -** the amount of money circulating in the economy,.
+- **Demand-side policy -** Government policy that aims to influence the level of AD of the economy.
+
+## Goals of monetary policy
+
+### Low and stable rate of inflation
+
+- An **inflation target** is teh practice of using monetary policy to achieve a predetermined level of inflation. By increasing the transparency of the central bank and controlling inflation, this would create a stable economic environment for consumers and producers.
+
+### Low unemployment
+
+![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled.png)
+
+- The central bank may stimulate the economy by reducing interest rates. This reduces the cost of borrowing for firms and households, encouraging investment and consumption.
+
+### Reduce business cycle fluctuations
+
+- At times of an economic downturn, interest rates are lowered to stimulate the economy
+- When the economy is booming, interest rates are raised to lower inflationary pressure
+
+### Promote a stable economic environment for a long-term growth
+
+- Low and stable inflation creates an environment of economic stability
+- This generates a higher level of certainty and confidence for households and firms to plan economic activities
+
+### External balance
+
+- The external balance refers to the value of an economy’s export revenue being equal to its import expenditure. Interest rates can influence the exchange rate, which in turn affects the value of exports and imports
+
+![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%201.png)
+
+## Real vs nominal interest
+
+- **Interest rate -** the cost of borrowing and reward for saving of money(%)
+- **Nominal interest rate -** actual interest rate that is agreed between the bank and the customer, which is the rate that borrowers pay their loans or savers receive from their deposits
+- **real interest rate** - considers the impact of inflation on the cost of borrowers and the return for savers
+    - **Real interest rate =** Nominal interest rate - inflation rate
+- Negative interest rates can occur when the nominal interest rate is less than the inflation rate
+
+## Expansionary monetary policy
+
+- **Expansionary monetary policy -** aims to increase the level of AD by increasing money supply and reducing interest rates
+1. The cost of borrowing and reward for saving reduces
+2. Increasing consumption and investment through increased borrowing and reduced savings.
+3. shifting the AD curve to the right.
+
+![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%202.png)
+
+### When is expansionary policy used?
+
+- When inflation is below the target rate
+- When the economy is suffering from a recessionary gap; unemployment is high and economic growth is low or negative.
+
+## Contractionary monetary policy
+
+- **Contractionary monetary policy -** aims to decrease the level of AD by decreasing money supply and increasing interest rates
+1. The cost of borrowing and reward for saving money increases
+2. decreasing consumption and investment through decreased borrowing and increased savings
+3. Decreases AD
+
+![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%203.png)
+
+### When is contractionary monetary policy used?
+
+- When inflation is above the target rate
+- When the economy is experiencing high levels of economic growth and low unemployment, contractionary monetary policy may be used as a proactive measure to slow AD growth and prevent the economy from overheating.
+
+## Constraints of monetary policy
+
+- **Limited scope of reducing interest rates, when close to 0**
+- **Low consumer and business confidence**
+    - At times of recessions, consumers may be unwilling to purchase goods and services. Firms may not borrow money to invest even though interest rates are low.
+- **trades-off with other macroeconomic aims**
+
+### Trade-off with other macroeconomic aims
+
+- Contractionary demand side policy comes with the trade-off when dealing with cost-push inflation.
+    
+    ![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%204.png)
+    
+- Price levels increase from PL1 to PL2 while real GDP decreases to $Y_p$ to Y2
+
+---
+
+- In order to maintain a low and stable rat of inflation, contractionary monetary policy may be sude to reduce AD1 to AD2. While this may reduce the rate of inflation back to a low and stable rat, there is a trade off of economic growth and unemployment as real GDP decreases further.
+    
+    ![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%205.png)
+    
+- Therefore, when addressing cost-push inflation in an economy, it is more suitable to implement supply-side policies. This addresses the objective of low and stable inflation, economic growth, and low unemployment. _
+
+![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%206.png)
+
+## Strengths of monetary policy
+
+- **Incremental, flexible and easily reversible**
+    - **Incremental -** Interest rates can be adjusted incrementally
+    - **Flexible -** Since the central bank is independent from political interferences, it has the flexibility to act at the best interest of the economy
+    - **Reversible** - the decision is reversible.
+- **Short time lags**
+    - Monetary policy can be implemented quickly compared to fiscal policy

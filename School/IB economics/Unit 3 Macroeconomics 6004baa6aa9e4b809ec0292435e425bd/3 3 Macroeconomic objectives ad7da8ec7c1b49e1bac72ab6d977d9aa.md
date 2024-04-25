@@ -1,0 +1,487 @@
+# 3.3 Macroeconomic objectives
+
+## What is economic growth
+
+- **Economic growth -** increase in real GDP over time
+- Real GDP can be measured in three ways:
+    - Total expenditure
+    - Total income
+    - Total output of gods and services
+
+## Short-term growth
+
+- **Actual output -** the current level of real GDP in the economy
+- An increase in actual output can be illustrated by a movement within the PPC.
+- Alternatively growth can be illustrated by the AD/ AS
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled.png)
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%201.png)
+
+## Long-term growth
+
+- **Potential output -** the level of real GDP that an economy can reach at the natural rate of unemployment
+    - Occurs when there is an improvement in the quantity, quality, or improvement in technology in the factors of production
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%202.png)
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%203.png)
+
+## Factors affecting economic growth
+
+- **Factor endowments -**  The quality and quantity of a country’s factors of production.
+- **Size and skills of the labour force**
+- **Investment expenditure -** Investment in physical and human capital improves the productive capacity of an economy.
+- **Discovery of raw materials**
+- **Labour productivity**
+- **Labour mobility:**
+    - Occupational mobility: the ease at which workers can move in between jobs in different fields
+    - Geographical mobility: The ease at which workers can move between different physical locations
+
+# Consequences of economic growth
+
+- Living standards
+- Income distribution
+- Environment
+
+### Living standards
+
+- Generally, economic growth leads to higher living standards.
+- With economic growth there is:
+    - A reduction  in absolute poverty due to a higher income per person
+    - A reduction in unemployment due to higher levels of consumption and investement
+    - An increase in tax revenue.
+    - Higher consumption - higher revenues and profits
+    - Increase in amount spent on merit goods
+- However;
+    - Risk of inflation due to excessive AD in the country. Demand-pull inflation may lead to higher prices of goods and services which raises cost of living and leads to other negative consequences
+
+### Environment
+
+- Economic growth may lead to negative externalities such as environmental pollution, climate change, resource depletion, road congestion, etc.
+- Economic growth should be achieved through environmentally sustainable methods for the social and economic wellbeing of a country.
+- Some countries use the **Green GDP** to measure economic growth.
+    - Green GDP = GDP - Environmental costs of production
+
+### Income distribution
+
+- Economic growth may create greater disparities in income distribution.
+- Not all individuals benefit in the same way from economic growth
+- Economic growth increases the tax revenue which could be spent supporting lower incomes and may also use a progressive tax system to redistribute income in the economy
+
+# macroeconomic objectives
+
+## Low unemployment
+
+- **Employment** - use of factors of production in the production process, usually applied on labour resources
+- **Unemployment** - people who are willing and able to work, actively seeking work, but cannot find work at the current wage rate. This means that resources are not being fully utilized in the economy.
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%204.png)
+
+- Labour supply - number of people willing and able to work at various prices
+- Labour demand - represents the employers who are willing and able to hire workers at various wages
+- The labour market equilibrium - equilibrium wage and the level of employment
+
+### Low employment as a macroeconomic objective
+
+- Greater national income, output , and expenditure
+- Greater tax revenue
+- Lower financial burden on the government to support unemployed individuals.
+
+### Measurement of unemployment and unemployment rate
+
+$\text{unemployment rate} = \dfrac{\text{No. of unemployed}}{\text{labour force}} \cdot 100 \%$   
+
+$= \dfrac{\text{No. of unemployed}}{\text{no. of unemployed people + no. of employed people}} \cdot 100 \%$ 
+
+### Measurement of unemployment
+
+- International labour organization(ILO) measures unemployment based on the following criteria:
+    - Willing and able to work but can’t find work
+    - Been actively looking for work for the past 4 weeks
+    - Able to start working in the next 2 weeks
+    - Waiting to star a new job in the next 2 weeks
+- Alternatively, countries measure unemployment using the **claimant count.**
+    - People who are actively seeking employment but are without work and claiming unemployment benefits
+    
+    ### Difficulties in measuring unemployment
+    
+- Hidden Unemployment
+    - some people are technically unemployed but are excluded from the official measure of unemployment, which results in an underestimation of the actual unemployment rate.
+    - A major reason is that people are discouraged from seeking work
+- Voluntary unemployment
+    - Refer to those of working age who choose not to actively seek employment.
+- Underemployment
+    - when the labour resources in an economy are being underutilized, which hinders economy’s productivity and efficiency
+- Disparities
+    - The unemployment rate is a measure for the entire economy, which ignores certain disparities
+        - For example:
+            - Regional disparities
+            - Ethnic disparities
+            - Age disparities
+            - Gender disparities
+
+# Causes of unemployment
+
+## Cyclical unemployment
+
+- When the demand for goods and services across industries fall during a recession, the demand for labour also falls.
+- cyclical unemployment may be represented by a **deflationary gap.**
+- To reduce cyclical unemployment, the government may use demand-side policies to boost AD and close the deflationary gap
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%205.png)
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%206.png)
+
+## Structural unemployment
+
+- **Structural unemployment -** caused by changes in sector or the structure of the economy
+- this exists whene there is a mismatch between the jobs available in the market and the skills that workers can offer
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%207.png)
+
+- It occurs when there is a long-term decline in the demand for labour in a specific industry
+- This type of unemployment may also arise due to changes in the **geographical location** of industries and jobs.
+- Another cause is **labour market rigidities** such as:
+    - minimum wage legislations,
+    - trade union powers,
+    - generous unemployment benefits
+    
+    ![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%208.png)
+    
+    The quantity supplied for labour($Q_s$) is greater than the quantity demanded(Qd), which leads to a surplus of labour, resulting in **structural unemployment** of ($Q_s - Q_d$)
+    
+- Possible solutions to reduce structural unemployment:
+    - Provide education and retaining programs to equip workers with new skills
+    - Reduce unemployment benefits to create incentives
+    - Provide incentives for firms to hire those who are structurally unemployed
+
+## Seasonal unemployment
+
+- **Seasonal unemployment -** caused by changes in the demand for labour during particular times of the year
+- examples:
+    - ski instructors
+    - School bus driver.
+- Certain areas that suffer from high seasonal unemployment drive local workers to relocate to other regions to seek better employment opportunities
+- Official unemployment statistics may also be adjusted to account for the usual seasonal changes in demand for goods and services.
+- Possible solutions:
+    - Diversify the economy to produce goods and services irrespective of seasons
+    - Provide retaining programs to improve the occupational or geographical mobility of workers
+    - Reduce unemployment benefits to create incentives for individuals to seek employment
+    - Improve information flow of job vacancies
+
+## Frictional unemployment
+
+- **Frictional unemployment** - occurs when people are temporarily unemployed as they move between jobs. This happens as time is needed for the labour market to match the demand and supply of appropriate jobs.
+- Frictional unemployment is unavoidable due to imperfect market information. However, it can be a good sign for the labour market as workers are potentially switching to more rewarding jobs.
+- In a recession, frictional unemployment tends to fall as workers are less confident in finding alternative employment.
+
+# Natural rate of unemployment (NRU)
+
+- Refers to the unemployment rate when the economy is producing at the full employment level of output
+- it includes:
+    - Seasonal unemployment
+    - Structural unemployment
+    - Frictional unemployment
+
+## Reducing the natural rate of unemployment
+
+- Policies to reduce the natural rate of unemployment aim to make the labour market more flexible and competitive:
+    - reducing the bargaining power of trade unions - these unions create labour market rigidities by pressurizing the government to raise minimum wages.
+    - Reforms to the welfare benefit system - reduce unemployment benefits to create incentives for people to find jobs
+    - Reduce barriers to labour mobility - provide subsidies for job centers to help the unemployed
+    - reduce income taxes - improve incentives to work
+
+## Costs of unemployment
+
+- Economic costs
+- Social costs
+- Personal costs
+
+### Economic costs
+
+- **Loss of GDP** - negative economic growth , lower international competitiveness and lower potential output
+- **Loss of tax revenues** - due to lower income and expenditure
+- **Loss of income for individuals** - lower household income for individuals and families
+- **Increased costs of unemployment benefits** - increased national debts
+- **Greater disparities in the distribution of income**  - certain groups suffer from more prolonged periods of unemployment
+
+### Social costs
+
+- **Increased crime rate and anti-social behaviour** - alcoholism, vandalism
+- **Indebtedness** - unaffordable debt or bankruptcies leading to other social problems
+- **Social depravation** - the local community may suffer from absolute poverty, falling asset values, increased crime rates.
+
+### Personal costs
+
+- **Stress** - possibly leading to mental health issues
+- **Low self-esteem** - lack of self-confidence
+- **Family breakdowns** - family arguments, divorce.
+
+# Macroeconomic objectives - low and stable rate of inflation
+
+## What is inflation?
+
+- **Inflation -** sustained increase in the general price level of an economy over time.
+    - price increase on average, and people must pay more to buy the same amount of goods and services
+- Inflation reduces purchasing power and competitiveness of a country so governments set a target inflation rate to achieve stability.
+    - usually 2%
+- **Price stability** is achieved when the price levels remains broadly constant
+
+## Measuring inflation rate
+
+- Inflation rates are typically measured by the **consumer price index(CPI)**
+- Consumer price index - weighted index of the average prices of goods and services consumed by the typical household
+    - Calculating the percentage change in CPI from the base year would give us the inflation rate.
+- Price changes of goods are usually measured monthly but reported for a 12 month period.
+- The base year has a price index of 100
+
+## How does the consumer price index work?
+
+1. The prices of a selected basket of goods and services, purchased by the typical household, are collected from different retail locations
+2. Each item is assigned a statistical weight. There are two ways to apply the weights on CPI
+    1. **Amount** of goods purchased - the greater quantity purchased, the more important the good is to the average household
+    2. **Value** of goods purchased - The higher the portion of income spent on the good, the more important the good is to the average household
+3. The CPI is reviewed regularly in order to reflect the changes in consumption habits
+
+## Calculate the inflation rate
+
+1. Calculate the total basket for each year
+2. compare to base year
+3. calculate the price indices 
+4. Calculate the inflation rate 
+    1. The inflation is the percentage change in CPI
+
+## Limitations of CPI in measuring inflation rate
+
+### Different income earners
+
+- Wealthy households are less sensitive to price changes while low-income housholds are more responsive to inflation.
+- Different income earners have different income levels.
+- The CPI does not account of the difference in income levels
+
+### Changes in product quality
+
+- For example, the newest edition of smartphones are of higher prices due to its improvement in quality. However, the CPI does not take into account any changes in product quality.
+
+### Changes in consumption patterns over time
+
+- The popularity of goods and services changes over time, so the statistical weights may also change. These changes must be reflected in the CPI calculations for the most accurate results
+
+### Atypical households
+
+- The CPI only considers the goods and services consumed by the average household, meaning it has minimal relevance for atypical households
+
+### Regional and international disparities
+
+- As prices vary a lot between countries, international comparisons can be difficult.
+- The CPI does not reflect regional disparities in price levels and cost of living
+
+### Time lags
+
+- Due to the huge amount of data needed for the calculations, inflation figures may become outdated
+
+### Value of quantities purchased
+
+- The method of using quantities purchased(instead of percentage of income spent) as weights in CPI is a limitation
+
+## Causes of inflation
+
+### Demand-pull inflation
+
+- **Demand-pull inflation -** caused by an increase in AD in an economy
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%209.png)
+
+### Cost-push inflation
+
+- **Cost-push inflation -** caused by higher costs of production.
+- This might be caused by increased prices of raw materials or labour costs
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2010.png)
+
+## Cost of a high inflation rate
+
+### Uncertainty
+
+- Inflation reduces the real value of money, which lowers people’s purchasing power.
+- This creates uncertainty to households and firms, leading to lower levels of consumption and business confidence
+- Consumers will become uncertain about their consumption expenditures, while firms are discouraged to invest due to uncertainties about costs and revenues. This then lowers economic growth in long-term
+
+### Redistributive effects
+
+- The effects of inflation are not distributed evenly among different stakeholders. There are greater costs on people who suffer from the greatest drop in purchasing power.
+- All consumer groups:
+    - Lose due to higher living costs and lower purchasing power
+- Low-income groups:
+    - Most vulnerable as inflation has a regressive effect
+- People with fixed incomes/ fixed welfare payments
+    - Lose as the real purchasing power of their income and payments decrease
+- Land and property owners:
+    - Gain from higher price of their physical assets
+
+### Effect on savings
+
+- **Savers** lose as real rate of return decreases, ceteris paribus.
+    - For example, if banks offer 1% interest rate on savings, and the inflation rate is 2%, there is a negative real interest rate which discourages savings
+- **Borrowers** gain as the real value of their debt decreases.
+- **Creditors(Lender)** lose as the real value of the money returned decreases .
+
+### Damage to export competitiveness
+
+- If an economy’s inflation rate is higher than its trading partners, its exports become relatively more expensive. This lowers the export competitiveness of domestic firms which may worsen the trade balance, lower economic growth, as well as higher unemployment if the situation persists.
+
+### Impact on economic growth
+
+Lower uncertainty - lower savings - lack of investment expenditure - lower productive capacity and potential growth
+
+### Inefficient resource allocation
+
+- Resource allocation may be distorted by high price levels
+- For example, the wage-price spiral may occur.
+- High levels of inflation create **menu costs**, which are costs to firms for updating price lists and delivering the information to customers.
+- **Shoe leather costs -** the costs of time and effort consumers spend in attempt to counteract the effects of inflation. This includes holing less cash, investing in different currencies with lower levels of inflation, and having to make additional trips to the bank.
+
+# Deflation
+
+**Deflation -** a sustained decrease in the general price level of an economy. This can be caused by a decrease in Ad or an increase in short run aggregate supply (SRAS)
+
+## Malign deflation
+
+- **Malign deflation -** generally  harmful as it is caused by a decrease in aggregate demand.
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2011.png)
+
+- leads to lower economic growth and higher unemployment and is usually associated with a recession.
+
+## Benign deflation
+
+- **Benign deflation -** is the deflation that leads to a higher national output. This can be caused by an increase in SRAS or LRAS
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2012.png)
+
+- This may not be harmful to the economy if households have cheaper access to goods and services and export competitiveness.
+
+# Disinflation
+
+- **Disinflation -** when there is a fall in the rate of inflation, meaning that price levels are still rising but at a slower rate.
+- **Demand-pull inflation** occurs when AD increases from AD-1 to AD2, in which the price levels increase from P1 to P2
+- **Disinflation** occurs when the rate of increase in AD slows, e.e., from AD2 to AD3. Price levels increase at a slower rate from P2 to P3
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2013.png)
+
+## Costs of deflation
+
+### Uncertainty
+
+- During periods of deflation, business confidence fails due to growing uncertainty about future prices, costs, and revenues.
+- Firms become less willing to invest.
+
+### Redistributive effects
+
+**Winners**
+
+- Individuals on fixed incomes and savers - the real value of money increases
+- Creditors(lenders) - the real of value of money returned increases
+
+**Losers**
+
+- Payers of fixed incomes and debtors - the real value of debt increases
+- Investors and shareholders - due to declining profitability, share prices fall, causing the value of dividends & other fixed assets to fall
+
+### Deferred consumption
+
+- Consumers tend to postpone spending on certain goods and services during times of deflation as they expect prices to continue to fall.
+- Households and firms are also discouraged from borrowing as the real value of debt increasing during deflation
+
+### High levels of cyclical unemployment and bankruptcies
+
+- A **deflationary spiral** occurs when deflation results in low levels of consumption and investment, which leads to further deflation.
+- This leads to high levels of cyclical unemployment and bankruptcies
+
+### Increase in real value of debt
+
+- During periods of deflation, real interest rates increase, and the real cost of debt also increases.
+- This makes it more difficult for borrowers to repay their debts as greater portion of disposable income is required for debt servicing
+
+### Inefficient resource allocation
+
+Market distortions are caused by deflation due to:
+
+- Falling prices which incentivize consumers to buy goods and services
+- Greater uncertainty
+- Deferred consumption and investment
+- Cyclical unemployment
+- Bankruptcies
+- Increase in the real value of debt
+
+These factors contribute towards inefficient resource allocation
+
+### Policy ineffectiveness
+
+- To boost economic growth, the central bank could lower interest rates (using expansionary monetary policy) to encourage consumption and investment
+- However, monetary policy may be ineffective during recessions interest rates will already be low during this period.
+- Expansionary monetary policy may be ineffective if the interest rate is already at or close to zero, as nominal interest rates cannot fall below 0%
+- Furthermore, consumer behaviour in terms of deferring consumption may be difficult to influence even with expansionary demand side policies
+
+## Relative costs of unemployment versus inflation
+
+costs of unemployment:
+
+- Personal costs
+- Social problems
+- Lower economic growth
+- Loss of household incomes
+- Widened income gap
+- Higher government borrowing
+
+Costs of inflation:
+
+- Increased cost of living
+- Deferred C and I
+- Reduced international competitiveness
+- lower savings
+- uncertainty
+- Menu costs and shoe leather costs
+
+- High levels of unemployment and inflation are both undesirable. Suppose inflation is increasing rapidly and the government looks to slow economic activity
+
+![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2014.png)
+
+- The government may reduce AD to counteract high inflation, however, real GDP would fall, and unemployment would rise
+- In this case, the economy may achieve a lower rate of inflation, but at a cost of greater unemployment. Hence, governments must decide which objective s they would like to prioritize and achieve, as there may be trade-offs between different macroeconomic objectives
+
+# Potential conflict between macroeconomic objectives
+
+- Certain macroeconomic objectives cannot be achieved simultaneously, resulting in a **trade-off.**
+- At times, the government must decide which macroeconomic objective to prioritize
+- Potential conflicts between objectives include :
+    - Low unemployment and low inflation
+    - High economic growth and low inflation
+    - High economic growth and environmental sustainability
+    - High economic growth and equity in income distribution
+
+## Low unemployment and low inflation
+
+- During an economic boom, Ad increases and unemployment falls. More workers enjoy a greater level of disposable income, increasing consumer expenditure, leading to demand-pull inflation.
+- Low unemployment may also lead to cost-push inflation in the short run. As the economy approaches the full emplyoment level of output, wage levels may rise as it becomes harder for firms to attract skilled labour.
+
+## High economic growth and low inflation
+
+- Demand-pull inflation occurs due to an increase in AD, resulting in higher levels of real GDP. This leads to a trade-off between economic growth and low inflation.
+- With higher levels of economic growth, the economy approaches the full employment level of output where wage levels may rise as it becomes harder for firms to attract skilled labour
+- Demand-side policies can be used to promote economic growth or lower inflation, but it cannot achieve both demonstrated by the SRPC
+
+## High economic growth sustainability
+
+- Economic growth represent greater production and consumption of goods and services.
+- Negative externalities such as climate change and pollution arise from increased economic activities
+- Hence, the pursuit of economy growth potentially conflicts with the objective of environment sustainability.
+- Economic growth does not necessarily result in environmental degradation. A growing number of countries are striving to achieve economic growth through environmentally-sustainable methods.
+
+## High economic growth and equity in income distribution
+
+- The relationship between economic growth and income distribution depends on the type of policies used to achieve growth
+- For example, market based supply-side policies used to promote long term growth such as deregulation and eliminating minimum wage is likely comes at the cost of low wages for workers
+- On the other hand, interventionist supply-side policies such as investment in education and trading improves the quality and quantity of labour, increasing expected incomes
+-

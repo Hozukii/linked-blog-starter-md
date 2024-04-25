@@ -111,6 +111,7 @@ $$a \propto -x$$
 ![[Pasted image 20240320195257.png]]
 Considering $x_i$ is 0, then we get:
 #### $$E_p = \dfrac 12 kx^2$$
+$x$ - displacement from equilibrium
 Kinetic energy of a mass is: 
 $$E_k = \dfrac 12 mv^2$$
 

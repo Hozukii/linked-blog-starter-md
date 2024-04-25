@@ -156,3 +156,9 @@ Electric potential energy of two point charges,
 - Electric field strength, $E = -\dfrac {\Delta V_e}{\Delta r}$
 - where $\dfrac {\Delta V_e}{\Delta r}$ is called the electric *potential gradient*
 - The negative sign has been added to show that the direction of the vector quantity $E$ is opposite to the direction of increasing potential. 
+## Electron Volt
+- **Electron volt**,$eV$  - unit of energy - the energy 1 electron gains when it passes through a region of 1 volt
+- When an electron goes through a p.d. of 1V it gains kinetic energy of $1eV$
+- $1eV = 1.60 \cdot 10^{-19} J$
+- 
+![[Pasted image 20240411192108.png|300]]

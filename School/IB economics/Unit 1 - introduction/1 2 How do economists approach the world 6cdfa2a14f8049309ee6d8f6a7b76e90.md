@@ -1,0 +1,50 @@
+# 1.2 How do economists approach the world?
+
+# Economic Methodology
+
+- ways in which economists study the discipline. As a social science, scientific methods are adopted to build knowledge through a structured process
+1. Make observation
+2. Ask question
+3. Form a hypothesis
+4. Make predictions
+5. Test hypothesis
+6. Draw conclusions
+
+### Positive economics
+
+- statements that can be tested, accepted, refuted, or amended based on evidenc.
+- Focuses on what is, was, or will be
+- Explains how the economy works
+- Relies on scientific methods, i.e., logic, hypotheses, models, economic theories, assumption, and empirical evidence
+
+### Normative economics
+
+- Subjective value judgements that often form the basis of economic policy making
+- Focuses on what should be.
+- Considers how the economy should work
+- Relies on personal perspectives, values, and beliefs.
+
+### equity
+
+- state of being **fair**
+- normative concept as it is subjective
+- An equitable distribution of income refers to a fair and just distribution which depends on value judgements and perspective about what it is
+
+### Equality
+
+- Refers to the state of being equal
+with respect to something.
+- Positive concept as it is objective.
+- An equal distribution of income means
+everyone receives the same level of
+income.
+
+# Positive economics
+
+- Positive economics uses **logic** and **reasoning.**
+- Therefore Positive economics uses **hypotheses, models and theories**
+- Positive economics uses **empirical evidence**
+- Positive economics uses the **ceteris paribus assumption**
+    - It allows economists to analyse how one variable may affect another, without considering all the other factors that may affect the dependent variable.
+
+# Economic thought
