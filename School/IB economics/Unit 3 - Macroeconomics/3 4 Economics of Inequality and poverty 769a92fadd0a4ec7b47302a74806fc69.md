@@ -51,7 +51,7 @@
 - The share of national income can be split into **deciles** (10% of the population) or **quintiles** (20% of the population) for comparison
 - Table of economic inequality
     
-    ![Untitled](3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled.png)
     
 
 ### Plotting the Lorenz curve
@@ -60,18 +60,18 @@
 
 1. Create a table to show the **cumulative percentage of population** and **cumulative percentage of income.** 
     
-    ![Untitled](3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%201.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%201.png)
     
 2. Insert cumulative percentage of population in the case of **absolute equality**
     
-    ![Untitled](3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%202.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%202.png)
     
 3. plot the data points
     1. x-axis as the cumulative percentage of population
     2. y-axis as the cumulative percentage of income
     3. select option “scatter with smooth lines and markers”
     
-    ![Untitled](3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%203.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%203.png)
     
 - **Line of perfect equality -** The line when income is equality distributed in an economy.
     - meaning the lowest 20% earn 20% of the income; the lowest 40% earn 40% and so on
@@ -85,7 +85,7 @@ $$
 \text{Gini Coefficient} = \dfrac{\text{Area B}}{\text{Area A + B}}
 $$
 
-![Untitled](3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%204.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%204.png)
 
 # Poverty
 
@@ -229,7 +229,7 @@ Taxation can be used to redistribute income:
     - As the fixed amount of money is a smaller rate compared to their income for higher income households.
     - and higher rate compared to their income for lower income households.
 
-![Untitled](3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%205.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%204%20Economics%20of%20Inequality%20and%20poverty%20769a92fadd0a4ec7b47302a74806fc69/Untitled%205.png)
 
 ## Average marginal tax rate
 

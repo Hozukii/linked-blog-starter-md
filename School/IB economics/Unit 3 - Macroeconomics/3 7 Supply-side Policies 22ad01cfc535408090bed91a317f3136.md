@@ -26,7 +26,7 @@ P - Productive capacity
 - An increase in AS lowers general price levels and rate of inflation.
 - Lower domestic prices improve the international competitiveness of exports on the international market
 
-![Untitled](3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled.png)
 
 ## Competition  and efficiency
 
@@ -46,7 +46,7 @@ Policies such as deregulation, privatization, trade liberation, and anti-monopol
 
 ## Productive capacity
 
-![Untitled](3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%201.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%201.png)
 
 # Market- based policies
 
@@ -102,7 +102,7 @@ Policies such as deregulation, privatization, trade liberation, and anti-monopol
 
 - **Minimum wage -** lowest level of pay which can legally be paid to a worker
 
-![Untitled](3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%202.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%202.png)
 
 ## Incentives
 
@@ -163,7 +163,7 @@ Policies such as deregulation, privatization, trade liberation, and anti-monopol
 - Supply-side policies are capable of influencing **aggregate demand** in the economy.
 - Interventionist policies such as investments on education, training, health care, R^D, and infrastructure all contribute to the **G component** of AD. [C + I + G (X-M)]
 
-![Untitled](3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%203.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%203.png)
 
 - Market-based policies such as reduction in personal income tax, business tax, and capital gains tax will influence the C and I component of AD
 
@@ -173,7 +173,7 @@ Policies such as deregulation, privatization, trade liberation, and anti-monopol
     - Fiscal policies involve the use of government spending and taxation to influence AD
 - Government spending on education, training, health care, R&D, and  influence may improve the quality and/or quantity of resources.
 
-![Untitled](3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%204.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%204.png)
 
 # Effectiveness of Supply-Side Policies
 
@@ -237,4 +237,4 @@ Policies such as deregulation, privatization, trade liberation, and anti-monopol
 - In the long run, it can increase the productive capacity, which will shift LRAS leading to economic growth.
 - Supply-side policies also enable economies to grow while achieving a low and stable rate of inflation.
 
-![Untitled](3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%205.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%207%20Supply-side%20Policies%2022ad01cfc535408090bed91a317f3136/Untitled%205.png)

@@ -55,7 +55,7 @@
 
 ## Expansionary Fiscal Policy
 
-![Untitled](3%206%20Demand%20management%20-%20fiscal%20policy%20d6edef1b7d8a42f089baffd7b82c1ca6/Untitled.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%206%20Demand%20management%20-%20fiscal%20policy%20d6edef1b7d8a42f089baffd7b82c1ca6/Untitled.png)
 
 - Particularly important in Keynesian economics as economies may be stuck in a recessionary gap for long periods of time
 - Any government spending which improves the **quantity or quality of resources** will improve AD and AS
@@ -65,7 +65,7 @@
     - Provision of incentives for firms to invest through lower business taxes
 - As a result, productive capacity of economy increases, shifting AS curve outwards
 
-![Untitled](3%206%20Demand%20management%20-%20fiscal%20policy%20d6edef1b7d8a42f089baffd7b82c1ca6/Untitled%201.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%206%20Demand%20management%20-%20fiscal%20policy%20d6edef1b7d8a42f089baffd7b82c1ca6/Untitled%201.png)
 
 ## Contractionary Fiscal Policy
 

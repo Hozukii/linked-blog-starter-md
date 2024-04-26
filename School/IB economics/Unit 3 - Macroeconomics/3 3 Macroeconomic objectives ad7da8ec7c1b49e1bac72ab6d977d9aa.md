@@ -14,18 +14,18 @@
 - An increase in actual output can be illustrated by a movement within the PPC.
 - Alternatively growth can be illustrated by the AD/ AS
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled.png)
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%201.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%201.png)
 
 ## Long-term growth
 
 - **Potential output -** the level of real GDP that an economy can reach at the natural rate of unemployment
     - Occurs when there is an improvement in the quantity, quality, or improvement in technology in the factors of production
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%202.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%202.png)
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%203.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%203.png)
 
 ## Factors affecting economic growth
 
@@ -76,7 +76,7 @@
 - **Employment** - use of factors of production in the production process, usually applied on labour resources
 - **Unemployment** - people who are willing and able to work, actively seeking work, but cannot find work at the current wage rate. This means that resources are not being fully utilized in the economy.
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%204.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%204.png)
 
 - Labour supply - number of people willing and able to work at various prices
 - Labour demand - represents the employers who are willing and able to hire workers at various wages
@@ -129,16 +129,16 @@ $= \dfrac{\text{No. of unemployed}}{\text{no. of unemployed people + no. of empl
 - cyclical unemployment may be represented by a **deflationary gap.**
 - To reduce cyclical unemployment, the government may use demand-side policies to boost AD and close the deflationary gap
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%205.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%205.png)
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%206.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%206.png)
 
 ## Structural unemployment
 
 - **Structural unemployment -** caused by changes in sector or the structure of the economy
 - this exists whene there is a mismatch between the jobs available in the market and the skills that workers can offer
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%207.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%207.png)
 
 - It occurs when there is a long-term decline in the demand for labour in a specific industry
 - This type of unemployment may also arise due to changes in the **geographical location** of industries and jobs.
@@ -147,7 +147,7 @@ $= \dfrac{\text{No. of unemployed}}{\text{no. of unemployed people + no. of empl
     - trade union powers,
     - generous unemployment benefits
     
-    ![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%208.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%208.png)
     
     The quantity supplied for labour($Q_s$) is greater than the quantity demanded(Qd), which leads to a surplus of labour, resulting in **structural unemployment** of ($Q_s - Q_d$)
     
@@ -291,14 +291,14 @@ $= \dfrac{\text{No. of unemployed}}{\text{no. of unemployed people + no. of empl
 
 - **Demand-pull inflation -** caused by an increase in AD in an economy
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%209.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%209.png)
 
 ### Cost-push inflation
 
 - **Cost-push inflation -** caused by higher costs of production.
 - This might be caused by increased prices of raw materials or labour costs
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2010.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2010.png)
 
 ## Cost of a high inflation rate
 
@@ -350,7 +350,7 @@ Lower uncertainty - lower savings - lack of investment expenditure - lower produ
 
 - **Malign deflation -** generally  harmful as it is caused by a decrease in aggregate demand.
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2011.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2011.png)
 
 - leads to lower economic growth and higher unemployment and is usually associated with a recession.
 
@@ -358,7 +358,7 @@ Lower uncertainty - lower savings - lack of investment expenditure - lower produ
 
 - **Benign deflation -** is the deflation that leads to a higher national output. This can be caused by an increase in SRAS or LRAS
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2012.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2012.png)
 
 - This may not be harmful to the economy if households have cheaper access to goods and services and export competitiveness.
 
@@ -368,7 +368,7 @@ Lower uncertainty - lower savings - lack of investment expenditure - lower produ
 - **Demand-pull inflation** occurs when AD increases from AD-1 to AD2, in which the price levels increase from P1 to P2
 - **Disinflation** occurs when the rate of increase in AD slows, e.e., from AD2 to AD3. Price levels increase at a slower rate from P2 to P3
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2013.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2013.png)
 
 ## Costs of deflation
 
@@ -446,7 +446,7 @@ Costs of inflation:
 
 - High levels of unemployment and inflation are both undesirable. Suppose inflation is increasing rapidly and the government looks to slow economic activity
 
-![Untitled](3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2014.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%203%20Macroeconomic%20objectives%20ad7da8ec7c1b49e1bac72ab6d977d9aa/Untitled%2014.png)
 
 - The government may reduce AD to counteract high inflation, however, real GDP would fall, and unemployment would rise
 - In this case, the economy may achieve a lower rate of inflation, but at a cost of greater unemployment. Hence, governments must decide which objective s they would like to prioritize and achieve, as there may be trade-offs between different macroeconomic objectives

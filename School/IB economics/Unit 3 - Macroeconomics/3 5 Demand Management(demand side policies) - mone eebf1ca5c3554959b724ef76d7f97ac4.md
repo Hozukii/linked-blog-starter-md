@@ -19,7 +19,7 @@
 
 ### Low unemployment
 
-![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled.png)
 
 - The central bank may stimulate the economy by reducing interest rates. This reduces the cost of borrowing for firms and households, encouraging investment and consumption.
 
@@ -37,7 +37,7 @@
 
 - The external balance refers to the value of an economy’s export revenue being equal to its import expenditure. Interest rates can influence the exchange rate, which in turn affects the value of exports and imports
 
-![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%201.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%201.png)
 
 ## Real vs nominal interest
 
@@ -54,7 +54,7 @@
 2. Increasing consumption and investment through increased borrowing and reduced savings.
 3. shifting the AD curve to the right.
 
-![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%202.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%202.png)
 
 ### When is expansionary policy used?
 
@@ -68,7 +68,7 @@
 2. decreasing consumption and investment through decreased borrowing and increased savings
 3. Decreases AD
 
-![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%203.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%203.png)
 
 ### When is contractionary monetary policy used?
 
@@ -86,7 +86,7 @@
 
 - Contractionary demand side policy comes with the trade-off when dealing with cost-push inflation.
     
-    ![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%204.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%204.png)
     
 - Price levels increase from PL1 to PL2 while real GDP decreases to $Y_p$ to Y2
 
@@ -94,11 +94,11 @@
 
 - In order to maintain a low and stable rat of inflation, contractionary monetary policy may be sude to reduce AD1 to AD2. While this may reduce the rate of inflation back to a low and stable rat, there is a trade off of economic growth and unemployment as real GDP decreases further.
     
-    ![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%205.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%205.png)
     
 - Therefore, when addressing cost-push inflation in an economy, it is more suitable to implement supply-side policies. This addresses the objective of low and stable inflation, economic growth, and low unemployment. _
 
-![Untitled](3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%206.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%205%20Demand%20Management(demand%20side%20policies)%20-%20mone%20eebf1ca5c3554959b724ef76d7f97ac4/Untitled%206.png)
 
 ## Strengths of monetary policy
 

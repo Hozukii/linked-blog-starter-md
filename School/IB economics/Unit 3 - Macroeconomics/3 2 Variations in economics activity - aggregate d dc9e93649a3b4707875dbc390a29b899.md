@@ -23,7 +23,7 @@
 - The general price level - the average price of all goods and services in an economy
 - remember, **Ceteris paribus,** everything else in the economy does not change, only general price level.
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled.png)
 
 ## Justification of the downward slope
 
@@ -49,7 +49,7 @@
 
 ## Determinants of AD components
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%201.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%201.png)
 
 ### Confidence
 
@@ -130,7 +130,7 @@
 
 - Shows the relationship between real GDP and the price level in the short run.
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%202.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%202.png)
 
 - As price levels rise, in the short run, there is a greater profit margin and incentive to produce output Hence, SRAS curve is upward sloping
 
@@ -150,7 +150,7 @@
     - Indirect taxation
 - An increase in the costs of production or a rise in indirect taxes will reduce the willingness and ability of firms to produce goods and services and shifts inwards
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%203.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%203.png)
 
 ## Determinants of SRAS curve
 
@@ -174,7 +174,7 @@
 - shows the relationship between real GDP and the price level in the long run
 - In the long run, resource prices change to match the general price level changes of goods and services. Therefore, there is no incentive to increase or decrease production with price level changes as profit margins remain constant.
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%204.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%204.png)
 
 # Keynesian Model
 
@@ -188,7 +188,7 @@
 
 - In the Keynesian As model, there is no distinction between the short run and long run
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%205.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%205.png)
 
 ## Shifts in Aggregate supply
 
@@ -200,47 +200,47 @@
 
 - In the monetarist model, the short run macroeconomic equilbrium occurs when SRAS is equal to AD, resuting in the equilibrium price level.
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%206.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%206.png)
 
 ## Shifts in the new classical model
 
 - Shifts in AD and SRAs may result in a new short run macroeconomic equilibrium with changes in the price lever and real GDP
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%207.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%207.png)
 
 ## Monetarist model Long run
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%208.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%208.png)
 
 - occurs when AD = SRAS = LRAS at the full employment level of output (potential output)
 
 ## Keynesian Model
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%209.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%209.png)
 
 # Inflationary and deflationary gaps
 
 - **Inflationary gap** - when actual real GDP is greater than the potential level of GDP at full employment level of output.
 - Usually caused by excess levels of AD
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2010.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2010.png)
 
 - **Deflationary/ recessionary gap** occurs when actual real GDP is less than the potential level of GDP at full employment level of output.
 - Usually caused by insufficient AD.
     
-    ![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2011.png)
+    ![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2011.png)
     
 
 ## Inflationary and deflationary gaps in the business cycle
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2012.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2012.png)
 
 # Automatic adjustment to full employment equilibrium
 
 - In the short run, there may be there may be inflationary or deflationary gaps in the New Classical Model, but these are always temporary.
 - Automatic adjustments of market forces will eventually restore the economy back to the long run equilibrium at the level of potential output.
 
-![Untitled](3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2013.png)
+![Untitled](Vault/School/IB%20economics/Unit%203%20-%20Macroeconomics/3%202%20Variations%20in%20economics%20activity%20-%20aggregate%20d%20dc9e93649a3b4707875dbc390a29b899/Untitled%2013.png)
 
 # Keynesian vs Monetarist
 

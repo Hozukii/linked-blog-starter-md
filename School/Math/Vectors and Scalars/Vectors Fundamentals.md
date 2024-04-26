@@ -38,3 +38,5 @@ $$\overrightarrow{a}\,\perp\,\overrightarrow{b}\;\;\;\Leftrightarrow\;\;\overrig
 
 ## Vector equation
 #### $$ \vec{r} = \vec a + \lambda \vec b$$
+![[Pasted image 20240426114717.png |300]]
+
