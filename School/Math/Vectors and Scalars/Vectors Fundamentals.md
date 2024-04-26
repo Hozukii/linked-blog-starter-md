@@ -36,3 +36,5 @@ $$\cos\theta=\frac{\overrightarrow{a}\,\bullet\,\overrightarrow{b}}{|\overrighta
 
 $$\overrightarrow{a}\,\perp\,\overrightarrow{b}\;\;\;\Leftrightarrow\;\;\overrightarrow{a}\,\bullet\,\overrightarrow{b}\;=0$$
 
+## Vector equation
+#### $$ \vec{r} = \vec a + \lambda \vec b$$
