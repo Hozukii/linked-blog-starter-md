@@ -13,3 +13,15 @@
 
 ## Refraction
 **Refraction** - occurs when a wave meets a boundary, such as a solid object, or a change in the medium, and is at least partially allowed through the boundary. 
+- Wavelength changes
+- Frequency does not 
+- speed changes
+![[Pasted image 20240429150915.png]]
+
+## Snell's law
+#### $$n_{1}\sin\theta_{1}=n_{2}\sin\theta_{2}$$
+![[Pasted image 20240429151146.png|300]]
+#### Snell's law for refracted waves
+
+#### $$\dfrac {v_2} {v_1} = \dfrac {sin\theta_2}{sin\theta_1}$$
+
