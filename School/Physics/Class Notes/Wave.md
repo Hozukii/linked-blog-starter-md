@@ -25,3 +25,6 @@
 
 #### $$\dfrac {v_2} {v_1} = \dfrac {sin\theta_2}{sin\theta_1}$$
 
+### Refractive index
+- A **refractive index** $n_m$ is often used when dealing with light waves. 
+#### $$n_m = \dfrac c {v_m}$$
