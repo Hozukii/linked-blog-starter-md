@@ -29,3 +29,5 @@
 ### Waves spreading from a point without absorption
 - If waves were *spreading out* from a point source, their intensity will decrease for that reason alone, without any absorption
 ### In 2 Dimensions (surface waves)
+- As surface waves spread away from a point source the wavefronts will extend over greater and greater lengths. 
+- In each spreading wavefront the same amount of energy is spread over a greater length, so that the wave amplitude will decrease. 
