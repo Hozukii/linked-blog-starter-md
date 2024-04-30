@@ -39,4 +39,5 @@
 - **incident wave** - wave travelling towards a boundary
 - 
 - **Law of reflection** - the *angle of incidence* $i$ (angle between ray and normal to the plane) is equal to the *angle of reflection* $r$ (angle between the normal and the reflected ray)
-- 
+![[Pasted image 20240430123013.png|400]]
+![[Pasted image 20240430123041.png|400]]
