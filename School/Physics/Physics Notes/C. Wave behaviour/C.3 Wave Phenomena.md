@@ -31,3 +31,12 @@
 ### In 2 Dimensions (surface waves)
 - As surface waves spread away from a point source the wavefronts will extend over greater and greater lengths. 
 - In each spreading wavefront the same amount of energy is spread over a greater length, so that the wave amplitude will decrease. 
+### In 3 dimensions (such as light and sound)
+- The intensity of any waves spreading radially in 3d, without absoprtion, from a point source follows:
+  $$ \text{intensity,} I \propto \dfrac 1 {\text {distance}^2}$$
+## Reflection of waves and rays
+- **Reflection** - Change of direction that occurs when waves meet a boundary between two media such that the waves return into the medium from which they came.
+- **incident wave** - wave travelling towards a boundary
+- 
+- **Law of reflection** - the *angle of incidence* $i$ (angle between ray and normal to the plane) is equal to the *angle of reflection* $r$ (angle between the normal and the reflected ray)
+- 
