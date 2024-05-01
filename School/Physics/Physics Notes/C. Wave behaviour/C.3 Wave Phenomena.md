@@ -41,4 +41,40 @@
 - **Law of reflection** - the *angle of incidence* $i$ (angle between ray and normal to the plane) is equal to the *angle of reflection* $r$ (angle between the normal and the reflected ray)
 ![[Pasted image 20240430123013.png|400]]
 ![[Pasted image 20240430123041.png|400]]
-- [ ] 
+
+## Refraction of waves
+- **Refraction** - Change of direction that can occur when a wave changes speed. (Most commonly when light passes through a boundary between two different media)
+- Waves usually changes speed through different mediums which may cause a change in direction
+![[Pasted image 20240501094918.png|300]]
+![[Pasted image 20240501094950.png|300]]
+![[Pasted image 20240501095007.png|300]]
+
+- When waves enter a medium in which they travel more slowly, they are refracted towards the normal. (if not parallel)
+- When waves enter a medium in which they travel faster, they are refracted away from the normal. 
+### Refractive Index
+- **Refractive index**,$n$ - The ratio of the speed of waves in vacuum to the speed of waves in a given medium.
+#### $$n = \dfrac cv$$
+$$\text {refractive index of a medium} = \dfrac {\text{speed of light in vacuum}}{\text{speed of light in the medium}}$$
+
+### Snell's law
+#### $$\dfrac {n_1}{n_1} = \dfrac {sin\theta_2}{sin\theta_1} = \dfrac {v_2}{v_1}$$
+- $\theta_1$ - angle of incident ray from normal
+- $\theta_2$ - angle of refracted ray from normal
+![[Pasted image 20240501095838.png|300]]
+### Critical angle and total internal reflection
+- IF the angle of incident is gradually increased, the refracted ray will get closer and closer to the boundary between two medium. 
+- At a certain angle, the refracted ray will be refracted at an angle of exactly $90\degree$ along the boundary. 
+- **Critical angle**,$\theta_c$  - Largest angle at which a ray of light can strike a boundary with another medium of lower refractive index without being totally internally reflected. 
+- **Total internal reflection** - All waves are reflect back within the medium. CAn only occur when a wave meets a boundary with another medium with a lower refractive index
+	- For any angle of incidence, some light will be reflect at the boundary, but for angles of incidence greater than the critical angle, *all* the light will be reflected back and remain in the denser medium. 
+$$\begin{align} \dfrac {n_1}{n_2} = \dfrac {sin\theta_2}{sin\theta_1} \\ \\\text{at critical angle,} \theta_1 = \theta_c \space \text{and}  \space \theta_2 = 90\degree \\\\ \dfrac {n_1}{n_2} = \dfrac 1 {sin\theta_c} 
+\\\\ \end{align}$$
+#### Application of total internal reflection
+- Digital communication
+	- Light passing into a glass fibre can be "trapped" within the fibre and it will then be able to travel long distances. 
+- endoscopes
+	- Light from a source outside is sent along fibres to illuminate the inside of the body. 
+### Dispersion of light into a spectrum
+- The speeds of different colours (frequencies) of light in a particular medium (ex: glass) are not exactly the same. 
+- Different colours travelling in the same direction of the same source will not travel along exactly the same paths when they are refracted. 
+- **Dispersion (light)** - Separation into different wavelengths / colours (ex: to form a spectrum)
