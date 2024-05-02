@@ -78,3 +78,68 @@ $$\begin{align} \dfrac {n_1}{n_2} = \dfrac {sin\theta_2}{sin\theta_1} \\ \\\text
 - The speeds of different colours (frequencies) of light in a particular medium (ex: glass) are not exactly the same. 
 - Different colours travelling in the same direction of the same source will not travel along exactly the same paths when they are refracted. 
 - **Dispersion (light)** - Separation into different wavelengths / colours (ex: to form a spectrum)
+# Diffraction of waves
+- **Diffraction** - The spreading of waves as they pass obstacles, or through apertures. 
+- **Aperture** - A hole or gap designed to restrict the width of a beam of light (or other radiation)
+![[Pasted image 20240502191829.png|600]]
+
+- For apertures greater than the wavelength, the effects are less noticeable
+- Diffraction effects are most significant when aperture = wavelength
+- Diffraction at an aperture also occurs when waves are emitted from a source or aerial, or received by an observer. For example:
+- **Aerial** - A structure that receives or emits electromagnetic signals.
+	- Also called antenna.
+- ![[Pasted image 20240502192156.png|200]]
+## Examples of diffraction
+### Sound
+- A typical sound wave may have a wavelength of about 1m.
+### Light
+- Light has a very short wavelength therefore diffraction of light around everyday objects will not normally be noticed. 
+- However, light is still diffracted.
+- The fact that light diffracts is evidence of its wave-like structure. 
+![[Pasted image 20240502192341.png]]
+- It shows the diffraction of monochromatic laser light through an aperture of width less than 0.1mm. 
+- **laser** - Source of intense, coherent, monochromatic light.
+- **Monochromatic** - Containing only one colour/ frequency / wavelength. 
+### Microwaves
+- Typical wavelength of the microwaves used in a mobile phone network is 0.1 m. 
+### X-rays
+- X-ray wavelength are comparable to the sizes of atoms and ions, and their separations, in solids. 
+- This means that X-rays are diffracted well by the regular arrangement of atoms. 
+# Superposition of waves
+- **Principle of Superposition** - The resultant of two or more waves arriving at the same point can be determined by the vector addition of their individuals displacements. 
+- When waves have similar frequencies and amplitudes, the effect can be significant. 
+![[Pasted image 20240502193250.png|300]]
+- Shows an example of combining wave displacements to find a resultant.
+# Interference of Waves
+- **Interreference pattern (fringes)** - pattern observed when coherent waves interfere. 
+- **Coherent waves** - Waves that have the same frequency and a constant phase difference. 
+
+![[Pasted image 20240502193733.png|300]]
+
+- Most commonly occurs between two sources of waves which have the same single frequency and the same wave shape. 
+# Constructive and Destructive Interference
+- **Path difference** - The difference in the distances from a particular point to two sources of waves. 
+![[Pasted image 20240502193955.png|500]]
+
+- At $P_0$, or any other point where $X$ and $Y$ are in phase will create constructive interference. 
+![[Pasted image 20240502194122.png|250]]
+- **Constructive interference** - When two waves travel in the same direction and are in phase with each other, their amplitude gets added, and the resultant wave is obtained
+- So for example:
+$$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
+
+- The condition for constructive interference:
+#### $$\text {path difference} = n\lambda$$
+- **Destructive interference** - occurs when waves come together so that they completely cancel each other out. When two waves destructively interfere, they must have the same amplitude in opposite directions
+![[Pasted image 20240502194924.png|250]]
+- The condition for destructive interference:
+#### $$ \text {path difference} = \left( n + \dfrac 12 \right) \lambda$$
+- These conditions assume the usually situation: the waves are emitted in phase with each other. If the waves were exactly out of phase, these conditions would be reversed. 
+- Constructive and destructive interference describe the extreme possibilities of wave super position. 
+- Since $\text {intensity} \propto \text{amplitude}^2$, the intensity has quadrupled. This is possible because the intensity at places of destructive interference has been reduced. 
+![[Pasted image 20240502195232.png|375]]
+
+- This shows the overall interference pattern produced. 
+- Interreference is a property *only* of waves. 
+
+
+ 
