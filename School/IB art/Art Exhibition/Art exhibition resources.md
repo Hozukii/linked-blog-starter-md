@@ -2,6 +2,10 @@ https://shukado.com/artists/murakami_hitomi/?lang=en
 https://hitomimurakami.mystrikingly.com
 Hitomi Morakami
 
+Chie shimizu
+http://www.chieshimizu.com
+
+
 Lars lerin 
 https://www.artnet.com/artists/lars-lerin/3
 
@@ -29,3 +33,5 @@ mediums
 
 A man climbing a mountain, he is focused on the peak he sees nothing but the peak and nothing around him. 
 Drawing 
+
+Deformation of the human form. 
