@@ -25,4 +25,8 @@
 - ![[Pasted image 20240503214658.png|600]]
 - When added together, net wave created is almost the same as the incident wave but shifted.
 - And infinitely many layers will "slow down" the wave
-- Since light 
+- Since $v = f \lambda$ and light in a vacuum has the same velocity. 
+- Lower wavelength light has lower higher frequency. 
+- The amplitude of the wave from the oscillations depends on the frequency. 
+	- As this equation shows
+	- ![[Pasted image 20240503222031.png]]
