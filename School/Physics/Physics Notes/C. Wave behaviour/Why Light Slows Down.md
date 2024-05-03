@@ -25,4 +25,4 @@
 - ![[Pasted image 20240503214658.png|600]]
 - When added together, net wave created is almost the same as the incident wave but shifted.
 - And infinitely many layers will "slow down" the wave
-- 
+- Since light 
