@@ -161,3 +161,4 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 - **Signal generators** - Electric equipment used to supply small alternating currents of a wide range of different frequency. 
 ![[Pasted image 20240504100224.png|400]]
 
+# 
