@@ -162,3 +162,7 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 ![[Pasted image 20240504100224.png|400]]
 
 # Closer Look at Single-Slit Diffraction of Light (HL)
+## Interference within a single wavefront 
+- Imagine each plane of wavefront as series of points of "secondary wavelets"
+- **Secondary waves** - The propagation of waves in two or three dimensions can be explained by considering that each point on a wave is a source of secondary waves . 
+- 
