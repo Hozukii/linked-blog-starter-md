@@ -141,5 +141,23 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 - This shows the overall interference pattern produced. 
 - Interreference is a property *only* of waves. 
 
+## Young's double-slit interference experiment
+- Famous experiment which provided the first evidence that light travelled as waves.
+![[Pasted image 20240504095124.png|400]]
+![[Pasted image 20240504095238.png|300]]
 
- 
+- The separation of fringes in young's experiment
+#### $$s = \dfrac {\lambda D}d$$
+![[Pasted image 20240504095432.png|400]]
+
+## Interference of other types of waves 
+- Interference patterns are not common because it is difficult to produce two *coherent* sources for some type of wave in a uncontrolled, random process. 
+### Microwaves
+- Microwaves have a wavelength of a few centimetres
+- They have the same effects as young's experiment. 
+- The eq. $s \approx \dfrac {\lambda D}d$  can't be used because the eq. works from the assumption that light have small wavelengths. 
+![[Pasted image 20240504100118.png|300]]
+### Sound
+- **Signal generators** - Electric equipment used to supply small alternating currents of a wide range of different frequency. 
+![[Pasted image 20240504100224.png|400]]
+
