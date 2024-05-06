@@ -6,6 +6,7 @@ Prompt:  Prompt 13. How can we know that current knowledge is an improvement upo
 ![[Pasted image 20240505214532.png|400]]
 
 In 1867, Joseph Lister published a paper named "Antiseptic Principle of the Practice of Surgery"(ingentaconnect). The paper promotes the usage of carbonic acid in order to reduce infections and inflammations. Lister's principles of surgery reduced mortality rates of major operations from 40% down to 3% by 1910 (kcl). The object is relevant to the exhibition because the object shows how the improvement of knowledge can be measured through its results. 
+
 One of the ways an improvement in knowledge can be seen is through its resultant data. After Lister and his publication of his knowledge, there is a correlation between his knowledge and the success rate of surgeries. Even from 1865 to 1869, the mortality rate in his ward went from 45% and 15%. Such dramatic change in mortality rate are clear evidence that his knowledge was able to reduce mortality rate. 
 
 ### Object 3: The Imola plan
