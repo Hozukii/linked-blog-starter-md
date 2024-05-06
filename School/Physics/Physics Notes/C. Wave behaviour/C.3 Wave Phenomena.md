@@ -178,4 +178,6 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
  - The path difference is 
  - $bsin\theta$ and this increases as $\theta$ increases. 
  - There will be angles at which the waves  from the two edges of the slit interfere constructively.
- - if the secondary wavelets from the edges of the slit interrfere constructiev 
+ - if the secondary wavelets from the edges of the slit interfere constructively.
+ - The first minimum of the diffraction pattern occurs when teh path difference between secondary waves from the edge of the slit is equal to one wavelength. That is if, $bsin\theta \theta = \lambda$. 
+ - For the diffraction of light,  
