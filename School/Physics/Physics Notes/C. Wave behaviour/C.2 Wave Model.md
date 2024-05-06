@@ -57,6 +57,8 @@ Examples:
 ![[Pasted image 20240413213147.png|500]]
 - Light oscillations are high frequency periodic variations in the strength of electric and magnetic fields. 
 - Speed of light in vacuum is $3.00 \cdot 10^8 ms^{-1}$ denoted as $c$
+	- However light changes its velocity in different mediums depending on its frequency.
+	- [[Why Light Slows Down]]
 - In transparent materials light travels at slightly slower speeds 
 - **Continuous spectrum** - The components of radiation displayed in order of their wavelengths, frequencies, or energies
 - **White light** - Light which contains all the colours of the visible spectrum with approximate equal intensity.. 
