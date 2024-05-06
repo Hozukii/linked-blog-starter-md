@@ -168,6 +168,9 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 ![[Pasted image 20240504100224.png|400]]
 
 # Closer Look at Single-Slit Diffraction of Light (HL)
+
+- **Single-slit diffraction** - The simplest diffraction pattern is that produced by wavefronts interfering after they have passed through a narrow, rectangular slit. The first minimum occurs at an angle such that $\theta = \dfrac \lambda b$
+
 ## Interference within a single wavefront 
 - Imagine each plane of wavefront as series of points of "secondary wavelets"
 - **Secondary waves** - The propagation of waves in two or three dimensions can be explained by considering that each point on a wave is a source of secondary waves . 
@@ -180,4 +183,10 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
  - There will be angles at which the waves  from the two edges of the slit interfere constructively.
  - if the secondary wavelets from the edges of the slit interfere constructively.
  - The first minimum of the diffraction pattern occurs when teh path difference between secondary waves from the edge of the slit is equal to one wavelength. That is if, $bsin\theta \theta = \lambda$. 
- - For the diffraction of light,  
+ - For the diffraction of light,  the angle $\theta$ is usually small and approximately equal to $sin \space \theta$, if angle is exrpessed in radians. So that : 
+ - The angle for the first minimum of a **single-slit diffraction**:
+#### $$ \theta = \dfrac \lambda b$$ 
+- Similar reasoning will show that other diffraction minima will occur at angles, $\theta = \dfrac {2\lambda}b, \dfrac {3\lambda}b, ...$ 
+![[Pasted image 20240506221448.png|500]]
+
+# Two slits, multiple slits and diffraction gratings
