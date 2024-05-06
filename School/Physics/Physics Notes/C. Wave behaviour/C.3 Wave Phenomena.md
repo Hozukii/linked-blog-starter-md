@@ -145,10 +145,16 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 - Famous experiment which provided the first evidence that light travelled as waves.
 ![[Pasted image 20240504095124.png|400]]
 ![[Pasted image 20240504095238.png|300]]
+![[Pasted image 20240506202604.png|400]]
+
 
 - The separation of fringes in young's experiment
 #### $$s = \dfrac {\lambda D}d$$
 ![[Pasted image 20240504095432.png|400]]
+
+![[Pasted image 20240506203042.png|400]]
+![[Pasted image 20240506203118.png]]
+### $$n\lambda = d sin\space \theta = \Delta x$$
 
 ## Interference of other types of waves 
 - Interference patterns are not common because it is difficult to produce two *coherent* sources for some type of wave in a uncontrolled, random process. 
