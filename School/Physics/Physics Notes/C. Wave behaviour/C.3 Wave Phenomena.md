@@ -171,4 +171,11 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 ## Interference within a single wavefront 
 - Imagine each plane of wavefront as series of points of "secondary wavelets"
 - **Secondary waves** - The propagation of waves in two or three dimensions can be explained by considering that each point on a wave is a source of secondary waves . 
-- 
+- ![[Pasted image 20240506211524.png|200]]
+- if $\theta$ is zero, all the secondary waves will interfere constructively because there is no path difference. 
+![[Pasted image 20240506211639.png|300]]
+
+ - The path difference is 
+ - $bsin\theta$ and this increases as $\theta$ increases. 
+ - There will be angles at which the waves  from the two edges of the slit interfere constructively.
+ - if the secondary wavelets from the edges of the slit interrfere constructiev 
