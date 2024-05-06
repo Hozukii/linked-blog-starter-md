@@ -36,3 +36,17 @@ are skew
 --- 
 Show that lines $L_1$ :$\vec r = 2j -2k + \lambda(i-j)$ & $L_2$ : $\vec r = i + j -2k + \mu (j-k)$ intersect and find their point of intersection.
 ans: point min = $\begin{pmatrix} \dfrac 3{10} \\ -\dfrac 1 {10} \\ 2 \end{pmatrix}$
+
+Find in cartesian eq. of a plane passing through point $A(0,0,5)$ and parallel to the plane with eq:
+$x -y + 3z = 6$
+
+Find the value of parameter $m$ for which $L_1:$ $\dfrac xm = \dfrac {y-1}2 = \dfrac {z+2}4$ is parallel to the plane $\pi:$ $2x + my-3z = -1$
+
+Find the point of intersection between $L:$ $\dfrac {x+3}2 = \dfrac {y-5}4 = \dfrac {3z+3}2$ and the plane $\pi:$ $5x-y+4z = 2$ 
+
+ans: $\begin{pmatrix} 3 \\17 \\1 \end{pmatrix}$ or $\begin {pmatrix} 3 \\ -2 \\ 4 \end {pmatrix}$
+
+Find the cartesian eq. of the plane that contains the point $(1,1,0)$ and is parallel to the two lines 
+$L_1$ : $\begin {matrix} x = 2+\lambda \\ y = -3 \\ z = \lambda \end {matrix}$ and $L_2:$ $\begin {matrix} x = \mu \\ y = 2-\mu \\ z  -1 + \mu \end {matrix}$
+
+
