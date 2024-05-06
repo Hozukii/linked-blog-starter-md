@@ -1,0 +1,5 @@
+- What makes us humans?
+- Make different creations of human like things. 
+	- Remove features, add features.
+	- Put human faces on things that are not human?
+	- 
