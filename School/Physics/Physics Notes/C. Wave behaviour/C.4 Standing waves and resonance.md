@@ -33,4 +33,6 @@
 - Since $v = f \lambda$ from [[C.2 Wave Model]] 
 - $f_0 = \dfrac v {\lambda_0} = \dfrac v{2l}$
 - The wavelength of the first harmonic can be found from the length of the system  and the boundary conditions. 
-- 
+- Standing waves on straings could have boundaries that are "free" meaning there will be antinodes at each end so that the frequnecy of the first harmonic will be the same as for fixed boundaries, which has nodes at each end. 
+- If there is a node at one and antinode at other, wavelength of the first harmonic willl be greater and its frequency will be slower. 
+## Standing wave patterns of air in pipes
