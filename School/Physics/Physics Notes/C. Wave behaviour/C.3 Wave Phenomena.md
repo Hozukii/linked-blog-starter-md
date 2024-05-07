@@ -231,3 +231,4 @@ $$s = \dfrac {\lambda D}d$$
 - The intensity of the interference peaks produced by double slits, or multiple slits, is modulated by the shape of the single-slit diffraction produced by each individual slit. 
 - **Modulation** - Changing the amplitude of a wave according to variations in a secondary effect  
 - Note that $d$ is always larger than $b$, so that the spacing of the intereference pattern must always be smalleth than the spacing of the diffraction pattern from each slit. 
+![[Pasted image 20240507184441.png|500]]
