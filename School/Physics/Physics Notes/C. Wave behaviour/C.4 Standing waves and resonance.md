@@ -36,3 +36,22 @@
 - Standing waves on straings could have boundaries that are "free" meaning there will be antinodes at each end so that the frequnecy of the first harmonic will be the same as for fixed boundaries, which has nodes at each end. 
 - If there is a node at one and antinode at other, wavelength of the first harmonic willl be greater and its frequency will be slower. 
 ## Standing wave patterns of air in pipes
+- The air may be set into motion by , for example the simple action of blowing across the open end of the pipe. 
+- we need to consider the length and boundary conditions
+- The first harmonic is the standig wave with the greatest possible wavelength, $\lambda_0$ , and the lowest possible frequency $f_0$. 
+- After determining the wavelength, the eq $v = f\lambda$ can be used to predict harmonic frequencies if the wave speed is known. 
+![[Pasted image 20240507202721.png|300]]
+- A pipe open at both ends must have antinodes, A, at the ends, and at least one node, N,  in between. 
+- A pipe open at only one end has one antinode and one node as its boundary conditions. 
+- A pipe closed at both ends must have nodes at the ends and atleast one antinode in between. 
+![[Pasted image 20240507203047.png|500]]
+- Representation of pipe open at both ends. 
+- The wavelength of first harmonic is $2l$ 
+![[Pasted image 20240507203312.png|500]]
+- Pipe which is closed att one end, open at the other. 
+- note that only odd-numbered harmonics are possible with these boundary conditions. 
+![[Pasted image 20240507203529.png]]
+- If a speaker plays a frequency equal to one of the possible harmonics. 
+- Some powder can be scattered all along the pipe. When the speaker is played, the powder will split into groups to where vibration is the least. 
+![[Pasted image 20240507203708.png|400]]
+- Another way of creating standing waves are with adjusting the length of the tube instead of the frequency. 
