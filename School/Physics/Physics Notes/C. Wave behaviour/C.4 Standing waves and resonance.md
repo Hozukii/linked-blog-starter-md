@@ -55,3 +55,32 @@
 - Some powder can be scattered all along the pipe. When the speaker is played, the powder will split into groups to where vibration is the least. 
 ![[Pasted image 20240507203708.png|400]]
 - Another way of creating standing waves are with adjusting the length of the tube instead of the frequency. 
+# Natural frequencies of vibration
+- **Natural frequency** - The frequency at which a system oscillates when it is disturbed and then left to oscillate on its own, without influence from outside .
+- **Vibrations** - Mechanical oscillation usually of relatively small amplitude
+- Vibrating objects will oscillate at a natural frequency which depends on their dimensions and masses. 
+## Damping
+- like all other mechanical systems, useful energy is transferred from an oscillator into the surrounding in the form of thermal energy and maybe some sound. 
+- **Damping** - The dissipation of energy from an oscillator due to resistive forces. 
+![[Pasted image 20240508181935.png|500]]
+
+- It is common for the frequency of a vibration to remain approximately constant during damping. 
+	- Because although displacements are reduced, the speeds and accelerations also decrease. 
+
+- The degree of damping in oscillating systems can vary drastically
+![[Pasted image 20240508182058.png|400]]
+
+- Oscillators can be **heavily damped** because of considerable frictional forces. 
+	- Therefore, no oscillations occur because resistive forces are such that the object take a long time to return to its equilibrium.
+- Oscillators can be **lightly damped**, so that it continues to oscillate, taking long time to dissipate its energy. 
+- If an oscillation is opposed by resistive forces, such that it settles relatively quickly back into its equilibrium position, without ever passing through it, the process is described as **critical damping**
+	- like a car suspension
+	- Heavily vs critical: heavily returns slowly while critical returns quickly. 
+## Forced vibrations
+- **(forced) vibration** - Vibrations affected by external periodic forces. 
+	- When an external oscillating force acts on a system. 
+	- This may tend to make it oscillate at a frequency which is different from its natural frequency.
+	- Like pushing a swing
+- Most important examples are which the **driving frequency** is the same as the natural frequency. 
+- **driving frequency** - The frequency of an oscillating force acting on a system from outside. 
+## Resonance
