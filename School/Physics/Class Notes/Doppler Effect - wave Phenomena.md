@@ -1,4 +1,4 @@
 - Doppler effect explains frequency change caused by moving sources or moving observers. 
 - **Doppler effect** - An change in the frequency of waves caused by a moving source or observer .
 - If a sound source of frequency $f$ approaches you at a speed $u_s$, its wavefronts will bunch together and you will hear a frequency $f'$ which is higher than $f$ 
--   
+- 
