@@ -43,4 +43,11 @@ $c$ - speed of light ($3 \cdot 10^8 \ m/s$)
 - The number of waves is the same as, but because the sourceh sam moved forwards a distance , $u_s t$, the waves between the source and the observer are now compressed within the length $vt - u_st$ 
 - This means relative wavelength,$\lambda ' = \dfrac {v-u_s}f$ 
 - In general we can write
-#### f' = f \begin{}
+#### $$f' = f \begin{pmatrix} \dfrac v {(v \pm u_s )} \end {pmatrix}$$
+- This equation is for the Doppler effect from a **moving source** detected by a stationary observer
+- $u_s$ is added when the source is moving away from the observer, and subtracted when the motion is towards the observer
+
+#### $$f' = f \begin{pmatrix} \dfrac{(v \pm u_0 )}  v\end {pmatrix}$$
+- This equation for the frequency detected by a **moving observer** from a stationary source 
+- Remember that these equations cannot be applied to electromagnetic waves
+- 
