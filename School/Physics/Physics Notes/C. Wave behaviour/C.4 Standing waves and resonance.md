@@ -84,3 +84,21 @@
 - Most important examples are which the **driving frequency** is the same as the natural frequency. 
 - **driving frequency** - The frequency of an oscillating force acting on a system from outside. 
 ## Resonance
+- **Resonance** - The increase in amplitude and energy that occurs when an oscillating system is acted on by an external periodic force that has the same frequency as the natural frequency of the system. 
+	- The driving force must be in phase with the natural oscillation. 
+- **Resonant frequency** - The frequency at which resonance occurs. 
+- The resonant frequency is at, or very close to, the natural frequency. 
+- The energy of an oscillation is proportional to its amplitude squared. 
+- There may be smaller resonance peaks at values of the driving frequency which are equal to the natural/ resonant frequency divided by 2,3,4 and so on. 
+### Examples of resonance
+#### Unwanted resonance
+- Parts of all machinery may vibrate destructively when their motors are operating at certain frequencies.
+- Strong but steady winds, or currents, can also cause resonance in structures. 
+![[Pasted image 20240509194110.png|300]]
+- To reduce the risk of damage from resonance engineers can:
+	- Alter shape of the structure to change the flow of the air or water past it 
+	- Change the design so that natural frequencies are not the same as any possible driving frequencies. 
+	- Ensure that there is enough damping. 
+#### Useful resonance
+- The molecules of certain gasses in the atmosphere oscillate at the same frequency as thermal radiation emitted from the Earth.  These gasses absorb energy because of resonance; this results in the planet being warmer than it would be without the gas in the atmosphere. 
+- Microwave ovens use electromagnetic radiation in the microwave region. The microwave wavelength equal a vibrational frequency of water molecules, so that the molecules absorb the radiation. 
