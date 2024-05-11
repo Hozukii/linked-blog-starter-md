@@ -1,8 +1,8 @@
 Prompt:  Prompt 13. How can we know that current knowledge is an improvement upon past knowledge?
 ### Introduction
 ### Object 1: 1943 Enigma I cipher machine used by the German military in WWII
-The Enigma I cipher machine is a encryption device used during WWII predominately by the Germans. The device was used to be able to send sensitive information without the risk of being leaked to allied forces. 
-
+The Enigma I cipher machine is a encryption device used during WWII predominately by the Germans. The device was used to be able to send sensitive information without the risk of being leaked to allied forces. The Enigma I cipher machine was eventually decrypted by polish codebreakers. The Enigma I cipher machine is important to the exhibition because it illustrates the perpetual improvement of knowledge due to the nature of particular fields of knowledge.
+Encryption and decryption are often called a cat and mouse game. When new encryption methods are introduced, code breakers will eventually find a way to decrypt the encryption and a improved encryption method will be introduced and so on. The 
 ### Object 2: Antiseptic Principle of the Practice of Surgery
 ![[Pasted image 20240505214532.png|400]]
 
