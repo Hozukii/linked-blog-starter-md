@@ -43,6 +43,6 @@
 	- must add value to the original investigation
 	- cannot be a simple change in the dependent variable
 	- 
-### Tips and trickes
-- Proccess your data asyou collect them
+### Tips and tricks
+- Process your data as you collect them
 - Conclusion is only worth 2 marks - focus on your application of scientific ideas instead of how accurate your outcome is. 
