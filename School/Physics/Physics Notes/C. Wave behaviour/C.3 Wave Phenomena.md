@@ -147,11 +147,17 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 ![[Pasted image 20240504095238.png|300]]
 ![[Pasted image 20240506202604.png|400]]
 
+## Young's double slit formula
+### Distance separation
+#### $$s = \dfrac {n \lambda D}d$$
+#### Derivation: 
+![[Pasted image 20240507181124.png|200]]
+$tan \ \theta \approx sin \ \theta$ is true for really small angles. 
 
 - The separation of fringes in young's experiment
-#### $$s = \dfrac {\lambda D}d$$
+$$s = \dfrac {\lambda D}d$$
 ![[Pasted image 20240504095432.png|400]]
-
+### angular separation
 ![[Pasted image 20240506203042.png|400]]
 ![[Pasted image 20240506203118.png]]
 ### $$n\lambda = d sin\space \theta = \Delta x$$
@@ -190,3 +196,39 @@ $$\therefore XP_2 - YP_2 = n \lambda \ \ n \in \mathbb{Z}$$
 ![[Pasted image 20240506221448.png|500]]
 
 # Two slits, multiple slits and diffraction gratings
+- From before, for double slits, constructive intereference occurs at:  $n\lambda = d sin \ \theta$ and the distance is measured by $s = \dfrac {\lambda D}d$
+- These equations can be used with any number of slits. 
+- Note that the angles at which constructive and destructive intereference occur depends on the separation of the slits, but not the number of slits. 
+![[Pasted image 20240507181704.png|600]]
+
+### Effect of having more slits (of the same width and separation)
+- **multiple slits** - By increasing the number of parallel slits on which a light beam is incident, it is possible to improve the resolution of the fringes spectra formed. 
+	- The intensity peaks become "sharper" more precisely located. 
+![[Pasted image 20240507181944.png |200]]
+#### Diffraction gratings 
+- **Diffraction gratings** - A large number of parallel slits very close together. Used to disperse and analyse light. 
+- A typical grating has 600lines /mm
+	- which means $d = 1.67 \cdot 10^{-6}m$ 
+	- This very small separation of the slits $d$, results in large values of $sin \ \theta$. If the light incident on the grating is also spreading over a large number of lines, the intensity peaks will be well separated, intense, and sharp. 
+![[Pasted image 20240507182344.png]]
+
+### Observing spectra with diffraction gratings
+- Diffraction gratings are widely used for producing spectra and determining unknown wavelengths of light. 
+#### Continuous white light spectrum. 
+- If white light is sent to a diffraction grating, different wavelengths/ colours will be sent in slightly different directions. 
+![[Pasted image 20240507182529.png|600]]
+- **Spectral orders** - Consider the diffraction grating eq. $n\lambda = d sin \ \theta$ different orders correspond to different values of $n$
+	- all wavelength with $n =1$ are first-order, with $n =2$ are second-order spectrum and so on.
+#### Line spectra
+- **Spectrum line** - A spectrum of separate lines, each corresponding to a discrete wavelength and energy. 
+![[Pasted image 20240507182811.png|400]]
+
+- If atoms of a particular element, or some compounds, are given enough energy they will emit light in the form of a **line spectrum** not a continuous white light spectrum. 
+	- Discussed more in [[E.1]]
+- Diffraction grating have very large number of lines very close together which make it ideal to create high resolution and intense line spectra. 
+![[Pasted image 20240507183056.png|]]
+## Modulation by single-slit diffraction
+- The intensity of the interference peaks produced by double slits, or multiple slits, is modulated by the shape of the single-slit diffraction produced by each individual slit. 
+- **Modulation** - Changing the amplitude of a wave according to variations in a secondary effect  
+- Note that $d$ is always larger than $b$, so that the spacing of the intereference pattern must always be smalleth than the spacing of the diffraction pattern from each slit. 
+![[Pasted image 20240507184441.png|500]]

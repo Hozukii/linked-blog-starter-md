@@ -69,7 +69,7 @@
 ![[Pasted image 20231204203750.png|150]]
 - IF the atoms in a molecule vibrate at the same frequency as the infrared radiation passing through the greenhouse gas, then energy can be absorbed
 	- Effect known as the resonance 
-	- See:  [[C.4 Standing waves and resonance]]
+	- See:  [[C.4 Standing waves and resonance#Resonance]]
 - It raises the molecule to a higher energy level which is quickly released again as the molecule returns to its lower energy level, but the energy is radiated in random directions.
 # Enhanced greenhouse effect: global warming
 - For the last 300 years, we have been using vast store of chemical potential available from the combustion of coal, oil and natural gas. 
