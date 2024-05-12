@@ -17,3 +17,4 @@ the kinetic power at $V_s$ will be:
 $P = \dfrac 12 \dot m V_s^2 = \dfrac 12 \rho SV_0 (2V_0)^2 = 2\rho S V_0^3$
 $V_0 = \sqrt[3]{\dfrac P{2\rho S}}$
 $T = 2\rho S \begin{pmatrix}  \begin {pmatrix} \dfrac P {2\rho S} \end{pmatrix}^{\dfrac 13}\end{pmatrix}^2$
+https://www.youtube.com/watch?v=TufEVMGHNkE&t=100s
