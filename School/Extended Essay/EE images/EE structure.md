@@ -12,7 +12,7 @@
 - Why topic is of personal interest
 - Discuss why the topic is worthy of investigation
 - Background information 
-	- Identify the revelant principles of phycis
+	- Identify the relevant principles of physics
 - Any information foreign to physics
 	- ex. investigating the motion of a football to most effecvely score a goal - rules of football
 ### Methodology
