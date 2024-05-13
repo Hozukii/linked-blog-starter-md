@@ -18,3 +18,8 @@ $P = \dfrac 12 \dot m V_s^2 = \dfrac 12 \rho SV_0 (2V_0)^2 = 2\rho S V_0^3$
 $V_0 = \sqrt[3]{\dfrac P{2\rho S}}$
 $T = 2\rho S \begin{pmatrix}  \begin {pmatrix} \dfrac P {2\rho S} \end{pmatrix}^{\dfrac 13}\end{pmatrix}^2$
 https://www.youtube.com/watch?v=TufEVMGHNkE&t=100s
+
+https://www.simscale.com/blog/how-to-optimize-propeller-design/
+https://www.propellerpages.com/?c=articles&f=2006-02-17_Number_of_blades#:~:text=Conclusion%3A%20the%20less%20number%20of,Pitch%2C%20Blade%20Area%20and%20Shape.
+https://aviation.stackexchange.com/questions/23009/what-are-the-advantages-of-more-than-4-propeller-blades
+https://hartzellprop.com/are-more-propeller-blades-better/
