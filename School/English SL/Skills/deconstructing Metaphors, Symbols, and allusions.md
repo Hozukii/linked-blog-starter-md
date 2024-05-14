@@ -12,7 +12,7 @@
 - Foreshadowing
 - collocation
 - Syntax & Parallelism
-- Irony
+- [[irony]]
 - Ellipsis 
 - [[rebuttal]]
 - [[enumeration]]

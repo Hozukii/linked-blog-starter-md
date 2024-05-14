@@ -1,0 +1,3 @@
+- Situational irony - Situational irony is the irony of something happening that is very different to what was expected. 
+	- Some everyday examples of situational irony are a fire station burning down, or someone posting on Twitter that social media is a waste of time.
+- 
