@@ -46,3 +46,4 @@
 ### Tips and tricks
 - Process your data as you collect them
 - Conclusion is only worth 2 marks - focus on your application of scientific ideas instead of how accurate your outcome is. 
+$\eta = \dfrac T {\sqrt[3] {2\rho SP^2}}$
