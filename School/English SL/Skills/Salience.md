@@ -1,0 +1,3 @@
+- The focal point of an image 
+- The quality of being particularly noticeable or important 
+- 
