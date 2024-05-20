@@ -22,13 +22,13 @@ $T = 2\rho S \begin{pmatrix}  \begin {pmatrix} \dfrac P {2\rho S} \end{pmatrix}^
 
 
 Or an alternative measurement 
-![[Pasted image 20240519215340.png]]
+![[Pasted image 20240520123553.png]]
+
 
 
 Or momentum theory 
 https://en.wikipedia.org/wiki/Momentum_theory
-
-![[Pasted image 20240519215449.png]]
+![[Pasted image 20240520123621.png]]
 
 
 
