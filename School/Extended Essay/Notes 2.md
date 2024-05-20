@@ -42,3 +42,4 @@ https://aviation.stackexchange.com/questions/23009/what-are-the-advantages-of-mo
 https://hartzellprop.com/are-more-propeller-blades-better/
 
 
+I need 5 data points
