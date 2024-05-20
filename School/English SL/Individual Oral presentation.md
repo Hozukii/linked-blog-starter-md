@@ -26,4 +26,15 @@
 - The difference in power dynamic firstly with the body language and composition.
 	- The man on the left takes up majority of the image. 
 	- His body is dynamic and spread out freely able to move. 
+	- The man on the right however takes smaller space of the composition. 
+	- Also his arms are behind his back and his movement is concealed. 
+	- The central focus of the image is the gun and the man's face. 
+	- The contrast between the powerful man of the left and the helpless man of the right feels inhumane and dehumanizing. 
+	- 
 ## commentary on the analysis of the photograph
+- The photo was published without much thought as the photographer says. 
+- While the image depicts a hopeless man being inhumanely executed, without context, the image does not tell the whole story. 
+	- The man on the right was a Viet Cong terrorist and the man of the left was a national police chief. 
+- The image has been used during the Vietnam war as a symbol for how horrible the war was and was used as a anti-war campaign. 
+- The image ruined the officer. 
+	- The image highlights a dilemma of the false reality painted by the photograph but the undeniable impact it has had on the readers in taking actions again war. 
