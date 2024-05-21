@@ -1,5 +1,5 @@
 ## intro 
-- Explore the global issue of war and commercialisation specifically about the moral dilemmas of commodifying human conflict and suffering. 
+- Explore the global issue of war and commercialisation specifically about the moral dilemmas of commodifying human conflict and suffering for the a larger purpose
 - Duffy poem called "War photographer" questions whether commodification of war is justified for the sake of raising awareness. 
 - "Saigon Execution" 
 ## analysis of poem 
