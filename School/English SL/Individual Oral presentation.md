@@ -4,7 +4,7 @@
 - "Saigon Execution" 
 ## analysis of poem 
 - "spools of suffering set out in ordered rows" 
-	- ordered rows is a objectification of the concept of suffering into a 
+	- ordered rows is a objectification of the concept of suffering 
 - A hundred agonies in black and white
 	- Suffering and atrocities are reduced to simple photographs for the sake of commodification.
 	- The reduction into simple photographs strips the complexity of the situation. 
