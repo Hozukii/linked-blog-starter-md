@@ -18,14 +18,14 @@ we can compare our understanding of linear dynamics to rotational dynamics
 | linear kinetic energy         | rotational kinetic energy       |
 
 # Torque
-
->[!note] Torque
->- the torque, $\uptau$, of a force about an axis, 
->- Given by: $\uptau = Fr \space sin\theta$
->- SI unit: $Nm$ (not $Nm^{-1}$) while he same unit as joules, it is not equivalent
->- vector quantity
-
-
+- **Torque**, $\uptau$, Product of a force and the perpendicular distance from the axis of rotation to its line of action.
+#### $$\uptau = Fr \space sin\theta$$
+- $F$ - Force 
+- $\theta$ - The angle between the line of action of the force and ta line joining the point of application of the force to the axis of rotation. 
+- $r$ - distance from the axis of rotation to the point of application of the force. 
+- SI unit: $Nm$ (not $Nm^{-1}$) while he same unit as joules, it is not equivalent
+- vector quantity
+![[Pasted image 20240527194227.png|350]]
 
 
 - It is important to identify the place where rotation occur
