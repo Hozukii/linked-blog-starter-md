@@ -36,7 +36,6 @@ we can compare our understanding of linear dynamics to rotational dynamics
 - $F_3$ is somewhere in between
 - When there is no actual rotation, torque is sometimes called the **moment** of a force
 ## combining torques
-
 - Torque is a vector quantity but generally we will only be concerned about where it tends to produce clockwise or anticlockwise motion
 #### couples
 - **Couples** - pair of equal-sized forces that have different line of action but which are parallel to each other and act in opposite directions, either side of the axis of rotation. 
@@ -45,7 +44,7 @@ we can compare our understanding of linear dynamics to rotational dynamics
 ![[Pasted image 20240527200513.png|200]]
 ![[Pasted image 20240527200525.png|200]]
 - $\uptau = 2Fr \space sin \ \theta$
-#### Rotational equilibrium
+### Rotational equilibrium
 **equilibrium** - when object remain at rest or constant motion
 **Translational equilibrium** - When there is no *resultant force* acting on an object
 >[!note] Rotational equilibrium
@@ -56,30 +55,35 @@ we can compare our understanding of linear dynamics to rotational dynamics
 
 #### Angular displacement
 - Any point on a rigid rotating body will be moving along a circular path 
-- **Angular displacement** - the total angle, $\theta$, through which a rigid body has rotated from a fixed refence point. Usually measured in radians(or degrees.)
-- Equation:
-$$\theta = \dfrac sr$$
+- **Angular displacement** - the total angle, $\theta$, through which a rigid body has rotated from a fixed refence point. 
+	- Usually measured in radians(or degrees.)
+#### $$\theta = \dfrac sr$$
+$s$ - arc length travelled 
+$r$ - radius
+![[Pasted image 20240528185247.png|200]]
 #### Angular velocity
 - vector quantity but direction will not be important here
 - **Angular velocity**, $\omega$, is defined as the change of angular displacement divided by the time taken
-- Equation:
-$$ \omega = \dfrac{\Delta \theta}{\Delta t}$$
-- SI unit: $rad s^{-1}$ radians(or degrees) per second
-- Angular velocities are ofter quoted in rotations per minute (rpm) 
+#### $$ \omega = \dfrac{\Delta \theta}{\Delta t}$$
+- SI unit: $rad s^{-1}$
+- Angular velocities are often quoted in rotations per minute (rpm) 
 	- 1 rpm = $0.10 \space rads^{-1}$
 - The if velocity is the same, depending on the distance it will change in angular speed
-- Linear speed: $v = \omega r$
+- Linear speed can be calculated as:
+#### $$v = \omega r$$
 #### Angular acceleration
 **Angular acceleration**, $\alpha$, - $\dfrac{\text{rate of change of angular velocity}}{time}$
-$$a = \dfrac{\Delta \omega}{\Delta t}$$
+#### $$a = \dfrac{\Delta \omega}{\Delta t}$$
 - SI unit: $rads^{-2}$
 - There is a simple relationship between angular and linear acceleration
 - Since: $\Delta \omega = \dfrac{\Delta v}{r} \to \alpha = \dfrac{\Delta v}{\Delta tr}$
-$$\alpha  = \dfrac ar $$
+#### $$\alpha  = \dfrac ar $$
 
-
+$\alpha$ - angular acceleration
+$a$ - linear accelreration
+$r$ - radius
+![[Pasted image 20240528185627.png|300]]
 # Equations of Motion for Angular Acceleration 
-
 We can compare with the suvat equation:
 
 | SUVAT                     | Equations for uniform angular acceleration          |
@@ -90,12 +94,14 @@ We can compare with the suvat equation:
 | $v^2  = u^2 + 2as$        | $\omega_f^2 = \omega_i^2 + 2a\Delta \theta$         | 
 
 ## Graphs of rational motion
-
 - Graphs for rotational motion can be interpreted in the same way as a graphs for linear motion
-insert image 
+![[Pasted image 20240528185742.png|200]]
+![[Pasted image 20240528185753.png|200]]
 
+# Moment of Inertia
 - **Moment of inertia** - The resistance to a change of rotational motion of an object, which depends on the distribution of mass around the chosen axis of rotation
-
-- **Moment of inerti**, $I$, of a point mass, $m$, rotating at a distance $r$ from its axis is given by:
-$$I = mr^2$$
-
+	- Moment of inertia $I$, of a point mass, $m$, rotating at a distance $r$ from its axis is given by:
+#### $$I = mr^2$$
+SI unit: $kgm^2$
+- Most spherical objects can be considered to behave like masses concentrated at their centre points. 
+![[Pasted image 20240528190115.png|300]]
