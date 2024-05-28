@@ -131,4 +131,6 @@ $\omega$ - angular velocity
 ## Angular impulse
 - We have seen in [[A.2 Forces and Momentum#impulse]]
 	- $J = F \Delta t$. 
-	- Using newton's second law, $\Delta p$ occurs because of a linear impulse $
+	- Using newton's second law, a change in momentum, $\Delta p$ occurs because of impulse $F\Delta t$ 
+- A change of angular momentum, $\Delta L = \Delta (I \omega)$ occurs because of an angular impulse, $t \Delta t$ : 
+####
