@@ -105,3 +105,30 @@ We can compare with the suvat equation:
 SI unit: $kgm^2$
 - Most spherical objects can be considered to behave like masses concentrated at their centre points. 
 ![[Pasted image 20240528190115.png|300]]
+
+- In principle The moment of inertia of any real, extended mass can be determined by the addition of the individual moments of inertia of its point masses: 
+#### $$I = \Sigma mr^2$$
+- In practice, the moments of most simple-shaped objects about specific axes are well known. 
+![[Pasted image 20240528190847.png]]
+
+# Newton's second law for rotational motion
+- For linear motion, $F = ma$ 
+	- Seen in: [[A.2 Forces and Momentum#Newton's second law of motion]]
+- For rotational motion:
+#### $$ \text {torque,} \uptau = I \alpha$$
+- $\uptau$ - resultant torque
+- $I$ - moment of inertia
+- $\alpha$ - angular acceleration
+## conservation of angular momentum 
+- **Angular momentum**, $L$  - the rotational equivalent of linear momentum $p = mv$. given by:
+#### $$L = I \omega$$
+Si unit: $kg m^2 s^{-1}$
+$I$ - moment of inertia
+$\omega$ - angular velocity
+- **Conservation of angular momentum** - The total resultant angular momentum of a system is constant provided that no resultant external torque is acting on it. 
+![[Pasted image 20240528191643.png|200]]
+- Since the moment of inertia for $b$ is smaller than $a$ the angular velocity is larger since angular momentum is constant
+## Angular impulse
+- We have seen in [[A.2 Forces and Momentum#impulse]]
+	- $J = F \Delta t$. 
+	- Using newton's second law, $\Delta p$ occurs because of a linear impulse $
