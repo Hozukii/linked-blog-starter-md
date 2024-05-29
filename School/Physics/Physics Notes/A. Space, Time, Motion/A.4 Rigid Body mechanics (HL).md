@@ -133,4 +133,43 @@ $\omega$ - angular velocity
 	- $J = F \Delta t$. 
 	- Using newton's second law, a change in momentum, $\Delta p$ occurs because of impulse $F\Delta t$ 
 - A change of angular momentum, $\Delta L = \Delta (I \omega)$ occurs because of an angular impulse, $t \Delta t$ : 
-####
+#### $$\Delta L = \uptau \Delta t$$
+SI unit: $kgm^2s^{-1}$
+$L$ - angular momentum
+$\uptau$ - torque
+$t$ - time
+
+- If the torque changes then average value should be used. 
+- The area under a torque-time graph is equal to angular impulse
+## Rotational Kinetic Energy
+From topic [[A.3 Work, Energy, and Power]], that linear kinetic energy is: 
+$$ E_k = \dfrac 12 mv^2 = \dfrac {p^2}{2m}$$
+- Rotational energy, $E_k$ - kinetic energy due to rotation, rather than translation:
+#### $$E_k = \dfrac 12 I \omega^2 = \dfrac {L^2}{2I}$$
+$\omega$ - angular velocity
+$I$ - moment of inertia
+$L$ - angular momentum
+
+- It is common for an object to have both linear and rotational kinetic energy
+	- ex: bicycle
+### Rolling (without slipping)
+- Consider a wheel with radius $r$ rotating with an angular speed $\omega$ 
+- All points on its circumference will be moving with linear speed $v = \omega r$ 
+- If point $P$ is moving with linear speed $v$, this must also be the overall speed of the motor bike, as shown on the central axle.
+![[Pasted image 20240529192604.png|450]]
+
+### Rolling down a slope
+- **Roll** - Rotation of an object along a surface in which the lowest point of the object is instantaneously stationary. 
+	- Requires friction
+- An object, such as a ball or a wheel, which can roll down a hill will transfer its gravitational potential energy to both translational and rotational kinetic energy
+ ![[Pasted image 20240529193145.png|350]]
+$$ mg \Delta h = \dfrac mv^2 + \dfrac 12 I \omega^2$$
+- At the bottom of a slope, a sliding object will reach a higher speed than a rolling object. 
+- rotating objects that have bigger moments of inertia will travel slower at the bottom of the same slope
+- If the angle of the slope is too steep, rolling will not be possible
+- Consider a solid sphere, for which:
+$$ I = \dfrac 25mr^2$$
+- Remember that $v = \omega r$:
+$$mg\Delta h = \dfrac 12 m \omega ^2 r^2 + \begin{pmatrix} \dfrac 12 \end{pmatrix} \cdot \dfrac 25 mr^2 \omega^2 = \dfrac 7 {10} m\omega ^2 r^2$$
+- Cancelling out the $m$ :
+$$g\Delta h = \dfrac 12  \omega ^2 r^2 + \begin{pmatrix} \dfrac 12 \end{pmatrix} \cdot \dfrac 25 r^2 \omega^2 = \dfrac 7 {10} \omega ^2 r^2$$
