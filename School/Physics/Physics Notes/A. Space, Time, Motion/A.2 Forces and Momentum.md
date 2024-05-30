@@ -177,7 +177,7 @@ Two objects, $m_1$ and $m_2$, before and after a collsion . In this example, $m_
 **Propel** - provide a force for an intended motion
 - To start, or maintain motion (propel), we can create momentum in the opposite direction. 
 - Propeller can also be used, also jet engines, or even rocket engines. 
-# Forces acting for short times: impulses
+# impulse
 **Impulse**, J(not related to Joules), the product of force and the time for which the force acts.
 >[!note] impulse
 >$J = F\Delta t$ SI unit: Ns
