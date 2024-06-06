@@ -27,5 +27,34 @@
 ### Velocity Addition Equation
 - **velocity addition** - Equation which connects the velocities of the same object as observed in two different reference frames
 - If in reference frame $S$, the velocity of an object is $u$, in a reference frame $S'$,which has relative velocity of $v$ compared to $S$, the same movement will be recorded as having a velocity, $u' = u-v$ 
-
-
+# Introducing special relativity
+- **Special relativity** - Special relativity is a theory in physics formulated by Albert Einstein in 1905. It describes how the laws of physics are the same for all non-accelerating observers, and it introduces the concept that the speed of light in a vacuum is constant and independent of the motion of the light source or observer
+## The two postulates of special relativity
+###### First postulate: The laws of physics are identical (invariant) in all inertial reference frames
+- Observations in different inertial reference frames all have equal worth; there is no single 'correct' frame of reference
+- The Universe has no unique stationary reference frame
+- No experiment is possible that can show an observer's absolute velocity though the Universe. 
+###### Second postulate: The speed of light in a vacuum is constant, $c = 3.00 \cdot 10^8 ms^{-1}$
+- A person on earth and the rocket travelling at 99% the speed of light will both observe the speed of light to be $3.00 \cdot 10^8 ms^{-1}$
+### Implications of the two postulates
+- since $v = \dfrac s t$ and if the $v$ is observed to be the same but the $s$, distance travelled is different for different reference frames, then time $t$ must be different
+	- Time flows at different rates for different observers
+- Space and time are linked as space-time. Space and time are not independent of each other, as they were assumed to be in Newtonian mechanics 
+- **space-time** - The combination of space and time into a single entity that is used to describe the fabric of the Universe. 
+	- Fundamentally, in relativity, time and space are not independent of each other. They are observed differently depending on the relative motion of an observer
+## Lorentz transformation
+- **Lorentz transformation** - The equation, involving the Lorentz factor, used to calculate the new position and time coordinate or spacial and temporal intervals, when transferring from one relativistic reference frame to another. 
+- If in reference frame $S$, the coordinates of an event are $x$ and $t$, in reference frame $S'$, which has relative velocity of $v$ compared to $S$, the coordinates $(x',t')$, of the same event are given by: 
+#### $$ x' = \gamma (x - vt)$$
+#### $$ t' = \gamma \begin{pmatrix} t - \dfrac {vx}{c^2} \end{pmatrix}$$
+- **Lorentz factor**, $\gamma$ - Scaling factor that describes the distortion of non-invariant quantities when moving between different relativistic reference frames:
+	- Calculated using:
+#### $$ \gamma = \dfrac 1 {\begin {pmatrix} \sqrt{1-\dfrac {v^2}{c^2}}\end {pmatrix}}$$
+- $\gamma > 1$ always
+- for everyday macroscopic speeds, $v$ is much smaller than $c$ so that $\gamma$ has a value very close to one. 
+### Equations for transforming distances and time intervals between two events
+- Often interested in differences in x-coordinates and t-coordinates between events. That is, distances and time intervals. 
+- Distance between two events:
+$$ \Delta x' = \gamma(\Delta x - v\Delta t)$$
+- Time interval between two events:
+$$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end {pmatrix}$$
