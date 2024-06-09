@@ -66,5 +66,22 @@ $$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end
 - If the distances are known $(L_1, L_2)$, then the clocks can be synchronized by setting them initially to $\dfrac{L_1}c$ and $\dfrac {L_2}c$ and then starting the clocks from those values when the flash is received. 
 ![[Pasted image 20240609202001.png|500]]
 
-- Consider how an observer from different reference frame, $S'$, would detect the process. An observer who sees the clocks moving will see one clock moving towards the flash and the other clock moving away from the flash. 
-- 
+- Consider how an observer from different reference frame, $S'$, would detect the process. An observer who sees the clocks moving will see one clock moving towards the flash and the other clock moving away from the flash since speed of light is the same for all reference frames. 
+![[Pasted image 20240609203104.png|500]]
+- So in reference frame $S'$, the two clocks will no be synchronized, and the clock on the left will read earlier. 
+### Simultaneity
+- Consider a train where light beam is sent then reflected back on a mirror to their origin. 
+![[Pasted image 20240609203331.png|500]]
+
+- In reference frame $S$, (left), a observer on the train
+	- The pulses are sent out simultaneously
+	- The pulses reach the end simultaneously
+	- The pulses return to observer $S$ simultaneously
+- In reference frame $S'$, (right), a observer on the ground outside.
+	- The pulses are sent out simultaneously
+	- The pulses that travel down the carriage against the motion arrive at the end before the pulse that travels up the carriage
+	- However, the observer in $S'$ still sees the pulses return to observer $S$ simultaneously
+---
+- If two (or more) event occur at the same place at the same time, then they are simultaneous for all observers in all reference frames. 
+- If two (or more) events occur at different places, then it is possible that they could be simultaneous in one reference frame and not in another. 
+### Velocity addition transformations
