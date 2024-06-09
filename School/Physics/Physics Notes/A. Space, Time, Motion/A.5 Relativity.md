@@ -58,3 +58,13 @@
 $$ \Delta x' = \gamma(\Delta x - v\Delta t)$$
 - Time interval between two events:
 $$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end {pmatrix}$$
+### Clock synchronization
+- **Synchronized** - Two clocks are said to be synchronized if according to an observer they are reading the same time
+- Simplest way is to flash a light midway in between and start when the light reaches the clocks
+![[Pasted image 20240609201812.png|500]]
+
+- If the distances are known $(L_1, L_2)$, then the clocks can be synchronized by setting them initially to $\dfrac{L_1}c$ and $\dfrac {L_2}c$ and then starting the clocks from those values when the flash is received. 
+![[Pasted image 20240609202001.png|500]]
+
+- Consider how an observer from different reference frame, $S'$, would detect the process. An observer who sees the clocks moving will see one clock moving towards the flash and the other clock moving away from the flash. 
+- 
