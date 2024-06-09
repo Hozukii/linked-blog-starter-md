@@ -85,3 +85,13 @@ $$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end
 - If two (or more) event occur at the same place at the same time, then they are simultaneous for all observers in all reference frames. 
 - If two (or more) events occur at different places, then it is possible that they could be simultaneous in one reference frame and not in another. 
 ### Velocity addition transformations
+#### $$u' = \dfrac {u-v}{\begin{pmatrix} 1 - \dfrac{uv}{c^2}\end {pmatrix}}$$
+$u$ - velocity of an object in one reference frame $S$ 
+$u'$ - velocity of the same object in reference frame $S'$ 
+$v$ - speed of $S'$ in respect to $S$ 
+
+- $u'$ must always be less than $c$ 
+- if $u$ and/or $v$ are small compared to $c$, the equation reduces to the Galilean form 
+## Time dilation
+- An observer in reference frame $S$ measures time interval,$\Delta t$. Another observer in reference frame $S'$ moving with relative velocity, $v$, will measure a greater time interval for the same ticks, as given by the Lorentz transformation:
+$$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end {pmatrix}$$
