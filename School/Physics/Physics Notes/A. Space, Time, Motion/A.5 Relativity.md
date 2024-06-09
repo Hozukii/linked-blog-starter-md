@@ -101,6 +101,8 @@ $$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end
   #### $$\Delta t' = \gamma \Delta t$$
   Since $\gamma > 1$ always, the time intervals between the ticks of a clock in a reference frame ($S'$) that is moving relative to the stationary clock are greater known as time dilation$
   ### Proper time interval
-  - **Proper time interval** - The time interval between two events as measured by an observer who records the two events occurring at the same point in space
+  - **Proper time interval**,$\Delta t_0$ - The time interval between two events as measured by an observer who records the two events occurring at the same point in space
 	  - it is the shortest time interval between events measured by any observer. 
-- 
+- Time dilation formula:
+$$\Delta t = \gamma \Delta t_0$$
+## Length contraction
