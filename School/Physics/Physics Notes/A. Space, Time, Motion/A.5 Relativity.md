@@ -93,5 +93,14 @@ $v$ - speed of $S'$ in respect to $S$
 - $u'$ must always be less than $c$ 
 - if $u$ and/or $v$ are small compared to $c$, the equation reduces to the Galilean form 
 ## Time dilation
-- An observer in reference frame $S$ measures time interval,$\Delta t$. Another observer in reference frame $S'$ moving with relative velocity, $v$, will measure a greater time interval for the same ticks, as given by the Lorentz transformation:
+- **Time dilation** - Relative to an observer who sees the two events occurring in the same place. All other observers measure an increase in the time interval between two events. 
+- An observer in reference frame $S$ measures time interval,$\Delta t$ between successive ticks on a stationary clock in their reference frame. 
+- Another observer in reference frame $S'$ moving with relative velocity, $v$, will measure a greater time interval for the same ticks, as given by the Lorentz transformation:
 $$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end {pmatrix}$$
+- Since the clock is stationary, $\Delta x = 0$, therefore:
+  #### $$\Delta t' = \gamma \Delta t$$
+  Since $\gamma > 1$ always, the time intervals between the ticks of a clock in a reference frame ($S'$) that is moving relative to the stationary clock are greater known as time dilation$
+  ### Proper time interval
+  - **Proper time interval** - The time interval between two events as measured by an observer who records the two events occurring at the same point in space
+	  - it is the shortest time interval between events measured by any observer. 
+- 
