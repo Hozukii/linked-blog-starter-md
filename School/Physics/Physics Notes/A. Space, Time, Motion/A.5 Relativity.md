@@ -106,3 +106,7 @@ $$ \Delta t' = \gamma \begin {pmatrix} \Delta t - \dfrac {v \Delta x} {c^2} \end
 - Time dilation formula:
 $$\Delta t = \gamma \Delta t_0$$
 ## Length contraction
+- The length of the object, a rod for example, $\Delta x'$ can be determined in reference frame $S'$ from a measurement of the position of its ends.
+- We know from Lorentz; $\Delta x' = \gamma (\Delta x - v \Delta t)$, where $\Delta x$ is the length of the rod as observed from reference frame $S$. Assuming $\Delta t = 0$, the equation simplifies:
+#### $$ \Delta x = \dfrac {\Delta x '}{\gamma}$$
+- 
