@@ -109,4 +109,42 @@ $$\Delta t = \gamma \Delta t_0$$
 - The length of the object, a rod for example, $\Delta x'$ can be determined in reference frame $S'$ from a measurement of the position of its ends.
 - We know from Lorentz; $\Delta x' = \gamma (\Delta x - v \Delta t)$, where $\Delta x$ is the length of the rod as observed from reference frame $S$. Assuming $\Delta t = 0$, the equation simplifies:
 #### $$ \Delta x = \dfrac {\Delta x '}{\gamma}$$
-- 
+- Since $\gamma > 1$, any length in another reference frame, which is moving relative to us, will always be less than the length we would measure if the object was in our own reference frame. 
+### Proper length
+**Proper length**, $L_0$ - is its length when stationary in the same reference frame as as the observer. 
+The length contraction formula can be:
+#### $$L = \dfrac {L_0} \gamma$$
+## The Muon-decay experiment
+- **muon**, $\mu$, a unstable elementary subatomic particle. 
+- The muon particle effectively provides us a tiny clock that travels at a speed very close to the speed of light. 
+- Produced naturally in the Earth's atmosphere as a results of collisions and high-energy cosmic radiation. 
+	- The muons produced at around 10km above
+	- have an average speed of around $0.995c$ in the Earth's frame reference. 
+### Muon decay and the predictions of classical physics 
+- The time taken for the muons to descend from 10km is calculated as:
+$$t = \dfrac x v = \dfrac {10 \cdot 10^3}{0.995 \cdot 3.00 \cdot 10^8} = 3.35 \cdot 10^{-5}$$
+- During this time most will have decayed. we can determine the fraction that arrives by calculating the number of half-lives involved
+number of half-lives elapsed as muons travel down to the Earth's surface:
+$$\dfrac {\text{total time}}{\text{half-life} } = \dfrac {3.35 \cdot 10^{-5}}{1.56 \cdot 10^{-6}} = 21.5$$
+The fraction reaching surface:
+$$ f = \begin {pmatrix} \dfrac 12 \end{pmatrix} ^{21.5} = 3.37 \cdot 10^{-7}$$
+- Classical physics predicts that only about 1 muon reaches the surface for every 3 million that are created in the upper atmosphere.
+- In reality more are detected. 
+- The fraction is about 0.2., 
+### Muon decay using relativity and time dilation
+- In Earth's reference frame, proper length is 10km, speed is $0.995c$, the time interval is $3.35 \cdot 10^{-5}$
+- However, in the reference frame of muons' would be measuring the proper time interval: $$\Delta t = \gamma \Delta t_0$$
+with:
+$$\gamma = \dfrac 1 {\begin {pmatrix} \sqrt {1 - \dfrac {0.995^2 c^2}{c^2}}\end {pmatrix}} = 10$$
+So that: 
+$$ \begin {matrix} 3.35 \cdot 10^ {-5} = 10 \Delta t_0 \\ \Delta t _0 = 3.35 \cdot 10^{-6}  s \end {matrix}$$
+Such that:
+$$\dfrac {\text{total time}}{\text{half-life} } = \dfrac {3.35 \cdot 10^{-6}}{1.56 \cdot 10^{-6}} = 2.15$$
+and:
+$$ f = \begin {pmatrix} \dfrac 12 \end{pmatrix} ^{2.15} = 0.23$$
+### Muon decay using relativity and length contraction
+- From muon's reference frame, the $10km$ thickness is contracted:
+$$ L  = \dfrac {L_0}{\gamma} = \dfrac {10 \cdot 10^3}{10} = 1000m$$
+Then:
+$$t = \dfrac xv = \dfrac {1000}{0.995 \cdot 3.00 \cdot 10^8} = 3.35 \cdot 10^{-6}$$
+
