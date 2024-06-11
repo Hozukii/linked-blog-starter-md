@@ -150,7 +150,6 @@ $$t = \dfrac xv = \dfrac {1000}{0.995 \cdot 3.00 \cdot 10^8} = 3.35 \cdot 10^{-6
 
 # Space-time
 - In relativity, space and time are joined to form a single four-dimensional $(x,y,z,t)$ concept called space time
-- **Space-time diagrams** - Graphs showing variations of objects' positions with time, adapted to compare different frames of reference. 
 - Things cannot move through space without also moving through time.
 - Conversely, we cannot measure time without referring to things moving through space. 
 - If everything stayed in exactly the same place and nothing moved, we would have no indication of time passing
@@ -163,3 +162,29 @@ $$t = \dfrac xv = \dfrac {1000}{0.995 \cdot 3.00 \cdot 10^8} = 3.35 \cdot 10^{-6
 - Different observers may measure different time intervals and different distances between events, but they will agree on the space-time interval between events. 
 	- therefore:
 #### $$ c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta x)^2$$
+- any object moving at the speed of $c$ will have a value of 0
+- Any object moving slower than $c$ will have a positive value 
+- Any object moving faster than $c$ will have a negative value 
+---
+- A proper time interval, $\Delta t_0$, - time between two events that take place at the same location, $\Delta x = 0$ therefore:
+$$ \begin {matrix}\Delta s^2 = c^2 \Delta t_0^2 - \Delta x = c^2 \Delta t_0 ^2 -0  \\ \Delta s ^2 = c^2 \Delta t_0 ^2 \end{matrix}$$
+- The proper length of an object, $L_0$ - its length when stationary in the same reference frame as the observer, $\Delta t = 0$ therefore:
+$$ \begin {matrix} \Delta s ^2 = c^2 \Delta t^2 - \Delta x^2 = c^2 0^2 - \Delta x^2 \\ \Delta s ^2 = -\Delta x^2 \end {matrix}$$
+	- Negative is to do with how $\Delta s^2$ is defined
+## Space-time diagrams
+- **Space-time diagrams** - Graphs showing variations of objects' positions with time, adapted to compare different frames of reference. 
+![[Pasted image 20240611161859.png|250]]
+
+- Normally drawn with distance, $x$, on the horizontal and time,$t$ , on the vertical. 
+	- More commonly it shows $c t$, speed of light x time
+- Events are represented as points. 
+- Events that occur on the same horizonal line are simultaneous. 
+- Events that occur on the same vertical line occur at the same location. 
+### World lines
+- **world line** - The path that an object traces on a space-time diagram
+- An object travelling through space-time can be imagined as a series of consecutive events.
+![[Pasted image 20240611162226.png|250]]
+
+- This particular world line does not pass through the origin because the object is observed a short time after the observer started their clock. 
+- 
+![[Pasted image 20240611162400.png|250]]
