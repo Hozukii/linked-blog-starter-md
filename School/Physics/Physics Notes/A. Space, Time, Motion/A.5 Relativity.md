@@ -186,5 +186,19 @@ $$ \begin {matrix} \Delta s ^2 = c^2 \Delta t^2 - \Delta x^2 = c^2 0^2 - \Delta 
 ![[Pasted image 20240611162226.png|250]]
 
 - This particular world line does not pass through the origin because the object is observed a short time after the observer started their clock. 
-- 
-![[Pasted image 20240611162400.png|250]]
+- Since: $v = \dfrac xt$ , the gradient of a world line is given by:
+#### $$ \dfrac {ct}x = \dfrac cv$$
+- Steeper the gradient, the slower the object is travelling. 
+	- has no unit
+
+![[Pasted image 20240611162400.png|300]]
+
+- Line 1 - vertical line since by the observer in the same reference frame, the object is stationary.
+- Line 2 - moving ojbect 
+- Line 3 - faster moving object 
+- Line 4 - has a gradient of 1 ($45 \degree$) It represents : $v = c$, meaning it's travelling at the speed of light which can only be light
+###### Angles between world lines and $ct$-axis
+$$\tan \theta = \dfrac x{ct} = \dfrac vc$$
+therefore: 
+#### $$ \theta = \tan ^{-1} \begin {pmatrix}  \dfrac vc \end{pmatrix}$$
+### Adding another frame of reference to a space-time diagram
