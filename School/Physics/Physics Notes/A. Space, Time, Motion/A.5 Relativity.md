@@ -148,3 +148,18 @@ $$ L  = \dfrac {L_0}{\gamma} = \dfrac {10 \cdot 10^3}{10} = 1000m$$
 Then:
 $$t = \dfrac xv = \dfrac {1000}{0.995 \cdot 3.00 \cdot 10^8} = 3.35 \cdot 10^{-6}$$
 
+# Space-time
+- In relativity, space and time are joined to form a single four-dimensional $(x,y,z,t)$ concept called space time
+- **Space-time diagrams** - Graphs showing variations of objects' positions with time, adapted to compare different frames of reference. 
+- Things cannot move through space without also moving through time.
+- Conversely, we cannot measure time without referring to things moving through space. 
+- If everything stayed in exactly the same place and nothing moved, we would have no indication of time passing
+## Space-time interval
+- In classical physics, distance, $\Delta s$, in 3d $(x,y,z)$ can be calculated using Pythagorean theorem: $(\Delta s)^2 = \Delta x^2 + \Delta y^2 + \Delta z^2$
+- $\Delta s$, distance between two points in 4d space-time $(x,y,z,t)$ can be calculated from: $(\Delta s)^2 = c^2 \Delta t ^2 - \Delta x^2 - \Delta y ^2 - \Delta z^2$
+- **Space-time interval**, $\Delta s$ - combines both the spatial and temporal elements of space-time into a single value. 
+- Since we are restricting to the x-direction only:
+#### $$ (\Delta s)^2 = (c \Delta t )^2 - \Delta x ^2$$
+- Different observers may measure different time intervals and different distances between events, but they will agree on the space-time interval between events. 
+	- therefore:
+#### $$ c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta x)^2$$
