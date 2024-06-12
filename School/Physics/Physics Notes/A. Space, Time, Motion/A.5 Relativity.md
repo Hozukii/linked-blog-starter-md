@@ -1,4 +1,4 @@
-# Reference frames
+ Reference frames
 - **reference frame** A coordinate system from which events in space and time are measured
 	- **coordinate system** - numerical way to identify location and time
 - Precise events are used to simplify our understanding
@@ -202,3 +202,21 @@ $$\tan \theta = \dfrac x{ct} = \dfrac vc$$
 therefore: 
 #### $$ \theta = \tan ^{-1} \begin {pmatrix}  \dfrac vc \end{pmatrix}$$
 ### Adding another frame of reference to a space-time diagram
+![[Pasted image 20240612153654.png|300]]
+
+- Represents reference frame $S'$ in which it's from the reference frame of line 2 from the previous diagram. 
+- The axes of $S,$ frame of reference are tilted and not perpendicular to each other. The coordinates of event 1 in S, $x_1$ and $ct_1$ transforms to $x'_1$ and $ct'_1$ IN $S'$
+
+![[Pasted image 20240612154159.png|300]]
+
+- In reference frame $S'$, Events 1 and Events 2 occur at the same place, but at different times. 
+- The same two events in reference frame $S$ occur at different places and at different times. 
+
+![[Pasted image 20240612154358.png|300]]
+
+- Events 3 and 4 are simultaneous for an observer in reference frame $S'$ but at different locations. 
+- In reference frame $S$ they occur at different locations and times
+### Lines of constant space-time interval
+
+- We have seen that space-time interval is in invariant quantity: 
+$$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta x)^2$$
