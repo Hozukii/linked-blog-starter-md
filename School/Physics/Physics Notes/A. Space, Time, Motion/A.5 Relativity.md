@@ -220,3 +220,11 @@ therefore:
 
 - We have seen that space-time interval is in invariant quantity: 
 $$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta x)^2$$
+![[Pasted image 20240612161007.png|400]]
+
+![[Pasted image 20240612161213.png|400]]
+- We can draw lines of constant space-time interval (invariant hyperbole) on space-time diagrams
+- Calculations using the coordinates of any point on a line of constant space-time interval will give the same numerical result
+- If observers in each of the reference frames were measuring the length of a stationary rod, with one end at the origin of their reference frame $(0,0)$, they would all record the same proper length of the rod $1m$
+- The scales of the axes on space-time diagrams are not equal for different frames of references. 
+### Simultaneity in space-time diagrams
