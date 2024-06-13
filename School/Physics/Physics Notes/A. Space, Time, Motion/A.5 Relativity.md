@@ -228,3 +228,28 @@ $$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta 
 - If observers in each of the reference frames were measuring the length of a stationary rod, with one end at the origin of their reference frame $(0,0)$, they would all record the same proper length of the rod $1m$
 - The scales of the axes on space-time diagrams are not equal for different frames of references. 
 ### Simultaneity in space-time diagrams
+- All inertial observers will agree that two events are simultaneous if they occur in the same place
+- However, they may disagree as to the order of two events that occur at two different points in space. 
+![[Pasted image 20240613170651.png|350]]
+
+- For one observer, event 0 occurs then 1 and 2 occurring simultaneously, then event 3
+- For another observer, event 0 and 1 occurs simultaneously then event 2 and 3 simultaneously
+### Time dilation in space-time diagrams 
+![[Pasted image 20240613171127.png|350]]
+
+- Looking at the muon experiment. The angle formed is $44.9 \degree$ for $v = 0.995c$ (exaggerated for the diagram)
+- Event 0 is the formation of the muon particle
+- Event 1 is the arrival at Earth's surface
+- Reference frame $S$ is of Earth
+- Reference $S'$ is of the muon particle 
+- To measure the scale of the vertical $ct$-axis, we follow the dashed line of constant space-time interval from Event 1
+- Where it can be calculated by measuring the interval $c\Delta t'$.
+- The interval according to the observer in reference frame $S$ can be calculated using $c\Delta t$
+- In the muon reference frame, Event 1 occurs at time $\Delta t'$, and both events occur at $x' = 0$ 
+- Thus the observer measures the spatial separation between two events to be zero, so the time, $\Delta t'$ is the proper time between the two events, shown correctly to scale on the $ct$-axis
+- This occurs at a specifical space-time interval, where $\Delta s^2 = c^2 \Delta t'^2$ 
+### Length contraction is space-time diagrams
+![[Pasted image 20240613172048.png|350]]
+
+
+- 
