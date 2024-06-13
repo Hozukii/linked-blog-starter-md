@@ -1,1 +1,4 @@
-![[qt9q75v9t9.pdf]]
+- Propeller efficiency calculations in conceptual aircraft design
+	- https://www.fzt.haw-hamburg.de/pers/Scholz/transfer/Airport2030_TN_Propeller-Efficiency_13-08-12_SLZ.pdf
+	- 12.8.2013
+- 
