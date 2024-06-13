@@ -251,5 +251,12 @@ $$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta 
 ### Length contraction is space-time diagrams
 ![[Pasted image 20240613172048.png|350]]
 
-
-- 
+- In order to measure a length correctly we must measure the position of each end of the length at the same time. 
+- The two space-time events used to determine the two ends of the length in a given reference frame must occur simultaneously in that reference frame. 
+- Since each is stationary in Earth's reference frame, the separation between them is a proper length and is labelled $L_0$ on the diagram.
+- In the muon's reference frame, $S'$, the distance between the Earth's atmosphere and the Earth's atmosphere can be using simultaneous event $0$ and $0'$. where the world line of the frame both events occur when $t' = 0$
+- $L'$ could be measer off the scale on the $x'-axis$ but we would need to calculate the scale to do this 
+- Instead, we can sketch the curve that links alll the point with space-time interval $\Delta s^2 = -L'^2$. 
+- It can clearly be seen that the propre length is much larger than the contracted length, $L'$ confirming the length contraction occurs 
+- Careful measurement would also show that:
+$$ L' = \dfrac {L'}\gamma$$
