@@ -23,4 +23,5 @@
 	- https://sci-hub.ru/10.2514/1.C032557
 - Propeller blade shape optimization for efficiency improvement
 	- https://sci-hub.ru/10.1016/S0045-7930(97)00035-2
-	- 
+- THE EFFECTS OF MODULATED BLADE SPACING ON STATIC ROTOR ACOUSTICS AND PERFORMANCE
+	- https://sci-hub.ru/10.2514/6.1973-1020
