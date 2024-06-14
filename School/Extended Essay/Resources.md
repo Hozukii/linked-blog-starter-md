@@ -26,4 +26,5 @@
 - THE EFFECTS OF MODULATED BLADE SPACING ON STATIC ROTOR ACOUSTICS AND PERFORMANCE
 	- https://sci-hub.ru/10.2514/6.1973-1020
  - Static thrust of airplane propellers
- - 
+- Propulsive devices for improved propulsive efficiency
+- 
