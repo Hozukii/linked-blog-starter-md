@@ -16,4 +16,11 @@
 - Effect of the uneven circumferential blade space on the performance of small axial flow fan
 	- https://sci-hub.ru/10.1007/s11630-016-0890-7
 	- 2016
+- Performance study of a ducted fan system
+	- https://ntrs.nasa.gov/api/citations/20020052231/downloads/20020052231.pdf
+	- 2002
+- maximum Propeller efficiency estimation
+	- https://sci-hub.ru/10.2514/1.C032557
+- Propeller blade shape optimization for efficiency improvement
+	- https://sci-hub.ru/10.1016/S0045-7930(97)00035-2
 	- 
