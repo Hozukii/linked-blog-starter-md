@@ -1,4 +1,19 @@
 - Propeller efficiency calculations in conceptual aircraft design
 	- https://www.fzt.haw-hamburg.de/pers/Scholz/transfer/Airport2030_TN_Propeller-Efficiency_13-08-12_SLZ.pdf
 	- 12.8.2013
-- 
+- Aerodynamics and Acoustics of Asymmetric Propellers With Uneven Blade Spacing
+	- https://arc.aiaa.org/doi/10.2514/6.2024-3265#:~:text=Calculated%20OASPL%20was%20higher%20for,subject%20to%20further%20psychoacoustic%20investigation.
+	- Can't accesss
+- Reduction of Tonal Propeller Noise by Means of Uneven Blade Spacing
+	- https://escholarship.org/uc/item/9q75v9t9
+	- 2016
+- Study on models of Fans with Uneven blade spacing
+	- https://www.researchgate.net/publication/342609788_Study_on_Model_of_Fans_with_Uneven_Blade_Spacing
+	- 2020
+- A subjective test of modulated blade spacing for Helicopter main rotors
+	- https://ntrs.nasa.gov/api/citations/20030015482/downloads/20030015482.pdf
+	- 2001
+- Effect of the uneven circumferential blade space on the performance of small axial flow fan
+	- https://sci-hub.ru/10.1007/s11630-016-0890-7
+	- 2016
+	- 
