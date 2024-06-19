@@ -7,7 +7,7 @@
 - Reduction of Tonal Propeller Noise by Means of Uneven Blade Spacing
 	- https://escholarship.org/uc/item/9q75v9t9
 	- 2016
-- Study on models of Fans with Uneven blade spacing
+- **Study on models of Fans with Uneven blade spacing**
 	- https://www.researchgate.net/publication/342609788_Study_on_Model_of_Fans_with_Uneven_Blade_Spacing
 	- 2020
 - A subjective test of modulated blade spacing for Helicopter main rotors
@@ -19,7 +19,7 @@
 - Performance study of a ducted fan system
 	- https://ntrs.nasa.gov/api/citations/20020052231/downloads/20020052231.pdf
 	- 2002
-- maximum Propeller efficiency estimation
+- **maximum Propeller efficiency estimation**
 	- https://sci-hub.ru/10.2514/1.C032557
 - Propeller blade shape optimization for efficiency improvement
 	- https://sci-hub.ru/10.1016/S0045-7930(97)00035-2
