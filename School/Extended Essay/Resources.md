@@ -28,4 +28,9 @@
 	- https://sci-hub.ru/10.2514/6.1973-1020
  - Static thrust of airplane propellers
 - Propulsive devices for improved propulsive efficiency
-- 
+- Wind Tunnel Performance Tests of the Propellers with Different Pitch for the Electric Propulsion System
+	- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8747202/
+	- 2022
+	- Has many equations that might be of use 
+	- **Must read**
+	- 
