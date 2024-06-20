@@ -10,6 +10,7 @@
 - **Study on models of Fans with Uneven blade spacing**
 	- https://www.researchgate.net/publication/342609788_Study_on_Model_of_Fans_with_Uneven_Blade_Spacing
 	- 2020
+	- [[Notes for Study on models of Fans with Uneven blade spacing]]
 - A subjective test of modulated blade spacing for Helicopter main rotors
 	- https://ntrs.nasa.gov/api/citations/20030015482/downloads/20030015482.pdf
 	- 2001
