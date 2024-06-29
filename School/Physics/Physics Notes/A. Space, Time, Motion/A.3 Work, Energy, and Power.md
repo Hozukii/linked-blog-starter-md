@@ -29,21 +29,16 @@
 - **Potential energy** - store energy because of their position or arrangement, and the forces between different ports of the system
 - **Gravitational potential energy** - The energy stored due to the position of a mass in a gravitational field
 - **Electrical potential energy** - Energy stored due to position of a charge in an electron. 
-- **Magnetic potential energy** - Energy stored in a deformed elastic material, or a spring. 
+- **elastic potential energy** - Energy stored in a deformed elastic material, or a spring. 
+- **Magnetic potential energy** - Energy stored due to the position of a charge or magnetic material in a magnetic field. 
 - **Chemical potential energy** - Energy stored in the bonding of chemical compounds, released in chemical reactions
 - **Nuclear potential energy** - The energy stored in the arrangement of particles in the nuclei of atoms
 ---
 **Mechanical Energy** - A macroscopic object that is able to do work. 
 Mechanical energy can come in one of three forms:
 - **Kinetic energy** - The energy of all moving masses which could do work on anything they collide with. 
-- Elastic potential energy
-- Gravitational potential energy
 All matter contains large amounts of energy inside it. 
 **Internal energy** - enormous amount of energy which exists within matter because of their motions and positions of the particles it contains.  
-###### Topics Covered in later chapters
-- Thermal energy
-- Electrical energy
-- Radiation energy 
 ## Energy Transfers
 Total amount of energy in an isolated system remains constant because of [[The Conservation of Energy]] 
 #### Dissipation of energy 
