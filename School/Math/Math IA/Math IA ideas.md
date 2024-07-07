@@ -7,3 +7,5 @@
 	- Using Bayesian optimization
 	- https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/46507.pdf
 	
+- Double integrals for modelling
+- 
