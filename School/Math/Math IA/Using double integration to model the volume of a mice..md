@@ -7,6 +7,11 @@
 - Lagrange interpolation
 - Multivariable calculus
 ### Lagrange Interpolation
+- Used when we have multiple points and we need to fit a curve within those curves 
+- Make a polynomial which is zero at every point except the desired coordinate
+- Repeat for all points 
+- Then add together
+![[Pasted image 20240711163823.png|400]]
 
 
 
