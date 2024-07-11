@@ -12,6 +12,7 @@
 - Repeat for all points 
 - Then add together
 ![[Pasted image 20240711163823.png|400]]
+![[Pasted image 20240711165417.png]]
 
 
 
