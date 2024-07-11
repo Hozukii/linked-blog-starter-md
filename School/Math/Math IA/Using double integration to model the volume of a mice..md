@@ -4,5 +4,9 @@
 ### What is to be done  
 - By using double integration and slicing the mouse into different sections, since the mouse is flat on the bottom of the mouse, a approximate model for the mouse can be found in order to model and calculate the volume of the mouse. 
 ### What needs to be done. 
-- Learn about double integration and the method
-- Find how to find curves that fits the curves of the mouse .
+- Lagrange interpolation
+- Multivariable calculus
+### Lagrange Interpolation
+
+
+
