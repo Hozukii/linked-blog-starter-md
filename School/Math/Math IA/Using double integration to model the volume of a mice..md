@@ -15,4 +15,7 @@
 ![[Pasted image 20240711165417.png]]
 
 
-
+### resources/ sources
+- How to Set Up Double Integrals
+	- https://www.youtube.com/watch?v=gifQWtTWqEY
+- 
