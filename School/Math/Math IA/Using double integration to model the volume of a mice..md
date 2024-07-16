@@ -4,8 +4,8 @@
 ### What is to be done  
 - By using double integration and slicing the mouse into different sections, since the mouse is flat on the bottom of the mouse, a approximate model for the mouse can be found in order to model and calculate the volume of the mouse. 
 ### What needs to be done. 
-- Lagrange interpolation
-- Multivariable calculus
+- How to choose the interpolation points
+	- Chebyshev's nodes
 ### Lagrange Interpolation
 - Used when we have multiple points and we need to fit a curve within those curves 
 - Make a polynomial which is zero at every point except the desired coordinate
@@ -14,6 +14,7 @@
 ![[Pasted image 20240711163823.png|400]]
 ![[Pasted image 20240711165417.png]]
 
+#### Chebyshev's nodes
 
 ### resources/ sources
 - How to Set Up Double Integrals
