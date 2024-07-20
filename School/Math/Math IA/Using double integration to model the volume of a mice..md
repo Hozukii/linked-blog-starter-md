@@ -19,4 +19,4 @@
 ### resources/ sources
 - How to Set Up Double Integrals
 	- https://www.youtube.com/watch?v=gifQWtTWqEY
-- 
+- $$\int_{0}^{2}\left(\int_{x\left(x-4\right)+4}^{5}\left(2\frac{\left(x-8\ \right)\left(x-13\right)\left(x-17\right)\left(x-20\right)}{-8\cdot-13\cdot-17\cdot-20}+5\frac{\left(x\ \right)\left(x-13\right)\left(x-17\right)\left(x-20\right)}{8\cdot-5\cdot-9\cdot-12}+6\frac{\left(x\ \right)\left(x-8\right)\left(x-17\right)\left(x-20\right)}{13\cdot5\cdot-4\cdot-7}+5\frac{\left(x\ \right)\left(x-8\right)\left(x-13\right)\left(x-20\right)}{17\cdot9\cdot4\cdot-3}+\frac{\left(x\ \right)\left(x-8\right)\left(x-13\right)\left(x-17\right)}{20\cdot12\cdot7\cdot3}+2.5\frac{\left(y-2.5\right)\left(y-4\right)\left(y-5\right)}{-2.5\cdot-4\cdot-5}+2.2\frac{\left(y\right)\left(y-4\right)\left(y-5\right)}{\left(2.5\right)\left(-1.5\right)\left(-2.5\right)}+2.5\frac{\left(y\right)\left(y-2.5\right)\left(y-5\right)}{\left(4\right)\left(1.5\right)\left(-1\right)}+3.2\frac{\left(y\right)\left(y-2.5\right)\left(y-4\right)}{\left(5\right)\left(2.5\right)\left(1\right)}-3.2\right)\ dy\right)dx$$
