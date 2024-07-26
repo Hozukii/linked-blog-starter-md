@@ -33,4 +33,5 @@
 	- 2022
 	- Has many equations that might be of use 
 	- **Must read**
-	- 
+## EE examples
+https://drive.google.com/file/d/1TwBaAV0ruOk0mzr3h0OUgcjN6fbXHZ4Y/view
