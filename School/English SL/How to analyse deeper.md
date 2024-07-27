@@ -1,0 +1,5 @@
+- Step 1: Articulate a main claim
+	- What's the argument, what's the rich idea?
+- step 2: Find textual evidence
+	- Example: In "Sweetheart of the Song Tra Bong", O'Brien **uses** the phrase "necklace of human tongues" to show the savagery of Mary Anne 
+	- 
