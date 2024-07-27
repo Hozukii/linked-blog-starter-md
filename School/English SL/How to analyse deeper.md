@@ -1,5 +1,15 @@
 - Step 1: Articulate a main claim
 	- What's the argument, what's the rich idea?
+	- Example: Tim O'Brien depicts Mary Anne Belle as a savage **to show that** war transforms soldiers and breaks their innocence. 
 - step 2: Find textual evidence
 	- Example: In "Sweetheart of the Song Tra Bong", O'Brien **uses** the phrase "necklace of human tongues" to show the savagery of Mary Anne 
+- Step 3: Analyse craft 
+	- Pin the evidence into a authorial choice 
+	- Identify the authorial choice
+	- Example: This serves as a strong symbol and demonstrates she has abandoned her pure and innocent demeanour and converted into something much more sinister
+- Step 4: "Linger" and offer nuances and insight
+	- Example: By juxtaposing the "tongues" with the "culottes" and "pink sweater," readers can easily see the stark contrast between the woman she once was and the woman she has become. This creates an ominous mood and shocks the reader.
+- Step 5: "Level up" and dicuss further implications
+	- Connect it to the rich idea
+	- Example: From these phrases, we can infer that Mary Anne has lost her humanity and descended into madness. Perhaps this is O'Brien's ultimate message: humans risk losing their innocence in war, thus exposing our animalistic tendencies. 
 	- 
