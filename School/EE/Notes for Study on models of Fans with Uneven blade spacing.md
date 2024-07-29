@@ -47,4 +47,19 @@ $c$ - chord - measured in $m$
 $dr$ - elemental width - measured in $m$
 $c \cdot dr$ - the surface area of the blade
 
-### Bernoulli's Principle
+### Momentum Theory
+https://www.e-education.psu.edu/aersp583/node/470
+https://www.youtube.com/watch?v=NkGPb4YHN5M
+![[Pasted image 20240729161114.png|400]]
+- This image is for a wind turbine meaning that energy is being taken instead of given therefore velocity will drop as energy is extracted
+- Falling velocity leads to bigger pressure.
+#### mass conservation
+$A_0 V_0 = A u = A_1 u_1$ 
+- According to Bernoulli equation
+$p_0 + \dfrac 12 \rho V_0 ^2 = p + \dfrac 12 \rho u^2$ 
+ $- \Delta p + p \dfrac 12 \rho u^2 = p_0 + \dfrac 12 \rho u_1^2$ 
+ $\Delta p$ - the pressure drop
+ - $\Delta p$ can be derived as:
+ $\Delta p = \dfrac 12 \rho (V_0^2 - u_1 ^2)$
+ $u = \dfrac 12 (V_0 + u_1)$
+ 
