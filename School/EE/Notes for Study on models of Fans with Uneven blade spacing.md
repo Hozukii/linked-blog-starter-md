@@ -46,3 +46,5 @@ $\Delta D = c_D \cdot \dfrac {\rho V^2}2 \cdot c \cdot dr$
 $c$ - chord - measured in $m$
 $dr$ - elemental width - measured in $m$
 $c \cdot dr$ - the surface area of the blade
+
+### Bernoulli's Principle
