@@ -32,3 +32,17 @@ $\Delta F_ \theta = \Delta D \cdot \cos \Phi + \Delta L \cdot \sin \Phi$
 The Torque required to turn the element of the blade is:
 $\Delta Q  = r \cdot \Delta F_\theta$ 
 $r$ - distance between the element and the axis of rotation of the propeller
+### Lift and Drag equation
+$F_L = c_L \cdot \dfrac {\rho V^2}2 \cdot A$
+$F_D = c_D \cdot \dfrac {\rho V^2} 2 \cdot A$
+$c_L$ - lift coefficient
+$c_D$ - drag coefficient
+$V$ - flow velocity - velocity of the fluid
+$A$ - body Area
+
+#### Lift and Drag equation in BEM
+$\Delta L = c_L \cdot \dfrac {\rho V^2}2 \cdot c \cdot dr$
+$\Delta D = c_D \cdot \dfrac {\rho V^2}2 \cdot c \cdot dr$
+$c$ - chord - measured in $m$
+$dr$ - elemental width - measured in $m$
+$c \cdot dr$ - the surface area of the blade
