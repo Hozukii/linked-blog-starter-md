@@ -21,5 +21,14 @@ https://www.youtube.com/watch?v=7D53Xmo3vy4&list=PLUHGprUixGhWMxW4-yumvCTq5K9TuB
 
 $V_{ax}$ - Axial flow velocity - the velocity of the air that the propeller is experiencing
 $V_\theta$ - angular flow velocity - rotational velocity of the propeller
+$\theta$ - geometric pitch angle 
+$\alpha$ - angle created by the flow angle of attack. 
 
-
+The difference angle between thrust and lift direction is defined as:
+$\Phi = \theta - \alpha$ 
+Using trigonometry we can write that the elemental thrust and circumferential force are:
+$\Delta T = \Delta L \cdot \cos \Phi  - \Delta  D \cdot \sin \phi$
+$\Delta F_ \theta = \Delta D \cdot \cos \Phi + \Delta L \cdot \sin \Phi$
+The Torque required to turn the element of the blade is:
+$\Delta Q  = r \cdot \Delta F_\theta$ 
+$r$ - distance between the element and the axis of rotation of the propeller
