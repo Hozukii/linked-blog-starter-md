@@ -10,6 +10,13 @@ Propellers are used in many things from aircrafts to computer cooling and there 
 #### Actuator Disk Theory 
 Actuator disk theory also known as momentum theory is a one-dimensional model which applies conservation of mass and momentum in order to understand and predict the performance characteristics of a rotor. The theory assumes that the rotor is a infinitely thin disk with a diameter $D$ which induces uniform velocity of airflow across its surface. The flow of the fluid is assumed to be incompressible. 
 
+The mass flow rate through the streamtube $\dot m$ is defined as:\
+$$ \dot m = \rho u A$$ The equation for thrust can also be derived:
+$$T = \Delta p \cdot A = \dot m \cdot (V_0 - u_1)$$
+and $u$ can be derived:
+$$u = \dfrac 12 (V_0 + u_1)$$
+
+
 
 
 
