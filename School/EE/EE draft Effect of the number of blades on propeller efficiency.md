@@ -7,3 +7,4 @@ Propellers are used in many things from aircrafts to computer cooling and there 
 - Blade element theory
 - Bernoulli's principle/ actuator disk theory 
 - torque / power 
+#### 
