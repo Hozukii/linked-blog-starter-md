@@ -8,4 +8,7 @@ Propellers are used in many things from aircrafts to computer cooling and there 
 - Bernoulli's principle/ actuator disk theory 
 - torque / power 
 #### Actuator Disk Theory 
-Actuator disk theory also known as momentum theory 
+Actuator disk theory also known as momentum theory is a one-dimensional model which applies conservation of mass and momentum in order to understand and predict the performance characteristics of a rotor. The theory assumes that the rotor is a infinitely thin disk with a diameter $D$ which induces uniform velocity of airflow across its surface. The flow of the fluid is assumed to be incompressible. 
+
+
+
