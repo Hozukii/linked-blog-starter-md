@@ -12,3 +12,5 @@ Actuator disk theory also known as momentum theory is a one-dimensional model wh
 
 
 
+
+
