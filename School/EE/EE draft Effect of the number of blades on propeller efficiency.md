@@ -8,17 +8,19 @@ Propellers are used in many things from aircrafts to computer cooling and there 
 - Bernoulli's principle/ actuator disk theory 
 - torque / power 
 - propeller efficiency 
+### Propeller efficiency 
+Propeller efficiency ($\eta$): 
+$$ \eta = \dfrac {P_{out}}{P_{in}} = \dfrac {T \cdot v_T}{Q \cdot \omega}$$
+However, for sake of simplicity and the lack equipment I will be substituting mechanical power $(Q \cdot \omega)$ as electrical power thus: 
+$$ \eta = \dfrac {T\cdot v_T}{I \cdot V}$$ 
+
 #### Actuator Disk Theory 
 Actuator disk theory also known as momentum theory is a one-dimensional model which applies conservation of mass and momentum in order to understand and predict the performance characteristics of a rotor. The theory assumes that the rotor is a infinitely thin disk with a diameter $D$ which induces uniform velocity of airflow across its surface. The flow of the fluid is assumed to be incompressible. 
 
 The mass flow rate through the streamtube $\dot m$ is defined as:\
 $$ \dot m = \rho u A$$ The equation for thrust can also be derived:
-$$T = \Delta p \cdot A = \dot m \cdot (V_0 - u_1)$$
+$$T = \Delta p \cdot A = \dot m \cdot (v_0 - u_1)$$
 and $u$ can be derived:
-$$u = \dfrac 12 (V_0 + u_1)$$
-
-
-
-
+$$u = \dfrac 12 (v_0 + u_1)$$
 
 
