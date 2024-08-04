@@ -62,7 +62,8 @@ $\Delta T = B \cdot \dfrac {\rho V^2}2 \cdot c \cdot (C_L\cdot \cos \Phi  - C_D 
 $\Delta Q  = B\cdot \dfrac {\rho V^2}2 \cdot c \cdot (C_D \cdot \cos \Phi + C_L \cdot \sin \Phi) \cdot r \cdot dr$
 Where $B$ is the number of blades on a propeller
 
-
+## Propeller design
+The propellers were designed using Autodesk Fusion which were 3d printed using the Bambu Lab A1 Mini. The design of the propeller was limited due to the capabilities of the 3d printer. The initial propeller utilised the NACA 2412 however, the thin tail wing of the airfoil compromised the strength of the propeller leading to excessive bending which can greatly affect the results. Therefore, the final airfoil shape was decided upon a simple stadium shape.  
 ## Methodology
 Independent variable: 
 The independent variable for this research will be the number of blades of the propeller. A twin-bladed all the way till a six-bladed will be tested to observe the performance of the propeller. 
