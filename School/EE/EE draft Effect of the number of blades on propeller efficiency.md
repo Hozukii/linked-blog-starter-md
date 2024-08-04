@@ -1,6 +1,6 @@
 Research question: How does altering the number of blades of a propeller affects its efficiency?
-### Introduction
-Aerodynamics is the branch of physics and engineering that studies the behaviour of air and fluids in motion, particularly their interaction with solid objects such as aircrafts, propellers, and vehicles. It helps understand concepts such as drag, lift, and thrust. Its principles are applied across various fields, from the aviation industry, sports and architecture to help optimize performance and efficiency. Within aerodynamics, the topic I was most interested in understanding was propellers as they can be used in everyday tools such as hair dryers to UAVs.
+## Introduction
+Aerodynamics is the branch of physics and engineering that studies the behaviour of air and fluids in motion, particularly their interaction with solid objects such as aircrafts, propellers, and vehicles. It helps understand concepts such as drag, lift, and thrust. Its principles are applied across various fields, from the aviation industry, sports and architecture to help optimize performance and efficiency. Within aerodynamics, my topic of interest was propellers with their wide scope of applications from everyday tools such as hair dryers to commercial UAVs.
 Propellers are used in many things from aircrafts to computer cooling and there are countless amount of different propeller designs that are in use today. I have always been interested in engineering and product design therefore I often keep an eye for design choices that engineers and designers make in their products. As I take a look at many tools and products, I was curious as to why there are so many different propeller designs even for things that seemingly achieve the same purpose. In hopes of getting closer to that answer, I decided to particularly observe the effect of the number of blades on propeller efficiency. Thus my research question is: How does altering the number of blades of a propeller affects its efficiency?
 
 ### Background information
@@ -20,7 +20,7 @@ Actuator disk theory also known as momentum theory is a one-dimensional model wh
 ![[Pasted image 20240804150120.png|400]]
 - **Make new diagram because symbols are wrong**
 
-The mass flow rate through the streamtube $\dot m$ is defined as:\
+The mass flow rate through the streamtube $\dot m$ is defined as:
 $$ \dot m = \rho u A$$ The equation for thrust can also be derived:
 $$T = \Delta p \cdot A = \dot m \cdot (v_0 - u_1)$$
 and $u$ can be derived:
@@ -28,7 +28,7 @@ $$u = \dfrac 12 (v_0 + u_1)$$
 
 
 ### Blade Element Theory 
-Blade Element Theory is a method of predicting the performance of a propeller. The theory analyzes  forces acting on small sections on the blade such as torque or thrust. This theory does not account for tip vortex or the effect of the other propeller. It treats each blade as independent from other blades. 
+Blade Element Theory is a method of predicting the performance of a propeller. The theory analyzes forces acting on small sections on the blade such as torque or thrust. This theory does not account for tip vortex or the effect of the other propeller. It treats each blade as independent from other blades. 
 
 ![[Pasted image 20240728221240.png|400]]
 https://www.aerodynamics4students.com/propulsion/blade-element-propeller-theory.php
@@ -61,3 +61,13 @@ Thus finally the equation for Thrust and Torque is:
 $\Delta T = B \cdot \dfrac {\rho V^2}2 \cdot c \cdot (C_L\cdot \cos \Phi  - C_D \cdot \sin \Phi \cdot) \cdot dr$
 $\Delta Q  = B\cdot \dfrac {\rho V^2}2 \cdot c \cdot (C_D \cdot \cos \Phi + C_L \cdot \sin \Phi) \cdot r \cdot dr$
 Where $B$ is the number of blades on a propeller
+
+
+## Methodology
+Independent variable: 
+The independent variable for this research will be the number of blades of the propeller. A twin-bladed all the way till a six-bladed will be tested to observe the performance of the propeller. 
+Dependent variables:
+The velocity of the fluid and the thrust created will both be dependent on the number of blades of the propeller. 
+Controlled variables:
+The power supplied to the rotor will be unchanged using a 9volt battery. Furthermore, the design and the angle of the propeller will be kept consistent throughout the different propellers. 
+Uncontrolled variables: 
