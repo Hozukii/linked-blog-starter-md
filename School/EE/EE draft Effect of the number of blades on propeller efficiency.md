@@ -82,4 +82,8 @@ Uncontrolled variables:
 ### Data
 - 6 bladed 
 	- 0.95-1.06 amps
+	- 3.9 m/s
+- 2 bladed 
+	- 0.89-0.87 amps
+	- 3.5 m/s
 	- 
