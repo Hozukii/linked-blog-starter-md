@@ -76,3 +76,10 @@ The velocity of the fluid and the thrust created will both be dependent on the n
 Controlled variables:
 The power supplied to the rotor will be unchanged using a 9volt battery. Furthermore, the design and the angle of the propeller will be kept consistent throughout the different propellers. 
 Uncontrolled variables: 
+
+
+
+### Data
+- 6 bladed 
+	- 0.95-1.06 amps
+	- 
