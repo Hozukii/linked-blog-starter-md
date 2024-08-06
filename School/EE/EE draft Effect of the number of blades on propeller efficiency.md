@@ -66,17 +66,32 @@ Where $B$ is the number of blades on a propeller
 The propellers were designed using Autodesk Fusion which were 3d printed using the Bambu Lab A1 Mini. The design of the propeller was limited due to the capabilities of the 3d printer. The initial propeller utilised the NACA 2412 however, the thin tail wing of the airfoil compromised the strength of the propeller leading to excessive bending which can greatly affect the results. Therefore, the final airfoil shape was decided upon a simple stadium shape.  
 ![[Pasted image 20240804225013.png|500]]
 (Dimensions of the airfoil measured in mm)
-The propeller blade was given an angle of 15 degrees to create an angle of attack and to allow sufficient space between the propeller blades to prevent overlap
+The propeller blade was given an angle of 15 degrees to create an angle of attack and to allow sufficient space between the propeller blades to prevent overlap. 5 propeller designs were made with 2-6 blades. The propellers were then 3d printed using PETG materials for its benefits in strength and availability. 
+![[propellers CAD pictures transparent.png|500]]
+(CAD models of the propellers)
+
 
 ## Methodology
+
+Apparatus: 
+- Multimeter
+- anemometer
+- motor
+- 9V/ 6LR61 alkaline battery. 
+- electrical wires
+- motor
 Independent variable: 
 The independent variable for this research will be the number of blades of the propeller. A twin-bladed all the way till a six-bladed will be tested to observe the performance of the propeller. 
 Dependent variables:
 The velocity of the fluid and the thrust created will both be dependent on the number of blades of the propeller. 
 Controlled variables:
-The power supplied to the rotor will be unchanged using a 9volt battery. Furthermore, the design and the angle of the propeller will be kept consistent throughout the different propellers. 
+the design and the angle of the propeller will be kept consistent throughout the different propellers. 
 Uncontrolled variables: 
-
+While slow and gradual, the decrease in performance of the alkaline battery was uncontrolled.  
+While a akaline 9 volt battery was used, measuring the voltage has showed that the battery while not under load had a voltage of 8.24-8.26 V. However, during load, the voltage decreased significantly caused by the internal resistance. Using ohm's law, the internal resistance of the battery was calculated. 
+At 0.86 A, the potential difference of the battery was 6.13V. Therefore:
+$$ (8.24 - 6.13 )V = (\text{internal resistance},\Omega) \cdot 0.86 A $$
+$$  \text{internal resistance} = 2.45 \Omega$$
 
 
 ### Data
