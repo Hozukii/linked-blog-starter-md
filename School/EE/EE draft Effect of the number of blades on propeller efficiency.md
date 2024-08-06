@@ -28,10 +28,13 @@ Actuator disk theory also known as momentum theory is a one-dimensional model wh
 - **Make new diagram because symbols are wrong**
 
 The mass flow rate through the streamtube $\dot m$ is defined as:
-$$ \dot m = \rho u A$$ The equation for thrust can also be derived:
+$$ \dot m = \rho \cdot v_p \cdot A$$ The equation for thrust can also be derived:
 $$T = \Delta p \cdot A = \dot m \cdot (v_e - v_0)$$
 and $u$ can be derived:
 $$v_p = \dfrac 12 (v_e + v_0)$$
+
+the Area of the disk $A$ as a function of rotor diameter $D$ as:
+$$A = \dfrac {\pi \cdot D^2}{4}$$
 
 
 ### Blade Element Theory 
