@@ -16,14 +16,18 @@ Propellers are used in many things from aircrafts to computer cooling and there 
 - torque / power 
 - propeller efficiency 
 ### Propeller efficiency 
+https://society-of-flight-test-engineers.github.io/handbook-2013/propellers.html
 Propeller efficiency ($\eta$): 
 $$ \eta = \dfrac {P_{out}}{P_{in}} = \dfrac {T \cdot v_T}{Q \cdot \omega}$$
 However, for sake of simplicity and the lack equipment I will be substituting mechanical power $(Q \cdot \omega)$ as electrical power (Current x Voltage) thus: 
 $$ \eta = \dfrac {T\cdot v_T}{I \cdot V}$$ 
 
 #### Actuator Disk Theory 
-Actuator disk theory also known as momentum theory is a one-dimensional model which applies conservation of mass and momentum in order to understand and predict the performance characteristics of a rotor. The theory assumes that the rotor is a infinitely thin disk with a diameter $D$ which induces uniform velocity of airflow across its surface. The flow of the fluid is assumed to be incompressible. 
+https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/propeller-thrust/
+https://www.e-education.psu.edu/aersp583/node/470
 
+Actuator disk theory also known as momentum theory is a one-dimensional model which applies conservation of mass and momentum in order to understand and predict the performance characteristics of a rotor. The theory assumes that the rotor is a infinitely thin disk with a diameter $D$ which induces uniform velocity of airflow across its surface. The flow of the fluid is assumed to be incompressible. 
+![[Untitled drawing.png|400]]
 ![[Pasted image 20240804150120.png|400]]
 - **Make new diagram because symbols are wrong**
 
