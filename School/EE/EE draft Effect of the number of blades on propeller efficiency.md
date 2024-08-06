@@ -1,3 +1,10 @@
+Questions to ask Mr. Davis:
+Should I include things that we have already learned in the background knowledge?
+How many times should the data be repeated? 
+
+
+
+
 Research question: How does altering the number of blades of a propeller affects its efficiency?
 ## Introduction
 Aerodynamics is the branch of physics and engineering that studies the behaviour of air and fluids in motion, particularly their interaction with solid objects such as aircrafts, propellers, and vehicles. It helps understand concepts such as drag, lift, and thrust. Its principles are applied across various fields, from the aviation industry, sports and architecture to help optimize performance and efficiency. Within aerodynamics, my topic of interest was propellers with their wide scope of applications from everyday tools such as hair dryers to commercial UAVs.
@@ -80,6 +87,11 @@ Apparatus:
 - 9V/ 6LR61 alkaline battery. 
 - electrical wires
 - motor
+Method:
+To account for the gradual decrease in battery performance, all of the data points were taken 1 second after the start of the experiment. The anemometer was placed 1cm away from the propeller to measure the velocity at the propeller.
+
+
+ 
 Independent variable: 
 The independent variable for this research will be the number of blades of the propeller. A twin-bladed all the way till a six-bladed will be tested to observe the performance of the propeller. 
 Dependent variables:
@@ -101,4 +113,6 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 - 2 bladed 
 	- 0.89-0.87 amps
 	- 3.5 m/s
-	- 
+### Conclusion
+- A constant power source could have been used to further increase the accuracy of the experiment
+- A wind tunnel could have been used to make the calculations more accurate. 
