@@ -102,9 +102,9 @@ To account for the gradual decrease in battery performance, all of the data poin
 Independent variable: 
 The independent variable for this research will be the number of blades of the propeller. A twin-bladed all the way till a six-bladed will be tested to observe the performance of the propeller. 
 Dependent variables:
-The velocity of the fluid and the thrust created will both be dependent on the number of blades of the propeller. 
+The velocity of the fluid and the thrust created will both be dependent on the number of blades of the propeller. The torque needed to power the propeller will also be dependent on the propeller design.
 Controlled variables:
-the design and the angle of the propeller will be kept consistent throughout the different propellers. 
+the design and the angle of the propeller will be kept consistent throughout the different propellers. The velocity of the wind was controlled as the experiment was done indoors. 
 Uncontrolled variables: 
 While slow and gradual, the decrease in performance of the alkaline battery was uncontrolled.  
 While a akaline 9 volt battery was used, measuring the voltage has showed that the battery while not under load had a voltage of 8.24-8.26 V. However, during load, the voltage decreased significantly caused by the internal resistance. Using ohm's law, the internal resistance of the battery was calculated. 
