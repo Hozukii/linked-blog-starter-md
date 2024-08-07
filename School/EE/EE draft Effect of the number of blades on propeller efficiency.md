@@ -123,3 +123,22 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 ### Conclusion
 - A constant power source could have been used to further increase the accuracy of the experiment
 - A wind tunnel could have been used to make the calculations more accurate. 
+
+
+### Bibliography
+- Lawless, Al."Flight Test Engineering Reference Handbook." Society of Flight Test Engineers,2013
+	https://society-of-flight-test-engineers.github.io/handbook-2013
+	accessed 7 Aug. 2024
+- Dasilva, Marcelo. "Propeller Thurst." Nasa, 2024
+	https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/propeller-thrust/#propeller-propulsion-system
+	Accessed 7 Aug. 2024 
+- Schmitz, Sven. "2a.1 The Actutator Disk Model."The Pennsylvania State University
+	https://www.e-education.psu.edu/aersp583/node/470
+	Accessed 7 Aug. 2024
+- "Blade Element Theory for Propellers," Aerodynamics for Students
+	https://www.aerodynamics4students.com/propulsion/blade-element-propeller-theory.php
+	Accessed 7 Aug. 2024
+- Wertheimer, Eliott. "Blade Element Theory Explained from Fundamental Principles." Science & Engineering with Elliot, 2019
+	https://www.youtube.com/watch?v=7D53Xmo3vy4&list=PLUHGprUixGhWMxW4-yumvCTq5K9TuBvaP
+	Accessed 7 Aug. 2024
+	
