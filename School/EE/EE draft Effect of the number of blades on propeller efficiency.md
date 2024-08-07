@@ -80,7 +80,7 @@ Where $B$ is the number of blades on a propeller
 The propellers were designed using Autodesk Fusion which were 3d printed using the Bambu Lab A1 Mini. The design of the propeller was limited due to the capabilities of the 3d printer. The initial propeller utilised the NACA 2412 however, the thin tail wing of the airfoil compromised the strength of the propeller leading to excessive bending which can greatly affect the results. Therefore, the final airfoil shape was decided upon a simple stadium shape.  
 ![[Pasted image 20240804225013.png|500]]
 (Dimensions of the airfoil measured in mm)
-The propeller blade was given an angle of 15 degrees to create an angle of attack and to allow sufficient space between the propeller blades to prevent overlap. 5 propeller designs were made with 2-6 blades. The propellers were then 3d printed using PETG materials for its benefits in strength and availability. 
+The propeller blade was given an angle of 15 degrees to create an angle of attack and to allow sufficient space between the propeller blades to prevent overlap. 5 propeller designs were made with 2-6 blades. The propellers were then 3d printed using PETG materials for its benefits in strength and availability. To reduce turbulence created by uneven surfaces, the propellers were lightly sanded down to remove any discrepancies in its surface. 
 ![[propellers CAD pictures transparent.png|500]]
 (CAD models of the propellers)
 
