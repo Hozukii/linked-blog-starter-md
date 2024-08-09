@@ -83,6 +83,8 @@ The propellers were designed using Autodesk Fusion which were 3d printed using t
 The propeller blade was given an angle of 15 degrees to create an angle of attack and to allow sufficient space between the propeller blades to prevent overlap. 5 propeller designs were made with 2-6 blades. The propellers were then 3d printed using PETG materials for its benefits in strength and availability. To reduce turbulence created by uneven surfaces, the propellers were lightly sanded down to remove any discrepancies in its surface. 
 ![[propellers CAD pictures transparent.png|500]]
 (CAD models of the propellers)
+![[Pasted image 20240809201803.png|500]]
+(Final 3d printed propellers)
 
 
 ## Methodology
@@ -118,12 +120,6 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 ![[Pasted image 20240809195709.png]]
 ![[Pasted image 20240809195730.png]]
 
-- 6 bladed 
-	- 0.95-1.06 amps
-	- 3.9 m/s
-- 2 bladed 
-	- 0.89-0.87 amps
-	- 3.5 m/s
 ### Conclusion
 - A constant power source could have been used to further increase the accuracy of the experiment
 - A wind tunnel could have been used to make the calculations more accurate. 
