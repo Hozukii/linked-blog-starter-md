@@ -91,12 +91,13 @@ Apparatus:
 - Multimeter
 - anemometer
 - motor
-- 9V/ 6LR61 alkaline battery. 
+- 2 9V/ 6LR61 alkaline battery. 
 - electrical wires
 - motor
 Method:
-To account for the gradual decrease in battery performance, all of the data points were taken 1 second after the start of the experiment. The anemometer was placed 1cm away from the propeller to measure the velocity at the propeller.
+To account for the gradual decrease in battery performance, all of the data points were taken when the fans hit their top wind velocity. The anemometer was placed 1 cm away from the propeller to measure the velocity at the propeller. The current and potential difference during the experiment was measured using the multi-meter. To properly test the performance of the propeller, two tests were conducted using different batteries. Furthermore, the first experiment was done in order from the lowest to highest number of blades. The second experiment's order was randomised to see if the decrease in gradual decrease in performance of the batteries had any mesaru
 
+![[Pasted image 20240809192427.png|400]]
 
  
 Independent variable: 
@@ -107,7 +108,7 @@ Controlled variables:
 the design and the angle of the propeller will be kept consistent throughout the different propellers. The velocity of the wind was controlled as the experiment was done indoors. 
 Uncontrolled variables: 
 While slow and gradual, the decrease in performance of the alkaline battery was uncontrolled.  
-While a akaline 9 volt battery was used, measuring the voltage has showed that the battery while not under load had a voltage of 8.24-8.26 V. However, during load, the voltage decreased significantly caused by the internal resistance. Using ohm's law, the internal resistance of the battery was calculated. 
+While a alkaline 9 volt battery was used, measuring the voltage has showed that the battery while not under load had a voltage of 8.24-8.26 V. However, during load, the voltage decreased significantly caused by the internal resistance. Using ohm's law, the internal resistance of the battery was calculated. 
 At 0.86 A, the potential difference of the battery was 6.13V. Therefore:
 $$ (8.24 - 6.13 )V = (\text{internal resistance},\Omega) \cdot 0.86 A $$
 $$  \text{internal resistance} = 2.45 \Omega$$
@@ -123,6 +124,7 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 ### Conclusion
 - A constant power source could have been used to further increase the accuracy of the experiment
 - A wind tunnel could have been used to make the calculations more accurate. 
+- The quality of the 3 3d prints, some of the parts were uneven / had artifacts. Due to the printing method, the surfaces could have also been rough increasing unaccounted drag. 
 
 
 ### Bibliography
