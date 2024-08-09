@@ -91,11 +91,11 @@ Apparatus:
 - Multimeter
 - anemometer
 - motor
-- 2 9V/ 6LR61 alkaline battery. 
+- 2 x 9V/ 6LR61 alkaline battery. 
 - electrical wires
-- motor
+- 5 x Propellers (2-6 blades)
 Method:
-To account for the gradual decrease in battery performance, all of the data points were taken when the fans hit their top wind velocity. The anemometer was placed 1 cm away from the propeller to measure the velocity at the propeller. The current and potential difference during the experiment was measured using the multi-meter. To properly test the performance of the propeller, two tests were conducted using different batteries. Furthermore, the first experiment was done in order from the lowest to highest number of blades. The second experiment's order was randomised to see if the decrease in gradual decrease in performance of the batteries had any mesaru
+To account for the gradual decrease in battery performance, all of the data points were taken when the fans hit their top wind velocity. The anemometer was placed 1 cm away from the propeller to measure the velocity at the propeller. The current and potential difference during the experiment was measured using the multi-meter. To properly test the performance of the propeller, two tests were conducted using different batteries. Furthermore, the first experiment was done in order from the lowest to highest number of blades. The second experiment's order was randomised to see if the decrease in gradual decrease in performance of the batteries had any measurable effects on the results. 
 
 ![[Pasted image 20240809192427.png|400]]
 
