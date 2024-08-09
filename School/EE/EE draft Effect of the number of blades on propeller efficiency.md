@@ -120,6 +120,11 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 ![[Pasted image 20240809195709.png]]
 ![[Pasted image 20240809195730.png]]
 
+
+
+Calculation for power: 
+$P = IV$ 
+
 ### Conclusion
 - A constant power source could have been used to further increase the accuracy of the experiment
 - A wind tunnel could have been used to make the calculations more accurate. 
