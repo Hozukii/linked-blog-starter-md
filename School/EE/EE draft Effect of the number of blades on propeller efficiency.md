@@ -115,6 +115,9 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 
 
 ### Data
+![[Pasted image 20240809195709.png]]
+![[Pasted image 20240809195730.png]]
+
 - 6 bladed 
 	- 0.95-1.06 amps
 	- 3.9 m/s
