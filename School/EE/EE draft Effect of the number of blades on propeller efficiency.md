@@ -27,8 +27,8 @@ https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/propeller-thrust/
 https://www.e-education.psu.edu/aersp583/node/470
 
 Actuator disk theory also known as momentum theory is a one-dimensional model which applies conservation of mass and momentum in order to understand and predict the performance characteristics of a rotor. The theory assumes that the rotor is a infinitely thin disk with a diameter $D$ which induces uniform velocity of airflow across its surface. The flow of the fluid is assumed to be incompressible. 
-![[Untitled drawing.png|400]]
-![[Pasted image 20240804150120.png|400]]
+![[OC windtunnel.png|400]]
+![[2 Momentum theory tunnel.png|400]]
 - **Make new diagram because symbols are wrong**
 
 The mass flow rate through the streamtube $\dot m$ is defined as:
@@ -44,9 +44,9 @@ $$A = \dfrac {\pi \cdot D^2}{4}$$
 ### Blade Element Theory 
 Blade Element Theory is a method of predicting the performance of a propeller. The theory analyzes forces acting on small sections on the blade such as torque or thrust. This theory does not account for tip vortex or the effect of the other propeller. It treats each blade as independent from other blades. 
 
-![[Pasted image 20240728221240.png|400]]
+![[BET propeller blade.png|400]]
 https://www.aerodynamics4students.com/propulsion/blade-element-propeller-theory.php
-![[Pasted image 20240728221424.png|400]]
+![[BET propeller shaft 2.png|400]]
 https://www.youtube.com/watch?v=7D53Xmo3vy4&list=PLUHGprUixGhWMxW4-yumvCTq5K9TuBvaP
 
 $V_{ax}$ - Axial flow velocity - the velocity of the air that the propeller is experiencing
@@ -78,12 +78,12 @@ Where $B$ is the number of blades on a propeller
 
 ## Propeller design
 The propellers were designed using Autodesk Fusion which were 3d printed using the Bambu Lab A1 Mini. The design of the propeller was limited due to the capabilities of the 3d printer. The initial propeller utilised the NACA 2412 however, the thin tail wing of the airfoil compromised the strength of the propeller leading to excessive bending which can greatly affect the results. Therefore, the final airfoil shape was decided upon a simple stadium shape.  
-![[Pasted image 20240804225013.png|500]]
+![[Propeller airfoil design.png|500]]
 (Dimensions of the airfoil measured in mm)
 The propeller blade was given an angle of 15 degrees to create an angle of attack and to allow sufficient space between the propeller blades to prevent overlap. 5 propeller designs were made with 2-6 blades. The propellers were then 3d printed using PETG materials for its benefits in strength and availability. To reduce turbulence created by uneven surfaces, the propellers were lightly sanded down to remove any discrepancies in its surface. 
 ![[propellers CAD pictures transparent.png|500]]
 (CAD models of the propellers)
-![[Pasted image 20240809201803.png|500]]
+![[Printed propellers.png|500]]
 (Final 3d printed propellers)
 
 
@@ -99,7 +99,7 @@ Apparatus:
 Method:
 To account for the gradual decrease in battery performance, all of the data points were taken when the fans hit their top wind velocity. The anemometer was placed 1 cm away from the propeller to measure the velocity at the propeller. The current and potential difference during the experiment was measured using the multi-meter. To properly test the performance of the propeller, two tests were conducted using different batteries. Furthermore, the first experiment was done in order from the lowest to highest number of blades. The second experiment's order was randomised to see if the decrease in gradual decrease in performance of the batteries had any measurable effects on the results. 
 
-![[Pasted image 20240809192427.png|400]]
+![[Experiment setup.png|400]]
 
  
 Independent variable: 
@@ -117,8 +117,8 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 
 
 ### Data
-![[Pasted image 20240809195709.png]]
-![[Pasted image 20240809195730.png]]
+![[battery 1 Data.png]]
+![[Battery 2 data.png]]
 
 
 

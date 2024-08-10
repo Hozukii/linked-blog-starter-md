@@ -8,15 +8,15 @@
 	- A fluid produces drag against the propeller, so the propeller never actually reaches its full pitch.
 - The lost distance of the pitch due to drag is **propeller slip**
 **Propeller slip** - The difference between theoretical and the actual distance travelled by the propeller in each rotation - the difference of theoretical and actual speed. 
-![[Pasted image 20240728225429.png|300]]
+![[Propeller slip.png|300]]
 
 ### Blade Element Theory 
 Blade Element Theory is a method of predicting the performance of a propeller. The theory analyzes  forces acting on small sections on the blade such as torque or thrust. This theory does not account for tip vortex or the effect of the other propeller. It treats each blade as independent from other blades. 
 
-![[Pasted image 20240728221240.png]]
-![[Pasted image 20240728221245.png]]
+![[BET propeller blade.png]]
+![[BET Propeller shaft.png]]
 https://www.aerodynamics4students.com/propulsion/blade-element-propeller-theory.php
-![[Pasted image 20240728221424.png]]
+![[BET propeller shaft 2.png]]
 https://www.youtube.com/watch?v=7D53Xmo3vy4&list=PLUHGprUixGhWMxW4-yumvCTq5K9TuBvaP
 
 $V_{ax}$ - Axial flow velocity - the velocity of the air that the propeller is experiencing
@@ -50,7 +50,7 @@ $c \cdot dr$ - the surface area of the blade
 ### Momentum Theory
 https://www.e-education.psu.edu/aersp583/node/470
 https://www.youtube.com/watch?v=NkGPb4YHN5M
-![[Pasted image 20240729161114.png|400]]
+![[Momentum theory tunnel.png|400]]
 - This image is for a wind turbine meaning that energy is being taken instead of given therefore velocity will drop as energy is extracted
 - Falling velocity leads to bigger pressure.
 #### mass conservation
