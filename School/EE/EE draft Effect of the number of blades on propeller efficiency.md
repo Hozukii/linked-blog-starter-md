@@ -120,10 +120,10 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 ![[battery 1 Data.png]]
 ![[Battery 2 data.png]]
 
+![[Pasted image 20240810203705.png]]
 
-
-Calculation for power: 
-$P = IV$ 
+#### Data analysis
+By using momentum theory, efficiency for the propeller: $\eta = \dfrac {T\cdot v_T}{I \cdot V}$, can be calculate without measuring thrust: 
 
 ### Conclusion
 - A constant power source could have been used to further increase the accuracy of the experiment
