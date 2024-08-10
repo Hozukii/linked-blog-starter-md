@@ -122,8 +122,42 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 
 ![[Pasted image 20240810203705.png]]
 
-#### Data analysis
-By using momentum theory, efficiency for the propeller: $\eta = \dfrac {T\cdot v_T}{I \cdot V}$, can be calculate without measuring thrust: 
+#### Data analysis & Equation derivation
+By using momentum theory, efficiency for the propeller: $\eta = \dfrac {T\cdot v_T}{I \cdot V}$, can be calculate without measuring thrust 
+
+
+
+Calculating Thrust:
+$$T = \dot{m} \cdot (v_e - v_0) $$
+where: 
+$$\dot{m} = \rho \cdot v_p \cdot A$$
+
+and: 
+$$ v_p = \dfrac 12 (v_e + v_0)$$
+$$\therefore v_e = 2v_p$$
+
+The equation for thrust can be calculated as:
+$$T = \rho \cdot v_p \cdot A \cdot (2v_p - v_0)$$
+Assuming that the freestream velocity of the wind is 0: 
+$$T = \rho \cdot A \cdot 2v_p ^2 $$
+
+In momentum theory, the equation for the Area of the disk is calculated as $A = \frac {\pi \cdot D^2}{4}$ since the propeller is assumed to be a  perfect disk which has uniform velocity of airflow across its surface. However, due to the design of the propeller, the hub of the propeller is large enough to not be ignored which does not induce airflow. Thus, a altered equation for the disk can be derived:
+$$A = \dfrac {\pi \cdot D^2}{4} - \dfrac {\pi \cdot D_h ^2}{4}$$
+where: $D_h ^2$ is the diameter of the propeller hub. All the propellers have the diameter of 13.2 cm or 0.132 m . The diameter of the propeller hub is 2.5 cm or 0.025 Therfore: 
+$$A = \dfrac {\pi \cdot 0.132^2}{4} - \dfrac {\pi \cdot 0.025 ^2}{4} = \dfrac \pi 4 \cdot 0.016799 $$
+Thus: 
+$$T = \rho \cdot \dfrac \pi 4 \cdot 0.016799 \cdot 2v_p ^2 $$
+
+Calculating density $\rho$: 
+
+according to the ideal gas laws, $\rho = \dfrac p {RT}$ The pressure of the room is assumed to be 1atm = 101,325 Pa and the temperature of the room is measured to be 25$^{\circ} C = 298.15 K$ Lastly, the specific gas constant for dry air is $287.052874 J  \cdot kg^{-1}\cdot  K^{-1}$terefore, 
+$$\rho = \dfrac {101325}{298.15 \cdot 287.052874} = 1.184 kg \cdot m^{-3}= $$
+
+Substituting back into the thrust and simplifications gives us: 
+$$ T = 0.009945\cdot \pi \cdot v_p^2$$
+
+Finally, thrust can be substituted back into the equation for efficiency where $v_p = v_T$ : 
+$$ \eta = \dfrac {0.009945\cdot \pi \cdot v_p^3}{I \cdot V}$$
 
 ### Conclusion
 - A constant power source could have been used to further increase the accuracy of the experiment
