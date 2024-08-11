@@ -169,6 +169,15 @@ $$\text{ Uncertainty of power} = \pm 2.5 \%$$
 $$\therefore (5 \cdot 3 + 2.5) \%  = 17.5 \% $$
 As seen through this calculation, the uncertainty of the final calculation became relatively large because of the uncertainty of 
 Final Data: 
+![[Pasted image 20240811204909.png]]
+![[Pasted image 20240811204920.png]]
+
+### Results and interpretation
+#### Efficiency 
+There seems to be correlation between the number of propeller blades and efficiency according to the data. 
+### error analysis 
+A possible error in the experiment is the power source. As the data shows, there is a gradual decrease in static voltage which indicates that the battery gradually degrades outputting less over time. Despite the limitation, the error caused by battery was tried to be minimised conducting the same experiment with two batteries as well as randomising the order of experiments for battery 2 in order to be able to compare the error caused by the degrading battery. 
+Another possible error of the experiment was the 3d printing process of the propeller. 
 
 ### Reflections
 - A constant power source could have been used to further increase the accuracy of the experiment
