@@ -150,7 +150,11 @@ $$T = \rho \cdot \dfrac \pi 4 \cdot 0.016799 \cdot 2v_p ^2 $$
 
 Calculating density $\rho$: 
 
-according to the ideal gas laws, $\rho = \dfrac p {RT}$ The pressure of the room is assumed to be 1atm = 101,325 Pa and the temperature of the room is measured to be 25$^{\circ} C = 298.15 K$ Lastly, the specific gas constant for dry air is $287.052874 J  \cdot kg^{-1}\cdot  K^{-1}$terefore, 
+according to the ideal gas laws, $\rho = \dfrac p {RT}$ The pressure of the room is assumed to be 1atm = 101,325 Pa and the temperature of the room is measured to be 25$^{\circ} C = 298.15 K$ Lastly, the specific gas constant for dry air is $287.052874 J  \cdot kg^{-1}\cdot  K^{-1}$ therefore, 
+
+https://en.wikipedia.org/wiki/Gas_constant
+https://www.earthdata.nasa.gov/topics/atmosphere/atmospheric-pressure/air-mass-density#:~:text=Pure%2C%20dry%20air%20has%20a,of%20at%20least%2050%20km.
+https://www.toppr.com/guides/physics/fundamentals/density-of-air-how-to-calculate-air-density/
 $$\rho = \dfrac {101325}{298.15 \cdot 287.052874} = 1.184 kg \cdot m^{-3}= $$
 
 Substituting back into the thrust and simplifications gives us: 
@@ -159,10 +163,18 @@ $$ T = 0.009945\cdot \pi \cdot v_p^2$$
 Finally, thrust can be substituted back into the equation for efficiency where $v_p = v_T$ : 
 $$ \eta = \dfrac {0.009945\cdot \pi \cdot v_p^3}{I \cdot V}$$
 
-### Conclusion
+Uncertainties calculations for efficiency:
+$$\text {uncertainty of wind velocity} = \pm 5 \% $$
+$$Uncertainty of power = \pm 2.5 \%$$
+$$\therefore (5 \cdot 3 \cdot 2.5) = 37.5 \% $$
+As seen through this calculation, the uncertainty of efficiency is high because of the relatively high 5% uncertainty of wind velocity.
+Final Data: 
+
+### Reflections
 - A constant power source could have been used to further increase the accuracy of the experiment
 - A wind tunnel could have been used to make the calculations more accurate. 
 - The quality of the 3 3d prints, some of the parts were uneven / had artifacts. Due to the printing method, the surfaces could have also been rough increasing unaccounted drag. 
+- While it would not change the differences between the different propellers, the real value of the efficiency is unknown as the efficiency calculation includes the inefficiencies of the motor. 
 
 
 ### Bibliography
