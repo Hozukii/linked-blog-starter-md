@@ -177,7 +177,8 @@ Final Data:
 There seems to be correlation between the number of propeller blades and efficiency according to the data. 
 ### error analysis 
 A possible error in the experiment is the power source. As the data shows, there is a gradual decrease in static voltage which indicates that the battery gradually degrades outputting less over time. Despite the limitation, the error caused by battery was tried to be minimised conducting the same experiment with two batteries as well as randomising the order of experiments for battery 2 in order to be able to compare the error caused by the degrading battery. 
-Another possible error of the experiment was the 3d printing process of the propeller. 
+Another possible error of the experiment was the 3d printing process of the propeller. Due to the printing method, the surfaces of the propeller blades were rough while the propellers were sanded down, the process was done by hand which could increase human made errors. There were also visible artifacts on the propeller blades from thin string of filament and some blades had uneven surfaces leading to a altered shape of the wing-foil which would affect the results of the experiment. 
+
 
 ### Reflections
 - A constant power source could have been used to further increase the accuracy of the experiment
