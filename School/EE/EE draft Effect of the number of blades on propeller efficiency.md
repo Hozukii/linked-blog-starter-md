@@ -165,9 +165,9 @@ $$ \eta = \dfrac {0.009945\cdot \pi \cdot v_p^3}{I \cdot V}$$
 
 Uncertainties calculations for efficiency:
 $$\text {uncertainty of wind velocity} = \pm 5 \% $$
-$$Uncertainty of power = \pm 2.5 \%$$
-$$\therefore (5 \cdot 3 \cdot 2.5) = 37.5 \% $$
-As seen through this calculation, the uncertainty of efficiency is high because of the relatively high 5% uncertainty of wind velocity.
+$$\text{ Uncertainty of power} = \pm 2.5 \%$$
+$$\therefore (5 \cdot 3 + 2.5) \%  = 17.5 \% $$
+As seen through this calculation, the uncertainty of the final calculation became relatively large because of the uncertainty of 
 Final Data: 
 
 ### Reflections
