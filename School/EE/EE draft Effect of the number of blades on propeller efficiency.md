@@ -110,7 +110,11 @@ The independent variable for this research will be the number of blades of the p
 Dependent variables:
 The velocity of the fluid and the thrust created will both be dependent on the number of blades of the propeller. The torque needed to power the propeller will also be dependent on the propeller design.
 Controlled variables:
-- The design and the angle of the propeller 
+
+| Variable                        | Method of Control                                                                                                                                                 | Reason for control                                                                                  |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| Design and the angle of Airfoil | The same measurements for the airfoil was used during the modelling process to ensure that the design of the airfoil was consistent throughout all the propellers | A difference in design or angle of the airfoil could lead to different drag and lift coefficients.  |
+
 
 
 the design and the angle of the propeller will be kept consistent throughout the different propellers. The velocity of the wind was controlled as the experiment was done indoors. 
