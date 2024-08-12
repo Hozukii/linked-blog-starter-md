@@ -126,9 +126,12 @@ $$  \text{internal resistance} = 2.45 \Omega$$
 
 Risk Assessment
 
-| Hazard | Risk | Precautions |
-| ------ | ---- | ----------- |
-|        |      |             |
+| Hazard                         | Risk                                                                                           | Precautions                                                                                                                            |
+| ------------------------------ | ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Solder fumes and microplastics | the fumes and chemicals are damaging to the body                                               | When sanding down or soldering, a mask was worn and the room was well ventilated                                                       |
+| 3d printed propller            | due to the rigidity of 3d printing, at high rpm, the propellers could break apart into pieces. | Instead of PLA, PETG as PETG is elastic making the propeller less brittle and prone to breaking into pieces. A safety goggle were worn |
+| Soldering iron                 | burning                                                                                        | A insulating glove should be worn when handling hot equipment                                                                          |
+| spinning propeller             | physical damage                                                                                | The experiment was done standing behind the propeller and not touching the propeller until the power source was cut.                   |
 
 ### Data
 ![[battery 1 Data.png]]
