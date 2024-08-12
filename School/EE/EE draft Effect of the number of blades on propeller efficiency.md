@@ -111,13 +111,12 @@ Dependent variables:
 The velocity of the fluid and the thrust created will both be dependent on the number of blades of the propeller. The torque needed to power the propeller will also be dependent on the propeller design.
 Controlled variables:
 
-| Variable                        | Method of Control                                                                                                                                                 | Reason for control                                                                                  |
-| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| Design and the angle of Airfoil | The same measurements for the airfoil was used during the modelling process to ensure that the design of the airfoil was consistent throughout all the propellers | A difference in design or angle of the airfoil could lead to different drag and lift coefficients.  |
+| Variable                            | Method of Control                                                                                                                                                 | Reason for control                                                                                                                            |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| Design and the angle of Airfoil     | The same measurements for the airfoil was used during the modelling process to ensure that the design of the airfoil was consistent throughout all the propellers | A difference in design or angle of the airfoil could lead to different drag and lift coefficients affecting the performance of the propeller. |
+| The freestream velocity of the room | The windows were closed and any equipment that could induce significant airflow was turned off.                                                                   | The presence of freestream velocity will alter the calculations made since the freestream velocity of the room is assumed to be 0.            |
+| Distance between anemometer and fan | The distance between the anemometer and the propeller hub was consistent across all the experiments.                                                              | The difference in distance could lead to a difference in the reading of the wind velocity by the anemometer.                                  |
 
-
-
-the design and the angle of the propeller will be kept consistent throughout the different propellers. The velocity of the wind was controlled as the experiment was done indoors. 
 Uncontrolled variables: 
 While slow and gradual, the decrease in performance of the alkaline battery was uncontrolled.  
 While a alkaline 9 volt battery was used, measuring the voltage has showed that the battery while not under load had a voltage of 8.24-8.26 V. However, during load, the voltage decreased significantly caused by the internal resistance. Using ohm's law, the internal resistance of the battery was calculated. 
@@ -125,6 +124,11 @@ At 0.86 A, the potential difference of the battery was 6.13V. Therefore:
 $$ (8.24 - 6.13 )V = (\text{internal resistance},\Omega) \cdot 0.86 A $$
 $$  \text{internal resistance} = 2.45 \Omega$$
 
+Risk Assessment
+
+| Hazard | Risk | Precautions |
+| ------ | ---- | ----------- |
+|        |      |             |
 
 ### Data
 ![[battery 1 Data.png]]
