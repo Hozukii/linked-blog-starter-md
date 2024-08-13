@@ -186,8 +186,8 @@ $$\text{ Uncertainty of power} = \pm 2.5 \%$$
 $$\therefore (5 \cdot 3 + 2.5) \%  = 17.5 \% $$
 As seen through this calculation, the uncertainty of the final calculation became relatively large because of the uncertainty of 
 Final Data: 
-![[Pasted image 20240811204909.png]]
-![[Pasted image 20240811204920.png]]
+![[Battery 1 Efficiency DAta.png]]
+![[Battery 2 Efficiency Data.png]]
 
 ### Results and interpretation
 #### Efficiency 
