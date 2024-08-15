@@ -221,3 +221,6 @@ Another possible error of the experiment was the 3d printing process of the prop
 	https://www.youtube.com/watch?v=7D53Xmo3vy4&list=PLUHGprUixGhWMxW4-yumvCTq5K9TuBvaP
 	Accessed 7 Aug. 2024
 	
++ Evolution of rotor and blade design  
+	+ https://www.nrel.gov/docs/fy00osti/28410.pdf
+	+ 
