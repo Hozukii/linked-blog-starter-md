@@ -223,4 +223,5 @@ Another possible error of the experiment was the 3d printing process of the prop
 	
 + Evolution of rotor and blade design  
 	+ https://www.nrel.gov/docs/fy00osti/28410.pdf
-	+ 
++ Rohrbach, Christof. _Experimental and Analytical Research on the Aerodynamics of Wind Driven Turbines_. US Department of Energy, Solar Energy, 1977.
+	+ https://www.osti.gov/servlets/purl/5817373
