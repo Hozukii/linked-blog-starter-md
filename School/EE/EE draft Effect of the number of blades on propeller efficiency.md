@@ -19,7 +19,7 @@ Propellers are used in many things from aircrafts to computer cooling and there 
 https://society-of-flight-test-engineers.github.io/handbook-2013/propellers.html
 Propeller efficiency ($\eta$): 
 $$ \eta = \dfrac {P_{out}}{P_{in}} = \dfrac {T \cdot v_T}{Q \cdot \omega}$$
-However, for sake of simplicity and the lack equipment I will be substituting mechanical power $(Q \cdot \omega)$ as electrical power (Current x Voltage) thus: 
+However, for sake of simplicity and the lack equipment I will be substituting mechanical power $(Q \cdot \omega)$ as electricIal power (Current x Voltage) thus: 
 $$ \eta = \dfrac {T\cdot v_T}{I \cdot V}$$ 
 
 #### Actuator Disk Theory 
