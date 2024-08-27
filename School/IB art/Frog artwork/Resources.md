@@ -1,0 +1,5 @@
+- Beth Cavener 
+	- Animal sculpting 
+	- https://followtheblackrabbit.com/portfolio/
+- Chie shimizu
+	- face sculpting 
