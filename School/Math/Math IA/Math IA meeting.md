@@ -1,4 +1,5 @@
 - Verifying volume - using dry granular materials (sand, rice, etc)
 - Chebyshev nodes 
 	- https://www.ethanepperly.com/index.php/2022/08/13/chebyshev-polynomials/
+	- Don't understand it
 	- 
