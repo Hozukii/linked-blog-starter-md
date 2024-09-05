@@ -58,7 +58,7 @@ Although not in the curriculum
 	- $V = \dfrac{W}{q}$
 
 - A charge will move because of a *difference in electrical potential* if it is free to do so.
-- Like gravitational potential energy discussed in [[D.1]] and [[D.2 Electric and magnetic fields]]
+- Like gravitational potential energy discussed in [[D.1 Gravitational Fields]] and [[D.2 Electric and magnetic fields]]
 ## Electrical resistance
 - **Electrical conductor** - A material through which an electric current can flow because it contains significant numbers of mobile charges
 - **Electrical resistance** - Ratio of potential difference across a conductor to the current
