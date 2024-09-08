@@ -126,4 +126,4 @@ $$\Delta E_p = mg \Delta h$$
 #### $$ \text {gravitational potential gradient} = g = \dfrac {\Delta V_g}{\Delta r}$$
 - Gravitational field strength $= g = - \dfrac {\Delta V_g}{\Delta r}$
 	- negative sign added to show that the direction of the vector quantity $g$ is opposite to the direction of increasing potential
-![[Graph showing variation of gravitational potential.png|400]]
+![[uuuuuuu.png|400]]
