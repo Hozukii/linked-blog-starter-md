@@ -2,9 +2,11 @@
 ## Kepler's First Law
 - The planets orbit in elliptical paths, with the Sun at one of the two foci
 	- **Ellipse** - Closed curve consisting of points whose distances from each of two fixed points (foci) always add up to the same value. 
+![[Eliptical path of a planet.png|400]]
 ## Kepler's Second Law 
 - A line joining a planet and the Sun sweeps out equal areas in equal times
 	- planets move faster when they are closer to the Sun
+![[Equal areas in equal times.png|400]]
 ## Kepler's Third Law
 - the squares of the orbital periods of the planets are directly proportional to the cubes of the semi-major axes of their orbits.
 	- In reality, $R$ is assumed to be the average distance from the sun because it's close to being circular
@@ -35,6 +37,7 @@ $R$ - semi-major axes - radius
 - **Field lines** - Representation of fields by a pattern of lines . 
 	- Line shows the direction of force on a mass, of force on a positive charge , or on a north pole.
 	- Closer the lines, the stronger the force 
+![[Field lines.png]]
 ## Gravitational Field Strength
 - **Gravitational field strength**, $g$ - the force per unit mass that would be experienced by a small test mass placed at that point.
 #### $$ g = \dfrac Fm$$
@@ -47,6 +50,8 @@ Representing the large mass by $M$,
 #### Combining gravitational field strength 
 - At point $P$, the total gravitational field strength is zero. 
 - In general, if two or more masses are creating gravitational field strength at a certain point, then the total field strength is determined by adding the individuals fields, remembering that they are vector quantities
+![[Opposing fields cancel out.png]]
+
 # Orbital motion
 - **Satellite** - Object that orbits a much larger mass. 
 	- Satellites can be natural or artificial 
@@ -54,6 +59,7 @@ Representing the large mass by $M$,
 	- If a object was travelling at exactly the right speed and direction so that it remains at the same altitude, it remains in orbit: a satellite
 - An actual satellite needs to be at least $200km$ above to avoid the effects of air resistance.
 	- At that height the speed needed is about $8km^{-1}$
+![[The path of objects projected at diff speeds.png|400]]
 ## Orbital Speed and Time Period of a Satellite
 - centripetal acceleration : [[A.2 Forces and Momentum#Centripetal Acceleration]],
 	- centripetal acceleration, $g = \dfrac {v^2}r$
@@ -75,6 +81,7 @@ $$ v = \dfrac {2 \pi r}{T}$$
 - In [[A.3 Work, Energy, and Power#Gravitational Potential Energy]], we introduced:
 $$\Delta E_p = mg \Delta h$$
 - **Gravitational potential energy**,$E_p$ - The work done when bringing all the masses of a system to their present positions assuming that they were originally at infitiy
+![[Variation of the force on a 1kg mass.png]]
 - The zero of gravitational potential energy is chosen to be where the masses are separated by an infinite distance
 - Gravitational potential energy is always given as a negative since energy would have to be supplied to separate the masses to infinity, where a system then has zero gravitational potential energy. 
 - The total work done does not depend on the path taken
@@ -102,11 +109,13 @@ $$\Delta E_p = mg \Delta h$$
 - Increasing separation of lines indicates a weakening of gravitational field
 - All equipotential lines form closed loops
 - They point from higher potential to lower potential 
+![[Equipotential lines around spherical.png|400]]
 ## Gravitational potential difference 
 - **Gravitational potential difference**, $\Delta V_g$ - Difference in gravitational potential between two points, which equals the work done when 1kg is moved between the ponits
 #### $$ \Delta V_g = \dfrac W m \text {or } W = m \Delta V_g$$
 - $W$ - work done on unit mass 1kg
 - Work has to be done to increase its gravitational potential energy; that is to move it to higher potential
+![[Work done when a satellite changes orbit.png]]
 ### Gravitational Potential-Distance Graphs 
 - SHows the variation of gravitational potential around a spherical planet. 
 - $W = \cancel m \Delta V_g = \cancel m g \Delta r$ 
@@ -116,4 +125,5 @@ $$\Delta E_p = mg \Delta h$$
 	- Equal in magnitude to field strength (but different signs)
 #### $$ \text {gravitational potential gradient} = g = \dfrac {\Delta V_g}{\Delta r}$$
 - Gravitational field strength $= g = - \dfrac {\Delta V_g}{\Delta r}$
-	- negative sign added to show that the direction of the vector qunatity $g$ is opposite to the direction of increasing potential
+	- negative sign added to show that the direction of the vector quantity $g$ is opposite to the direction of increasing potential
+![[Graph showing variation of gravitational potential.png|400]]
