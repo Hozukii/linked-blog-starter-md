@@ -2,6 +2,7 @@
 	- Because the point is to convince the reader that your argument is right 
 #### 5 most common types of argument
 - Close Reading / Formalist
+	- [[Close reading - poetry]]
 	- Analysis of the technical aspect of the text
 	- e.g. the word choices
 	- Different sentences can get the same message across it's how they are said that changes everything
