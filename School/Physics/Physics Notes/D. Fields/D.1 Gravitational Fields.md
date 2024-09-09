@@ -131,5 +131,29 @@ $$\Delta E_p = mg \Delta h$$
 ## Escape Speed
 - **Escape Speed** - Minimum theoretical speed that an object must be given in order to move to an infinite distance away from a planet. 
 #### $$V_{esc} = \sqrt{\dfrac {2GM}r}$$
-Kinetic needed = change in gravitational potential energy between location and infinity
+- We can calculate the minimum theoretical speed that a projectile of mass $n$ needs in order to "escape" from a planet of mass $M$
 
+- explanation:
+	- Kinetic needed = change in gravitational potential energy between location and infinity
+$$ \dfrac 12 mv_{esc}^2 = 0- \left( \dfrac{-GMm}r \right)$$
+which leads to 
+$$V_{esc} = \sqrt{\dfrac {2GM}r}$$
+Note that:
+- This speed is the same, regardless of direction of travel
+- We have assumed that there are no other significant gravitational fields (e.g. moon)
+## Orbital Speed
+- **Orbital Speed** - For a satellite in a circular orbit, its speed mast have the correct value for the chosen radius.
+- In Kepler's third law:
+$$\dfrac {r^3}{T^2} = \dfrac {GM}{4\pi^2}$$
+Replacing using $T$ with $\dfrac {2\pi r}v$ gives us:
+$$ \dfrac {r^3v^2}{4\pi^2r^2} = \dfrac {GM}{4\pi^2}$$
+- Speed required to maintain a circular orbit, 
+#### $$v_{orbital} = \sqrt{\dfrac {GM}r}$$
+## Artificial satellites 
+- To put satellites into orbit we need to provide enough energy to
+	- Increase the gravitational potential energy of the satellite
+	- Increase the gravitational potential energy of the launch vehicle fuel, etc.
+	- Give the satellite the required kinetic energy for the required orbit 
+	- overcome fictional fores
+	- allow for thermal energy dissipation
+	- 
