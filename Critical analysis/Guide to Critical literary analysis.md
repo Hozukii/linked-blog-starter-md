@@ -1,0 +1,17 @@
+- You can argue about anything as long as you have evidence
+	- Because the point is to convince the reader that your argument is right 
+#### 5 most common types of argument
+- Close Reading / Formalist
+	- Analysis of the technical aspect of the text
+	- e.g. the word choices
+	- Different sentences can get the same message across it's how they are said that changes everything
+- Applied reading
+	-  Compares the text with the reader's personal experiences
+- Comparative/ synergistic 
+	- Compares multiple text against each other
+	- Great if you want to prove that you can connect multiple works together
+- Contextual / Historical 
+	- focuses on the historical framework of the text
+- Theoretical
+	- A method of looking for evidence in the text to support a theory 
+	- 
