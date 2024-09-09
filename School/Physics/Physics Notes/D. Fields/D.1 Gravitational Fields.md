@@ -127,3 +127,9 @@ $$\Delta E_p = mg \Delta h$$
 - Gravitational field strength $= g = - \dfrac {\Delta V_g}{\Delta r}$
 	- negative sign added to show that the direction of the vector quantity $g$ is opposite to the direction of increasing potential
 ![[uuuuuuu.png|400]]
+# Speeds and energies of Satellites
+## Escape Speed
+- **Escape Speed** - Minimum theoretical speed that an object must be given in order to move to an infinite distance away from a planet. 
+#### $$V_{esc} = \sqrt{\dfrac {2GM}r}$$
+Kinetic needed = change in gravitational potential energy between location and infinity
+
