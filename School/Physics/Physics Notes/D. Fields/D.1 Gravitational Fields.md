@@ -80,12 +80,19 @@ $$ v = \dfrac {2 \pi r}{T}$$
 # Gravitational Potential Energy 
 - In [[A.3 Work, Energy, and Power#Gravitational Potential Energy]], we introduced:
 $$\Delta E_p = mg \Delta h$$
-- **Gravitational potential energy**,$E_p$ - The work done when bringing all the masses of a system to their present positions assuming that they were originally at infitiy
+- This assumes that height does not depend on distance
+---
+- **Gravitational potential energy**,$E_p$ - The work done when bringing all the masses of a system to their present positions assuming that they were originally at infinity
 ![[Variatios.png]]
 - The zero of gravitational potential energy is chosen to be where the masses are separated by an infinite distance
 - Gravitational potential energy is always given as a negative since energy would have to be supplied to separate the masses to infinity, where a system then has zero gravitational potential energy. 
 - The total work done does not depend on the path taken
 # Equation for Gravitational Potential Energy 
+- [[potential energy]] - To calculate the gravitational potential energy, we need to calculate the total amount of force needed to move the object to a certain position thus:
+$$E_p = \int_{r^2}^{r^1}{F_r} \ dr$$
+and since: $F_r = -\dfrac {Gmm}{r^2}$
+$$E_p = -Gm_1m_2 \int_{r^2}^{r^1}{\dfrac {dr}{r^2}} = \dfrac {Gm_1m_2}{r_2}-\dfrac {Gm_1m_2}{r_1}$$
+
 - It can be found using calculus looking at the area under force per distance
 	- but calculus is not part of the course 
 	- Gravitatinal force is not constant 

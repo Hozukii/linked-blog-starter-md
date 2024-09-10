@@ -1,0 +1,3 @@
+- Measure of the *potential* or the *possibility* for work to be done
+- The work done from moving a object from a reference point to its current position 
+- reference point is where the potential energy is 0 
