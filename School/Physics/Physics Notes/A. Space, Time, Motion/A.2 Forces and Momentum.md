@@ -201,6 +201,7 @@ Two objects, $m_1$ and $m_2$, before and after a collsion . In this example, $m_
 - *Electrical Force* provide the centripetal force for electrons moving around the nuclei of atoms. 
 ## Centripetal Acceleration
 - Centripetal force towards the centre of any circular motion must result in a **centripetal acceleration** 
+- For derivation of $a_c = \dfrac {v^2}r$, see: [[centripetal acceleration]]
 ## Mathematics of Uniform Circular Motion
 >[!seealso] 
 >$v = \dfrac{2 \pi r}{T}$
@@ -226,6 +227,7 @@ Comparing with $v = \dfrac{2 \pi r}{T}$, it should be clear that: $v = \omega r$
 - If a object is moving in a circle of radius r has a constant linear speed, v,  its centripetal acceleration, a , will have a numerical value. 
 - **a** represents how quickly the object's direction of motion is changing. 
 - $a = \dfrac{v^2}{r} = \omega^2r = \dfrac{4 \pi^2 r}{T^2}$
+- 
 ---
 - We know F = ma
 - Therefore: $F = \dfrac{mv^2}{r} = m\omega^2r$
