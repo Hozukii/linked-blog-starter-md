@@ -156,4 +156,13 @@ $$ \dfrac {r^3v^2}{4\pi^2r^2} = \dfrac {GM}{4\pi^2}$$
 	- Give the satellite the required kinetic energy for the required orbit 
 	- overcome fictional fores
 	- allow for thermal energy dissipation
-	- 
+- Gravitational potential energy of a satellite of mass $m$ orbiting a planet, or moon, of mass $M$ at a distance $r$ from the planet's center is given by:
+#### $$ E_p = -G \dfrac {Mm}r$$
+For a satellite already in orbit:
+$$ \text {total energy, }E_T = E_k + E_p = \dfrac 12 mv^2_{orbital} + \left(-G\dfrac{Mm}r \right)$$
+but we know that:
+$$v^2_{orbital} = \dfrac {GM}r$$
+- total energy of a satellite in a circular orbit:
+$$E_T = -\dfrac 12 \dfrac {GMm}r$$
+- Satellite in a circular orbit does not have enough energy to escape the gravitational field, so that both its potential energy and its total energy are negative
+![[Pasted image 20240910134357.png|400]]
