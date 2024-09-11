@@ -3,6 +3,7 @@
 - The planets orbit in elliptical paths, with the Sun at one of the two foci
 	- **Ellipse** - Closed curve consisting of points whose distances from each of two fixed points (foci) always add up to the same value. 
 ![[Elipticalpathofaplanet.png|400]]
+![[Pasted image 20240911112755.png|400]]
 ## Kepler's Second Law 
 - A line joining a planet and the Sun sweeps out equal areas in equal times
 	- planets move faster when they are closer to the Sun
@@ -93,6 +94,7 @@ $$E_p = \int_{r^2}^{r^1}{F_r} \ dr$$
 and since: $F_r = -\dfrac {Gmm}{r^2}$
 $$E_p = -Gm_1m_2 \int_{r^2}^{r^1}{\dfrac {dr}{r^2}} = \dfrac {Gm_1m_2}{r_2}-\dfrac {Gm_1m_2}{r_1}$$
 
+- Non-path dependent
 - It can be found using calculus looking at the area under force per distance
 	- but calculus is not part of the course 
 	- Gravitatinal force is not constant 
