@@ -108,6 +108,7 @@ SI unit: $kgm^2$
 
 - In principle The moment of inertia of any real, extended mass can be determined by the addition of the individual moments of inertia of its point masses: 
 #### $$I = \Sigma mr^2$$
+- $r$ - distance from axis of rotation
 - In practice, the moments of most simple-shaped objects about specific axes are well known. 
 ![[Pasted image 20240528190847.png]]
 

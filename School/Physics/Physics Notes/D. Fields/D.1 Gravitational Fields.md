@@ -144,7 +144,9 @@ $$E_p = -Gm_1m_2 \int_{r^2}^{r^1}{\dfrac {dr}{r^2}} = \dfrac {Gm_1m_2}{r_2}-\dfr
 
 - explanation:
 	- Kinetic needed = change in gravitational potential energy between location and infinity
-$$ \dfrac 12 mv_{esc}^2 = 0- \left( \dfrac{-GMm}r \right)$$
+$$W = \int_{R}^{\infty} \dfrac{GMm}{r^2} \ dr = -GMm\left[ \dfrac 1 \infty - \dfrac 1R\right] = \dfrac {GMm}R$$
+- KE = W
+$$ \dfrac 12 mv_{esc}^2 =\dfrac{GMm}r$$
 which leads to 
 $$V_{esc} = \sqrt{\dfrac {2GM}r}$$
 Note that:

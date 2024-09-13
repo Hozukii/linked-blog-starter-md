@@ -8,7 +8,7 @@
 - In a medium, it would be infinitely many layers
 
 ![[Pasted image 20240503213404.png|500]]
-- If we look at a thin layer. The layer kicks back the wave by a phase.
+- If we look at one of the layers, the thin layer causes the wave to kick back its phase
 ![[Pasted image 20240503213607.png|400]]
 - If we add more layers, it would look like a compressed wave. 
 ![[Pasted image 20240503213639.png|400]]
