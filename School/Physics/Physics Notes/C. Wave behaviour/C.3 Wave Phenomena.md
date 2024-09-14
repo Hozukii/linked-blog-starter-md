@@ -231,7 +231,7 @@ $$s = \dfrac {\lambda D}d$$
 ![[Pasted image 20240507182811.png|400]]
 
 - If atoms of a particular element, or some compounds, are given enough energy they will emit light in the form of a **line spectrum** not a continuous white light spectrum. 
-	- Discussed more in [[E.1]]
+	- Discussed more in [[E.1 Structure of the Atom]]
 - Diffraction grating have very large number of lines very close together which make it ideal to create high resolution and intense line spectra. 
 ![[Pasted image 20240507183056.png|]]
 ## Modulation by single-slit diffraction
