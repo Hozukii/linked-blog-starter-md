@@ -48,7 +48,9 @@ Includes:
 - $m$ - mass
 - $k$ - spring constant ($N/m$)
 - The period of a spring-mass system is proportional to the square root of the mass and inversely proportional to the square root of the spring constant.
-- Since $\omega = \dfrac {2\pi}T$,  this equation can also be written as: $\omega ^2 = \dfrac km$
+- Since $\omega \cdot T = 2\pi \to \omega = \dfrac {2\pi}T$
+#### $$\sqrt{\dfrac mk} = \dfrac {2\pi}T \to \omega^2 = \dfrac km$$
+
 ## Simple Pendulum 
 - **Pendulum** - A weight, which is suspended below a pivot, which is able to swing from side to side. 
 	- Weight is sometimes called the **pendulum bob**
@@ -87,8 +89,8 @@ $$a \propto -x$$
 
 - The waveform seen is commonly described as being **sinusoidal** in shape
 - We can use the graph to calculate the velocity of the oscillating mass at any particular moment by determining the gradient of the displacement
-- Velocity,$v = \dfrac {\Delta x}{\Delta t}$
-- Similarly, acceleration, $a = \dfrac {\Delta v}{\Delta t}$
+- Velocity,$v = \dfrac {d x}{dt}$
+- Similarly, acceleration, $a = \dfrac {d v}{d t}$
 - The velocity has its maximum value, $v_0$, when the displacement, $x$ is 0
 - Velocity is 0 when the displacement is at maximum $\pm x_0$
 - The acceleration has its maximum when the velocity is 0 and displacement is greatest
@@ -139,11 +141,18 @@ The maximum velocity:
 #### $$v_0 = \omega x_0$$
 ## Calculating energy changes during SHM
 - We know that $E_p = \dfrac 12 kx^2$ , and $\omega^2 = \dfrac km$ 
+- substituting $k$:
 #### $$ \text{potential energy}, E_p = \dfrac 12 m\omega^2 x^2$$
 When the mass is at its maximum displacement, $x_0$ the $E_p  = E_T$  therefore:
 #### $$\text {total energy}, E_T = \dfrac 12 m \omega^2 x_0^2$$
 - Kinetic energy = total energy - potential energy, $E_k = \dfrac 12 m\omega^2 x_0^2 - \dfrac 12 m\omega^2 x^2$, therefore:
 
 #### $$ \text {kinetic energy}, E_k = \dfrac 12 m\omega^2 (x_0^2 - x^2)$$
+- $x_0$ - maximum displacement
+- $x$ - current displacement
+- $\omega$ - angular velocity - $\dfrac {2\pi}T$
 With the previous equation of $E_k = \dfrac 12 mv^2$
-#### $$v = \pm \sqrt{(x_0^2-x^2)}$$
+we can equate $v^2$ with $\omega^2(x_0^2 - x^2)$
+#### $$v = \pm \omega\sqrt{(x_0^2-x^2)}$$
+
+

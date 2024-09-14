@@ -27,8 +27,11 @@ Examples:
 ![[Pasted image 20240413211214.png|500]]
 - **wavelength**,$\lambda$  - The distance between two adjacent crests of a wave. 
 	- The shortest distance between two points moving in phase
-- A wave travels forward one wavelength,$/lambda$, every time period, $T$
+- A wave travels forward one wavelength,$\lambda$, every time period, $T$
 #### $$ \text{wave speed},v = \dfrac \lambda T = f\lambda$$
+- $v$ - wave speed
+- $\lambda$ - wavelength
+- $f$ - frequency
 ## Representing waves graphically
  ![[Pasted image 20240413212048.png|400]]
 - Displacement - distance graphs
@@ -40,6 +43,7 @@ Examples:
 - **Sound** - Longitudinal waves in air or other media that are audible to humans
 - **Ultrasound** - Frequencies of sound above the range that can be heard by humans (approx. $20kHz$)
 ![[Pasted image 20240413212444.png|500]]
+![[Pasted image 20240913114825.png|500]]
 ### Speed of sound
 - sound needs a medium to travel through
 - Generally, sound will travel faster through mediums which:

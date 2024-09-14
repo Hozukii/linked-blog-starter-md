@@ -23,9 +23,13 @@
 - **transparent** - A medium through which light can be transmitted, and through which we can see clearly
 - **Opaque** - Unable to transmit light (or other forms of energy)
 ### Wave Power, Intensity, and Amplitude
+- Waves on a string carry energy in one dimension (along the direction of the string).
+	- But other types of waves, including sound waves in air and seismic waves within the earth, carry energy across all three dimensions of space.
 - As waves spread out, and/or their energy is dissipated, the power that they transfer is reduced. 
+- Intensity is the *the time average rate at which energy is transported by the wave per unit area*
 ####  $$\text {intensity,} \space I = \dfrac PA$$
 - $\text{intensity} \propto {\text{amplitude}}^2$
+- measured in $W m^{-2}$
 ### Waves spreading from a point without absorption
 - If waves were *spreading out* from a point source, their intensity will decrease for that reason alone, without any absorption
 ### In 2 Dimensions (surface waves)
@@ -34,6 +38,9 @@
 ### In 3 dimensions (such as light and sound)
 - The intensity of any waves spreading radially in 3d, without absoprtion, from a point source follows:
   $$ \text{intensity,} I \propto \dfrac 1 {\text {distance}^2}$$
+  Since, $I = \dfrac PA$, if we assume a spherical dissipation $A = \text {surface area of sphere} = 4\pi r^2$
+  #### $$I = \dfrac P {4\pi r^2}$$
+  
 ## Reflection of waves and rays
 - **Reflection** - Change of direction that occurs when waves meet a boundary between two media such that the waves return into the medium from which they came.
 - **incident wave** - wave travelling towards a boundary
