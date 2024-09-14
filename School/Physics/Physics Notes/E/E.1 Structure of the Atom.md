@@ -15,3 +15,14 @@
 	- gold nucleus was in order of $10^{-14}m$
 	- the whole atom was in order of $10^{-10}m$
 ## Composition of the nucleus
+- The electrons orbit the nucleus because of the centripetal force provided by the electrical attraction between opposite charged. 
+
+| Name of particle | approximate relative mass | relative charge |
+| ---------------- | ------------------------- | --------------- |
+| proton           | 1                         | +1              |
+| neutron          | 1                         | 0               |
+| eletron          | $\frac 1 {1840}$          | -1              |
+Model of nitrogen atom:
+...
+
+### What holds the nucleus together? 
