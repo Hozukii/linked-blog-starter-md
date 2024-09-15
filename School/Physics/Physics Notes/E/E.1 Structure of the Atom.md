@@ -74,3 +74,22 @@ $F = \dfrac {(8.99\cdot 10^9)\cdot(1.60 \cdot 10^{-16})}{(6 \cdot 10^{-15})^2} \
 - Given in both joules and electron volts. eV are widely used for atomic-scale energies
 ## Evidence for energy levels within atoms
 ### Emission and absorption spectra
+- **Excitation** - The addition of energy to a particle changing it from its ground state to an excited state.
+- When elements are excited, they form a line spectra 
+- Each line corresponds to a precise frequency 
+- atoms in the gas will absorb the same frequencies as they would emit when given energy.
+- **Emission spectrum** - Line spectrum associated with the emission of electromagnetic radiation by atoms, resulting from electrons transitions from higher to lower energy states.
+- **Absorption spectrum** - A series of dark lines across a continuous spectrum produced when while light passes through a gas at low pressure
+- Since different elements have different energy levels, spectra can be used to identify elements 
+## Photons 
+- The emission, transmission and absorption of light are not continuous process. They are a very large number of separate events 
+- **Transition (between energy levels)** - A photon is emitted when an atom makes a transition to a lower energy level. It emits the equivalent energy to the difference in energy levels. 
+- The *bundles* of emitted electromagnetic energy are called **photons**.  
+- **Photon** - A quantum of electromagnetic radiation.
+	- The energy, $E$, carried by one photon of electromagnetic radiation depends only on its frequency, $f$:
+#### $$ E = hf$$
+- **Planck's constant**, $h$, Fundamental constant of quantum physics which connect the energy and frequency of a photon
+	- $6.63 \cdot 10^{-34}Js$
+- Since from [[C.2 Wave Model]]
+	- $c = f \lambda$:
+$$ E = \dfrac {hc}\lambda$$
