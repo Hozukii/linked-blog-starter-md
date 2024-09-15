@@ -66,7 +66,8 @@ $F = \dfrac {(8.99\cdot 10^9)\cdot(1.60 \cdot 10^{-16})}{(6 \cdot 10^{-15})^2} \
 - Satellites can orbit at any height with a continuous range of possible energy but electrons only have one of a range of very precise values referred to as atomic energy levels
 	- They are discrete, and quantized.
 - **Atomic energy levels** - One of series of possible discrete (separate) energy levels of an electron within an atom
-- possible energy leels of hydrogen
+possible energy levels of hydrogen:
+- ![[Pasted image 20240915130457.png|400]]
 - The energy levels are drawn to scale vertically but does not matter
 - **ground state** - The lowest energy state of an atom / electron
 - All energies are negative
@@ -74,6 +75,7 @@ $F = \dfrac {(8.99\cdot 10^9)\cdot(1.60 \cdot 10^{-16})}{(6 \cdot 10^{-15})^2} \
 - Given in both joules and electron volts. eV are widely used for atomic-scale energies
 ## Evidence for energy levels within atoms
 ### Emission and absorption spectra
+![[Pasted image 20240915130538.png|500]]
 - **Excitation** - The addition of energy to a particle changing it from its ground state to an excited state.
 - When elements are excited, they form a line spectra 
 - Each line corresponds to a precise frequency 
@@ -84,6 +86,7 @@ $F = \dfrac {(8.99\cdot 10^9)\cdot(1.60 \cdot 10^{-16})}{(6 \cdot 10^{-15})^2} \
 ## Photons 
 - The emission, transmission and absorption of light are not continuous process. They are a very large number of separate events 
 - **Transition (between energy levels)** - A photon is emitted when an atom makes a transition to a lower energy level. It emits the equivalent energy to the difference in energy levels. 
+![[Pasted image 20240915130604.png|400]]
 - The *bundles* of emitted electromagnetic energy are called **photons**.  
 - **Photon** - A quantum of electromagnetic radiation.
 	- The energy, $E$, carried by one photon of electromagnetic radiation depends only on its frequency, $f$:
@@ -93,3 +96,11 @@ $F = \dfrac {(8.99\cdot 10^9)\cdot(1.60 \cdot 10^{-16})}{(6 \cdot 10^{-15})^2} \
 - Since from [[C.2 Wave Model]]
 	- $c = f \lambda$:
 $$ E = \dfrac {hc}\lambda$$
+Visible emission line spectrum of hydrogen:
+![[Pasted image 20240915130626.png]]
+- Taking one line as example: $434.2nm$ 
+$$E = \dfrac {hc}\lambda = \dfrac {(6.63\cdot 10^{-34})\cdot(3.00\cdot10^8)}{434.2\cdot10^{-9}} = 4.58\cdot 10^{-9}J$$
+- equal to 2.86eV
+- referring back to the energy levels for hydrogen, that is equivalent to the difference between: -0.54eV and -3.39eV
+- Therefore, spectral lines were used to determine atomic energy levels
+- 
