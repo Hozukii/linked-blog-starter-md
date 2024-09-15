@@ -60,5 +60,17 @@ $F = \dfrac {(8.99\cdot 10^9)\cdot(1.60 \cdot 10^{-16})}{(6 \cdot 10^{-15})^2} \
 - The notation for nuclides can also be applied to the nucleons:
 	- e.g $^1_1p$, $^1_0n$, $\ce{^0_{-1}e}$
 # Energy levels within atoms
-
-
+- The total energy of an atom, may be considered the sum of kinetic energy of electrons and the electric potential energy. 
+	- Energies within the nucleus are for another discussion and not included in this topic . 
+- The energies of electrons within atoms are given negative values because we would have to supply energy to remove them froth e atom (to infinity), where they would have 0 potential energy. 
+- Satellites can orbit at any height with a continuous range of possible energy but electrons only have one of a range of very precise values referred to as atomic energy levels
+	- They are discrete, and quantized.
+- **Atomic energy levels** - One of series of possible discrete (separate) energy levels of an electron within an atom
+- possible energy leels of hydrogen
+- The energy levels are drawn to scale vertically but does not matter
+- **ground state** - The lowest energy state of an atom / electron
+- All energies are negative
+- **Ionization energy** - Amount of energy needed to remove an electron from an atom or molecule. (highest energy level shown)
+- Given in both joules and electron volts. eV are widely used for atomic-scale energies
+## Evidence for energy levels within atoms
+### Emission and absorption spectra
