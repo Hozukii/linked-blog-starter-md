@@ -103,4 +103,53 @@ $$E = \dfrac {hc}\lambda = \dfrac {(6.63\cdot 10^{-34})\cdot(3.00\cdot10^8)}{434
 - equal to 2.86eV
 - referring back to the energy levels for hydrogen, that is equivalent to the difference between: -0.54eV and -3.39eV
 - Therefore, spectral lines were used to determine atomic energy levels
-- 
+# A mathematical understanding of the Geiger-Marsden-Rutherford experiment
+![[Pasted image 20240916110458.png]]
+- As an alpha particle approaches a positive nucleus, it loses $E_K$ (kinetic) because it's repelled but that energy is transferred to $E_p$ (potential). 
+- Initial $E_K$ = maximum $E_p$ momentarily stored in the system when the alpha particle is at its closest to the nucleus with a separation of $r$ 
+#### $$ E_p = k\dfrac {q_{\alpha} q_n}r$$
+## Nuclear radii
+- **Rutherford scattering** experiments showed that:
+#### $$ \text {radius of nucleus} \ R = R_0 A^{\frac 13}$$
+- $R$ radius of nucleus
+- $A$ - nucleon number
+- $R_0$ - Fermi radius  = $1.20 \cdot 10^{-15}$
+## Nuclear density
+- We can use $\rho = \dfrac mV$ to estimate nuclear density.
+- The mass of a nucleus is approximated by:
+$$ m = Au$$
+- $m$ - mass of nucleus
+- $A$ - nucleon number
+- $u$ - atomic mass unit - average mass of a nucleon  = $1.661 \cdot 10^{-27}kg$
+Therefore:
+$$\rho = \dfrac {Au}{\dfrac 43 \pi \left (R_0 A^{\frac 13}\right)^3} =  \dfrac {3u}{4\pi R_0^3}$$
+- this shows us that the density does not depend on $r$ (radius)
+- The densities of all nuclei are approximately the same .
+- $\rho = 2.3 \cdot 10^{17}kg m^{-3}$
+## Strong Nuclear force 
+- We have assumed it's only repulsive electric force between positive charges. 
+- But there is also **strong nuclear force** when individual nucleons are close together. 
+	- attractive force
+	- but if the the nucleons get really close then it becomes a repulsive force 
+- A very energetic alpha particle can get close enough to the nucleons that it is affected by the attractive strong nuclear force as well as the repulsive electric force 
+![[Pasted image 20240916110516.png|300]]
+# The Bohr model of the hydrogen atom 
+- It can be expanded for other elements but we will stick to hydrogen 
+![[Pasted image 20240916110942.png|550]]
+- All energy levels of hydrogen arranged into 3 groups
+- Beginning with the lowest, the ground state $n = 1$
+- **Principle quantum number**, $n$ - Number used to describe the energy level of an atom 
+- All the transition down to $n=1$ are larger than all transition to $n =2$. 
+- All the transition down to $n=2$ are larger than all transition to $n= 3$
+- Transition to Lyman series all produce photons of ultraviolet radiation
+- Balmer series produce visible light
+- Paschen produce infrared radiation
+- Discrete energy levels of hydrogen can be predicted by:
+#### $$ \text{energy levels of hydrogen}\ E = \dfrac {-13.6}{n^2}eV$$
+- $n$ - principle quantum number 
+- based on empirical not theory 
+- **Bohr model** - has electrons orbiting around the nucleus due to the centripetal force provided by electric attraction between opposite charges.
+	- Restricted orbits to certain distances from the nucleus -meaning they did not emit electromagnetic radiation, lose energy and spiral inwards.
+	- Learned in [[D.3 Motion in Electromagnet Fields]]
+- Photons were emitted or absorbed when electrons moved between these energy levels.
+- Bohr showed 
