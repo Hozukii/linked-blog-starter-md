@@ -1,14 +1,21 @@
-## word count
+## structure
 - Introduction
 - Background information
-- Hypothesis/ theoretical evaluation
-- Variables
-	- independent
+- Theoretical evaluation
+- experiment
+- Methodology
+	- apparatus
+	- method
+- procedure
+- variables & risk
+	- Independent 
 	- dependent
 	- controlled
-	- uncontrolled
-- Apparatus
-- Method
-- Risk assessment
-- analysis
-- 
+	- limitations & strengths
+	- Risk assessment
+- Data 
+	- Data collection
+	- Data analysis
+- Evaluation 
+	- Error analysis
+	- conclusion
