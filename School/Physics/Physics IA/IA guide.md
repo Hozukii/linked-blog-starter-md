@@ -1,0 +1,14 @@
+## word count
+- Introduction
+- Background information
+- Hypothesis/ theoretical evaluation
+- Variables
+	- independent
+	- dependent
+	- controlled
+	- uncontrolled
+- Apparatus
+- Method
+- Risk assessment
+- analysis
+- 
