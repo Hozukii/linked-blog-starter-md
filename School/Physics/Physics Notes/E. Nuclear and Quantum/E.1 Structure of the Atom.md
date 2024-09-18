@@ -152,4 +152,35 @@ $$\rho = \dfrac {Au}{\dfrac 43 \pi \left (R_0 A^{\frac 13}\right)^3} =  \dfrac {
 	- Restricted orbits to certain distances from the nucleus -meaning they did not emit electromagnetic radiation, lose energy and spiral inwards.
 	- Learned in [[D.3 Motion in Electromagnet Fields]]
 - Photons were emitted or absorbed when electrons moved between these energy levels.
-- Bohr showed 
+- Bohr showed that:
+#### $$mvr = \dfrac {nh}{2\pi}$$
+- $r$ - quantized radii
+- $m$ - mass of electron
+- $v$  - speed of electron
+- $n$ - principle quantum number
+- $h$ - plank's constant 
+- $mvr$ - angular momentum - $L$
+- Bohr model combined whit classical physics of circular motion and force of electric attraction with quantum concepts in order to predict the radii of orbits and the energy levels in hydrogen atoms 
+---
+- equating centripetal force and force on electron with the change of electron $e$ :
+$$ \dfrac {mv^2}r = \dfrac {kee}{r^2}$$
+$$\therefore v = \sqrt{\dfrac {ke^2}{mr}}$$
+- putting this equation for angular momentum 
+$$\sqrt{ke^2mr} = \dfrac {nh}{2\pi}$$
+- and rearranging for $r$ 
+$$r = \dfrac {n^2h^2}{4\pi^2ke^2m}$$
+- putting the various values of $n$ lets us predict the radii of possible electron orbits within the hydrogen atom
+- total energy of the atom can be calculated
+- $E_{total}$ = $E_k$ of electron + $E_k$ of proton + electric potential energy.
+	- assuming the electron is orbiting at speed $v$ in a circular orbit of radius $r$ around a proton which is effectively stationary:
+#### $$\text{total energy of a hydrogen atom},\ E_{total} = \dfrac 12 mv^2 + \left(- \dfrac {ke^2}r\right)$$
+- $e$ - elementary charge
+- $v$ - velocity of electron
+- $r$ - radius or orbit
+- $k$ - coulomb's constant
+---
+but we know that 
+$\dfrac {mv^2}r = \dfrac {ke^2}{r^2}$ or $mv^2 = \dfrac {ke^2}r$
+leading to:
+#### $$E_{total} = -\dfrac 12 \dfrac{ke^2}r$$
+- Bohr's model was worse as predicting atoms containing more electrons.
