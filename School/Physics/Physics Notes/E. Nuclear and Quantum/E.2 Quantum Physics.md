@@ -83,4 +83,16 @@ Remember that $\phi$ = $hf_0$
 - In order to verify de Broglie's hypothesis, it was necessary to observe and measure the diffraction of a beam of particles (electrons)
 - In [[C.3 Wave Phenomena]] we have seen that diffraction of light by a diffraction grating can be represented by the equation $n \lambda = d \sin \theta$
 - In principle, other electromagnetic waves can be diffracted into patterns. 
-- 
+- **Davidsson-Germer experiment** - Experiment that verified the wave properties of matter by showing that a beam of electron is diffracted by a crystal (at an angle dependent upon the velocity of the electrons)
+- Since -rays' wavelength is comparable to the separations of atoms / ions. this is the necessary condition for significant diffraction effects .
+  ![[Pasted image 20240919194523.png|300]]
+- When x-rays are diffracted by parallel layers of atoms /ions in a crystal, knowledge of $n$, $\lambda$ and $\theta$ can lead to a determination of $d$, the separation of the layers.
+- De Broglie's hypothesis proposed that electrons can have wavelengths similar to x-rays.
+![[Pasted image 20240919194540.png|300]]
+- A scatted beam of electrons was detected at an angle which confirmed that diffraction was occurring of electron waves with a wavelength consistent with de Broglie's hypothesis.
+![[Pasted image 20240919194558.png|400]]
+- Type of modern apparatus used to demonstrate the diffraction of electrons.
+- two rings are seen, representing constructive interference of electron waves. 
+## Wave-particle duality
+- **wane-particle duality** - In theory, all particles have wave properties and all electromagnetic waves have particle (photon) properties. 
+# Compton scattering 
