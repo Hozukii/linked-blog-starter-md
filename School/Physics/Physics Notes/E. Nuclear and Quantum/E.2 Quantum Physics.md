@@ -16,8 +16,20 @@ Investigation of the photoelectric effect show important observations
 - Different metals have different threshold frequencies
 - The photoelectrons emitted from a particular metal by monochromatic radiation of a know frequency have a range of kinetic energies, up to a well-defined maximum
 ## Explaining the photoelectric effect: the Einstein model
-- The Einstein model explains the photoelectric effect using the cencept of photons
+- The Einstein model explains the photoelectric effect using the concept of photons
 - When a photon interacts with an electron, it transfers all its energy. 
 	- singe  photon interacts with a single electron and the transfer of energy is instantaneous
-- If a photoelectric effect is occuring, increasing the intensity of the radiation only increases the number of photons and photoelectrons, not their individual energies
-- 
+- If a photoelectric effect is occurring, increasing the intensity of the radiation only increases the number of photons and photoelectrons, not their individual energies
+- Energy carried by photon = work done in removing the electron from the surface + kinetic energy of photoelectron 
+	- But energy to required to remove different electrons from the same surface is not always the same.
+	- Electrons closer to the surface will require less energy to remove them.
+	- However:
+- **work function**, $\phi$ - The minimum amount of energy required to free an electron from the attraction of ions in a metal's surface
+	- Different for different surfaces
+- If $hf < \phi$ 
+	- The photoelectric effect cannot occur
+- If $hf > \phi$ 
+	- The photoelectric effect occurs. Photoelectrons produced by different photons will have a range of different kinetic energies because different amounts of work will have been done to release them
+- **Photelectric equation** - The maximum kinetic energy of an emitted photoelectron. 
+#### $$E_{max} = hf - \phi$$
+Remember that $\phi$ = $hf_0$
