@@ -100,3 +100,11 @@ Remember that $\phi$ = $hf_0$
 	- important evidence for the particle nature of electromagnetic radiation
 - The laws of conservation of energy and momentum can be applied to the scattering.
 - The electron gains kinetic energy, so the photon must lose energy. 
+- Since for X-ray photon, $E = hf$, if it loses energy, it must change to a smaller frequency.
+- Applying the laws of conservation of momentum and energy leads to the following equation which accurately predicts the change in wavelength, $\Delta \lambda$ ,f photons (don't need to know how the equation is derived)
+#### $$ \text {compton scattering equation:} \ \lambda_f - \lambda_i = \Delta \lambda = \dfrac h{m_ec}(1-\cos \theta)$$
+- $\theta$ - scattering angle
+- $m_e$ - mass of the electron
+- the electron is assumed to be effectively stationary before being scattered. 
+- Interestingly, the change of wavelength in Compton depends only on the scattering angle, it does not depend on the energy, or wavelength of the incident photon. 
+- The change in wavelength is relatively small. 
