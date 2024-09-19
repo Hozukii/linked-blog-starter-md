@@ -16,4 +16,8 @@ Investigation of the photoelectric effect show important observations
 - Different metals have different threshold frequencies
 - The photoelectrons emitted from a particular metal by monochromatic radiation of a know frequency have a range of kinetic energies, up to a well-defined maximum
 ## Explaining the photoelectric effect: the Einstein model
-
+- The Einstein model explains the photoelectric effect using the cencept of photons
+- When a photon interacts with an electron, it transfers all its energy. 
+	- singe  photon interacts with a single electron and the transfer of energy is instantaneous
+- If a photoelectric effect is occuring, increasing the intensity of the radiation only increases the number of photons and photoelectrons, not their individual energies
+- 
