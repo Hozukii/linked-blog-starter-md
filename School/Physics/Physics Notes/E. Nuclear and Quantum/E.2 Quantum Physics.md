@@ -33,3 +33,20 @@ Investigation of the photoelectric effect show important observations
 - **Photelectric equation** - The maximum kinetic energy of an emitted photoelectron. 
 #### $$E_{max} = hf - \phi$$
 Remember that $\phi$ = $hf_0$
+![[Pasted image 20240919180922.png|300]]
+- From the graph we can deduce that:
+- The gradient is the Plankc's constant 
+- The x-intercept is the threshold frequency
+- A value for the work can be determined from: when $E_{max} = 0$ 
+## Experiments to test the Einstein model 
+### Investigating stopping voltages (potential differences)
+- It is necessary to determine the maximum kinetic energy of the photoelectrons emitted under a variety of different circumstances.
+- In order to do this the kinetic energy must be transferred to another form (measurable) of energy. 
+![[Pasted image 20240919181232.png|400]]
+- Kinetic energy of the photoelectrons can be transferred to electrical potential energy if they are repelled by a negative voltage.
+- Ideally a monochromatic radiation should be use but narrow range of frequencies are fine
+- Any photoelectrons that have enough kinetic energy will be able to move across the tube and reach the other electrode, the anode. 
+- The tube is evacuated so that  electrons do not collide with air molecules.
+- The variable potential difference is connected in reverse. 
+	- there is negative voltage on the anode that will repel the photoelectrons. 
+	- 
