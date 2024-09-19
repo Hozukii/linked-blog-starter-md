@@ -66,5 +66,21 @@ Remember that $\phi$ = $hf_0$
 ![[Pasted image 20240919184059.png|300]]
 - For positive p.d.s, the photoelectric currents remain constant since the kinetic energy does not change meaning the amount of energy each electron has does not change
 - For photoelectric currents, it increases as intensity increases (of the same frequency) because there are more photons releasing more photoelectrons. 
-- Because the maximum kinetic energy of photons depends only on and work function, but not intensity, all these graphs have the same value for stopping voltage 
+- Because the maximum kinetic energy of photons depends only on and work function, but not intensity, all these graphs have the same value for stopping voltage, $V_s$
+##### Frequency
+![[Pasted image 20240919185654.png|300]]
+- Shows photoelectric currents produced by radiation from two monochromatic sources of different frequencies, A and B, incident on the same metal 
+- Individual photons in radiation A must have more energy and produce photoelectrons with a higher maximum kinetic energy 
+# The wave nature of matter
+- **de Broglie's hypothesis** -  All moving particles have wave-like properties 
+#### $$ \text {wavelength of a moving particle,}\lambda = \dfrac hp$$
+- $h$ - Planck's constant
+- $p$ - momentum 
+- moving particle is inversely proportional to its momentum.
+- Planck's constant shows us that wove properties of particles are only significant for those with tiny momenta
+## Evidence for the wave nature of matter 
+- Superposition (interference and diffraction) is behaviour that is characteristic of waves, but not particles
+- In order to verify de Broglie's hypothesis, it was necessary to observe and measure the diffraction of a beam of particles (electrons)
+- In [[C.3 Wave Phenomena]] we have seen that diffraction of light by a diffraction grating can be represented by the equation $n \lambda = d \sin \theta$
+- In principle, other electromagnetic waves can be diffracted into patterns. 
 - 
