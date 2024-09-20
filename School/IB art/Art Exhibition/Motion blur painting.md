@@ -29,4 +29,6 @@ https://www.artsy.net/artwork/robbie-lawrence-untitled-391
 		- Allows for more detail
 		- Doesn't punish experimentation because I can easily go back or work in different layers 
 		- Can precisely change the mixing of tones/colours
-		- 
+		-
+![[Pasted image 20240919225858.png]]
+![[Pasted image 20240919225913.png]]
