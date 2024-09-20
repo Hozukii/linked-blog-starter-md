@@ -1,0 +1,2 @@
+- anti-particles - particles that have their fundamental properties reversed
+- positron - anti particle of electron - looks identical but has positive charge 
