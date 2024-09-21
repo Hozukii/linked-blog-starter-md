@@ -97,4 +97,10 @@ $$ r = \dfrac {mv}{qB}$$
 - Beta particles are attracted to the positive plate
 - A combination of linear speed in one direction and constant perpendicular force produces a parabolic trajectory 
 - The deflection of alpha particles is small in comparison to beta particles
-- 
+## Chart of the nuclides and decay series
+- **Chart of nuclides** - A chart which displays every possible nuclide on axes of proton number and neutron number
+- Changes from transmutation can be tracked on a chart of the nuclides
+- ![[Pasted image 20240921180234.png|350]]
+- **Decay series** - A series of nuclides linked in a chain by radioactive decay
+	- Each nuclide in the chain decays to the next until a stable nuclide is reached
+- The relative proportions of diffent 
