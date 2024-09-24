@@ -40,6 +40,8 @@
 - [[matter-of-fact]]
 - [[Acerbic]]
 - [[conciliatory]]
+- [[caesura]]
+- [[paralipsis]]
 - 
 ## Unpack the metaphor
 - Articulate/ clearly state what the metaphor. 
