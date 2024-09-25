@@ -103,4 +103,34 @@ $$ r = \dfrac {mv}{qB}$$
 - ![[Pasted image 20240921180234.png|350]]
 - **Decay series** - A series of nuclides linked in a chain by radioactive decay
 	- Each nuclide in the chain decays to the next until a stable nuclide is reached
-- The relative proportions of diffent 
+- The relative proportions of different
+![[Pasted image 20240925105449.png|400]]
+
+![[Pasted image 20240925105723.png|400]]
+# Pattern of radioactive decay 
+- Individual nuclei do not decay in any pattern (decays are random) and each decay occurs without any obvious cause, (decays are spontaneous)
+- Paradoxically, such randomness and unpredictability on the scale of individual nuclei, results in predictability when we consider very large number of nuclei
+## Activity of a radioactive source
+- **Activity**,$A$ - The number of nuclei which decay in a given time
+- **Bequierrel, Bq** - The SU unit for activity
+	- 1Bq = one nuclear decay every second
+- The activity of a source is proportional to the number of undecayed atoms it contains undecayed
+- The count rate from a source measured is not the same as its activity 
+	- because equipment can't detect everything
+- **Half-life**, $T_{1/2}$ - The time taken for the activity, or count rate,  from a pure source to be reduced to half
+	- also equal to time taken from the number of radioactive atoms in a pure source to be reduced to half
+![[Pasted image 20240925115142.png]]
+### Experimental determination of half-life
+- In principle, the half-life of any radionuclide can be determined from a graph of count rate against time
+- However it might be difficult
+	- half-lives will usually be too short or too long for convenient measurement
+	- When a nuclide decays it is probable that its daughter product will also be radioactive. 
+		- meaning there will be often two radioisotopes with different half-lives
+## Practical uses of radionuclides
+
+Wide range of uses including:
+- diagnosis of illness
+- treatment of cancer
+- food preservation and sterilization of medical equiment
+- determining the age of rocks
+- 
