@@ -115,6 +115,7 @@ $$ r = \dfrac {mv}{qB}$$
 - **Bequierrel, Bq** - The SU unit for activity
 	- 1Bq = one nuclear decay every second
 - The activity of a source is proportional to the number of undecayed atoms it contains undecayed
+![[Pasted image 20240926081735.png|400]]
 - The count rate from a source measured is not the same as its activity 
 	- because equipment can't detect everything
 - **Half-life**, $T_{1/2}$ - The time taken for the activity, or count rate,  from a pure source to be reduced to half
@@ -131,6 +132,54 @@ $$ r = \dfrac {mv}{qB}$$
 Wide range of uses including:
 - diagnosis of illness
 - treatment of cancer
-- food preservation and sterilization of medical equiment
+- food preservation and sterilization of medical equipment
 - determining the age of rocks
-- 
+- Locating faults in metal structure
+- carbon dating
+- determining thickness
+- smoke detection
+- The choice of a suitable radionuclide for each of these applications requires careful consideration of the health risks involved.
+- **carbon dating** - Using the radioactive decay of carbon-14 to estimate the age of once-living material
+### Medical tracers
+- **tracer (radioactive)** - Radioisotope introduced into a system to track where it goes by detecting the radiation it emits
+	- most common radioactive substance - technetium-99m
+# The energy inside a nucleus
+- **Binding energy** - The energy released when a nucleus is formed from its constituent nucleons
+	- alternative it is equal to the work required to completely separate the nucleons
+	![[Pasted image 20240926082529.png|400]]
+- **Binding energy per nucleon** - measure of the stability of nucleus
+#### $$\text{binding energy per nucleon} = \dfrac{\text{tottal binding energy}}{\text{number of nucleons in the nucleus}}$$
+![[Pasted image 20240926083731.png|400]]
+- How average binding energy per nucleon varies with nucleon number. 
+## Nuclear fission and fusion
+- **Nuclear fission** - Nuclear reaction which a massive nucleus splits into more stable smaller nuclei
+	- total binding energy is greater than the binding energy of the initial nucleus. 
+
+- **Nuclear fusion** - combination of two small nuclei to produce a more massive singe nucleus
+	- binding energy is greater than the combined binding energies of the nitial nuclei, with the release of energy
+### Mass-energy equivalence 
+- Einstein's implication is that particles (at rest) have intrinsic energy $$E = mc^2$$
+- mass and energy are both but different manifestations of the same thing
+
+### Units of measurement for masses of atomic particles
+- Rest mass - mass of an isolated particle that is at rest relative to the observer
+- **Atomic mass unit (amu)**, $u$ - exactily 1/12 of an mass of an isolated carbon-12 atom:
+	- $1u = 1.661 \cdot 10^{-27}kg$
+	- $1u$ corresponds to $9.315 \cdot 10^8 eV$
+### Nuclear reaction involve changes of mass
+- If a nucleon system becomes more stable, energy is released, total mass decreases and the total binding energy increases (because the nucleons have become harder to separate)
+### Mass defect
+- **mass defect** - The difference in mass between a nucleus and the total mass of its nucleons if they were separated
+	- Equal to nuclear binding energy
+# The strong nuclear force and nuclear stability
+- In a stable nucleus, we can consider that very short-range attractive strong forces are balanced by the longer range repulsive electric forces
+- The stability of a nuclide depends on the ratio of neutrons to protons in its nucleus
+ ![[Pasted image 20240926091841.png|200]]
+ ![[Pasted image 20240926091856.png|500]]
+- Shows the chart of nuclides. 
+- blue are stable nuclides. The others have been created artificially.
+- Green are well-known radionuclides 
+ ![[Pasted image 20240926092026.png|350]]
+ - For nuclides with $Z< 20$, stable nuclides have $N/Z \approx 1$
+ - For larger nuclides $N/Z$ gradually increases to a maximum of about 1.5
+ - 
