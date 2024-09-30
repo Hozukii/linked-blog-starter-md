@@ -112,6 +112,7 @@ $$ r = \dfrac {mv}{qB}$$
 - Paradoxically, such randomness and unpredictability on the scale of individual nuclei, results in predictability when we consider very large number of nuclei
 ## Activity of a radioactive source
 - **Activity**,$A$ - The number of nuclei which decay in a given time
+$$A = \dfrac {\Delta N}{\Delta t}$$
 - **Bequierrel, Bq** - The SU unit for activity
 	- 1Bq = one nuclear decay every second
 - The activity of a source is proportional to the number of undecayed atoms it contains undecayed
@@ -182,4 +183,74 @@ Wide range of uses including:
  ![[Pasted image 20240926092026.png|350]]
  - For nuclides with $Z< 20$, stable nuclides have $N/Z \approx 1$
  - For larger nuclides $N/Z$ gradually increases to a maximum of about 1.5
- - 
+	 - As elements get heavier, they require a higher number of neutrons to offset the increasing electrostatic repulsion between the more abundant protons. 
+### Variations in binding energy per nucleon
+- Adding more nucleons to a nucleus clearly increases its total binding energy
+	- but average binding per energy also varies
+![[Pasted image 20240927100925.png|500]]
+- Iron-56 is the most stable
+- adding neutrons larger than nuclei with A > 56 increases the total binding energy, but has little effect on the binding energy per nucleon
+- Adding more nucleons increases the binding energy per nucleon because it has more things to bind with but at a certain point this effect is offset by the electromagnetic force
+# What can we learn from the spectra of alpha, beta and gamma radiations?
+## Alpha particle spectrum
+- Many radionuclides wchi emit alpha particles, only emit one precise energy
+- some can emit alpha particles with different energy
+- **Alpha particle spectrum** - The range of discrete energies possessed by alpha particles emitted from the same radionuclide
+- alpha parnicle emitted for Americium-241 will have one of the following energies
+	- 5.389MeV (1%)
+	- 5.443 (12.5%)
+	- 5.486 MeV(86.0%)
+	- 5.512 MeV (0.2%)
+	- 5.545 MeV(0.3%)
+- Energies are discrete
+- It's possible because can be left in its ground state, or in one of several discrete excited states
+![[Pasted image 20240927104206.png]]
+## Gamma ray spectrum
+- **Gamma ray spectrum** - Range of discrete photon energies that may be emitted from a single radionuclide
+![[Pasted image 20240927104622.png|200]]
+-  The discrete energy levels of nuclei are the reason why alpha particles and gamma rays are emitted with discrete energies
+## Beta particles spectrum 
+- **Beta particle spectra** - The continuous range of different energies emitted from the same radionuclide
+![[Pasted image 20240927105451.png]]
+- The emission of a beta particle involves another particle. This particles may travel in random directions, so that a continuous range of beta particle energies is possible
+# Radioactive decay in more mathematical detail
+- We can determine values of activity, or count rate, any time, not just for times which for times which are whole number multiples of the half-life
+	- for example we can know the activity of a source, which has half-life of 5.3 years in a year's time
+- If a rate of change is always proportional to the, it is described as an exponential change $$ \dfrac {\Delta N}{\Delta t} \propto N$$
+#### $$\dfrac {\Delta N}{\Delta t} = - \lambda N$$
+- $\Delta N$ - change in quantity of nucleus
+- $\Delta t$ - change in time
+- $N$ - quantity of nucleus 
+- $\lambda$ - decay constant - probabilty of a nucleus decaying per unit time:
+$$ \lambda = -\dfrac{\Delta N/N}{\Delta t}$$
+ Si unit: $s^{-1}$
+ 
+- We saw from [[#Activity of a radioactive source]] that:
+	- $A = \dfrac{\Delta N}{\Delta t}$ therefore:
+#### $$ \text{activity}, A = \lambda N$$
+## Solutions to the decay equation
+
+#### $$\text{number of undecayed nuclei}, N = N_0 e^{-\lambda t}$$
+- $N_0$ - represents the number of undecayed nuclei in a source at the beginnig
+- $t$ - time 
+- $N$ - undecayed nuclei at the end of time $t$
+#### $$\text{activity},A = \lambda N_0 e^{-\lambda t}$$
+#### $$\text{count rate}, C = C_0 e^{-\lambda i}$$
+![[Pasted image 20240927132437.png|300]]
+-  We could use the ratio $\dfrac X {4\pi r^2}$ to determine the fraction of radiation emitted that arrives at the detector, 
+- but that would assume:
+	- no radiation was absorbed between the source and the detector
+	- The radiation was emitted equally in all direction
+## Decay constant and half-life
+- substituting $t = T_{1/2}$ to $N = N_0 e^{-\lambda t}$
+$$ \dfrac {N_0}2 = N_0 e^{-\lambda T_{1/2}}$$
+$$ \therefore \ln 2 = \lambda T_{1/2}$$
+- we get:
+#### $$ T_{1/2} = \dfrac{\ln 2}{\lambda}$$
+### experimental determination of half-life
+##### Radioisotopes with relatively short half-lives
+- The decay constant can be determined directly from $C = C_0 e^{-\lambda t}$
+![[Pasted image 20240930125810.png|300]]
+##### radioisotopes with relatively long half-lives
+- We can use $A = \lambda N$
+- $N$ can be determined using $\dfrac {mN_A}{\text{relative atomic mass}}$
