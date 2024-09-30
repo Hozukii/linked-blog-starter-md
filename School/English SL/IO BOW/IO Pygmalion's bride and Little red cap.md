@@ -7,3 +7,5 @@ submissive and innocent portrayal of young women for "little red cap"
 women to express 
 
 Tron Legacy
+
+- The stereotypical representation of women especially the submissive and innocent portrayal created by the media and expressed in society leads to unbalanced power structures and 
