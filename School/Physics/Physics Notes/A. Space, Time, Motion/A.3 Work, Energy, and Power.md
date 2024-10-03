@@ -105,7 +105,7 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 - **Energy density**, $E_D$ - the amount of energy that can be transferred from each cubit metre
 	- Si unit: $Jm^{-3}$
 - When discussing gaseous energy resources, it is more common to use **specific energy**, which is the amount of energy that can be transferred from each kilogram. 
-
+- Energy density is energy transferred per *volume* while specific energy is energy transferred per *mass*
 
 
 
