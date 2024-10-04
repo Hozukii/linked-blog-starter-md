@@ -80,3 +80,49 @@ $$ \ce{^3_2 He} + \ce{^3_2 He} \to \ce{4_2} + 2 \ce{^1_1 H}$$---
 - **Supernova** - Sudden and very luminous explosion of a massive star, resulting in a neutron star or black hole
 	- Happens for stars with mass between 8 and 20 solar masses
 	- 
+## Evolution on a HR diagram
+![[Pasted image 20241005002735.png|600]]
+- Shows a more detailed HR diagram with other types of stars included
+- **Evolutionary path** - The evolution of a star as drawn on a Hertzsprung-Russell diagram
+- **Instability strip** - A region of the Hertzsprung-Russel diagram containing pulsating, variable stars
+![[Pasted image 20241005002913.png|300]]
+# Distances form Earth to stars
+- In topic [[B.1 Thermal Energy transfers]] We leaned $b = \dfrac L{4\pi d^2}$ this can be used to find distance from the Earth
+- Problem is we have no direct way of knowing their luminosities.
+- Astronomers have identified a few "standard candles" which have known luminosities wherever they are located. 
+## Distances to "nearby" stars
+- If very precise measurements are made of "nearby" stars, their positions are observed to move very slightly (forwards and backwards) during the course of a year. This is called stellar parallax
+- **Stellar parallax** - Method of determining the distance to a nearby star from measurements of its parallax angle
+- It only measures accurately for stars less than about 300 ly from Earth
+- Using a telescope, astronomers measure the parallax angle, $p$,between, for example of stars made in December and June
+![[Pasted image 20241005003704.png|]]
+
+- The parallax angle is so tiny so that they are measured in **arc-seconds**
+	- **arc-seconds** - Angle which is 1/3600 of one degree
+#### $$\text{parallax angle, } p \text{ (rad)} = \dfrac {1.50 \cdot 10^{11}}{d(m)}$$
+
+- Assuming $p$ is $\sin p$ which is $\tan p$ for very small angles
+#### $$\text{distance, } d \text{(parsec)} = \dfrac 1 {p \text{(arc-second)}}$$
+### Summary of the non-SI units used in astronomy
+![[Pasted image 20241005004624.png]]
+
+## The age of an expanding Universe 
+- In [[C.5 Doppler effect]] The speed of stars and galaxy away from Earth can be determined from the doppler shifts of radiation received from the on Earth. 
+![[Pasted image 20241005004742.png|400]]
+- Assuming that all the stars began moving at the time of the Big bang, an estimate for the Universe can be determined from the gradient of this graph, by $v = \dfrac {\text{distance}}{\text{time}}$
+using the graph:
+$$1 \cdot 10 ^4 kms^{-1} = \dfrac {140Mpc}{time}$$
+- Converting to SI units
+$$10^7 = \dfrac {140 \cdot (3.09  \cdot 10^{22})}{t}$$
+$$ \therefore t = 4.3 \cdot 10^{17}s = 1.4 \cdot 10^{10}\text y$$
+# The creation of different elements
+- **Nucleosynthesis** - Creation of new nuclides from existing, less massive, nuclei 
+- Higher temperatures are needed for nucleosynthesis, and these exist in the cores of red giants and super gaints
+- Red giants (formed from main sequence star mass less than $4M_\odot$)
+	- core can reach $10^8K$ large enough for nucleosynthesis of carbon and oxygen
+- larger red giants (formed from main sequence star mass between $4 M_\odot$ - $8M_\odot$)
+	- core can exceed $10^9K$ large enough for nucleosynthesis of neon and magnesium
+- Red super giant stars (formed from main sequence stars mass greater than $8M_\odot$)
+	- Enough temperature for nucleosynthesis of elements as heavy as silicon and iron
+- 
+
