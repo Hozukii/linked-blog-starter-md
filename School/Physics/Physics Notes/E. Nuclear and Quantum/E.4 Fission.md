@@ -1,4 +1,4 @@
-# Nuclear Fission
+ Fission
 - **Fission fragments** - The nuclei produced in a fission reaction
 	- typically gamma rays and neutrons
 - Nuclear fission can sometimes be a spontaneous (random, without cause)from of radioactive decay of very massive nuclei 
@@ -34,4 +34,41 @@
 - The remaining uranium is called *depleted uranium*
 ### Critical mass
 - **Critical mass** - The minimum mass needed for a self-sustaining nuclear chain reaction
-- 
+- The ratio of volume to surface area of a solid increases as it gets larger. This means more fission
+- The critical mass can be reduced by surrounding the material with neutron reflectors
+### Moderator 
+- **Moderator** - Material used in a nuclear reactor to slow down neutrons to low energies and enable nuclear fission. 
+- Neutrons released in fission has energy typically more than1 MeV.
+	- Before a chain reaction can occur, the energy needs to be slowed down to energies of less than 1eV.
+- To lose so much kinetic energy, they are collided with particles. 
+- Particles of similar mass transfer higher rate of kinetic energy. 
+	- That is why small mass are preferable for this process of moderation. 
+	- Commonly hydrogen atoms in water or graphite
+## Essential features of a nuclear reactor
+![[Pasted image 20241003190925.png|500]]
+- figure is a type of nuclear reactor that uses water as moderator and to transfer thermal energy to a heat exchanger
+- **Heat exchanger** - Apparatus designed to efficiently transfer energy from one system to another
+### Controlling the rate of fission
+- **Control rods** - Used for adjusting the rate of fission reactions in nuclear reactors by adsorbing more, or fewer, neutrons
+	- Through moving the rods up and down, into or out. 
+	- Made of material such as boron which is excellent at absorbing / capturing neutrons
+### Shielding 
+- Nuclear reactors radiate large quantities of alpha , beta and gamma rays, as well as neutrons
+- **Shielding** - Protective barrier around a nuclear reactor designed to absorb and reflect dangerous radiation.
+### Safety issues 
+- A thermal meltdown is probably the most serious possible consequence of a nuclear accident. 
+- The core can overheat or even melt causing fires and explosion.
+- Highly concentrated and dangerous radioactive materials may then be released in everything. 
+## Waste materials from nuclear reactors
+- **Nuclear waste** - Radioactive materials associated with the production of nuclear power that are no longer useful, and which may have to be stored safely for a long period of time
+- First step is usually storage on site in water ponds to allow time for the initial decrease in radioactivity and thermal energy 
+- High level nuclear waste is often secured underground in strong and secure containers 
+# Energy density of nuclear fuels
+- it is one of the major advantages of nuclear power that the fuels have exceptionally high-energy density
+## Advantages and disadvantages of nuclear power
+
+| Advantages                                                                                                                                                                                                                                                                                                                                        | Disadvantages                                                                                                                                                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Extreme high-energy density<br>No greenhouse gases emitted during routine operation<br>No chemical pollution during operation<br>reasonably large amount of nuclear fuels are still available<br>Despite a few serious incident, statistically over the last 50 years, nuclear power has overall proven to be a reasonable safe energy techonlogy | Dangerous and very long-lasting radioactive waste products<br>Expensive<br>Efficiency is not high when the whole process is taken into account<br>Threat of serious accidents<br>possible target for terrorists<br>linked with nuclear weapons<br>Not a renewable source |
+
+

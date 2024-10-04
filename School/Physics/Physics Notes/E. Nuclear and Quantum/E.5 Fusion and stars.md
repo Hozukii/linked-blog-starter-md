@@ -1,3 +1,4 @@
+
 # Nuclear fission
 - we looked at fusion briefly in [[E.3 Radioactive Decay]]
 - Nuclear fusion involves changing to a more stable system, with an increase in binding energy and the release of energy, mostly in the form of kinetic energy
