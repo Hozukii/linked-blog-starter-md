@@ -3,6 +3,8 @@
 - With my interest in technology and design, I think that knowing the volume of a certain mouse shape could be interesting. Its application can be seen in estimating the amount of volume a mouse has in order to fit a certain amount of sensors and battery.
 ### What is to be done  
 - By using double integration and slicing the mouse into different sections, since the mouse is flat on the bottom of the mouse, a approximate model for the mouse can be found in order to model and calculate the volume of the mouse. 
+- The mouse wheel will be ignored
+- 
 ### What needs to be done. 
 - How to choose the interpolation points
 	- Chebyshev's nodes
