@@ -32,4 +32,5 @@ link back to global issue
 - Literary work - Little red cap by Carol Ann Duffy
 - Non-literary Work - Tron:Legacy by Joseph Kosinski under Disney
 
-Today in this individual oral, I would like the global issue of gender, more specifically, I'm here to discuss how 
+Today in this individual oral, I would like to talk the global issue of gender, but more specifically, how the stereotypical representation of women as submissive and innocent created by the media and reflected in society leads to imbalance of relationship dynamics, and I'm going to explore this through 2 works. 
+The first is a poem called "Little red cap" by Carol Ann Duffy 
