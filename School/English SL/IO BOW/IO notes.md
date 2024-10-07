@@ -26,7 +26,10 @@ today in this...
 the global issue of ... more specifically   ...
 I will do this through 2 works 
 the first is a poem by...  (brief descrpition of person and work ) the second is a film ...
+link back to global issue
 
 # Script
 - Literary work - Little red cap by Carol Ann Duffy
 - Non-literary Work - Tron:Legacy by Joseph Kosinski under Disney
+
+Today in this individual oral, I would like the global issue of gender, more specifically, I'm here to discuss how 
