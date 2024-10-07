@@ -38,7 +38,15 @@ The second work I chose is a a poem called "Little red cap" by Carol Ann Duffy f
 Both works show how stereotypical portrayal of women leads to imbalances in relationship dynamics. 
 
 include why it's relevant...
+choose which one comes first
 ( about 1 min )
+
+
+Literary work overall:
+- Carol Ann Duffy challenges the trope of innocent young girl being exploited by older guys 
+	- makes the audience question about their notion of gender power dynamics especially between different age
+- The allusion to little red riding hood:
+	- 
 
 
 
