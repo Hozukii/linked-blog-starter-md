@@ -33,4 +33,5 @@ link back to global issue
 - Non-literary Work - Tron:Legacy by Joseph Kosinski under Disney
 
 Today in this individual oral, I would like to talk the global issue of gender, but more specifically, how the stereotypical representation of women as submissive and innocent created by the media and reflected in society leads to imbalance of relationship dynamics, and I'm going to explore this through 2 works. 
-The first is a poem called "Little red cap" by Carol Ann Duffy 
+The first work is a poem called "Little red cap" by Carol Ann Duffy from her 1999 collection  "The World's wife". Even from the title it's evident that it's a reference to little red riding hood which is a old tale about a innocent young girl being tricked and eaten by a wolf. 
+The second work I chose is a science fiction film by Disney called "Tron Legacy" which 
