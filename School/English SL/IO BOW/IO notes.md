@@ -1,5 +1,5 @@
 https://www.reddit.com/r/IBO/comments/16228y8/guide_to_a_7_on_your_english_langlit_io/
-
+https://litlearn.com/ib-english-io-explained/
 # Structure
 - **Introduction** (1 minute): 
 	- outline global issue
@@ -21,7 +21,9 @@ https://www.reddit.com/r/IBO/comments/16228y8/guide_to_a_7_on_your_english_langl
 PEE - point, evidence, explanaiton
 
 ---
+# Example notes
+today in this...
+the global issue of ... more specifically   ...
 # Script
 - Literary work - Little red cap by Carol Ann Duffy
 - Non-literary Work - Tron:Legacy by Joseph Kosinski under Disney
-- 
