@@ -36,6 +36,8 @@ Today in this individual oral, I would like to talk the global issue of gender, 
 The first work is science fiction film by Disney called "Tron Legacy" in which the protagonist travels into a digital world, there he meets the deuteragonist of film a women shaped computer algorithm who acts as love interest in the romantic subplot. 
 The second work I chose is a a poem called "Little red cap" by Carol Ann Duffy from her 1999 collection  "The World's wife". Even from the title it's evident that it's a reference to little red riding hood which is a old tale about a innocent young girl being tricked and eaten by a wolf. 
 Both works show how stereotypical portrayal of women leads to imbalances in relationship dynamics. 
+
+include why it's relevant...
 ( about 1 min )
 
 
