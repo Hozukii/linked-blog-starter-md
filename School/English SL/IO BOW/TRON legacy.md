@@ -4,8 +4,9 @@
 - Sometimes she is portrayed in a childish way where she doesn't know a lot and is curious but innocent 
 - she is a program, an algorithm. The movie portrays her as innocent through the setting. 
 - While her mind is naive and innocent she is physically sexualized. 
--  Made by disney - a company focused on making media for primarily kids
+-  Made by Disney - a company focused on making media for primarily kids
 - although the movie is set in a different society than the one on earth, the stereotypes and gender roles are still primarily prevalent 
+- TALK ABOUT HOW SHE IS SEXUALIZED MISE EN SCENE CUH
 ![[Pasted image 20240925090221.png]]
 - composition 
 	- The woman fills the whole screen while man shields behind woman 

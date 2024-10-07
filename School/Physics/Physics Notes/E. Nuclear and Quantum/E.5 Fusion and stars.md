@@ -79,4 +79,13 @@ $$ \ce{^3_2 He} + \ce{^3_2 He} \to \ce{4_2} + 2 \ce{^1_1 H}$$---
 - Red super giants do not evolve into white dwarf stars because their electron degeneracy pressure is insufficient. 
 - **Supernova** - Sudden and very luminous explosion of a massive star, resulting in a neutron star or black hole
 	- Happens for stars with mass between 8 and 20 solar masses
-	- 
+## Evolution on a HR diagram
+
+![[Pasted image 20241004131821.png|600]]
+- **Evolutionary path** - The evolution of a star as drawn on a Hertzsprung-Russel diagram
+- **Instability strip** A region of the Hertzsprung-Russel diagram diagram containing pulsating, variable stars
+- The changes to stars which happen after the end of their main sequence liftems can be tracked on an HR diagram
+![[Pasted image 20241004135325.png|300]]
+# Distance from Earth to stars
+- In [[B.1 Thermal Energy transfers]] we know the luminosity, $L$ of any star , the equation $b = \dfrac L {4\pi d^2}$ can be used to determine its distance from Earth, $d$ if we measure its apparent brightness $b$ 
+- 
