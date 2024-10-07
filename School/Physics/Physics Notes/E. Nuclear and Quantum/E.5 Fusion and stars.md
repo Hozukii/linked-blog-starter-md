@@ -1,4 +1,4 @@
-# Nuclear fission
+p# Nuclear fission
 - we looked at fusion briefly in [[E.3 Radioactive Decay]]
 - Nuclear fusion involves changing to a more stable system, with an increase in binding energy and the release of energy, mostly in the form of kinetic energy
 ![[Pasted image 20241004100341.png|300]]
@@ -137,5 +137,3 @@ $$ \therefore t = 4.3 \cdot 10^{17}s = 1.4 \cdot 10^{10}\text y$$
 - Red super giant stars (formed from main sequence stars mass greater than $8M_\odot$)
 	- Enough temperature for nucleosynthesis of elements as heavy as silicon and iron
 - 
-
->>>>>>> origin/main
