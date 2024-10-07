@@ -46,7 +46,10 @@ Literary work overall:
 - Carol Ann Duffy challenges the trope of innocent young girl being exploited by older guys 
 	- makes the audience question about their notion of gender power dynamics especially between different age
 - The allusion to little red riding hood:
-	- 
+	- the protagonist - little girl
+	- the man - the wolf 
+- The fact that she is self-aware makes it clear to the audience what type of relationship the man is hoping for. 
+- 
 
 
 
