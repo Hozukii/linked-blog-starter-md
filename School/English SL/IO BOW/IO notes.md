@@ -43,12 +43,18 @@ choose which one comes first
 
 
 Literary work overall:
+- In World's wife references many western tales and mythologies 
+	- By alluding to the references that the audience is familiar with, it contrasts the problems she brings up with the original 
+- for example in Pygmalion's bride, Duffy personifies the statue as a 
+
+
 - Carol Ann Duffy challenges the trope of innocent young girl being exploited by older guys 
 	- makes the audience question about their notion of gender power dynamics especially between different age
 - The allusion to little red riding hood:
 	- the protagonist - little girl
 	- the man - the wolf 
-- The fact that she is self-aware makes it clear to the audience what type of relationship the man is hoping for. 
+- The fact that she is self-aware makes it clear to the audience what type of relationship the man is hoping for.
+	- and makes the audience question the conventional trope that is apparent in media and society
 - 
 
 
