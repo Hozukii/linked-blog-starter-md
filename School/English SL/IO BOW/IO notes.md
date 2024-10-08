@@ -40,6 +40,7 @@ Both works show how stereotypical portrayal of women leads to imbalances in rela
 include why it's relevant...
 choose which one comes first
 ( about 1 min )
+First looking at "The world's wife" collection by Duffy, the poems references many western tales and mythologies seen in works like "Little red cap" and "Pygmalion's bride". By alluding these famous stories that the audience are familiar with, she challenges and highlights the issues in the story and society as a whole. For example, in "Pygmalion's bride". The original story of Pygmalion is that he builds the perfect female sculpture. Duffy personifies the sculpture allowing her to highlight the lack of power women have in their relationships and that they are expected to do what the man wants, by acting submissive. Looking at "Little red cap", she alludes to "Little red riding hood" a classic story of predator and prey. In her poem, the protagonist is the little girl and the older man is the wolf. Duffy, challenges the notion of predator and prey in the context of a innocent young girl being exploited by older guys by 
 
 
 Literary work overall:
