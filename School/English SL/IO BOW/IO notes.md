@@ -48,6 +48,7 @@ Through allusion to little riding hood, and telling the story through the lens o
 
 
 
+
 Literary work overall:
 - In World's wife references many western tales and mythologies 
 	- By alluding to the references that the audience is familiar with, it contrasts the problems she brings up with the original 
