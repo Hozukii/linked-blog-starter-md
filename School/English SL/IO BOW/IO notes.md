@@ -46,6 +46,8 @@ Through allusion to little riding hood, and telling the story through the lens o
 
 
 
+
+
 Literary work overall:
 - In World's wife references many western tales and mythologies 
 	- By alluding to the references that the audience is familiar with, it contrasts the problems she brings up with the original 
@@ -58,8 +60,20 @@ Literary work overall:
 - The fact that she is self-aware makes it clear to the audience what type of relationship the man is hoping for.
 	- and makes the audience question the conventional trope that is apparent in media and society
 Literary work extract analysis:
+- Context to the scene
+- Authorial device
+- extract
+- effect on reader 
+- References to the global issue
 
+- Metaphor
+	- Teacher student dynamic
+- Allusion
+	- Through the allusion and , she subverts the original dynamic of predator and prey by emphasizing her curiosity
+- Imagery
+	- The anaphora of imagery
 
+- 
 
 
 
