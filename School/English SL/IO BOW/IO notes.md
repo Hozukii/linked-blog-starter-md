@@ -52,7 +52,7 @@ Moving on to line 14 to 15, Duffy states "The wolf, I knew, would lead me deep i
 She further challenges the balance in power dynamics in the last stanza through line 37 to 38. She writes, "To a willow to see how it wept. I took an axe to a salmon. To see how it leapt. I took an axe to the wolf". Through the use of parallelism, "I took an axe to a salmon" and "I took an axe to the wolf", Duffy emphasizes the gain of power throughout the relationship. While the speaker has throughout the poem made her intentions clear, this is an critical moment since for the first time, she takes external action explicitly exercising her power in the relationship.  
 or talk about the teacher student relationship
 
-Moving to my non-literary work, 
+Moving to my non-literary work, the 
 
 
 
