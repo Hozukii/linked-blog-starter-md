@@ -49,7 +49,10 @@ Now looking into extracts in  17 to 18, Duffy uses imagery as a way to communica
 
 Moving on to line 14 to 15, Duffy states "The wolf, I knew, would lead me deep into the wood, Away from home, to a dark tangled thorny place". The allusion to "little red riding hood" more specifically to how the little girl was lured into the forest and later eaten is a symbol for how women are seen as easy target to manipulate and exploit because of the stereotype built throughout time, as innocent. This leads men to believe that they should hold more power over the women in the relationship leading to imbalances in power dynamics. However, use of caesura, the short but powerful "I knew" in the line make it clear to the audience that Duffy is challenging the stereotype, by not victimizing the speaker, and the audience understands that she is not the one being exploited but the opposite is true. 
 
-She further challenges the balance in power dynamics through line 37 to 38. She writes, "To a willow to see how it wept. I took an axe to a salmon. To see how it leapt. I took an axe to the wolf". Through the use of parallelism, "I took an axe to a salmon" and "I took an axe to the wolf", she emphasizes to the audience that 
+She further challenges the balance in power dynamics in the last stanza through line 37 to 38. She writes, "To a willow to see how it wept. I took an axe to a salmon. To see how it leapt. I took an axe to the wolf". Through the use of parallelism, "I took an axe to a salmon" and "I took an axe to the wolf", Duffy emphasizes the gain of power throughout the relationship. While the speaker has throughout the poem made her intentions clear, this is an critical moment since for the first time, she takes external action explicitly exercising her power in the relationship.  
+or talk about the teacher student relationship
+
+Moving to my non-literary work, 
 
 
 
