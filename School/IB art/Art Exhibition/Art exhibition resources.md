@@ -35,3 +35,7 @@ A man climbing a mountain, he is focused on the peak he sees nothing but the pea
 Drawing 
 
 Deformation of the human form. 
+
+https://hifructose.com/2020/01/30/telmo-miel-brings-collaborative-paintings-to-thinkspace/
+
+Yoshitaka Amano (Angel's egg)
