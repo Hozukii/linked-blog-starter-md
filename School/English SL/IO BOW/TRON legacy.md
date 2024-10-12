@@ -15,7 +15,7 @@
  - 
 ![[Pasted image 20240924213454.png]]
 - The woman leans towards the man
-- contrast in body position emphasizing the height difference
+	- contrast in body position emphasizing the height difference
 	- she is cowering although she has never been afraid of physical combat
 - physical dependency
 - Climax of the scene
