@@ -1,7 +1,7 @@
 - Coming of age story, young girl first sexual experience with older man
 - Protagonist travels into digital world meets the deuteragonist of the film (romantic subloplot)
 - Relevant because the media we consume shape our actions, thought process, and societal norms, whether we are conscious of it or not
-- references many western tales and mythologies - by alluding she challenges, higlights the issues in story and society
+- references many western tales and mythologies - by alluding to familiar stories she challenges, higlights the issues in story and society
 - Pygmalion's bride - personifies the sculpture - lack of power - doing what is expected
 - Little red cap - alludes to... - first person perspective - inner thoughts
 - allusion & lens of the protagonist - highlights how women are restricted in their self expression - leading to imbalance
