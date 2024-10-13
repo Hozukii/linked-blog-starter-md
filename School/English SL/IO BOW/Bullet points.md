@@ -5,5 +5,7 @@
 - 
 Extract:
 - line 17 to 18 - imagery - physical difference in power - purposely leaves out subject-verbs to dehumanize - inclined to imagine - raveges 
-- parataxis - intensity of the events - commands or orders 
-- overall difference in physical power in the relationhip
+- parataxis - intensity of the events - commands or orders - overall difference in physical power in the relationhip
+- 14 to 15 - allusion - specifically lured into to forest - symbol for easy target for manipulation because of stereotype - leads men to believe
+- caesura - clear to the audience - challing - not victimising the speaker 
+- further challenges the dynamics - 37 to 38 - emphasizes the gain 
