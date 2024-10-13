@@ -6,3 +6,7 @@
 - Little red cap - alludes to... - first person perspective - inner thoughts
 - allusion & lens of the protagonist - highlights how women are restricted in their self expression - leading to imbalance
 - 
+Extract:
+- line 17 to 18 - imagery - physical difference in power - purposely leaves out subject-verbs to dehumanize - inclined to imagine - raveges 
+- parataxis - intensity of the events - commands or orders 
+- overall difference in physical power in the relationhip
