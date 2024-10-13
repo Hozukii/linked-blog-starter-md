@@ -9,3 +9,6 @@ Extract:
 - 14 to 15 - allusion - specifically lured into to forest - symbol for easy target for manipulation because of stereotype - leads men to believe
 - caesura - clear to the audience - challing - not victimising the speaker 
 - further challenges the dynamics - last stanza 37 to 38 - emphasizes the gain 
+- non-lit work - prime example - because directed by and geared towards men - rules of society is different but gender roles are still prevelant
+- Every woman except quorra is a servant or sectrataries - forces women to submit - the audience (impressionable young boys) led to believe the unbalanced relationhsip is natural as they see
+- quorra - plages her characeter - typcially storng but mentally innocent and naive - setting - physical and mental attributes - little girl in a body of a young women
