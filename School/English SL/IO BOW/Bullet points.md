@@ -1,4 +1,4 @@
-- references many western tales and mythologies - by alluding to familiar stories she challenges, higlights the issues in story and society
+- references many western tales and mythologies - by alluding to familiar stories she challenges... - original story of pygmalion - lack of power and doing what is expected.
 - Pygmalion's bride - personifies the sculpture - lack of power - doing what is expected
 - Little red cap - alludes to... - first person perspective - inner thoughts
 - allusion & lens of the protagonist - highlights how women are restricted in their self expression - leading to imbalance

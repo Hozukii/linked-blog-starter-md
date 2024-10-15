@@ -47,55 +47,19 @@ Now looking into extracts in 17 to 18, Duffy uses imagery as a way to communicat
 
 Moving on to line 14 to 15, Duffy states "The wolf, I knew, would lead me deep into the wood, Away from home, to a dark tangled thorny place". The allusion to "little red riding hood" more specifically to how the little girl was lured into the forest and later eaten is a symbol for how women are seen as easy target to manipulate and exploit because of the stereotype built throughout time, as innocent. This leads men to believe that they should hold more power over the women in the relationship leading to imbalances in power dynamics. However, use of caesura, the short but powerful "I knew" in the line make it clear to the audience that Duffy is challenging the stereotype, by not victimizing the speaker, and the audience understands that she is not the one being exploited but the opposite is true. 
 
-She further challenges the balance in power dynamics in the last stanza through line 37 to 38. She writes, "To a willow to see how it wept. I took an axe to a salmon. To see how it leapt. I took an axe to the wolf". The slaughtering of the wolf is a symbolism for the young girl's gaining back her control and authority. Through the use of parallelism, "I took an axe to a salmon" and "I took an axe to the wolf", Duffy emphasizes the gain of power throughout the relationship. While the speaker has throughout the poem made her intentions clear, this is an critical moment since for the first time, she takes external action explicitly exercising her power in the relationship.  Duffy points out the imbalance in power dynamics seen in popular media and challenges the stereotypes through 
+She further challenges the balance in power dynamics in the last stanza through line 37 to 38. She writes, "To a willow to see how it wept. I took an axe to a salmon. To see how it leapt. I took an axe to the wolf". The slaughtering of the wolf is a symbol for how the young girl gained back her control and authority. Through the use of parallelism, "I took an axe to a salmon" and "I took an axe to the wolf", Duffy emphasizes this gain of control throughout the relationship. While the speaker has throughout the poem made her intentions clear, this is an critical moment since for the first time, she takes external action explicitly exercising her power in the relationship.  Duffy points out the imbalance in power dynamics seen in popular media and challenges this through the poem to encourage other women to also take action. 
 
 Moving to my non-literary work, the Sci-fi "Tron: legacy" is a prime example of the stereotypical representation of a women that are seen in films especially in science fiction films as they are often directed by men and consequently their desires. While the film takes place in virtual world, where the rules of society are different from that of Earth, gender roles are still prevalent throughout the film. Every woman in the film with the exception of  Quorra, the deuteragonist who is also the love interest to the protagonist, are essentially servants or secretaries to male "shaped" algorithm. As these are roles that forces the women to submit towards their superior pushing the notion that men should be in a higher authority than women. The audience, impressionable young men, are led to believe that an unbalanced power dynamics in relationships are natural as those are the type of relationships seen in media. 
 Additionally, even for the exception, quorra, the stereotype still plagues her character. She is physically strong, however she is mentally innocent and naive. The film employs the setting to justify her character. As she is an algorithm in a shape of a mature woman, certain physical and mental attributes can be developed while some can remain undeveloped. At times, she is essentially a little girl in a body of a young woman. 
-The childish demeanor of hers can particularly be seen in the first extract.  The first screenshot shows the deuteragonist , and the protagonist in the scene. In the scene, she eagerly asks a question to the protagonist, who responds with a distracted and indifferent answer. Although hard to see from the screenshot, Quorra is hugging the book like a child. Looking at the composition, the protagonist is placed in the forefront while she is placed in the background behind the protagonist. The composition places more importance on the protagonist over her even when she is the one talking. Additionally, guiding lines in the form of led lights are used in the scene guiding the eyes of the audience to notice the difference in importance. Her innocent childish personality at times leads there to be a difference in dynamics between the two characters. 
-
-The power dynamics between the two is further seen when screenshot 2 and 3 is contrasted. In the second screenshot, Quorra takes up the composition of the shot widening her arms while the man stand behind. Their body positions are quite similar as both stand upright and their height are matched. So although the woman might be covering the protagonist from danger, the audience understands that they are quite  matched in power since one is not put down against the other. However, cequallyomparing screenshot 2 and 3 the difference is drastic. In the third screenshot, the roles are reversed where the women is now reliant on the protagonist also being the climax of the film. The first thing of note is the lighting, the image is much brighter in terms of lighting compared to the relatively dark lighting in second screenshot. The overexposed bright colour of the image paints the protagonist in a heroic light as to say that he is saving the woman. The composition is quite similar between the third and second screenshot as both stand centre of the image the protagonist being on slightly left and the women slightly right however, body positioning is  drastically different between the two. The protagonist raises his hands and head upwards taking up more vertical space in the composition. However, at the same time, the woman shrugs and cowers her body while also  having her head tilted slightly downwards. She is also leaning on the protagonist as he stands upright. The body position creates a noticeable height difference between the two as to assert the dominance of the protagonist over the woman. Additionally, the facial expression of the protagonist is calm and focused while the woman has a fearful look to her face. The contrast in emotional response in this scene is interesting as Quorra seems of unfazed during physical confrontations. The film makes quorra emotionally vulnerable as make her reliant on male protection. This dependence reaffirm the idea that male characters hold the ultimate power or authority. 
-In conclusion, both works illustrates the global issue of how the stereotypical representation of women as innocent created in media and reflect in society leads to an imbalance in relationship dynamics. Tron legacy is a great example of such stereotypical representation while Duffy empowers women by challenging the stereotype encouraging women to break the norms and stereotypes. While we have come far as a society in giving equal power to both women and men, we should all strive for a more equal society by creating better entertainment. 
 
 
+The childish demeanor of hers can particularly be seen in the first extract.  The first screenshot shows Quora , and the protagonist in the scene where she eagerly and curiously asks a question to the protagonist, who responds with a distracted and indifferent answer.  Looking at the composition, the protagonist is placed in the forefront while she is placed in the background behind the protagonist. The composition places more importance on the protagonist over her even when she is the one talking. Additionally, guiding lines in the form of led lights are used in the scene guiding the eyes of the audience to notice the difference in importance. Her innocent childish personality at times leads there to be a difference in dynamics between the two characters. 
 
+The power dynamics between the two is further seen when screenshot 2 and 3 is contrasted. In the second screenshot, Quorra takes up the composition of the shot widening her arms while the man stand behind. Their body positions are quite similar as both stand upright and their height are matched. So although the woman might be covering the protagonist from danger, the audience understands that they are quite  matched in power since one is not put down against the other. However, looking at screenshot 3 the difference is drastic
+In the third screenshot, the roles are reversed where the women is now reliant on the protagonist also being the climax of the film. 
 
-The woman leans towards the man
-- contrast in body position emphasizing the height difference
-	- she is cowering although she has never been afraid of physical combat
-- physical dependency
-- Climax of the scene
-- The gaze is towards the viewer in afraid/ submissive way
-- The bright contrasting image to put the protagonist in a heroic light
-- 
-
-
-
-Literary work overall:
-- In World's wife references many western tales and mythologies 
-	- By alluding to the references that the audience is familiar with, it contrasts the problems she brings up with the original 
-- for example in Pygmalion's bride, Duffy personifies the statue as a 
-- Carol Ann Duffy challenges the trope of innocent young girl being exploited by older guys 
-	- makes the audience question about their notion of gender power dynamics especially between different age
-- The allusion to little red riding hood:
-	- the protagonist - little girl
-	- the man - the wolf 
-- The fact that she is self-aware makes it clear to the audience what type of relationship the man is hoping for.
-	- and makes the audience question the conventional trope that is apparent in media and society
-Literary work extract analysis:
-- Context to the scene
-- Authorial device
-- extract
-- effect on reader 
-- References to the global issue
-
-- Metaphor
-	- Teacher student dynamic
-- Allusion
-	- Through the allusion and , she subverts the original dynamic of predator and prey by emphasizing her curiosity
-- Imagery
-	- The anaphora of imagery
-
-- 
+The first thing of note is the lighting, the image is much brighter in terms of lighting compared to the relatively dark lighting in second screenshot. The overexposed bright colour of the image paints the protagonist in a heroic light as to say that he is saving the woman. The composition is quite similar between the third and second screenshot as both stand centre of the image, however, the body positioning is  drastically different between the two. The protagonist raises his hands and head upwards taking up more vertical space in the composition. However, at the same time, the woman shrugs and cowers her body. She is also leaning on the protagonist as he stands upright. The body position creates a noticeable height difference between the two as to assert the dominance of the protagonist over the woman. Additionally, the facial expression of the protagonist is calm and focused while the woman has a fearful look to her face. The contrast in emotional response in this scene is interesting as Quorra seems of unfazed during physical confrontations. The film makes quorra emotionally vulnerable as make her reliant on male protection. This dependence reaffirm the idea that male characters hold the ultimate power or authority. 
+In conclusion, both works illustrates the global issue of how the stereotypical representation of women as innocent created in media and reflect in society leads to an imbalance in relationship dynamics. Tron legacy is a great example of such stereotypical representation while Duffy empowers women by challenging the stereotype encouraging women to break the norms and stereotypes. While we have come far as a society in giving equal power to both women and men, we should all strive for a more equal society through better storytelling. 
 
 
 
