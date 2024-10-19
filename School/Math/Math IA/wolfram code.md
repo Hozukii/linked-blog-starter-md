@@ -10,5 +10,6 @@ If[i !=j,product = ((x- xval[[j]])/(xval[[i]]- xval[[j]])), product = 1];
 L=L*product;
 ];
 sum = L* yval[[i]] + sum; L=1
+]
 Expand[sum]
 
