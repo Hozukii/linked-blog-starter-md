@@ -160,7 +160,7 @@ $$\rho = \dfrac {Au}{\dfrac 43 \pi \left (R_0 A^{\frac 13}\right)^3} =  \dfrac {
 - $n$ - principle quantum number
 - $h$ - plank's constant 
 - $mvr$ - angular momentum - $L$
-- Bohr model combined whit classical physics of circular motion and force of electric attraction with quantum concepts in order to predict the radii of orbits and the energy levels in hydrogen atoms 
+- iBohr model combined whit classical physics of circular motion and force of electric attraction with quantum concepts in order to predict the radii of orbits and the energy levels in hydrogen atoms 
 ---
 - equating centripetal force and force on electron with the change of electron $e$ :
 $$ \dfrac {mv^2}r = \dfrac {kee}{r^2}$$
