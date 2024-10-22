@@ -1,0 +1,10 @@
+- Portrait of henry ossawa tanner
+	- https://emuseum.hydecollection.org/objects/18/portrait-of-henry-o-tanner
+- Khan academy banjo lesson
+	- https://www.khanacademy.org/humanities/art-1010/american-art-to-wwii/symbolism-america/a/tanner-banjo-lesson
+- Banjo lesson art lesson plan
+	- the purpose 
+	- https://charlesmcquillen.com/henry-tanner-the-banjo-lesson-english-language-arts-lesson-plan/
+- Ruth McEnery Stuart (short story author )
+	- https://64parishes.org/entry/ruth-mcenery-stuart-2
+	- 

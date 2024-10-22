@@ -7,7 +7,8 @@ tags: [excalidraw]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
-# Text Elements
+# Excalidraw Data
+## Text Elements
 The subject ^zG7tm4fG
 
 In the middle, there is a old man and a young boy. The old man is siting on
@@ -99,1667 +100,202 @@ Talk about the cultural context about American realism and the French artistic m
 
 https://www.jstor.org/stable/41304563 ^HgstCcxy
 
-
-# Embedded files
+## Embedded Files
 80cdc1cfecb755853b6dc18fee7c567e81776028: [[Pasted Image 20240125125737_636.png]]
+
 9064b303aae49f9b35c6025df586622379ee74cf: [[Pasted Image 20240304210036_880.png]]
 
 %%
-# Drawing
-```json
-{
-	"type": "excalidraw",
-	"version": 2,
-	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.23",
-	"elements": [
-		{
-			"type": "image",
-			"version": 145,
-			"versionNonce": 847276845,
-			"isDeleted": false,
-			"id": "1yNC74Xw90_MG6bMgx_q7",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -796.8693870289139,
-			"y": -529.7491415645611,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 669.2881499762651,
-			"height": 945.9903179876538,
-			"seed": 1827085535,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513560,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "80cdc1cfecb755853b6dc18fee7c567e81776028",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "text",
-			"version": 84,
-			"versionNonce": 74508835,
-			"isDeleted": false,
-			"id": "zG7tm4fG",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 190.72305875300094,
-			"y": -549.1252733348862,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 144.744140625,
-			"height": 32.199999999999996,
-			"seed": 2021907665,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513560,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "The subject",
-			"rawText": "The subject",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "The subject",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 698,
-			"versionNonce": 1728347533,
-			"isDeleted": false,
-			"id": "Z1efTEsA",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -43.2211332178307,
-			"y": -510.86371389929684,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1036.150390625,
-			"height": 160.99999999999997,
-			"seed": 1419202655,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"id": "eaR4SZYETh0acfYYe0Foh",
-					"type": "arrow"
-				}
-			],
-			"updated": 1706601513560,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "In the middle, there is a old man and a young boy. The old man is siting on\na wooden chair. The old man is supporting the banjo so the boy can hold it properly.\nThe man is bigger than the boy and the boy is sitting in his lap. \nHe is teaching the banjo to the boy. Neutral face with their eyes facing \ndownward into the banjo. They are fully focused and quiet.  ",
-			"rawText": "In the middle, there is a old man and a young boy. The old man is siting on\na wooden chair. The old man is supporting the banjo so the boy can hold it properly.\nThe man is bigger than the boy and the boy is sitting in his lap. \nHe is teaching the banjo to the boy. Neutral face with their eyes facing \ndownward into the banjo. They are fully focused and quiet.  ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "In the middle, there is a old man and a young boy. The old man is siting on\na wooden chair. The old man is supporting the banjo so the boy can hold it properly.\nThe man is bigger than the boy and the boy is sitting in his lap. \nHe is teaching the banjo to the boy. Neutral face with their eyes facing \ndownward into the banjo. They are fully focused and quiet.  ",
-			"lineHeight": 1.15,
-			"baseline": 155
-		},
-		{
-			"type": "image",
-			"version": 234,
-			"versionNonce": 1471524291,
-			"isDeleted": false,
-			"id": "kD-mfQZg0DINFRS4-ai1j",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 28.629015039141166,
-			"y": -216.03248229432643,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 277.535278438991,
-			"height": 392.2760119279024,
-			"seed": 1939438879,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513560,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "80cdc1cfecb755853b6dc18fee7c567e81776028",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 71,
-			"versionNonce": 1779909613,
-			"isDeleted": false,
-			"id": "KzyRWIOdAReC4oLEtNc6f",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -58.682739727526894,
-			"y": 117.33015934066543,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 127.13340221554262,
-			"height": 56.088245545946336,
-			"seed": 472333649,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					127.13340221554262,
-					-56.088245545946336
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 31,
-			"versionNonce": 1491139939,
-			"isDeleted": false,
-			"id": "NJiVbHi7kDJi7Vtt3LVR2",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 386.2839626255825,
-			"y": 124.80861490249049,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 105.44590162637894,
-			"height": 112.92435718820406,
-			"seed": 299131185,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					-105.44590162637894,
-					-112.92435718820406
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 62,
-			"versionNonce": 1606565453,
-			"isDeleted": false,
-			"id": "d6wLcN0s",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 461.34737005898046,
-			"y": -220.9662463642573,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 51.365234375,
-			"height": 32.199999999999996,
-			"seed": 440812913,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "light",
-			"rawText": "light",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "light",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 216,
-			"versionNonce": 591485187,
-			"isDeleted": false,
-			"id": "3g0fTy3i",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 455.3123242964127,
-			"y": -179.91212683574733,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 613.197265625,
-			"height": 64.39999999999999,
-			"seed": 1097357617,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Two light sources. One from the left and one from\nthe right. ",
-			"rawText": "Two light sources. One from the left and one from\nthe right. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Two light sources. One from the left and one from\nthe right. ",
-			"lineHeight": 1.15,
-			"baseline": 58
-		},
-		{
-			"type": "text",
-			"version": 382,
-			"versionNonce": 786361517,
-			"isDeleted": false,
-			"id": "uuZenjUH",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 457.16489967910195,
-			"y": -112.02974311737592,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 697.251953125,
-			"height": 32.199999999999996,
-			"seed": 495850143,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "with its cool tone, the left light source might be a window",
-			"rawText": "with its cool tone, the left light source might be a window",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "with its cool tone, the left light source might be a window",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 754,
-			"versionNonce": 1683308707,
-			"isDeleted": false,
-			"id": "sI0EdlkQ",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 456.32094764978467,
-			"y": -75.26742560018721,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 840.41015625,
-			"height": 96.6,
-			"seed": 465730001,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "On the right, seen through the reflection of light on the tablecloth,\nthe light seems to be warmer suggesting that it is some kind of fire \nlight source like a fireplace, or oven?(since it seems to be a kitchen)",
-			"rawText": "On the right, seen through the reflection of light on the tablecloth,\nthe light seems to be warmer suggesting that it is some kind of fire \nlight source like a fireplace, or oven?(since it seems to be a kitchen)",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "On the right, seen through the reflection of light on the tablecloth,\nthe light seems to be warmer suggesting that it is some kind of fire \nlight source like a fireplace, or oven?(since it seems to be a kitchen)",
-			"lineHeight": 1.15,
-			"baseline": 90
-		},
-		{
-			"type": "text",
-			"version": 397,
-			"versionNonce": 655806221,
-			"isDeleted": false,
-			"id": "tVg4lXv6",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 461.06301930947365,
-			"y": 36.18296787929938,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 837.361328125,
-			"height": 64.39999999999999,
-			"seed": 1730019889,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513561,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "The light sources create a vignette creating focus onto the subjects.\nEmphasizing their focus so no other things are in its view.   ",
-			"rawText": "The light sources create a vignette creating focus onto the subjects.\nEmphasizing their focus so no other things are in its view.   ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "The light sources create a vignette creating focus onto the subjects.\nEmphasizing their focus so no other things are in its view.   ",
-			"lineHeight": 1.15,
-			"baseline": 58
-		},
-		{
-			"type": "text",
-			"version": 222,
-			"versionNonce": 2081968751,
-			"isDeleted": false,
-			"id": "AtAeqBWR",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 465.35201252508324,
-			"y": 113.12482679434112,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 903.8203125,
-			"height": 32.199999999999996,
-			"seed": 1736986719,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707420798814,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "The two different light sources also create a divide in tone in the painting.",
-			"rawText": "The two different light sources also create a divide in tone in the painting.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "The two different light sources also create a divide in tone in the painting.",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 165,
-			"versionNonce": 1726178669,
-			"isDeleted": false,
-			"id": "WmhALOcw",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 467.6456253122618,
-			"y": 152.095899898055,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 989.884765625,
-			"height": 32.199999999999996,
-			"seed": 2008557183,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513562,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "From the left, much darker and cool tone surround the left and also the old man ",
-			"rawText": "From the left, much darker and cool tone surround the left and also the old man ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "From the left, much darker and cool tone surround the left and also the old man ",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 351,
-			"versionNonce": 2004988899,
-			"isDeleted": false,
-			"id": "KfYXsMxd",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 470.6170582394133,
-			"y": 200.9734726210561,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1074.03515625,
-			"height": 96.6,
-			"seed": 1438944049,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513562,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "From the right, the much warmer and lighter source which reflect off of the young boy. \nit suggests the dark past that they had to endure and the bright future that is ahead for \nthe future generations. ",
-			"rawText": "From the right, the much warmer and lighter source which reflect off of the young boy. \nit suggests the dark past that they had to endure and the bright future that is ahead for \nthe future generations. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "From the right, the much warmer and lighter source which reflect off of the young boy. \nit suggests the dark past that they had to endure and the bright future that is ahead for \nthe future generations. ",
-			"lineHeight": 1.15,
-			"baseline": 90
-		},
-		{
-			"type": "rectangle",
-			"version": 54,
-			"versionNonce": 26095565,
-			"isDeleted": false,
-			"id": "6Ky4aF7tIivRRwrad_4zj",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -101.50274963738548,
-			"y": -293.7167496934344,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1681.2321464687625,
-			"height": 632.11697499827,
-			"seed": 111957041,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 3
-			},
-			"boundElements": [],
-			"updated": 1706601513562,
-			"link": null,
-			"locked": false
-		},
-		{
-			"type": "text",
-			"version": 111,
-			"versionNonce": 663341473,
-			"isDeleted": false,
-			"id": "PWz1CKYZ",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1748.5920738758573,
-			"y": -617.3594942076277,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 149.43359375,
-			"height": 32.199999999999996,
-			"seed": 1234431487,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707420484433,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Background",
-			"rawText": "Background",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Background",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 167,
-			"versionNonce": 1572990337,
-			"isDeleted": false,
-			"id": "ATCWjpKH",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1752.2678097577818,
-			"y": -576.5590978498808,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 490.287109375,
-			"height": 32.199999999999996,
-			"seed": 610020273,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707420484433,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Many kitchen tools like a pan and pots. ",
-			"rawText": "Many kitchen tools like a pan and pots. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Many kitchen tools like a pan and pots. ",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 246,
-			"versionNonce": 84579681,
-			"isDeleted": false,
-			"id": "V95YW8MF",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1755.0986862720788,
-			"y": -539.9497732249539,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 804.712890625,
-			"height": 32.199999999999996,
-			"seed": 301274449,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707420484433,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "As well as a dining table with a jug and a tablecloth  with a plate. ",
-			"rawText": "As well as a dining table with a jug and a tablecloth  with a plate. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "As well as a dining table with a jug and a tablecloth  with a plate. ",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 848,
-			"versionNonce": 817054017,
-			"isDeleted": false,
-			"id": "eqNRpQVM",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1757.7336094632565,
-			"y": -501.4794896908992,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 884.078125,
-			"height": 257.59999999999997,
-			"seed": 2033435231,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707420484433,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "On the left side, there are also clothes on hanged on the chair\nand the wall. There is a top shelf as well. There are paintings on wall. \nThere are also many items on the floor which are hard to recognise.\nThe floor is made out of rough and uneven wood. \nThe items suggest that this room is a common living space and also \nmight suggest the lack of space that this household has had with many \ndifferent types of items in the same room. The furniture that they own \nalso shows that in the least, they were not rich. ",
-			"rawText": "On the left side, there are also clothes on hanged on the chair\nand the wall. There is a top shelf as well. There are paintings on wall. \nThere are also many items on the floor which are hard to recognise.\nThe floor is made out of rough and uneven wood. \nThe items suggest that this room is a common living space and also \nmight suggest the lack of space that this household has had with many \ndifferent types of items in the same room. The furniture that they own \nalso shows that in the least, they were not rich. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "On the left side, there are also clothes on hanged on the chair\nand the wall. There is a top shelf as well. There are paintings on wall. \nThere are also many items on the floor which are hard to recognise.\nThe floor is made out of rough and uneven wood. \nThe items suggest that this room is a common living space and also \nmight suggest the lack of space that this household has had with many \ndifferent types of items in the same room. The furniture that they own \nalso shows that in the least, they were not rich. ",
-			"lineHeight": 1.15,
-			"baseline": 251
-		},
-		{
-			"type": "line",
-			"version": 64,
-			"versionNonce": 1537833667,
-			"isDeleted": false,
-			"id": "Zaf4c86tsmvFdR9nE2aix",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 132.33786586007994,
-			"y": -254.00324739716615,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 0,
-			"height": 488.785396226322,
-			"seed": 1059587345,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1706601513563,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					0,
-					488.785396226322
-				]
-			]
-		},
-		{
-			"type": "arrow",
-			"version": 27,
-			"versionNonce": 701679341,
-			"isDeleted": false,
-			"id": "eaR4SZYETh0acfYYe0Foh",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1019.7569736096578,
-			"y": -482.8065463366976,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 282.4941516478665,
-			"height": 27.804528855137335,
-			"seed": 611788159,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1706601513563,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "Z1efTEsA",
-				"focus": 0.009055142604118568,
-				"gap": 26.855059952488546
-			},
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					282.4941516478665,
-					-27.804528855137335
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 277,
-			"versionNonce": 395985441,
-			"isDeleted": false,
-			"id": "bP4sFrtG",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1355.63585324284,
-			"y": -572.8911163975374,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 829.63671875,
-			"height": 96.6,
-			"seed": 396339889,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1707421606429,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "The man holding the banjo can be a symbol of how the old \ngeneration will support the younger generation so they could live a \nbetter life than they were able to. ",
-			"rawText": "The man holding the banjo can be a symbol of how the old \ngeneration will support the younger generation so they could live a \nbetter life than they were able to. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "The man holding the banjo can be a symbol of how the old \ngeneration will support the younger generation so they could live a \nbetter life than they were able to. ",
-			"lineHeight": 1.15,
-			"baseline": 90
-		},
-		{
-			"type": "text",
-			"version": 107,
-			"versionNonce": 142434109,
-			"isDeleted": false,
-			"id": "vIHeAxEV",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -993.6216758284194,
-			"y": -1816.0340839368841,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 917.806640625,
-			"height": 32.199999999999996,
-			"seed": 1191677809,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712433003953,
-			"link": "https://artincontext.org/the-banjo-lesson-painting-henry-ossawa-tanner/",
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "🌐https://artincontext.org/the-banjo-lesson-painting-henry-ossawa-tanner/",
-			"rawText": "https://artincontext.org/the-banjo-lesson-painting-henry-ossawa-tanner/",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://artincontext.org/the-banjo-lesson-painting-henry-ossawa-tanner/",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 152,
-			"versionNonce": 13670509,
-			"isDeleted": false,
-			"id": "Vi8Hg567",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 513.1292561498901,
-			"y": 416.6070286728148,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 766.814453125,
-			"height": 32.199999999999996,
-			"seed": 1364226317,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706602944539,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "The difference in tone of the two sides (make a colour palette)",
-			"rawText": "The difference in tone of the two sides (make a colour palette)",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "The difference in tone of the two sides (make a colour palette)",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "arrow",
-			"version": 148,
-			"versionNonce": 593468205,
-			"isDeleted": false,
-			"id": "0ybnWrZSg2VxU2YkKsUHl",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -779.8715990573091,
-			"y": -1007.2036718313477,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 223.6454401658291,
-			"height": 773.6666101044236,
-			"seed": 535631267,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1706602829042,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "XEFxLxC6",
-				"focus": 0.6791802998861378,
-				"gap": 12.862074080126888
-			},
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					223.6454401658291,
-					773.6666101044236
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 65,
-			"versionNonce": 1398812067,
-			"isDeleted": false,
-			"id": "Dr62sTny",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -567.873023722078,
-			"y": 573.7898002731112,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 356.150390625,
-			"height": 41.4,
-			"seed": 2027826787,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513563,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 2,
-			"text": "Henry Ossawa Tanner",
-			"rawText": "Henry Ossawa Tanner",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Henry Ossawa Tanner",
-			"lineHeight": 1.15,
-			"baseline": 33
-		},
-		{
-			"type": "text",
-			"version": 740,
-			"versionNonce": 519078211,
-			"isDeleted": false,
-			"id": "sWWcRzUn",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -686.7123963672473,
-			"y": 653.5859788339139,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1608.810546875,
-			"height": 128.79999999999998,
-			"seed": 1283425955,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601513564,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Born in 1859 (before the abolishment of slavery), he is an African-American artist and the first, \nAfrican-American artist to be internationally acclaimed. His mom was a former slave and his dad was a bishop.\nHe studied in Pennsylvania Academy of Fine Arts, and moved to Paris in 1891, studying at the Académie Julian. \nFrom these two culturally different backgrounds, he has been exposed to both American realism and French academic paintings.  ",
-			"rawText": "Born in 1859 (before the abolishment of slavery), he is an African-American artist and the first, \nAfrican-American artist to be internationally acclaimed. His mom was a former slave and his dad was a bishop.\nHe studied in Pennsylvania Academy of Fine Arts, and moved to Paris in 1891, studying at the Académie Julian. \nFrom these two culturally different backgrounds, he has been exposed to both American realism and French academic paintings.  ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Born in 1859 (before the abolishment of slavery), he is an African-American artist and the first, \nAfrican-American artist to be internationally acclaimed. His mom was a former slave and his dad was a bishop.\nHe studied in Pennsylvania Academy of Fine Arts, and moved to Paris in 1891, studying at the Académie Julian. \nFrom these two culturally different backgrounds, he has been exposed to both American realism and French academic paintings.  ",
-			"lineHeight": 1.15,
-			"baseline": 123
-		},
-		{
-			"type": "text",
-			"version": 33,
-			"versionNonce": 188700141,
-			"isDeleted": false,
-			"id": "0WAkRv26",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -758.4105312801105,
-			"y": -1712.5992068904059,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 250.119140625,
-			"height": 41.4,
-			"seed": 1376863117,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706601535357,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 2,
-			"text": "Cultural context",
-			"rawText": "Cultural context",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Cultural context",
-			"lineHeight": 1.15,
-			"baseline": 33
-		},
-		{
-			"type": "text",
-			"version": 503,
-			"versionNonce": 1100585645,
-			"isDeleted": false,
-			"id": "4bFBDjwu",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1043.4711326310207,
-			"y": -1633.5480544950271,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1342.6875,
-			"height": 96.6,
-			"seed": 325691139,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706602488649,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Slavery - It was abolished in 1865. His mother has been born into slavery. Although, he was a skilled painter,\nhe was often times not recognised since he was coloured especially in his path since it was very new for a \nAfrican-American to get education let alone at such prestigious places. ",
-			"rawText": "Slavery - It was abolished in 1865. His mother has been born into slavery. Although, he was a skilled painter,\nhe was often times not recognised since he was coloured especially in his path since it was very new for a \nAfrican-American to get education let alone at such prestigious places. ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Slavery - It was abolished in 1865. His mother has been born into slavery. Although, he was a skilled painter,\nhe was often times not recognised since he was coloured especially in his path since it was very new for a \nAfrican-American to get education let alone at such prestigious places. ",
-			"lineHeight": 1.15,
-			"baseline": 90
-		},
-		{
-			"type": "text",
-			"version": 393,
-			"versionNonce": 844079437,
-			"isDeleted": false,
-			"id": "oPuv5QXp",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1043.4711326310207,
-			"y": -1502.34581977971,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1445.376953125,
-			"height": 64.39999999999999,
-			"seed": 363393539,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706602533560,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Minstrel shows - It was a popular form of comedy shows which made fun of racial black stereotypes.  They would\npaint their faces black and they often had musical shows with different instruments such as tambourine, banjos, etc...",
-			"rawText": "Minstrel shows - It was a popular form of comedy shows which made fun of racial black stereotypes.  They would\npaint their faces black and they often had musical shows with different instruments such as tambourine, banjos, etc...",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Minstrel shows - It was a popular form of comedy shows which made fun of racial black stereotypes.  They would\npaint their faces black and they often had musical shows with different instruments such as tambourine, banjos, etc...",
-			"lineHeight": 1.15,
-			"baseline": 58
-		},
-		{
-			"type": "text",
-			"version": 480,
-			"versionNonce": 1777678061,
-			"isDeleted": false,
-			"id": "DtIs267U",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1044.9003111921288,
-			"y": -1393.5791238605352,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1494.0078125,
-			"height": 128.79999999999998,
-			"seed": 2042811107,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"id": "v8Zd6z5hGY0fYbQOtAB9Y",
-					"type": "arrow"
-				}
-			],
-			"updated": 1706602559262,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Banjo - It was introduced into America through African slaves in the 17th century. In the 1800s, the Banjo was used in \nwhite culture in a satirical and derogatory way in the form of minstrel shows and blackface culture. After the minstrel era, \nthe African American culture mostly stopped utilising the banjo \n ",
-			"rawText": "Banjo - It was introduced into America through African slaves in the 17th century. In the 1800s, the Banjo was used in \nwhite culture in a satirical and derogatory way in the form of minstrel shows and blackface culture. After the minstrel era, \nthe African American culture mostly stopped utilising the banjo \n ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Banjo - It was introduced into America through African slaves in the 17th century. In the 1800s, the Banjo was used in \nwhite culture in a satirical and derogatory way in the form of minstrel shows and blackface culture. After the minstrel era, \nthe African American culture mostly stopped utilising the banjo \n ",
-			"lineHeight": 1.15,
-			"baseline": 123
-		},
-		{
-			"type": "text",
-			"version": 85,
-			"versionNonce": 157627517,
-			"isDeleted": false,
-			"id": "G6NvxYUH",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1010.3123640911081,
-			"y": -1985.930867824558,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 761.677734375,
-			"height": 41.4,
-			"seed": 531920973,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712432992475,
-			"link": "https://www.britannica.com/art/minstrel-show",
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 2,
-			"text": "🌐https://www.britannica.com/art/minstrel-show",
-			"rawText": "https://www.britannica.com/art/minstrel-show",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://www.britannica.com/art/minstrel-show",
-			"lineHeight": 1.15,
-			"baseline": 33
-		},
-		{
-			"type": "text",
-			"version": 137,
-			"versionNonce": 1381663251,
-			"isDeleted": false,
-			"id": "PY3PTyye",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1007.6373515646846,
-			"y": -1883.2124182409593,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 3700.6171875,
-			"height": 41.4,
-			"seed": 1366650189,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712432999184,
-			"link": "https://www.khanacademy.org/humanities/art-1010/american-art-to-wwii/symbolism-america/a/tanner-banjo-lesson#:~:text=The%20shows%20also%20depicted%20African,Americans%20propagated%20by%20minstrel%20shows.",
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 2,
-			"text": "🌐https://www.khanacademy.org/humanities/art-1010/american-art-to-wwii/symbolism-america/a/tanner-banjo-lesson#:~:text=The%20shows%20also%20depicted%20African,Americans%20propagated%20by%20minstrel%20shows.",
-			"rawText": "https://www.khanacademy.org/humanities/art-1010/american-art-to-wwii/symbolism-america/a/tanner-banjo-lesson#:~:text=The%20shows%20also%20depicted%20African,Americans%20propagated%20by%20minstrel%20shows.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://www.khanacademy.org/humanities/art-1010/american-art-to-wwii/symbolism-america/a/tanner-banjo-lesson#:~:text=The%20shows%20also%20depicted%20African,Americans%20propagated%20by%20minstrel%20shows.",
-			"lineHeight": 1.15,
-			"baseline": 33
-		},
-		{
-			"type": "arrow",
-			"version": 157,
-			"versionNonce": 334120909,
-			"isDeleted": false,
-			"id": "v8Zd6z5hGY0fYbQOtAB9Y",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -755.4546098511128,
-			"y": -1096.544212570365,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 3.4507873643451603,
-			"height": 155.29490984462404,
-			"seed": 988410883,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1706602823510,
-			"link": null,
-			"locked": false,
-			"startBinding": {
-				"elementId": "XEFxLxC6",
-				"focus": -0.6391107960675044,
-				"gap": 12.078466658890477
-			},
-			"endBinding": {
-				"elementId": "DtIs267U",
-				"focus": 0.6044464757104121,
-				"gap": 12.940001445546045
-			},
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": "triangle",
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					3.4507873643451603,
-					-155.29490984462404
-				]
-			]
-		},
-		{
-			"type": "text",
-			"version": 354,
-			"versionNonce": 1022988909,
-			"isDeleted": false,
-			"id": "XEFxLxC6",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1031.5345812200162,
-			"y": -1084.4657459114746,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1527.080078125,
-			"height": 64.39999999999999,
-			"seed": 1183381571,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [
-				{
-					"id": "v8Zd6z5hGY0fYbQOtAB9Y",
-					"type": "arrow"
-				},
-				{
-					"id": "0ybnWrZSg2VxU2YkKsUHl",
-					"type": "arrow"
-				}
-			],
-			"updated": 1706602828512,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "In this painting, the banjo is depicted with care and thought. It humanises the banjo and the people despite the degradation \ndone to them by the minstrel culture.  ",
-			"rawText": "In this painting, the banjo is depicted with care and thought. It humanises the banjo and the people despite the degradation \ndone to them by the minstrel culture.  ",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "In this painting, the banjo is depicted with care and thought. It humanises the banjo and the people despite the degradation \ndone to them by the minstrel culture.  ",
-			"lineHeight": 1.15,
-			"baseline": 58
-		},
-		{
-			"type": "text",
-			"version": 34,
-			"versionNonce": 439082835,
-			"isDeleted": false,
-			"id": "btLcpx9t",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -1012.4312682065604,
-			"y": -2045.2064997705643,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 1412.591796875,
-			"height": 32.199999999999996,
-			"seed": 855582979,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712432986946,
-			"link": "https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrelsy-the-banjos-troubled-history",
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "🌐https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrelsy-the-banjos-troubled-history",
-			"rawText": "https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrelsy-the-banjos-troubled-history",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://www.kgou.org/arts-and-entertainment/2018-09-05/from-slavery-to-minstrelsy-the-banjos-troubled-history",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 89,
-			"versionNonce": 2059506461,
-			"isDeleted": false,
-			"id": "ZxXSawqR",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -997.1544736597335,
-			"y": -1927.4913345927691,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 661.705078125,
-			"height": 32.199999999999996,
-			"seed": 1675431811,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712432996075,
-			"link": "https://www.youtube.com/watch?v=4ITWlbH7EMA",
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "🌐https://www.youtube.com/watch?v=4ITWlbH7EMA",
-			"rawText": "https://www.youtube.com/watch?v=4ITWlbH7EMA",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://www.youtube.com/watch?v=4ITWlbH7EMA",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "text",
-			"version": 146,
-			"versionNonce": 1475026115,
-			"isDeleted": false,
-			"id": "pxR1OhLv",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -2362.8272365883186,
-			"y": -1882.598417606543,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 1166.73046875,
-			"height": 41.4,
-			"seed": 1907656269,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706602983951,
-			"link": null,
-			"locked": false,
-			"fontSize": 36,
-			"fontFamily": 2,
-			"text": "Talk about the cultural significance that the painting had after its inception",
-			"rawText": "Talk about the cultural significance that the painting had after its inception",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Talk about the cultural significance that the painting had after its inception",
-			"lineHeight": 1.15,
-			"baseline": 33
-		},
-		{
-			"type": "text",
-			"version": 197,
-			"versionNonce": 1553403885,
-			"isDeleted": false,
-			"id": "t9PL3pbr",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -689.591873122009,
-			"y": -1250.4386600747275,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 1529.91015625,
-			"height": 32.199999999999996,
-			"seed": 95399341,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1706603034962,
-			"link": null,
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
-			"rawText": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "Talk about the cultural context about American realism and the French artistic movements and its influence on his paintings.",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"type": "image",
-			"version": 30,
-			"versionNonce": 640075193,
-			"isDeleted": false,
-			"id": "O5ujN4wtzNQroDY5e35lC",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": 1184.8695897167872,
-			"y": 592.3153099681876,
-			"strokeColor": "transparent",
-			"backgroundColor": "transparent",
-			"width": 411.99999999999994,
-			"height": 357,
-			"seed": 1696792727,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1709582433061,
-			"link": null,
-			"locked": false,
-			"status": "pending",
-			"fileId": "9064b303aae49f9b35c6025df586622379ee74cf",
-			"scale": [
-				1,
-				1
-			]
-		},
-		{
-			"type": "text",
-			"version": 10,
-			"versionNonce": 1761675741,
-			"isDeleted": false,
-			"id": "HgstCcxy",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -986.0986642514648,
-			"y": -2121.727960972614,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"width": 503.86328125,
-			"height": 32.199999999999996,
-			"seed": 104681549,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"boundElements": [],
-			"updated": 1712432975304,
-			"link": "https://www.jstor.org/stable/41304563",
-			"locked": false,
-			"fontSize": 28,
-			"fontFamily": 2,
-			"text": "🌐https://www.jstor.org/stable/41304563",
-			"rawText": "https://www.jstor.org/stable/41304563",
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"containerId": null,
-			"originalText": "🌐https://www.jstor.org/stable/41304563",
-			"lineHeight": 1.15,
-			"baseline": 26
-		},
-		{
-			"id": "GTlWOlQ7",
-			"type": "text",
-			"x": -572.8529932557944,
-			"y": -1823.0387118658493,
-			"width": 7.779296875,
-			"height": 32.199999999999996,
-			"angle": 0,
-			"strokeColor": "#e03131",
-			"backgroundColor": "transparent",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": null,
-			"seed": 193059165,
-			"version": 2,
-			"versionNonce": 595288211,
-			"isDeleted": true,
-			"boundElements": null,
-			"updated": 1712433002416,
-			"link": null,
-			"locked": false,
-			"text": "",
-			"rawText": "",
-			"fontSize": 28,
-			"fontFamily": 2,
-			"textAlign": "left",
-			"verticalAlign": "top",
-			"baseline": 26,
-			"containerId": null,
-			"originalText": "",
-			"lineHeight": 1.15
-		}
-	],
-	"appState": {
-		"theme": "light",
-		"viewBackgroundColor": "#ffffff",
-		"currentItemStrokeColor": "#e03131",
-		"currentItemBackgroundColor": "transparent",
-		"currentItemFillStyle": "hachure",
-		"currentItemStrokeWidth": 1,
-		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
-		"currentItemOpacity": 100,
-		"currentItemFontFamily": 2,
-		"currentItemFontSize": 28,
-		"currentItemTextAlign": "left",
-		"currentItemStartArrowhead": null,
-		"currentItemEndArrowhead": "triangle",
-		"scrollX": 1830.125720528522,
-		"scrollY": 3013.0671209567586,
-		"zoom": {
-			"value": 0.5499999999999999
-		},
-		"currentItemRoundness": "round",
-		"gridSize": null,
-		"gridColor": {
-			"Bold": "#C9C9C9FF",
-			"Regular": "#EDEDEDFF"
-		},
-		"currentStrokeOptions": null,
-		"previousGridSize": null,
-		"frameRendering": {
-			"enabled": true,
-			"clip": true,
-			"name": true,
-			"outline": true
-		}
-	},
-	"files": {}
-}
+## Drawing
+```compressed-json
+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
 ```
 %%
