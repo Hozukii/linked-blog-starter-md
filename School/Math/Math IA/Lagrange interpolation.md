@@ -4,7 +4,7 @@ Lagrange interpolation also known as Lagrange polynomial is used to create a pol
 The general formula is given by :
 $$ P(x) = \sum^n_{j=1} P_j (x)$$
 where
-$$P_j (x) = y_j  \prod^i_{\begin{matrix} x \\ y \end{matrix}}$$
+$$P_j (x) = y_j  \prod^n_{\begin{matrix} k=1 \\ k \neq j  \end{matrix}} \dfrac {x-x_k}{x_j - x_k}$$
 **actually write the eq**
 
 
