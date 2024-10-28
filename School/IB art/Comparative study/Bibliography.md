@@ -7,4 +7,5 @@
 	- https://charlesmcquillen.com/henry-tanner-the-banjo-lesson-english-language-arts-lesson-plan/
 - Ruth McEnery Stuart (short story author )
 	- https://64parishes.org/entry/ruth-mcenery-stuart-2
-	- 
+- Minstel shows - banjo image
+	- https://www.americanheritage.com/blackface-sad-history-minstrel-shows
