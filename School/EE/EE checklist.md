@@ -1,7 +1,7 @@
 - Grammar
 - Bibliography font 
-- Specify title
-	- How does altering the number of blades of a 3D-printed propeller affect its aerodynamic efficiency in a controlled environment?
+- *Specify title* 
+	- *How does altering the number of blades of a 3D-printed propeller affect its aerodynamic efficiency in a controlled environment?*
 - Check for more formal language
 ### Theoretical framework
 - How does not accounting fore blade interaction lead a influence in experimental findings 
