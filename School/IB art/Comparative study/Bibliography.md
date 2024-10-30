@@ -9,3 +9,7 @@
 	- https://64parishes.org/entry/ruth-mcenery-stuart-2
 - Minstel shows - banjo image
 	- https://www.americanheritage.com/blackface-sad-history-minstrel-shows
+- Catholicism in Johannes vermeer
+	- Saint praxedis
+	- https://www.nga.gov/research/in-depth/themes-ideas-dutch-genre-painting/reflections-vermeers-catholic-faith-in-art.html#:~:text=Vermeer's%20conversion%20to%20Catholicism%20played,large-scale%20religious%20painting%20commission.
+- 
