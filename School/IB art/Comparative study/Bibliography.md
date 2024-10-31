@@ -19,4 +19,7 @@
 	- https://www.metmuseum.org/art/collection/search/437880
 - Christianity materialism 
 	- https://www.gotquestions.org/materialism-Christian.html
-	- 
+- REmbrandt portrait
+	- https://www.nga.gov/collection/artist-info.1822.html
+- Pieter lastman painting
+	- https://www.wga.hu/html_m/l/lastman/tobias.html
