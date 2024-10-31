@@ -25,4 +25,5 @@
 	- https://www.wga.hu/html_m/l/lastman/tobias.html
 - philosohper with an open book
 	- https://www.wikiart.org/en/salomon-koninck/philosopher-with-an-open-book-1645
-- 
+- Rembrandt use of wood
+	- https://rembrandtdatabase.org/rembrandt-database-in-focus/materials-and-technique/support.html#:~:text=When%20Rembrandt%20started%20painting%20in,copper%20and%20one%20on%20paper.
