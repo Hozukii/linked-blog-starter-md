@@ -23,3 +23,6 @@
 	- https://www.nga.gov/collection/artist-info.1822.html
 - Pieter lastman painting
 	- https://www.wga.hu/html_m/l/lastman/tobias.html
+- philosohper with an open book
+	- https://www.wikiart.org/en/salomon-koninck/philosopher-with-an-open-book-1645
+- 
