@@ -44,4 +44,5 @@
 - Make the CAD drawing side by side
 - Significant figures and decimal places needs to be accounted for 
 	- The uncertainty of your data needs to be the same number of decimal places as the data itself and always round up. 
-	- 
+
+**Don't forget to change appendices**
