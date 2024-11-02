@@ -27,3 +27,6 @@
 	- https://www.wikiart.org/en/salomon-koninck/philosopher-with-an-open-book-1645
 - Rembrandt use of wood
 	- https://rembrandtdatabase.org/rembrandt-database-in-focus/materials-and-technique/support.html#:~:text=When%20Rembrandt%20started%20painting%20in,copper%20and%20one%20on%20paper.
+- Descartes portrait
+	- https://www.wikiart.org/en/frans-hals/portrait-of-rene-descartes
+	- 
