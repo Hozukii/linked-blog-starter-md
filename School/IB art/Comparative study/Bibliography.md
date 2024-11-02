@@ -29,4 +29,8 @@
 	- https://rembrandtdatabase.org/rembrandt-database-in-focus/materials-and-technique/support.html#:~:text=When%20Rembrandt%20started%20painting%20in,copper%20and%20one%20on%20paper.
 - Descartes portrait
 	- https://www.wikiart.org/en/frans-hals/portrait-of-rene-descartes
-	- 
+- Tobit and Anna 
+	- https://traveltoeat.com/philosopher-in-meditation-by-rembrandt-van-rijn-louvre-paris/
+- Rembrandt religon
+	- https://merceruniversitypress.wordpress.com/2014/07/15/rembrandt-as-christian-artist/
+-
