@@ -1,0 +1,4 @@
+- The trash that is thrown away by the rich is scavenged by ones in poverty in hopes of finding food or necessities
+- Inequality is caused due to where you are born, or even luck
+- In Kenya 40% lives below 2$ a day
+- In Kenya there are 9000 millionaires including politicians
