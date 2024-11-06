@@ -1,0 +1,3 @@
+- Trimmed mean:
+	- https://www.investopedia.com/terms/t/trimmed_mean.asp
+- 
