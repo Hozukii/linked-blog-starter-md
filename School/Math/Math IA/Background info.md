@@ -12,3 +12,7 @@ https://mathworld.wolfram.com/LagrangeInterpolatingPolynomial.html
 https://math.libretexts.org/Courses/Angelo_State_University/Mathematical_Computing_with_Python/3%3A_Interpolation_and_Curve_Fitting/3.2%3A_Polynomial_Interpolation
 
 Runge's phenomenon:https://matematicas.uam.es/~fernando.chamizo/dark/d_runge.html
+
+Double integration:
+https://www.khanacademy.org/math/multivariable-calculus/integrating-multivariable-functions/double-integrals-a/a/double-integrals-over-non-rectangular-regions
+https://www.youtube.com/watch?v=gifQWtTWqEY
