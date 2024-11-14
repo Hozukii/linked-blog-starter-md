@@ -1,4 +1,4 @@
-Based on the detailed structure guidelines from your file, here’s a structured outline tailored for your TOK essay on whether acquiring knowledge destroys our sense of wonder, using natural sciences and the arts as areas of knowledge (AOKs):
+3Based on the detailed structure guidelines from your file, here’s a structured outline tailored for your TOK essay on whether acquiring knowledge destroys our sense of wonder, using natural sciences and the arts as areas of knowledge (AOKs):
 
 ---
 
