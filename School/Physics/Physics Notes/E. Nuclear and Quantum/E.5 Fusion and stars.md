@@ -84,6 +84,8 @@ $$ \ce{^3_2 He} + \ce{^3_2 He} \to \ce{4_2} + 2 \ce{^1_1 H}$$---
 - Shows a more detailed HR diagram with other types of stars included
 - **Evolutionary path** - The evolution of a star as drawn on a Hertzsprung-Russell diagram
 - **Instability strip** - A region of the Hertzsprung-Russel diagram containing pulsating, variable stars
+#### $$L = \pi R^2 \sigma T^4$$
+
 ![[Pasted image 20241005002913.png|300]]
 # Distances form Earth to stars
 - In topic [[B.1 Thermal Energy transfers]] We leaned $b = \dfrac L{4\pi d^2}$ this can be used to find distance from the Earth
