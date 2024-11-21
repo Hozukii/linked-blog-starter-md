@@ -107,6 +107,12 @@ $$ \ce{^3_2 He} + \ce{^3_2 He} \to \ce{4_2} + 2 \ce{^1_1 H}$$---
 ### Summary of the non-SI units used in astronomy
 ![[Pasted image 20241005004624.png]]
 
+### Arcsecond
+- Divide a circle into $360 \degree$ 
+- We divide $1\degree$ into minutes.
+- 1 degree = 60 arc minutes
+- 1 arc-minute = 60 arc-second
+- 1 arc second = 1/36000 of a degree
 ## The age of an expanding Universe 
 - In [[C.5 Doppler effect]] The speed of stars and galaxy away from Earth can be determined from the doppler shifts of radiation received from the on Earth. 
 ![[Pasted image 20241005004742.png|400]]
