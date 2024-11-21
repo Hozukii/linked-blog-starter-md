@@ -6,7 +6,7 @@
 #### Paragraph 2  (First claim for first AOK)
 - State your claim 
 - Example 
-- Explain: Clarify on how the examples supports your claim. Notice what is interesting about your example and what it says about the title 
+- Explain: Clarify on how the examples supports your claim. Notice what is interesting about your examplep and what it says about the title 
 #### Paragraph 3 (Counter claim for first AOK)
 - Counter-claim
 - Example
