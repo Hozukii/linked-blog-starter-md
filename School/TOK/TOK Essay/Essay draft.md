@@ -1,1 +1,1 @@
-Humanity fears the unknown but that feeling is often overshadowed by our curiosity and fascination for the unknown. Wonder is defined as 
+Humanity fears the unknown but that feeling is often overshadowed by our curiosity and fascination for the unknown. Wonder is defined as the feeling of amazement or admiration caused by seeing or witnessing something beautiful, unexpected, captivating, and inexplicable. Without our sense wonder, our drive for new knowledge would cease to exist. 
