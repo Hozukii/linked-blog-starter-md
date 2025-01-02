@@ -1,5 +1,4 @@
 Humanity fears the unknown but that feeling is often overshadowed by our curiosity and fascination for the unknown. Discussing whether new knowledge destroy our sense of wonder can help us understand how we can prevent the destruction of our sense of wonder. Wonder is defined as the feeling of amazement or admiration caused by seeing or witnessing something beautiful, unexpected, captivating, and inexplicable. Without our sense wonder, our drive for new knowledge would cease to exist. 
 In this essay, I will discuss in respect to natural science more specifically, physics and the arts. In natural sciences, our sense of wonder drives us to explore the unknown, striving for certainty through evidence and data. In contrast, in the arts, wonder and the unknown doesn't necessarily need to be explored to reach certainty to inspire new knowledge in the arts. 
 
-
-
+I will start by looking into natural science, and discuss how at times, new knowledge seems to destroy our sense of wonder as new knowledge allows us to understand the unknown transforming it to the known. However, ultimately, the sense of wonder is deepened as more questions and posed as results of new discoveries.
