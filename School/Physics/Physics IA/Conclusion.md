@@ -1,0 +1,6 @@
+The tablecloth trick is a science experiment often showcased in schools to teach students about Newton's second law of inertia. This physics IA tries to establish a relationship between the mass of the displaced object and the displacement that the object undergoes. Understanding the concepts behind friction, mass, and displacement has real-life applications such as when moving objects on a vehicle such as moving fragile objects on loading vehicles. 
+
+
+The tablecloth trick is a science experiment often demonstrated in schools to teach students about Newton's, particularly the second low of inertia, which explains how objects are at rest unless acted upon by an external force. Additionally, the experiment also demonstrates how friction opposes motion as the object moves slightly when the cloth is pulled. This physics IA tries to establish a relationship a relationship between the mass of the displaced object and the displacement that the object undergoes. 
+
+Understanding the concepts of friction, mass, and displacement has many real-life applications such as the designing systems for moving objects in vehicles, especially when transporting fragile items. By investigating the forces in play in this IA, the explorations offers deeper understanding in everyday forces but also in industrial applications
