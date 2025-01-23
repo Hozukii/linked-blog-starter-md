@@ -94,7 +94,7 @@ Remember that $\phi$ = $hf_0$
 - Type of modern apparatus used to demonstrate the diffraction of electrons.
 - two rings are seen, representing constructive interference of electron waves. 
 ## Wave-particle duality
-- **wane-particle duality** - In theory, all particles have wave properties and all electromagnetic waves have particle (photon) properties. 
+- **wave-particle duality** - In theory, all particles have wave properties and all electromagnetic waves have particle (photon) properties. 
 # Compton scattering 
 - **Compton effect (scattering)** - The increase in wavelength (decrease in energy) of high-frequency photons when they interact with electrons
 	- important evidence for the particle nature of electromagnetic radiation
