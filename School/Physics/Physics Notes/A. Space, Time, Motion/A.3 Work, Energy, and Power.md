@@ -69,7 +69,7 @@ The symbol, $E$ can be used to represent energy(E is also used for electric fiel
 	![[Pasted image 20231014201523.png|300]]
 - the work done, W, when it is deformed a distance $\Delta x$ by a force $F_H$ is given by: $W = \text{average force} \cdot \text{distance} = \dfrac12 k \Delta x^2$
 - It is also $\dfrac12 F_H \cdot \Delta x = \dfrac12(k\Delta x)\Delta x = \dfrac12 k \Delta x^2$ , $F_H$ from [[A.2 Forces and Momentum#Elastic resorting forces]]
-- Therefore: \dfrac12 F_H 
+- Therefore: $\dfrac12 F_H$
 - ![[Pasted image 20231014202259.png | 300]]
 - Equal to the area under force-extension graph.
 ## Conservation of mechanical energy

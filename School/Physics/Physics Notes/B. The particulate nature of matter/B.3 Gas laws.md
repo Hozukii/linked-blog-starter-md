@@ -85,6 +85,7 @@ $$\bar E_k = \dfrac 32 \dfrac{nRT}{N}$$
 - [[B.1 Thermal Energy transfers#Microscopic understanding of temperature]]
 - At the same temperature, all gasses contain molecules with the same average random translational kinetic energy
 - Now we know that, Internal energy of an ideal monatomic gas: $U = \dfrac 32 N k_B T$
+- **Monatomic gas**: Gas that consists of single atoms (No molecules)
 - We can also re-write the ideal gas law as: $PV = N K_B T$
 ## Real gases compared to ideal gases
 - Most **real gases** behave like ideal gases unless their pressure or density is very high, or the temperature is very low. 

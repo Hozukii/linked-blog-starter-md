@@ -38,7 +38,7 @@
 - The critical mass can be reduced by surrounding the material with neutron reflectors
 ### Moderator 
 - **Moderator** - Material used in a nuclear reactor to slow down neutrons to low energies and enable nuclear fission. 
-- Neutrons released in fission has energy typically more than1 MeV.
+- Neutrons released in fission has energy typically more than 1 MeV.
 	- Before a chain reaction can occur, the energy needs to be slowed down to energies of less than 1eV.
 - To lose so much kinetic energy, they are collided with particles. 
 - Particles of similar mass transfer higher rate of kinetic energy. 
