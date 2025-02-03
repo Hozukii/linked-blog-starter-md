@@ -92,6 +92,10 @@ $$k = \dfrac{\Delta F}{\Delta x}$$
 >- To understand viscosity we can use Stokes' law 
 >- Stokes' law - equation for the viscous drag on a ==smooth, spherical object undergoing non-turbulent motion==
 > $$F_d = 6 \pi \eta rv$$
+
+- $\eta$ - viscosity
+- $r$ - radius
+- $v$ - velocity
 # Field Forces 
 - The three forces are
 	- Gravitational force, $F_g$
@@ -148,7 +152,7 @@ $$k = \dfrac{\Delta F}{\Delta x}$$
 - Momentum is a [[vector quantity]] and its direction is always important. 
 - In an **isolated system**, the change of momentum for one object is equal and opposite to the change in momentum of the other, since the time of interaction is same for both objects
 - It's also because of the Law of conservation of momentum
-	- Law of conservation of momentum - The Total momentum of any system is constant, provided there is no result, provided that there is no resultant external force acting on it
+	- Law of conservation of momentum - The Total momentum of any system is constant;, provided that there is no resultant external force acting on it
 - This law of physics is always true with no exceptions.
 - We know that, for uniform acceleration: 
 - $F = ma = \dfrac{m(v-u)}{t} = \dfrac{mv-mu}{t}$
