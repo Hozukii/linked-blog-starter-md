@@ -36,7 +36,7 @@ $R$ - semi-major axes - radius
 # Gravitational Fields
 - **Gravitational field** - A region (around a mass) in which another mass would experience a gravitational force
 - **Field lines** - Representation of fields by a pattern of lines . 
-	- Line shows the direction of force on a mass, of force on a positive charge , or on a north pole.
+	- Line shows the direction of force on a mass, or force on a positive charge , or on a north pole.
 	- Closer the lines, the stronger the force 
 ![[Fieldlines.png]]
 ## Gravitational Field Strength
