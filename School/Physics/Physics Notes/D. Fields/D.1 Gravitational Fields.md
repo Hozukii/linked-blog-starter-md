@@ -36,7 +36,7 @@ $R$ - semi-major axes - radius
 # Gravitational Fields
 - **Gravitational field** - A region (around a mass) in which another mass would experience a gravitational force
 - **Field lines** - Representation of fields by a pattern of lines . 
-	- Line shows the direction of force on a mass, of force on a positive charge , or on a north pole.
+	- Line shows the direction of force on a mass, or force on a positive charge , or on a north pole.
 	- Closer the lines, the stronger the force 
 ![[Fieldlines.png]]
 ## Gravitational Field Strength
@@ -153,7 +153,7 @@ Note that:
 - This speed is the same, regardless of direction of travel
 - We have assumed that there are no other significant gravitational fields (e.g. moon)
 ## Orbital Speed
-- **Orbital Speed** - For a satellite in a circular orbit, its speed mast have the correct value for the chosen radius.
+- **Orbital Speed** - For a satellite in a circular orbit, its speed must have the correct value for the chosen radius.
 - In Kepler's third law:
 $$\dfrac {r^3}{T^2} = \dfrac {GM}{4\pi^2}$$
 Replacing using $T$ with $\dfrac {2\pi r}v$ gives us:
