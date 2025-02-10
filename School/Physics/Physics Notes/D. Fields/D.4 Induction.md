@@ -64,7 +64,7 @@ $\varepsilon = N\dfrac {\Delta \Phi}{\Delta t} = NA \cdot \dfrac {\Delta B}{\Del
 ## Energy transfers during electromagnetic induction
 - **Eddy currents** - Circulating currents induced in solid pieces of metal when changing magnetic fields pass through them
 - An induced electric current has had energy transferred to it from the process that induced it, for example from the kinetic energy of motion
-- Whenever the magnetic is moved in any way, a current will be induced and the magnetic field of that current will tend to stop the movement. This application of the law conservation of energy is known as **Len's law** and it is the reason for the negative sign in Faraday's law
+- Whenever the magnetic is moved in any way, a current will be induced and the magnetic field of that current will tend to stop the movement. This application of the law conservation of energy is known as **Lenz's law** and it is the reason for the negative sign in Faraday's law
 ### Lenz's law 
 - **Lenz's law (of electromagnetic induction)** - The direction of an induced emf is such that it will oppose the change that produced it. 
 ## Electromagnetic induction in rotating coils
