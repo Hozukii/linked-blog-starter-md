@@ -1,7 +1,7 @@
 #### Theme
 #Inequality #Faith #Belief 
 Marjane juxtaposes in the chapter the key of how radically different the fate of kids during the islamic revolution.
-#### The quotes
+#### Description / quotes
 "The key to paradise was for poor people, thousands of young kids , promised a better life, exploded on the minefields with their keys around their necks"
 "Mrs. Nasrine's son managed to avoid that fate, but lots of other kids from his neighborhood didn't"
 "Meanwhile, I got to to my first party"
