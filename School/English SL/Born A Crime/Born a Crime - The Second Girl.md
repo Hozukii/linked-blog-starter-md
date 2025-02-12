@@ -2,19 +2,10 @@ Theme: #poverty #inequality #culture
 Page 71
 #### Description / quotes
 Trevor Noah's mom explains that the "black tax" is the heavy financial and emotional burden placed on black families as previous generations were deprived of resources.
-
-
+"My mother calls it “the black tax.” Because the generations who came before you have been pillaged, rather than being free to use your skills and education to move forward, you lose everything just trying to bring everyone behind you back up to zero"
+"My mother’s greatest fear was that I would end up paying the black tax, that I would get trapped by the cycle of poverty and violence that came before me. She had always promised me that I would be the one to break that cycle"
 #### Authorial choice
-Layout: Negative spacing
+The metaphor shows that there is a recurring cost.
+By doing so, it forces the reader to confront the reality that upward mobility for black individuals isn’t simply a matter of personal effort; it is also weighed down by intergenerational financial obligations and sacrifice
 
-The panel shows her state after her uncle's execution. Visually isolating her reflecting her feeling of emotional isolation and abandonment after her loss. 
-
-Shift in pacing / disruption 
-The bombing shows to the audience  the chaotic world that she lives in during the Islamic revolution where kids are not able to truly have time to mourn and reflect on their emotions.  
-
-
-When my mom turned twenty-one, her aunt fell ill and that family could no longer keep her in Transkei. My mom wrote to my gran, asking her to send the price of a train ticket, about thirty rand, to bring her home. Back in Soweto, my mom enrolled in the secretarial course that allowed her to grab hold of the bottom rung of the white-collar world. She worked and worked and worked but, living under my grandmother’s roof, she wasn’t allowed to keep her own wages. As a secretary, my mom was bringing home more money than anyone else, and my grandmother insisted it all go to the family.
-
-The family needed a radio, an oven, a refrigerator, and it was now my mom’s job to provide it.
-
-So many black families spend all of their time trying to fix the problems of the past. That is the curse of being black and poor, and it is a curse that follows you from generation to generation. My mother calls it “the black tax.” Because the generations who came before you have been pillaged, rather than being free to use your skills and education to move forward, you lose everything just trying to bring everyone behind you back up to zero. Working for the family in Soweto, my mom had no more freedom than she’d had in Transkei, so she ran away. She ran all the way down to the train station and jumped on a train and disappeared into the city, determined to sleep in public restrooms and rely on the kindness of prostitutes until she could make her own way in the world.
+Reflecting back onto the talk about the black tax shows how the trauma of the generational cycle of poverty is past down through her mom to him even in a life or death situation. It shows how the trauma sticks through generations and financial and culture that is ingrained to question life or money. 
