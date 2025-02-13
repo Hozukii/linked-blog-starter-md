@@ -1,4 +1,4 @@
-Theme: #death #Faith #war #isolation
+Theme: #death #Faith #war #isolation #identity
 Page 71
 #### Description / quotes
 The panel shows Marjane floating in a darkness of the universe alone
