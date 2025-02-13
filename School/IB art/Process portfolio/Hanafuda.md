@@ -1,0 +1,6 @@
+- Started off thinking about hanafuda cards 
+- I like their distinct color palette and the beauty of nature especially the flowers
+	- Found out that each month have a flower or a plant connected to the pairs.
+- Reminded me of james jean's art with the distinct colors and the use of flowers
+- How are flowers connected to humans?
+- Just like blommossoming of flowers, we evolve as the definition of what a human changes along with time our definitions gets broader, wider, shifts being a human is just purely biological and ever evolving there are too many types and differences to easily set the boundary for what a human is. 
