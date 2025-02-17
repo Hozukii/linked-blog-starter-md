@@ -1,0 +1,1 @@
+How is the theme of freedom or lack of freedom expressed in Persepolis? Use the PETAL structure for each point where: P - point/ purpose E - Evidence (quotes from the book) T - technique ( the authorial device used) A - Analysis (how is the authorial device used to communicate the idea to the author?) L - link (link back to the big idea/ theme)
