@@ -133,7 +133,7 @@ $$ f = \begin {pmatrix} \dfrac 12 \end{pmatrix} ^{21.5} = 3.37 \cdot 10^{-7}$$
 - The fraction is about 0.2., 
 ### Muon decay using relativity and time dilation
 - In Earth's reference frame, proper length is 10km, speed is $0.995c$, the time interval is $3.35 \cdot 10^{-5}$
-- However, in the reference frame of muons' would be measuring the proper time interval: $$\Delta t = \gamma \Delta t_0$$
+- However, in the refzerence frame of muons' would be measuring the proper time interval: $$\Delta t = \gamma \Delta t_0$$
 with:
 $$\gamma = \dfrac 1 {\begin {pmatrix} \sqrt {1 - \dfrac {0.995^2 c^2}{c^2}}\end {pmatrix}} = 10$$
 So that: 
