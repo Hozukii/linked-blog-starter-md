@@ -10,12 +10,5 @@ This artwork was based off of "Hanafuda" cards, a traditional Japanese playing c
 
 This artwork aims to highlight the innate human nature for discovery. An aspect that separates humanity from other beings is our drive to discover new things which are apparent from a young age. I was inspired by mountaineers who risks their live to discover the peaks of the Earth. I tried to paint the vastness and almost the loneliness of the process of discovery through watercolour. 
 
-This artwork took major inspirations from the paper cut-outs of Henri Matisse. The 
+This artwork took major inspirations from the paper cut-outs of Henri Matisse. The painting depicts a abstract representation of a fuji mum; a flower with many long petals flowing from the centre. The flower is a symbolism for the growth that humans goes through due to outside influences that directly flows into our mind. The colourful palette was chosen to emphasize the complexity of human emotions and the mind.
 
-
-
-The idea was to show how we are all influenced by the environment while in the most isolated situations. I tried various ways to highlight isolation into my artwork. I tried to isolate the subject through the composition by using staffage
-
-The flower is a symbolism for the growth that humans goes through due to outside influences that directly flows into our mind.
-
-I wanted to connect the artwork to human emotions and behaviour. Like my previous artwork, it explores what are the elements that differentiate us / humans from other beings. 
