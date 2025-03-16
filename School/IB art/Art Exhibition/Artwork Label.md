@@ -1,7 +1,6 @@
 - brief outline of original intentions
 - reference to any sources that influenced the piece
 This collage, made from overlapping rectangles cut from magazines, depicts my daughter. My intention is to capture the dichotomy between her child-like qualities and her complicated maturity. I incorporated more detail and realism in her gaze, while the rest breaks out of representation into abstraction, where borders and planes deconstruct into color and pattern. The physicality of Jenny Saville’s “Reverse” is a major influence on this work.
-
   
 This piece was inspired by a young, aspiring artist who attended the summer art classes at MIAD. The moment I saw her work, I immediately felt a connection because I understood the chaos and brokenness that she attempted to convey through her sketches. The theme that began to emerge from my piece was identity. In this piece, I wanted to capture the essence of different aspects of who I am as a person. People can get to know me through what I have witnessed, through my flaws, and lastly, through my words. I have learned to be very careful with what I speak aloud because words can have a very prominent effect on others.
 
