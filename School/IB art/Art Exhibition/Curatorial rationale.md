@@ -2,4 +2,3 @@
 - articulate the relationship between the artworks and the the viewer within the space
 - to what extent does the submitted work demonstrate effective resolution of imagery, signs and symbols to realize the function, meaning and purpose of the art works, as appropriate to stated intentions?
 - To what extent does the submitted work communicate a coherent collection of works which fulfill stated artistic intentions and communicate clear thematic or stylistic relationships across individual pieces?
-- 
