@@ -20,4 +20,6 @@ Blender was used to imitate the images taken by X-ray scans. The artwork took in
 Being inspired by the sculptures of Japanese sculptor Chie Shimizu, this sculpture is part of a complementary series originally inspired by "Kappa", a froglike humanoid creature often referenced in Japanese folklore. I aim to question what we consider what a human is and is not especially to how how culture influences our definitions and judgement. 
 Complementary to "..." this sculpture is a juxtaposition to the other sculpture as the elements of the sculpture are now flipped highlighting how the culture that we surround ourselves with changes our definition and perception of what we consider as being closer humanity.  
 
-The digital artwork depicts an angel who has been infect by inorganic machines. The white organic shapes are juxtaposed with uniform black shapes showing how the angel is slowly being consumed by machines. While not a series, the angel closely resembles the subject in my artwork "Hanafuda". The angel is slowly being stolen of its colors. The artwork was inspired by the drawings made 
+The digital artwork depicts an angel who has been infect by inorganic machines. The white organic shapes are juxtaposed with uniform black shapes showing how the angel is slowly being consumed by machines. While not a series, the angel closely resembles the subject in my artwork "Hanafuda". The angel is slowly being stolen of its colors. The style of the artwork was inspired by the illustrations of Katsuya Terada
+
+
