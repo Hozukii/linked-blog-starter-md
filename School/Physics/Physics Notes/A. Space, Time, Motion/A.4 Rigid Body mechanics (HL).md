@@ -164,7 +164,7 @@ $L$ - angular momentum
 	- Requires friction
 - An object, such as a ball or a wheel, which can roll down a hill will transfer its gravitational potential energy to both translational and rotational kinetic energy
  ![[Pasted image 20240529193145.png|350]]
-$$ mg \Delta h = \dfrac mv^2 + \dfrac 12 I \omega^2$$
+$$ mg \Delta h = \dfrac 12 mv^2 + \dfrac 12 I \omega^2$$
 - At the bottom of a slope, a sliding object will reach a higher speed than a rolling object. 
 - rotating objects that have bigger moments of inertia will travel slower at the bottom of the same slope
 - If the angle of the slope is too steep, rolling will not be possible
