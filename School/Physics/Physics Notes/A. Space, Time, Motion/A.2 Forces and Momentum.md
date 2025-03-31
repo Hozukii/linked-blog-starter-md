@@ -1,4 +1,4 @@
-# The Nature of Force
+;# The Nature of Force
 - A force can be considered to be any type of interaction on an object
 - All forces should be labelled with commonly accepted symbols or names 
 # Different Types of Force 
