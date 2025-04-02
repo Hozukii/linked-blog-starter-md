@@ -1,0 +1,6 @@
+I attempted to experiment with the colour schemes and contrast however, the balance between the background, the flower and the subject was not harmonious. The stark value contrast between the deep backgrounds and the high-key subject created a jarring separation, while the saturated hues of the floral elements failed to integrate cohesively, disrupting the overall visual unity.
+
+I attempted to experiment with the colour schemes and contrast however, the balance between the background, the flower and the subject was not effectively established. The strong negative space of the dark backgrounds overwhelmed the composition, leading to poor figure-ground integration. The vibrant flowers competed with the subject for visual dominance, preventing a clear focal point or harmonious visual hierarchy.
+
+
+I attempted to experiment with the colour schemes and contrast however, the balance between the background, the flower and the subject was visually cohesive. The stark contrast between the dark background and the vibrant flowers created a struggle between visual dominance, preventing the subject becoming the clear focal point of the artwork
