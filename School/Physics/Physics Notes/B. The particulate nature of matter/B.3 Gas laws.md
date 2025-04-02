@@ -14,7 +14,7 @@ Take any container and a any number gas molecules inside. Gas molecules are cons
 >- Known as the **Avogadro constant**, given the symbol $N_A$
 >- For most calculation we use $6.02 \cdot 10^{23}$
 
-The amonut of substance in moles = $\dfrac{\text{number of particles}}{\text{Avogadro constant}}$
+The amount of substance in moles = $\dfrac{\text{number of particles}}{\text{Avogadro constant}}$
 $$n = \dfrac N{N_A}$$
 - **molar mass** - the mass of a substance that contains 1 mole of its defining particles
 
