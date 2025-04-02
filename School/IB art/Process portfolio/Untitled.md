@@ -30,3 +30,11 @@ Recently, I had been experimenting with abstract art using Blender, a 3D digital
 Using Blender , I deformed by twisting and stretching simples shapes. By making the forms less defined, I aimed to reduce their visual weight. Within blender, I also experimented with the render engine. 
 
 This shift towards abstraction was a deliberate attempt to restructure the visual hierarchy. The goal was to subordinate these background elements, ensuring they harmonize with and enhance the main figure, rather than clashing with it. Ultimately, I wanted to secure the subject as the undisputed focal point and achieve a more visually cohesive and balanced artwork. Within Blender, 
+
+
+The act of abstracting involves breaking down recognizable forms. This can symbolize the deconstruction of old, rigid definitions of humanity, reflecting the broadening and widening understanding you mentioned. It's a visual representation of moving beyond simple biological or traditional boundaries.
+
+Furthermore, I realized the abstract shapes could actively reinforce the core theme. The deconstructing of the flowers to abstract shapes is a visual representation of the deconstruction of the rigid, physical definitions of humanity. It shows the human definition is moving beyond the simple biological boundaries
+
+The process of abstraction itself, involving the deconstruction of recognizable forms, serves as a visual metaphor for breaking down rigid, outdated definitions of humanity. It symbolizes the necessary shift towards a broader understanding that moves beyond simple biological or traditional boundaries.
+
