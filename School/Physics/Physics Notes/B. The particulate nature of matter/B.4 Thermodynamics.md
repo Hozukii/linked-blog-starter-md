@@ -87,7 +87,7 @@ $$\eta_{carnot} = 1 - \dfrac{T_c}{T_h}$$
 - To express entropy of a system of particles numerically, we need to count the number of ways that the system can be arranged. 
 - **microstates** - the numerous possible combinations of microscopic properties of a thermodynamic system
 	- The greater the number of possible microstates of a system, the greater its disorder and the greate its entropy. 
-- The symbol $\Omega$ is used to represent the number of possibele microstates of a system / its multiplicity. 
+- The symbol $\Omega$ is used to represent the number of possible microstates of a system / its multiplicity. 
 - $\Omega$ is a large number, $ln\Omega$ is more manageable 
 >[!abstract] Etropy of a system of microscopic particles
 >$$ S = k_B \cdot ln\Omega$$
