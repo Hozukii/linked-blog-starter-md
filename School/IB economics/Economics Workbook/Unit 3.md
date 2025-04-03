@@ -1,0 +1,1 @@
+5. [ ] The imposition of tax on suppliers will increase the market price at every quantity which will shift the supply curve to the left as there is less qunatity offered at every price. bac
