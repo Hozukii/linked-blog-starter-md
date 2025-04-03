@@ -2,3 +2,16 @@ Reflecting on this implementation, the abstract shapes did successfully **estab
 
 
 Reflecting no how the abstract shapes integrated into the artwork, I think that it successfully established a clear focal point on the subject especially as the strong red hanafuda stickers/cards stands out. However, the shapes are desaturated and muted which lacks the vibrancy that I originally had in my artwork. Additionally, the green background does not harmonize with the overall colour palette due to the fact that the green introduces an additional primary colour which breaks the balance from the blue/red colour scheme. 
+
+
+ write me a text again like last time using technical terms but still in my styles. I made bullet points of what I want to write about in this text:
+- Added the abstract flowers into the subject using layer modes 
+-  Added the illustrations of the hanafuda flowers using layers modes as well to make it blend a bit more with the subject because it stood out too much. 
+- Increased the vibrancy through filters like I learnt from james jean.  
+- Changed the background to dark blue
+
+Moving forward with the refinements, I experimented with integrating the abstract forms **directly onto the subject** itself, utilizing **layer blending modes** like 'Overlay' or 'Soft Light'. The goal here was to add more **surface detail** and **textural complexity** to the figure, addressing the previous flatness. Similarly, I applied the illustrations of the hanafuda flowers onto the subject using comparable **layer modes**. This was done to reduce their initial starkness, allowing them to **visually integrate** more subtly with the underlying figure rather than standing out so prominently. To combat the feeling of dullness noted earlier, I increased the overall **saturation** and **vibrancy** across the image, likely through **adjustment layers or filters**, drawing inspiration from color techniques I've observed in artists like James Jean. Finally, I replaced the previous clashing green background with a deep, **desaturated blue**, aiming for better **color harmony** and stronger **figure-ground separation** to make the subject pop.
+
+I experiment with integrating the abstract forms as textures on the subject by leaning further into the digital medium, by using layer blending modes like soft light. Similarly, I used the same techniques for the illustration as previous attempts by manually colouring in the illustrations made it stand out of place as the palettes did not blend in with the subject. To address the desaturation, I used adjustment filters to increase the saturation and vibrancy specifically in the flowers which I learnt to use investigating James Jean's work. Finally, I changed the background from green to a deep blue background by rendering a dark blue abstract shape. 
+
+
