@@ -26,7 +26,7 @@ aedf5cbf21e792b90ef1510fda5b40be352a8cf0: [[Repo/Personal/Character modeling/cha
 
 17c388155d23165f2d5f501e99dc03b2b5d916d6: [[Repo/Personal/Character modeling/character modeling images/image 1.png]]
 
-5dcaf25c89cc9ad113b9c6e1ab12d6205430cf8b: [[image.png]]
+5dcaf25c89cc9ad113b9c6e1ab12d6205430cf8b: [[image 2.png]]
 
 %%
 ## Drawing
