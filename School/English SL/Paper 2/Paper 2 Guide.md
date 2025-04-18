@@ -40,3 +40,8 @@ Things to include:
 - Having comparative language can be important. 
 	- While... Both...
 	- Because of the .... However, .... 
+#### Topic question 
+- Break down the question looking at the key words
+	- How, why , what ?
+	- How - the authorial choices, and the craft and what deliberate choices are being made to tell the meaning
+- 
