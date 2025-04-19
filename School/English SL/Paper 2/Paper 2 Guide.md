@@ -44,4 +44,12 @@ Things to include:
 - Break down the question looking at the key words
 	- How, why , what ?
 	- How - the authorial choices, and the craft and what deliberate choices are being made to tell the meaning
+## Writing Body paragraphs
+#### 6 elements of body paragraphs
+- Language of the question
+- Rich ideas
+- Textual reference
+- Literary features
+- Author/audiance relationship 
+- Comparative phrasing
 - 
