@@ -52,4 +52,12 @@ Things to include:
 - Literary features
 - Author/audiance relationship 
 - Comparative phrasing
-- 
+## Conclusion
+- Restate thesis
+- Synthesis of ideas
+	-  Don't rehash the points like 1,2,3
+	- Think about how these different ideas all link together and the relationship
+- Extension/ flourish
+	- Zoom out a bit
+	- Why is this important to something outside the text
+	- 
