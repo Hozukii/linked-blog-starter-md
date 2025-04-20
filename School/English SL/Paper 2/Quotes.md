@@ -1,0 +1,19 @@
+- "I understood that people were different colors, but in my head white and black and brown were like types of chocolates" - "I didn't know what race was
+	- Chapter: chameleon
+	- Authorial choice: analogy (innocence of child's perspective) race is learned rather than innate
+	- Effect on reader: Understand that race is a complex topic
+- "Language more than color, defines who you are to people - "I became a chameleon. my color didn't change, but I could change your perception of my color"
+	- Chapter: chameleon
+	- AUthorial choice - metaphor/symbol
+- "My mom raised me as if there wer on limitations on where I could go or what i could do" - "She raised my like a white kid - not white culturally"
+	- Chapter: second girl
+	- Authorial choice: Juxtaposition
+	- Theme: Identity, freedom, oppression
+- "My mother spoke to me like an adult which was unusual" "That was every day of my life. My mom did what school didn't. She taught me how to think" 
+	- Authorial choice: contrast
+	- Theme: difference in home vs outside, education, identity, freedom
+- "my mother's greatest fear was that I would end up paying the black tax" - "She had always promised me that I would be the one to berak that cycle" 
+	- Chapter: The second girl
+	- Authorial choice: metaphor 
+	- Theme: poverty, inequality, culture
+- ""
