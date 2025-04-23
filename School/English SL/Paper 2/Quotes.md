@@ -16,4 +16,3 @@
 	- Chapter: The second girl
 	- Authorial choice: metaphor 
 	- Theme: poverty, inequality, culture
-- ""
