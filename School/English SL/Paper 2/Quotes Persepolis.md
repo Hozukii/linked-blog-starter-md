@@ -1,0 +1,10 @@
+- "we found ourselves veiled and separated from our friends"
+	- visual description: Two entries with a bearded authoritative figure separating the kids between the genders. 
+		- Authority shown throughout the vertical composition as the man is can be seen fully from toe to head while some of the kids only their upper half can be seen expressing the contrast in authority
+	- Chapter: The Veil
+	- Authorial choice: Symbolism, framing and scale
+		- Symbol: the veil - a tool of the oppressive regime, the loss of freedom
+	- Analysis / theme: 
+		- Power and oppression: The method of divide and conquer. Groups are separated and alienated to prevent/ discourage cooperation.
+		- Gender: The veil is a symbol for the loss of freedom and expression for women and the control over their bodies through political and regilous ideals. 
+	- Effect on reader: Understand that race is a complex topic

@@ -13,3 +13,9 @@
 #### Contrast between the home vs the outside
 - In Persepolis, the outside world is conservative while in her houshold, she has the freedom to learn and do things freely
 - In Born a crime, while they are under a regime and is poor, she makes sure that Trevor is able to explore the world so that she feels like he has all the freedom in the world
+#### Loss of faith
+#### Glorification of war and violence
+
+
+bread swan
+plastic key painted in gold
