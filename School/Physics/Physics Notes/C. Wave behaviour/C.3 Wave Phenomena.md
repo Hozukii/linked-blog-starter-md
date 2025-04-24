@@ -1,4 +1,4 @@
-	# Basics behaviours of all waves
+# Basics behaviours of all waves
 - Reflection 
 - Refraction
 - Diffraction
