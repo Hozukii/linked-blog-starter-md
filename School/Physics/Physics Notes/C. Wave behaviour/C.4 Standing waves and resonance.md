@@ -1,4 +1,4 @@
-# The Nature of Standing Waves
+;# The Nature of Standing Waves
 - **Standing waves** - The kind of wave that can be formed by two similar travelling waves moving in opposite directions. 
 	- The  most important examples are fromed when waves are reflect back upon themselves
 	- The wave pattern does not move and the waves do not transfer energy
