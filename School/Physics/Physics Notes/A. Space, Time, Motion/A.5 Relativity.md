@@ -267,3 +267,6 @@ t = time obsereved on the rocket (L/c)
 v = velocity of observer outside relative to the rocket (-v)
 x = difference in position of the events from observer of rocket (L)
 $$t' = \gamma \big( \dfrac Lc - \dfrac {-v\cdot L}{c^2}\big)$$
+
+
+$$ \dfrac {L}c = \gamma \big( t - \dfrac {vx}{c^2} \big)$$
