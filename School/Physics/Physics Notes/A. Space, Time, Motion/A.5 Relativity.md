@@ -1,4 +1,3 @@
-     Reference frames
 - **reference frame** A coordinate system from which events in space and time are measured
 	- **coordinate system** - numerical way to identify location and time
 - Precise events are used to simplify our understanding
