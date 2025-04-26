@@ -259,3 +259,6 @@ $$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta 
 - It can clearly be seen that the propre length is much larger than the contracted length, $L'$ confirming the length contraction occurs 
 - Careful measurement would also show that:
 $$ L' = \dfrac {L'}\gamma$$
+
+$\Delta t = \gamma \Delta t_0$ 
+O
