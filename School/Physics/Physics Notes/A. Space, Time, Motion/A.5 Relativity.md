@@ -260,13 +260,3 @@ $$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta 
 - Careful measurement would also show that:
 $$ L' = \dfrac {L'}\gamma$$
 
-
-$$t' = \gamma \big( t - \dfrac {vx}{c^2} \big)$$
-t' = time for observer outside the rocket
-t = time obsereved on the rocket (L/c)
-v = velocity of observer outside relative to the rocket (-v)
-x = difference in position of the events from observer of rocket (L)
-$$t' = \gamma \big( \dfrac Lc - \dfrac {-v\cdot L}{c^2}\big)$$
-
-
-$$ \dfrac {L}c = \gamma \big( t - \dfrac {vx}{c^2} \big)$$
