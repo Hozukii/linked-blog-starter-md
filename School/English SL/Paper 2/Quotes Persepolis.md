@@ -17,3 +17,6 @@
 		- Subversion of traditional gender views. 
 			- Challenging the conventional expectation that women are usually more emotional. Also works in the other way as the father is openly showing emotion subverting the stoic mentality
 		- Emotional toll in children, even when she is not able to understand the full grasp of the situation she is still overwhelmed. 
+- "If not, youll all be puished as well? Who was it??" - "we were completely united"
+	- Authorial choice: Symbolism for authoritarian power and collective punishment, Contrast
+	- Analysis: there is a contrast between this unification and the divide that was seen in the previous chapter (The jewels) where 
