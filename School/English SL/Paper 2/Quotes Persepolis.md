@@ -8,3 +8,12 @@
 		- Power and oppression: The method of divide and conquer. Groups are separated and alienated to prevent/ discourage cooperation.
 		- Gender: The veil is a symbol for the loss of freedom and expression for women and the control over their bodies through political and regilous ideals. 
 	- Effect on reader: Understand that race is a complex topic
+- "we were overwhelmed"
+	![[Pasted image 20250501142808.png|400]]
+	- Chapter: The F_14s
+	- Authorial choice: characterization, contrast, Composition (Simple contrast, central framing)
+	- Analysis/ theme:
+		- Characterization of the mother as emotionally strong. 
+		- Subversion of traditional gender views. 
+			- Challenging the conventional expectation that women are usually more emotional. Also works in the other way as the father is openly showing emotion subverting the stoic mentality
+		- Emotional toll in children, even when she is not able to understand the full grasp of the situation she is still overwhelmed. 
