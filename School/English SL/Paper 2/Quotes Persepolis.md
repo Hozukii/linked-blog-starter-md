@@ -20,4 +20,17 @@
 - "If not, you'll all be punished as well? Who was it??" - "we were completely united"
 	- Authorial choice: Symbolism for authoritarian power and collective punishment, Contrast
 	- Analysis: there is a contrast between this unification and the divide that was seen in the previous chapter (The jewels) where a refugee from another southern part of iran are seen as "whores"
+- "The key to paradise was for poor people, thousands of young kids, promised a better life, exploded on the minefields with their keys around their necks" "Meanwhile, I got to go to my first party"
+	- Chapter: The key
+	- Themes: Inequality, faith, belief
+	- Authorial choice: Juxtaposition - between panels of kids exploding in mineflieds with an image of kids having fun at a party
+		- Symbolism - Symbol for manipulation and exploitation of the poor and young
+		- Shows the differences in social classes as only the poor are given a key
+- "Marji, run to the basement we're being bombed"
+	- panel shows marjane floating in darkness in the universe alone
+	- Chapter: The sheep
+	- Authorial choice - Negative spacing
+		- Visually isolating her reflecting her feeling of emotional isolation and abandoment after her loss
+		- Shift in pacing / disruption
+			- Bombing shows to the audience the chaotic world that she lives in not being able to mourn and leading to childhood trauma
 - 
