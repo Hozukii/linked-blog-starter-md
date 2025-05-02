@@ -1,4 +1,4 @@
 ![[Pasted image 20250502185843.png]]
 
 5 maj 
-Idag, jag lyckas att få ett nytt jobb. Jag tyckte att det ska ta skitlång att hitta ett ny jobb men min syster hälpte mig att få ett ny jobb snart. Hon hälpte mig att skirva en cv, änsoknings brev, och ge mig många råd att upprepa för mitt intervju. Jag är så uppskatt om alla min syster görde för mig. Jag hade tänkt om vad jag kan göra att tacka henne men jag har ingen aning... Kanske, kan jag köpe en kamera objektiv! Hon alltid har mycket schysst foton på Instagram. Jag tror att hon kan bli en pro. 
+Idag, jag lyckas att få ett nytt jobb. Jag tyckte att det ska ta skitlång att hitta ett ny jobb men min syster hälpte mig att få ett ny jobb snart. Hon hälpte mig att skirva en cv, änsoknings brev, och ge mig många råd att upprepa för mitt intervju. Jag är så uppskatt om alla min syster görde för mig. Jag hade tänkt om vad jag kan göra att tacka henne men jag har ingen aning... Kanske, kan jag köpe en kamera objektiv! Hon alltid har mycket schysst foton på Instagram. Jag tror att hon kan bli en pro. Hon nästan aldrig köper saker för hennes själv. Jag förstår, känner jag samma. Det tycker att det är bättre sätt att 
