@@ -35,3 +35,26 @@
 	- Background, foreground
 - Angle
 - Framing
+#### Sound devices
+- Alliteration
+- Cacophony
+#### Structural techniques
+- Repetition
+- Anaphora
+- enumeration
+#### Grammatical technique
+- Disjointed syntax
+- Punctuatiotn
+- Ellipses
+#### Gaze
+- Demand gaze
+- Offer gaze
+- Salience
+### Irony
+- Verbal Irony
+- Situational irony
+- hyperbole
+- Paradox
+- Juxtaposition
+- Oxymoron
+- 
