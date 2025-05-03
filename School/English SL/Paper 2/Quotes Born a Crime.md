@@ -15,4 +15,9 @@
 - "my mother's greatest fear was that I would end up paying the black tax" - "She had always promised me that I would be the one to berak that cycle" 
 	- Chapter: The second girl
 	- Authorial choice: metaphor 
-	- Theme: poverty, inequality, culture
+	- Theme: poverty, inequality, culture- 
+	- 
+- “Zulu, Xhosa, Tswana, Sotho, Venda, Ndebele, Tsonga, Pedi, and more.”
+	-Chapter: Preface
+	- Authorial choice: enumaration
+	- 
