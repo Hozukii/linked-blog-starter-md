@@ -1,0 +1,10 @@
+- Tone
+- Diction
+- modality
+- Imperative language
+- Voice
+	- Perspective (1st person,2nd person...)
+- Allusion
+- Imagery
+- Personification
+- 
