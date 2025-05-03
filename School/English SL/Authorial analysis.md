@@ -5,6 +5,33 @@
 - Voice
 	- Perspective (1st person,2nd person...)
 - Allusion
+- - Charaterization
+##### figurative language
 - Imagery
-- Personification
-- 
+	- Auditory
+	- Olfactory
+	- Visual
+	- Gustatory
+	- tactile
+	- thermal
+	- 
+- Metaphor
+	- Extended metaphor
+- simile
+- Pathetic fallacy
+- Symbolism
+- Motif
+	- A motif is a recurring object that an author uses to develop a central theme or idea
+-  Personification
+#### Visual techinques
+- Colour
+	- Hue 
+		- Warm vs cool
+	- Saturaiton
+	- Contrast
+- Headings
+- Composition
+	- Visual juxtaposition
+	- Background, foreground
+- Angle
+- Framing
