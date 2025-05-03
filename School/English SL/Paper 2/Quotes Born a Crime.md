@@ -20,4 +20,18 @@
 - “Zulu, Xhosa, Tswana, Sotho, Venda, Ndebele, Tsonga, Pedi, and more.”
 	-Chapter: Preface
 	- Authorial choice: enumaration
-	- 
+- Blacks are monkeys. Don't swing from the trees like them. Learn to walk upright like the white man.
+	- Kinesthetic  imagery
+	- Chapter 9
+-  Failure is an answer. Rejection is an answer. Regret is an eternal question you will never have the answer to
+	- Anaphora
+- For generations, while his people were preparing to go to university, my people were crowded into thatched huts singing
+- Chapter:15
+- Authorial choice:
+	- Diction: thatched
+	- juxtaposition
+	- voice- perspective
+- It's easy to be judgmental about crime when you live in a world wealthy enough to be removed from it
+	- Voice: second person perspective
+	- context: the book is for western audience
+	- chapter 16
