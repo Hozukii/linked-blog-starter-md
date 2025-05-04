@@ -42,3 +42,8 @@
 	- paradox, characterization, diction (violent)
 	- facial expression, gentle vs angry
 	- Marji facial expression does not change
+![[Pasted image 20250504203521.png]]
+- Metaphor
+- composition - close up, intimate, black background
+- speech bubble
+- 
