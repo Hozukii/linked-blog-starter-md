@@ -43,8 +43,13 @@
 	- enumeration, imperative, short syntax
 	- Chatper 6
 - It wasn't, "Hey, that's a crack dealer." It was, "Oh, little Jimmy's selling crack now."”
-- Direct quotes
-- the cheese boys
-- juxtaposition
-- diction (now), (little)
-- 
+	- Direct quotes
+	- the cheese boys
+	- juxtaposition
+	- diction (now), (little)
+- Crime doesn't discriminate, crime cares,Crime offers internship programs and summer jobs
+	- Situtational irony
+	- personification
+- The whole tradition of women bowing to the men, my mom found that absurd But she didn’t refuse to do it. She overdid it. She made a mockery of it.
+	- alliteration, characterization, rule of three
+	- 
