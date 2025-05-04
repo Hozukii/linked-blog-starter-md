@@ -42,3 +42,9 @@
 - It's better to take it, spend some time crying, then wake up the next day and move on.
 	- enumeration, imperative, short syntax
 	- Chatper 6
+- It wasn't, "Hey, that's a crack dealer." It was, "Oh, little Jimmy's selling crack now."”
+- Direct quotes
+- the cheese boys
+- juxtaposition
+- diction (now), (little)
+- 
