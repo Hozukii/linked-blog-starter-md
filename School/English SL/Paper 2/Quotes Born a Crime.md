@@ -39,3 +39,6 @@
 	- Chapter 17
 	- Contrast, juxtaposition, repetition
 - violent. I saw the futility of violence, the cycle that just repeats itself, the damage that's inflicted on people that they in turn inflict on others.
+- It's better to take it, spend some time crying, then wake up the next day and move on.
+	- enumeration, imperative, short syntax
+	- Chatper 6
