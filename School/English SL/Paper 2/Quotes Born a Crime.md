@@ -51,5 +51,5 @@
 	- Situtational irony
 	- personification
 - The whole tradition of women bowing to the men, my mom found that absurd But she didn’t refuse to do it. She overdid it. She made a mockery of it.
-	- alliteration, characterization, rule of three
+	- anaphora, characterization, rule of three
 	- 
