@@ -35,3 +35,7 @@
 	- Voice: second person perspective
 	- context: the book is for western audience
 	- chapter 16
+- When I beat you, I'm trying to save you. When they beat you, they're trying to kill you.”
+	- Chapter 17
+	- Contrast, juxtaposition, repetition
+- violent. I saw the futility of violence, the cycle that just repeats itself, the damage that's inflicted on people that they in turn inflict on others.
