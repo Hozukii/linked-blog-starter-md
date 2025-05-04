@@ -14,7 +14,7 @@
 	- Gustatory
 	- tactile
 	- thermal
-	- 
+	- Kinesthetic
 - Metaphor
 	- Extended metaphor
 - simile
