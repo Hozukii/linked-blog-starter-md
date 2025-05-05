@@ -38,7 +38,7 @@
 -  Split composition,
 - diction: emphasis, 
 
-- "We have to learn to forgive" (the party) vs "All torturers should be massacred!"
+- "We have to learn to forgive" (the party) vs "All torturers should be massacred!"(The heroes)
 	- paradox, characterization, diction (violent)
 	- facial expression, gentle vs angry
 	- Marji facial expression does not change
