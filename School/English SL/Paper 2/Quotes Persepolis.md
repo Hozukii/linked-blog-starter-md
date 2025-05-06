@@ -46,3 +46,12 @@
 - Metaphor
 - composition - close up, intimate, black background
 - speech bubble
+- I wanted to be justice, love, and the wrath of god all in one
+	- The veil
+	- Shows her sense of justice from a young age but also that she saw everything in black and white
+- I had already broken the rules once by going to the demonstration in ,79 this was the second time 
+- Diabetes just like my mother
+	- Sympothetic eyes, 
+	- change in facail expression 
+- Even if it's true what difference does it make to us?
+- 
