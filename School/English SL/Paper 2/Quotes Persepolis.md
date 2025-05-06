@@ -46,4 +46,3 @@
 - Metaphor
 - composition - close up, intimate, black background
 - speech bubble
-- 
