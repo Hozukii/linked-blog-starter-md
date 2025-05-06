@@ -54,4 +54,6 @@
 	- Sympothetic eyes, 
 	- change in facail expression 
 - Even if it's true what difference does it make to us?
-- 
+- To die a martyr is to inject blood into the veins of society
+- her blood certaintly did not feed our society's veins
+	-  
