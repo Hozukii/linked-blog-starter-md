@@ -5,7 +5,7 @@
 - Voice
 	- Perspective (1st person,2nd person...)
 - Allusion
-- - Charaterization
+- Charaterization
 ##### figurative language
 - Imagery
 	- Auditory
