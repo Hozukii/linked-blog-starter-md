@@ -43,3 +43,19 @@
     3. Example
 5. Final judgement
     1. Overall answer to the question
+### 15 mark question
+- 2 style of question
+	- Pros/ cons
+	- Multi-policy
+- Evaluation and final judgement 
+- Real world examples in all paragraphs
+##### Structure
+1. Definitions
+2. Analysis 1
+	1. Depth 
+	2. Diagram 
+	3. Example
+	4. Evaluate
+3. Analysis 2
+4. Analysis 3
+5. Final judgement
