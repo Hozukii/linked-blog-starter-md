@@ -59,3 +59,10 @@
 3. Analysis 2
 4. Analysis 3
 5. Final judgement
+### Write analysis
+- make point
+- Explain why - cause 
+- Answer the question - consequence
+- Use of examples/ evidence
+- Evaluate at the end of each paragraph
+- 
