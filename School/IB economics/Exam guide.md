@@ -65,4 +65,10 @@
 - Answer the question - consequence
 - Use of examples/ evidence
 - Evaluate at the end of each paragraph
+### Write evaluation
+- Weigh up the points on either side of the agrument
+	- This point is strong because...  but in reality.... 
+- Short run vs long run
+- Question the assumptions that is made in the theory
+- Consider the stakeholders 
 - 
