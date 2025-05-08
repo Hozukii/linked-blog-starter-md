@@ -58,4 +58,18 @@
 - I was wanted
 - Relationships are built from the silences
 	- This is what the apartheid stole from us
-	- 
+- All you had to do was denounce your people, deneounce your history ,
+- She knew what would happen, she knew better than me
+- you're the only two, it's your responsibility
+- analogy of the school playground
+	- Racial divide also creates monetary and cultural divide further emphasising the division between races
+- I was a chameleon, still a cultural chameleon
+- Never get high on your own supply
+- Like an exotic bird collector
+- Collapsed like a ton of bricks
+- Shut up mom, you're going to make it worse
+- They were first men, police second
+- All men do it
+- I'm sort of sleeping why?
+	- Mom's been shot
+- I'm not going to lie to you: I paused, I paused hard
