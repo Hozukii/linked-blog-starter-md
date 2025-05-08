@@ -51,4 +51,11 @@
 - Since there was no leaving the ghetto, the dreams was to transform the ghetto
 - A brilliant scientist can come over the border from mexico to america, but if he speaks broken english pepole say "eh, i don't trust him"
 - When I hit him he turns blue and green and yellow
-- 
+- People thought my mom was crazy, drive-ins and ice rinks
+- cop and crimminal in the movies
+- That was my first heartbreak
+- Fufi wasn't cheating on me with another boy
+- I was wanted
+- Relationships are built from the silences
+	- This is what the apartheid stole from us
+	- 
