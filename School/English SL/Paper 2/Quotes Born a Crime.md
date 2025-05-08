@@ -44,3 +44,11 @@
 - The whole tradition of women bowing to the men, my mom found that absurd But she didn’t refuse to do it. She overdid it. She made a mockery of it.
 	- anaphora, characterization, rule of three
 	- 
+- A black woman learning to type was like an blind person learning how to drive
+-  Everyone thinks everyone is the police 
+- I was born a crime
+- This is my country, why should I leave?
+- Since there was no leaving the ghetto, the dreams was to transform the ghetto
+- A brilliant scientist can come over the border from mexico to america, but if he speaks broken english pepole say "eh, i don't trust him"
+- When I hit him he turns blue and green and yellow
+- 
