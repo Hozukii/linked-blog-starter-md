@@ -1,4 +1,3 @@
-     Reference frames
 - **reference frame** A coordinate system from which events in space and time are measured
 	- **coordinate system** - numerical way to identify location and time
 - Precise events are used to simplify our understanding
@@ -260,3 +259,4 @@ $$ \Delta s^2 = c^2 (\Delta t')^2 - (\Delta x')^2 = c^2 (\Delta t )^2 - (\Delta 
 - It can clearly be seen that the propre length is much larger than the contracted length, $L'$ confirming the length contraction occurs 
 - Careful measurement would also show that:
 $$ L' = \dfrac {L'}\gamma$$
+

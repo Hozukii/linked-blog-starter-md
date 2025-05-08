@@ -40,3 +40,24 @@ Things to include:
 - Having comparative language can be important. 
 	- While... Both...
 	- Because of the .... However, .... 
+#### Topic question 
+- Break down the question looking at the key words
+	- How, why , what ?
+	- How - the authorial choices, and the craft and what deliberate choices are being made to tell the meaning
+## Writing Body paragraphs
+#### 6 elements of body paragraphs
+- Language of the question
+- Rich ideas
+- Textual reference
+- Literary features
+- Author/audiance relationship 
+- Comparative phrasing
+## Conclusion
+- Restate thesis
+- Synthesis of ideas
+	-  Don't rehash the points like 1,2,3
+	- Think about how these different ideas all link together and the relationship
+- Extension/ flourish
+	- Zoom out a bit
+	- Why is this important to something outside the text
+	- 

@@ -1,0 +1,54 @@
+- "I understood that people were different colors, but in my head white and black and brown were like types of chocolates" - "I didn't know what race was
+	- Chapter: chameleon
+	- Authorial choice: analogy (innocence of child's perspective) race is learned rather than innate
+	- Effect on reader: Understand that race is a complex topic
+- "Language more than color, defines who you are to people - "I became a chameleon. my color didn't change, but I could change your perception of my color"
+	- Chapter: chameleon
+	- AUthorial choice - metaphor/symbol
+- "My mom raised me as if there wer on limitations on where I could go or what i could do" - "She raised my like a white kid - not white culturally"
+	- Chapter: second girl
+	- Authorial choice: Juxtaposition
+	- Theme: Identity, freedom, oppression
+- "My mother spoke to me like an adult which was unusual" "That was every day of my life. My mom did what school didn't. She taught me how to think" 
+	- Authorial choice: contrast
+	- Theme: difference in home vs outside, education, identity, freedom
+- "my mother's greatest fear was that I would end up paying the black tax" - "She had always promised me that I would be the one to berak that cycle" 
+	- Chapter: The second girl
+	- Authorial choice: metaphor 
+	- Theme: poverty, inequality, culture- 
+	- 
+- “Zulu, Xhosa, Tswana, Sotho, Venda, Ndebele, Tsonga, Pedi, and more.”
+	-Chapter: Preface
+	- Authorial choice: enumaration
+- Blacks are monkeys. Don't swing from the trees like them. Learn to walk upright like the white man.
+	- Kinesthetic  imagery
+	- Chapter 9
+- It's easy to be judgmental about crime when you live in a world wealthy enough to be removed from it
+	- Voice: second person perspective
+	- context: the book is for western audience
+	- chapter 16
+- When I beat you, I'm trying to save you. When they beat you, they're trying to kill you.”
+	- Chapter 17
+	- Contrast, juxtaposition, repetition
+- It's better to take it, spend some time crying, then wake up the next day and move on.
+	- enumeration, imperative, short syntax
+	- Chatper 6
+- It wasn't, "Hey, that's a crack dealer." It was, "Oh, little Jimmy's selling crack now."”
+	- Direct quotes
+	- the cheese boys
+	- juxtaposition
+	- diction (now), (little)
+- Crime doesn't discriminate, crime cares,Crime offers internship programs and summer jobs
+	- Situtational irony
+	- personification
+- The whole tradition of women bowing to the men, my mom found that absurd But she didn’t refuse to do it. She overdid it. She made a mockery of it.
+	- anaphora, characterization, rule of three
+	- 
+- A black woman learning to type was like an blind person learning how to drive
+-  Everyone thinks everyone is the police 
+- I was born a crime
+- This is my country, why should I leave?
+- Since there was no leaving the ghetto, the dreams was to transform the ghetto
+- A brilliant scientist can come over the border from mexico to america, but if he speaks broken english pepole say "eh, i don't trust him"
+- When I hit him he turns blue and green and yellow
+- 

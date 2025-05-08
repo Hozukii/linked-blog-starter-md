@@ -64,7 +64,7 @@
 $$\text {refractive index of a medium} = \dfrac {\text{speed of light in vacuum}}{\text{speed of light in the medium}}$$
 
 ### Snell's law
-#### $$\dfrac {n_1}{n_1} = \dfrac {sin\theta_2}{sin\theta_1} = \dfrac {v_2}{v_1}$$
+#### $$\dfrac {n_1}{n_2} = \dfrac {sin\theta_2}{sin\theta_1} = \dfrac {v_2}{v_1}$$
 - $\theta_1$ - angle of incident ray from normal
 - $\theta_2$ - angle of refracted ray from normal
 ![[Pasted image 20240501095838.png|300]]

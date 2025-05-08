@@ -1,0 +1,59 @@
+- "we found ourselves veiled and separated from our friends"
+	- visual description: Two entries with a bearded authoritative figure separating the kids between the genders. 
+		- Authority shown throughout the vertical composition as the man is can be seen fully from toe to head while some of the kids only their upper half can be seen expressing the contrast in authority
+	- Chapter: The Veil
+	- Authorial choice: Symbolism, framing and scale
+		- Symbol: the veil - a tool of the oppressive regime, the loss of freedom
+	- Analysis / theme: 
+		- Power and oppression: The method of divide and conquer. Groups are separated and alienated to prevent/ discourage cooperation.
+		- Gender: The veil is a symbol for the loss of freedom and expression for women and the control over their bodies through political and regilous ideals. 
+	- Effect on reader: Understand that race is a complex topic
+- "we were overwhelmed"
+	![[Pasted image 20250501142808.png|400]]
+	- Chapter: The F_14s
+	- Authorial choice: characterization, contrast, Composition (Simple contrast, central framing)
+	- Analysis/ theme:
+		- Characterization of the mother as emotionally strong. 
+		- Subversion of traditional gender views. 
+			- Challenging the conventional expectation that women are usually more emotional. Also works in the other way as the father is openly showing emotion subverting the stoic mentality
+		- Emotional toll in children, even when she is not able to understand the full grasp of the situation she is still overwhelmed. 
+- "If not, you'll all be punished as well? Who was it??" - "we were completely united"
+	- Authorial choice: Symbolism for authoritarian power and collective punishment, Contrast
+	- Analysis: there is a contrast between this unification and the divide that was seen in the previous chapter (The jewels) where a refugee from another southern part of iran are seen as "whores"
+- "The key to paradise was for poor people, thousands of young kids, promised a better life, exploded on the minefields with their keys around their necks" "Meanwhile, I got to go to my first party"
+	- Chapter: The key
+	- Themes: Inequality, faith, belief
+	- Authorial choice: Juxtaposition - between panels of kids exploding in mineflieds with an image of kids having fun at a party
+		- Symbolism - Symbol for manipulation and exploitation of the poor and young
+		- Shows the differences in social classes as only the poor are given a key
+- "Marji, run to the basement we're being bombed"
+	- panel shows marjane floating in darkness in the universe alone
+	- Chapter: The sheep
+	- Authorial choice - Negative spacing
+		- Visually isolating her reflecting her feeling of emotional isolation and abandoment after her loss
+		- Shift in pacing / disruption
+			- Bombing shows to the audience the chaotic world that she lives in not being able to mourn and leading to childhood trauma
+
+ **![](https://lh7-qw.googleusercontent.com/docsz/AD_4nXdGjzYAa4nlod0HQ7trhymjVQ9Vt8EUViRRiMWT33x6-wJnGsTD2M95Ed9ruaVeEhXeLlB3jHx2aWRKXxlbPNCBjh7-Y80FWW6gQF0ht4TRbypeq3Ds0dhf1z5SVpV_x7wWP2qa?key=NrUapwpLn5W2NhmqoE5tNjc2)
+-  Split composition,
+- diction: emphasis, 
+
+- "We have to learn to forgive" (the party) vs "All torturers should be massacred!"(The heroes)
+	- paradox, characterization, diction (violent)
+	- facial expression, gentle vs angry
+	- Marji facial expression does not change
+![[Pasted image 20250504203521.png]]
+- Metaphor
+- composition - close up, intimate, black background
+- speech bubble
+- I wanted to be justice, love, and the wrath of god all in one
+	- The veil
+	- Shows her sense of justice from a young age but also that she saw everything in black and white
+- I had already broken the rules once by going to the demonstration in ,79 this was the second time 
+- Diabetes just like my mother
+	- Sympothetic eyes, 
+	- change in facail expression 
+- Even if it's true what difference does it make to us?
+- To die a martyr is to inject blood into the veins of society
+- her blood certaintly did not feed our society's veins
+	-  
