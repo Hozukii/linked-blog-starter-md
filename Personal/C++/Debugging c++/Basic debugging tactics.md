@@ -47,3 +47,8 @@ std::cerr << "main::z = " << z << '\n';
 }
 ```
 
+### Using a logger 
+- **Log** - sequential records of events that have happened, usually time stamped
+- It's advantageous as output does not have to be changed as the log is on a separate file
+- C++ contains output stream named `std::clog` but it's recommended to use a third party tools (e.g. plog)
+- 
