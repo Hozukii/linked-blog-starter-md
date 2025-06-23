@@ -33,6 +33,14 @@ int main()
 	- It can only be invoked when not already in a debug session
 #### Breakpoints
 - **Breakpoints** - special marker that tells the debugger to stop execution of the program at the breakpoint when running in debug mode
-# Watching variables
+### Watching variables
 - **watching variable** - process of inspecting the value of a variable while the program is executing in debug mode
+### The call stack
+- When a program calls a function, it bookmakrs the current location, makes the function call, and then returns
+- **Call stack** - list of all the active functions that have been called to get to the current point of execution
+- Includes:
+	- Entry for each function called
+	- which line of code will be returned to when the function is called
+- When a new function is called, that function is added to the top of the call stack, when it returns to the caller, it is removed from the top of the call stack and control returns to the function below it.
+- **Call stack window** - shows the current call stack
 - 
