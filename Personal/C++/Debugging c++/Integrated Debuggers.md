@@ -24,3 +24,15 @@ int main()
 - With step over, when `printValue` is called, the debugger will simply execute the function
 - Note that step into will step into anything, in this case, the debugger will step into the function `std::cout`
 #### Run to cursor
+-  command executes the program until execution reaches the statement selected by your cursor.
+- In VS code, choose a break point, debug, right click and run to cursor
+#### Continue 
+- **Continue** - debug command that simply continues running either until the program terminates or something triggers control to return back to you.
+#### Start
+- Just like continue but it does that from the start of the program
+	- It can only be invoked when not already in a debug session
+#### Breakpoints
+- **Breakpoints** - special marker that tells the debugger to stop execution of the program at the breakpoint when running in debug mode
+# Watching variables
+- **watching variable** - process of inspecting the value of a variable while the program is executing in debug mode
+- 
